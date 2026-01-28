@@ -299,6 +299,20 @@ hr {
   color: var(--text-dark);
 }
 
+.repo-link {
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.repo-link svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+}
+
 /* Collapsible Details */
 details {
   margin: 0.75rem 0;
