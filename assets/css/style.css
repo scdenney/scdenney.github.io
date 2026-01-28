@@ -300,17 +300,15 @@ hr {
 }
 
 .repo-link {
-  display: inline-flex;
-  align-items: center;
-  vertical-align: middle;
+  display: inline;
+  text-decoration: none;
 }
 
 .repo-link svg {
   width: 1em;
   height: 1em;
-  vertical-align: middle;
-  position: relative;
-  top: -1px;
+  vertical-align: text-bottom;
+  fill: currentColor;
 }
 
 /* Collapsible Details */
