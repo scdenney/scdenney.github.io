@@ -14,7 +14,7 @@ I bridge digital humanities with quantitative social science to study national i
 
 ## Current Projects
 
-- **Fairness or Threat?** — Understanding sources of immigration backlash across democracies
+- [**Fairness or Threat?**](https://github.com/scdenney/nwo26-immigration-backlash) — Understanding sources of immigration backlash across democracies
 - **Contesting the Nation** — Digital pipelines for analyzing national history textbooks
 - **Nationalism and Political Change** — How institutions shape national identity
 
@@ -26,5 +26,3 @@ I bridge digital humanities with quantitative social science to study national i
 - **SinoNK.com:** [Director of Research](http://sinonk.com)
 
 ---
-
-*Ph.D. Political Science, University of Toronto*
