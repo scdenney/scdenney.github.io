@@ -12,6 +12,11 @@ I bridge digital humanities with quantitative social science to study national i
 - Large language models for political discourse
 - Nations, nationalism, and immigration attitudes
 
+## Selected Teaching
+
+- [BA2: Digital Korea](https://scdenney.github.io/ba2_digital-korea/) AY202526
+- [BA3: Text-as-Data](https://scdenney.github.io/ba3_text_as_data/) AY202526
+
 ## Current Projects
 
 - [**Fairness or Threat?**](https://github.com/scdenney/nwo26-immigration-backlash) — Understanding sources of immigration backlash across democracies
