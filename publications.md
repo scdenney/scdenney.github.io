@@ -13,7 +13,7 @@ See <a href="http://SinoNK.com" target="_blank">SinoNK.com</a> for an overview o
 ---
 
 <div class="project-card">
-<details open>
+<details>
 <summary>Working Papers Under Review (5)</summary>
 <div>
 
@@ -42,7 +42,7 @@ Denney, S. (n.d.). Guardianship democracy: Mapping elite rule preferences in Eas
 </div>
 
 <div class="project-card">
-<details open>
+<details>
 <summary>Papers in Progress (4)</summary>
 <div>
 

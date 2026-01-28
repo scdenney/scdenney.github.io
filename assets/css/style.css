@@ -276,8 +276,8 @@ hr {
 .project-card {
   background: white;
   border-radius: 4px;
-  padding: 1.5rem 1.75rem;
-  margin-bottom: 1.5rem;
+  padding: 1rem 1.75rem;
+  margin-bottom: 1rem;
   box-shadow: 0 2px 8px rgba(0,0,0,0.06);
   border-left: 4px solid var(--muted-gold);
 }
@@ -311,15 +311,15 @@ hr {
 
 /* Collapsible Details */
 details {
-  margin: 0.75rem 0;
+  margin: 0.25rem 0;
 }
 
 details summary {
   cursor: pointer;
   font-weight: 600;
-  font-size: 0.92rem;
+  font-size: 1.05rem;
   color: var(--burgundy);
-  padding: 0.5rem 0;
+  padding: 0.25rem 0;
   list-style: none;
 }
 
