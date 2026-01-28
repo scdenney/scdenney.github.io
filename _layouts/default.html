@@ -6,9 +6,11 @@
 <body>
   {% include header.html %}
 
-  <main>
-    {{ content }}
-  </main>
+  <div class="page-wrapper">
+    <div class="section-layout">
+      {{ content }}
+    </div>
+  </div>
 
   {% include footer.html %}
 </body>
