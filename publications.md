@@ -67,11 +67,11 @@ Denney, S., Zhou, T., & Brehm, R. (2025). From division to democracy: Integratio
 </p>
 
 <p class="publication-item">
-Denney, S., & Ward, P. (2025). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. <em>Policy and Society</em>. Advance online publication. <a href="https://doi.org/10.1093/polsoc/puaf027" target="_blank">https://doi.org/10.1093/polsoc/puaf027</a>
+Ward, P., & Denney, S. (2025). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. <em>Policy and Society</em>. Advance online publication. <a href="https://doi.org/10.1093/polsoc/puaf027" target="_blank">https://doi.org/10.1093/polsoc/puaf027</a>
 </p>
 
 <p class="publication-item">
-Denney, S., & Ward, P. (2025). Partisan voters in party systems with ephemeral parties: Evidence from South Korea. <em>Party Politics</em>. Advance online publication. <a href="https://doi.org/10.1177/13540688251339976" target="_blank">https://doi.org/10.1177/13540688251339976</a>
+Ward, P., & Denney, S. (2025). Partisan voters in party systems with ephemeral parties: Evidence from South Korea. <em>Party Politics</em>. Advance online publication. <a href="https://doi.org/10.1177/13540688251339976" target="_blank">https://doi.org/10.1177/13540688251339976</a>
 </p>
 
 <p class="publication-item">
@@ -79,7 +79,7 @@ Denney, S., Ward, P., & Green, C. (2024). 한국인의 남북통일방식에 대
 </p>
 
 <p class="publication-item">
-Denney, S., & Green, C. (2024). Why do democratic societies tolerate undemocratic laws? Sorting public support for the National Security Act in South Korea. <em>Democratization, 31</em>(1), 113–131. <a href="https://doi.org/10.1080/13510347.2023.2258082" target="_blank">https://doi.org/10.1080/13510347.2023.2258082</a>
+Green, C., & Denney, S. (2024). Why do democratic societies tolerate undemocratic laws? Sorting public support for the National Security Act in South Korea. <em>Democratization, 31</em>(1), 113–131. <a href="https://doi.org/10.1080/13510347.2023.2258082" target="_blank">https://doi.org/10.1080/13510347.2023.2258082</a>
 </p>
 
 <p class="publication-item">
@@ -95,7 +95,7 @@ Denney, S., & Ward, P. (2023). How autocracies disrupt unsanctioned information 
 </p>
 
 <p class="publication-item">
-Breznitz, S., Denney, S., & Zhang, Q. (2023). Too much support? Entrepreneurial ecosystems and firm growth. <em>The Journal of Technology Transfer</em>. Advance online publication. <a href="https://doi.org/10.1007/s10961-023-10013-1" target="_blank">https://doi.org/10.1007/s10961-023-10013-1</a>
+Denney, S., Breznitz, S., & Zhang, Q. (2023). Too much support? Entrepreneurial ecosystems and firm growth. <em>The Journal of Technology Transfer</em>. Advance online publication. <a href="https://doi.org/10.1007/s10961-023-10013-1" target="_blank">https://doi.org/10.1007/s10961-023-10013-1</a>
 </p>
 
 <p class="publication-item">
@@ -103,11 +103,11 @@ Denney, S., Wolfe, D., & Southin, T. (2023). Do winners pick government? How sca
 </p>
 
 <p class="publication-item">
-Denney, S., & Ward, P. (2022). Welfare chauvinism among co-ethnics: Evidence from a conjoint experiment in South Korea. <em>International Migration, 60</em>(5), 74–90. <a href="https://doi.org/10.1111/imig.12937" target="_blank">https://doi.org/10.1111/imig.12937</a>
+Ward, P., & Denney, S. (2022). Welfare chauvinism among co-ethnics: Evidence from a conjoint experiment in South Korea. <em>International Migration, 60</em>(5), 74–90. <a href="https://doi.org/10.1111/imig.12937" target="_blank">https://doi.org/10.1111/imig.12937</a>
 </p>
 
 <p class="publication-item">
-Denney, S., Wolfe, D., & DiFrancesco, R. (2022). Localization of global networks: New mandates for MNEs in regional economies. <em>Cambridge Journal of Regions, Economy and Society, 15</em>(2), 323–342. <a href="https://doi.org/10.1093/cjres/rsac002" target="_blank">https://doi.org/10.1093/cjres/rsac002</a>
+Wolfe, D. A., DiFrancesco, R. J., & Denney, S. (2022). Localization of global networks: New mandates for MNEs in regional economies. <em>Cambridge Journal of Regions, Economy and Society, 15</em>(2), 323–342. <a href="https://doi.org/10.1093/cjres/rsac002" target="_blank">https://doi.org/10.1093/cjres/rsac002</a>
 </p>
 
 <p class="publication-item">
@@ -123,15 +123,15 @@ Denney, S., Ward, P., & Green, C. (2020). The limits of ethnic capital: Impacts 
 </p>
 
 <p class="publication-item">
-Denney, S., Wolfe, D., & Southin, T. (2020). Entrepreneurs and cluster evolution: The transformation of Toronto's ICT cluster. <em>Regional Studies, 55</em>(2), 196–207. <a href="https://doi.org/10.1080/00343404.2020.1762854" target="_blank">https://doi.org/10.1080/00343404.2020.1762854</a>
+Denney, S., Southin, T., & Wolfe, D. A. (2020). Entrepreneurs and cluster evolution: The transformation of Toronto's ICT cluster. <em>Regional Studies, 55</em>(2), 196–207. <a href="https://doi.org/10.1080/00343404.2020.1762854" target="_blank">https://doi.org/10.1080/00343404.2020.1762854</a>
 </p>
 
 <p class="publication-item">
-Denney, S., & Song, J. (2019). Studying North Korea through North Korean migrants: Lessons from the field. <em>Critical Asian Studies, 51</em>(3), 451–466. <a href="https://doi.org/10.1080/14672715.2019.1611462" target="_blank">https://doi.org/10.1080/14672715.2019.1611462</a>
+Song, J., & Denney, S. (2019). Studying North Korea through North Korean migrants: Lessons from the field. <em>Critical Asian Studies, 51</em>(3), 451–466. <a href="https://doi.org/10.1080/14672715.2019.1611462" target="_blank">https://doi.org/10.1080/14672715.2019.1611462</a>
 </p>
 
 <p class="publication-item">
-Cathcart, A., Denney, S., & Green, C. (2014). How authoritarian regimes maintain domain consensus: North Korea's information strategies in the Kim Jong-un era. <em>Review of Korean Studies, 17</em>(2), 145–178. <a href="https://doi.org/10.25024/review.2014.17.2.005" target="_blank">https://doi.org/10.25024/review.2014.17.2.005</a>
+Cathcart, A., Green, C., & Denney, S. (2014). How authoritarian regimes maintain domain consensus: North Korea's information strategies in the Kim Jong-un era. <em>Review of Korean Studies, 17</em>(2), 145–178. <a href="https://doi.org/10.25024/review.2014.17.2.005" target="_blank">https://doi.org/10.25024/review.2014.17.2.005</a>
 </p>
 
 <p class="publication-item">

@@ -52,7 +52,7 @@ body {
   margin: 0 auto;
   padding: 0 1.5rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 }
 
@@ -137,22 +137,31 @@ body {
 }
 
 .author__avatar {
-  width: 180px;
-  height: 180px;
+  width: 220px;
+  height: 220px;
   border-radius: 50%;
-  object-fit: contain;
-  background-color: var(--cream);
+  object-fit: cover;
+  object-position: center 15%;
   border: 4px solid white;
   box-shadow: 0 4px 20px rgba(0,0,0,0.12);
   margin-bottom: 1.25rem;
 }
 
 .author__name {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   font-weight: 600;
   color: var(--deep-plum);
-  margin: 0 0 0.35rem;
+  margin: 0 0 1rem;
   letter-spacing: 0.02em;
+}
+
+.author__name a {
+  color: var(--deep-plum);
+  text-decoration: none;
+}
+
+.author__name a:hover {
+  color: var(--burgundy);
 }
 
 .author__title {
