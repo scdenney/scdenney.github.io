@@ -16,7 +16,7 @@ I bridge digital humanities with quantitative social science to study national i
 
 - [BA2: Digital Korea](https://scdenney.github.io/ba2_digital-korea/)
 - [BA3: Text-as-Data](https://scdenney.github.io/ba3_text_as_data/)
-- [International Relations](https://scdenney.wordpress.com/wp-content/uploads/2026/01/2526-bais-ir.pdf
+- [International Relations](https://scdenney.wordpress.com/wp-content/uploads/2026/01/2526-bais-ir.pdf)
 
 ## Current Projects
 
