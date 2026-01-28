@@ -101,12 +101,26 @@ Currently, my research program is organized around three projects that collectiv
 <li>Denney, S., & Steinhardt, H. C. The boundaries of belonging: An experimental approach to national identity measurement in Taiwan and South Korea. [Under review] — <a href="https://github.com/scdenney/national-identity-cbc-taiwan-korea/blob/main/README.md" target="_blank">Working paper</a></li>
 <li>Denney, S., Fraser, N., & Steinhardt, H. C. Cues of commitment: Integration and naturalization support in South Korea and Taiwan. [Under review] — <a href="https://github.com/scdenney/cues-east-asia" target="_blank">Working paper</a></li>
 <li>Denney, S., van Dam, I., & Green, C. Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? [Under review] — <a href="https://github.com/scdenney/persuasion-cues-kr-imm/blob/main/README.md" target="_blank">Working paper</a></li>
+<li>Denney, S. Inference under constraint: The problem and potential of using North Korean (defector-)migrant surveys. [Preparing for submission] — <a href="https://github.com/scdenney/nk-surveys/tree/main" target="_blank">Presentation</a></li>
 </ul>
 
 <p><strong>Papers in Progress</strong></p>
 <ul>
 <li>"The Resettlement of North Korean Migrants and Identity Change in Korea."</li>
 <li>"A Generational Theory of National Identity Change: Propositions and Evidence."</li>
+</ul>
+
+<p><strong>Presentations</strong></p>
+<ul>
+<li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/09/apsa_2024-denney_hcs_qi.pdf" target="_blank">"Democracy and Nationalism: The Case of Taiwan,"</a> American Political Science Association (APSA) Conference, September 4-8.</li>
+<li>2024. "Who Are 'We' and How Do We Know It? New Experimental Designs for Measuring National Identity," Consequences of Identity Politics Workshop, University of Southampton, July 24-25.</li>
+<li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/07/denney_steinhardt_nus-final.pdf" target="_blank">"How Inclusive Are National Identities in East Asian Democracies? Exploring a New Conjoint Approach,"</a> East Asia Institute, National University of Singapore, July 19.</li>
+<li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/07/epsa24-citizenship-expansion-east-asia-denney.pdf" target="_blank">"Public Attitudes Towards Immigrant Incorporation in South Korea, Taiwan, and Japan,"</a> European Political Science Association (EPSA) Conference, July 4-6.</li>
+<li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/06/lias-citizenship-expansion-east-asia-denney2.pdf" target="_blank">"Public Support for Citizenship Expansion in East Asian Democracies,"</a> LIAS Talk Series, Leiden Institute for Asian Studies (LIAS), May 15.</li>
+<li>2023. <a href="https://docs.google.com/presentation/d/1fMPQlGUe1A18dSNRd8vSTr8F3S0cRDODOKTCSNhlWAA/edit?usp=sharing" target="_blank">"Size or Speed? Public Attitudes toward Rising Immigration Levels in Historically Homogeneous Nations,"</a> American Political Science Association (APSA) Conference, August 31-September 3.</li>
+<li>2023. <a href="https://docs.google.com/presentation/d/1BRw0PYCRi86dteLq8kZQcpKJ0CNJSjBINqTtCqPzTI0/edit#slide=id.gf71da67333_1_0" target="_blank">"Measuring National Identity: A Choice-Based Conjoint Approach,"</a> Midwest Political Science Association (MPSA) Conference, April 13-16.</li>
+<li>2023. <a href="https://docs.google.com/presentation/d/1fioI78LissBdRcxStNU9UO3Tt_BM1QniOutxw7Fl5nA/edit#slide=id.gf71da67333_1_0" target="_blank">"Why Do Democratic Societies Tolerate Undemocratic Laws? Sorting Public Support for the National Security Act in South Korea,"</a> International Studies Association (ISA) Conference, March 15-18.</li>
+<li>2022. <a href="https://docs.google.com/presentation/d/1jqh7TO0HT2m8mp8ZXyeEW5Xngd9xTQPaOdG5aI8_Rio/edit?usp=sharing" target="_blank">"National Security Conservatism: Enduring Support for the National Security Act in South Korea,"</a> Generation Asia – 2022 Nordic NIAS Council Conference, August 22-26.</li>
 </ul>
 </div>
 </details>
@@ -133,10 +147,21 @@ Currently, my research program is organized around three projects that collectiv
 <details>
 <summary>Output</summary>
 <div>
-<p><strong>Key Outputs</strong></p>
+<p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
 <li>Denney, S., & Ward, P. (2025). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. <em>Policy and Society</em>. <a href="https://doi.org/10.1093/polsoc/puaf027" target="_blank">https://doi.org/10.1093/polsoc/puaf027</a></li>
 <li>Denney, S., Zhou, T., & Brehm, R. (2025). From division to democracy: Integration of post-communist citizens in Germany and South Korea. <em>Communist and Post-Communist Studies</em>. <a href="https://doi.org/10.1525/cpcs.2025.2636997" target="_blank">https://doi.org/10.1525/cpcs.2025.2636997</a></li>
+</ul>
+
+<p><strong>Reports</strong></p>
+<ul>
+<li>2023. <em>Integration Challenges and Opportunities in Divided Countries: A Comparative Analysis of Germany and South Korea</em>, Institute for Far Eastern Studies (IFES), Kyungnam University. [embargoed]</li>
+</ul>
+
+<p><strong>Presentations</strong></p>
+<ul>
+<li>2025. "Persuasion and Prejudice: Are South Korean Attitudes toward Immigration Open to Change?," Recalibrating 'Skill' in Changing Immigration Regimes, Asia Research Institute, National University of Singapore, January 16-17.</li>
+<li>2024. <a href="https://scdenney.files.wordpress.com/2024/04/ksrs_enduring-legacy-s.denney.pdf" target="_blank">"The Enduring Legacy of Forced Division: Welfare Nationalism in Germany and South Korea,"</a> Korean Studies Research Seminar, Leiden Institute for Asian Studies (LIAS), Leiden University, April 17.</li>
 </ul>
 </div>
 </details>
@@ -159,10 +184,37 @@ Currently, my research program is organized around three projects that collectiv
 <details>
 <summary>Output</summary>
 <div>
-<p><strong>Key Outputs</strong></p>
+<p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
 <li>Denney, S., Wolfe, D., & Southin, T. (2023). Do winners pick government? How scale-up experience shapes entrepreneurs' assessments of innovation policy mixes. <em>Science and Public Policy, 50</em>, 858–870. <a href="https://doi.org/10.1093/scipol/scad030" target="_blank">https://doi.org/10.1093/scipol/scad030</a></li>
-<li>Denney, S., Vu, V., & Kelly, R. (2021). <a href="https://brookfieldinstitute.ca/scale-up-verse/" target="_blank">Into the scale-up-verse: Exploring the landscape of Canada's high performing firms</a>. Innovation Policy Lab and Brookfield Institute.</li>
+<li>Denney, S., Wolfe, D., & DiFrancesco, R. (2022). Localization of global networks: New mandates for MNEs in regional economies. <em>Journal of Regions, Economy and Society, 15</em>(2), 323-342. <a href="https://doi.org/10.1093/cjres/rsac002" target="_blank">https://doi.org/10.1093/cjres/rsac002</a></li>
+</ul>
+
+<p><strong>Working Papers</strong></p>
+<ul>
+<li>Denney, S., Kelly, R., & Wolfe, D. Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. [Under review] — <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank">Working paper</a></li>
+</ul>
+
+<p><strong>Reports</strong></p>
+<ul>
+<li>Denney, S., Vu, V., & Kelly, R. (2021). <a href="https://brookfieldinstitute.ca/scale-up-verse/" target="_blank">"Into the Scale-up-verse: Exploring the Landscape of Canada's High Performing Firms."</a> Innovation Policy Lab and Brookfield Institute, December.</li>
+<li>Denney, S., & Vu, V. (2021). <a href="https://scdenney.files.wordpress.com/2021/10/great-canadian-survey-2021_denney-vu_iplbiie.pdf" target="_blank">"Great Canadian Survey of 2021: Insights for the Council of Canadian Innovators."</a> Innovation Policy Lab and Brookfield Institute, July.</li>
+<li>Denney, S., & Vu, V. (2021). <a href="https://brookfieldinstitute.ca/measuring-the-digital-economy/" target="_blank">"Just Out of Reach: The Elusive Quest to Measure the Digital Economy."</a> Brookfield Institute, June.</li>
+<li>Denney, S., & Vu, V. (2021). <a href="https://brookfieldinstitute.ca/the-scale-up-challenge-for-women-entrepreneurs/" target="_blank">"Scale the Gap: The Impact of Growth Barriers on Women Entrepreneurs in Canadian High-Growth Firms."</a> Brookfield Institute, April.</li>
+</ul>
+
+<p><strong>Presentations</strong></p>
+<ul>
+<li>2023. <a href="https://scdenney.net/wp-content/uploads/2024/06/2023_09_20_scale-up_workshop-final.pdf" target="_blank">"Scale-ups and Canada's Innovation Policy Suite: Usage and Impacts,"</a> Seminar, Treasury Board of Canada Secretariat, September 31.</li>
+<li>2023. "Scale-ups and Canada's Innovation Policy Suite: Usage and Impacts," 57th Canadian Economics Association Conference, May 30-June 3.</li>
+<li>2020. <a href="https://scdenney.files.wordpress.com/2021/10/denney-vu_wekh_report_presentation.pdf" target="_blank">"Scale the Gap: Impact of Growth Barriers on Women Entrepreneurs in Canadian High-Growth Firms,"</a> Canadian Council for Small Business and Entrepreneurship (CCSBE) Annual Conference, October 16-17.</li>
+</ul>
+
+<p><strong>Media</strong></p>
+<ul>
+<li>2021. <a href="https://scdenney.files.wordpress.com/2022/01/scale-ups-the-logic.pdf" target="_blank">"Scale-ups drive productivity growth and R&D spending in Canada, study finds,"</a> <em>The Logic</em>, December 10.</li>
+<li>2021. <a href="https://www.theglobeandmail.com/business/commentary/article-what-it-takes-for-canadian-scale-ups-to-succeed-in-the-knowledge/" target="_blank">"What it takes for Canadian scale-ups to succeed in the knowledge economy,"</a> with Adam Froman, <em>The Globe and Mail</em>, April 28.</li>
+<li>2021. <a href="https://financialpost.com/technology/the-innovation-imperative-why-canada-needs-to-prioritize-scale-ups-in-the-face-of-big-techs-dominance" target="_blank">"The Innovation Imperative: Why Canada needs to prioritize scale-ups in the face of Big Tech's dominance,"</a> with David Wolfe, <em>Financial Post</em>, March 24.</li>
 </ul>
 </div>
 </details>
@@ -185,10 +237,31 @@ Currently, my research program is organized around three projects that collectiv
 <details>
 <summary>Output</summary>
 <div>
-<p><strong>Key Outputs</strong></p>
+<p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
 <li>Denney, S., & Ward, P. (2023). How autocracies disrupt unsanctioned information flows: The role of state power and social capital in North Korea. <em>Problems of Post-Communism, 71</em>(2), 177-191. <a href="https://doi.org/10.1080/10758216.2023.2180038" target="_blank">https://doi.org/10.1080/10758216.2023.2180038</a></li>
-<li>Shiny app: <a href="https://scdenney.shinyapps.io/ned_conjoint_shiny/" target="_blank">https://scdenney.shinyapps.io/ned_conjoint_shiny/</a></li>
+</ul>
+
+<p><strong>Reports</strong></p>
+<ul>
+<li>2022. <a href="https://scdenney.net/wp-content/uploads/2024/08/02082024-drpk_information-dissimination-denney_yonsei-presentation-1.pdf" target="_blank">"Information Dissemination in North Korea: A Report for NGOs,"</a> with Peter Ward. Report for the National Endowment for Democracy (NED), January.</li>
+</ul>
+
+<p><strong>Applications</strong></p>
+<ul>
+<li>Determinants of Foreign Information Use in North Korea: <a href="https://scdenney.shinyapps.io/ned_conjoint_shiny/" target="_blank">Shiny app</a></li>
+</ul>
+
+<p><strong>Presentations</strong></p>
+<ul>
+<li>2024. <a href="https://www.youtube.com/watch?v=_Fms9wypMbE&t=3232s" target="_blank">"Quiet Changes in the Daily Life of North Koreans, Now in North Korea,"</a> Yonsei University, October 28.</li>
+<li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/08/05082024-drpk_information-dissimination-denney_yonsei-presentation-1.pdf" target="_blank">"Determinants of Foreign Information Use in North Korea: Research Findings and Implications,"</a> International North Korean Studies Networking Forum, Yonsei University, August 5.</li>
+<li>2022. <a href="https://www.stimson.org/event/hackers-and-social-networks-how-north-koreans-are-accessing-foreign-information/" target="_blank">"Hackers and Social Networks: How North Koreans Are Accessing Foreign Information,"</a> Stimson Center, April 27.</li>
+</ul>
+
+<p><strong>Media</strong></p>
+<ul>
+<li>2023. <a href="https://www.nknews.org/2023/03/friendship-and-family-networks-are-key-to-getting-outside-info-to-north-koreans/" target="_blank">"Friendship and family networks are key to getting outside info to North Koreans,"</a> <em>NK News</em>, March 13.</li>
 </ul>
 </div>
 </details>
@@ -211,11 +284,27 @@ Currently, my research program is organized around three projects that collectiv
 <details>
 <summary>Output</summary>
 <div>
-<p><strong>Key Outputs</strong></p>
+<p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
-<li>Denney, S., Ward, P., & Green, C. (2024). 한국인의 남북통일방식에 대한 의식 결정요인 분석 [in Korean]. <em>국가전략, 30</em>(1), 137-163.</li>
+<li>Denney, S., Ward, P., & Green, C. (2024). 한국인의 남북통일방식에 대한 의식 결정요인 분석 [Analyzing the determinants of South Korean attitudes toward Korean unification: A conjoint analysis, in Korean]. <em>국가전략, 30</em>(1), 137-163. <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003053315" target="_blank">Link</a></li>
 <li>Denney, S., & Green, C. (2024). Public attitudes towards co-ethnic migrant integration: Evidence from South Korea. <em>Journal of Ethnic and Migration Studies, 50</em>(8), 1998-2022. <a href="https://doi.org/10.1080/1369183X.2023.2286207" target="_blank">https://doi.org/10.1080/1369183X.2023.2286207</a></li>
 <li>Denney, S., Ward, P., & Green, C. (2023). Public support for migrant entrepreneurship: The case of North Koreans in the Republic of Korea. <em>International Migration Review</em>. <a href="https://doi.org/10.1177/01979183231203927" target="_blank">https://doi.org/10.1177/01979183231203927</a></li>
+<li>Denney, S., & Ward, P. (2022). Welfare chauvinism among co-ethnics: Evidence from a conjoint experiment in South Korea. <em>International Migration, 60</em>(50), 74-90. <a href="https://doi.org/10.1111/imig.12937" target="_blank">https://doi.org/10.1111/imig.12937</a></li>
+<li>Denney, S., & Green, C. (2021). North Korean patriotism: Assessing the success and failures of a nation. <em>Korea Journal, 61</em>(1), 154-185. <a href="https://doi.org/10.25024/kj.2021.61.1.154" target="_blank">https://doi.org/10.25024/kj.2021.61.1.154</a></li>
+</ul>
+
+<p><strong>Reports</strong></p>
+<ul>
+<li>2023. <a href="https://www.38north.org/2023/01/because-it-is-good-for-south-korea-public-support-for-defector-entrepreneurship/" target="_blank">"Because It Is Good for South Korea: Public Support for Defector Entrepreneurship,"</a> with Christopher Green. <em>38 North</em>, January.</li>
+<li>2022. <a href="https://www.38north.org/2022/05/improving-north-korean-defector-integration-in-south-korea-survey-findings-and-recommendations/" target="_blank">"Improving North Korean Defector Integration in South Korea: Survey Findings and Recommendations,"</a> with Christopher Green. <em>38 North</em>, May.</li>
+</ul>
+
+<p><strong>Presentations</strong></p>
+<ul>
+<li>2023. <a href="https://docs.google.com/presentation/d/1vC08YKFSZQovL6HV-t3t-uVZR4EAukQaZ_YgJhe7oRM/edit#slide=id.gf71da67333_1_0" target="_blank">"Public Attitudes Towards Co-Ethnic Migrant Integration: Evidence from South Korea,"</a> Midwest Political Science Association (MPSA) Conference, April 13-16.</li>
+<li>2022. <a href="https://docs.google.com/presentation/d/1GnorLY3LgVMViSUHTYtsmhtNTvmppPIb/edit?usp=sharing&ouid=109909952322920338023&rtpof=true&sd=true" target="_blank">"한국인의 남북통일방식에 대한 의식 결정요인 분석,"</a> 북한연구학회 [North Korean Research Institute], Seoul, December 12.</li>
+<li>2022. <a href="https://docs.google.com/presentation/d/1TD6QechqpZTZExMjEGnt3hKnt680QV7GR_CU5ilRLiQ/edit?usp=sharing" target="_blank">"Determinants of Co-Ethnic Integration in South Korea: A Conjoint Experiment,"</a> East Asian Network (EAN), Institute for Asian Studies, Charles University, Prague, February 8.</li>
+<li>2019. <a href="https://scdenney.files.wordpress.com/2024/05/aas_presentation_denney.pdf" target="_blank">"Juche and the Everyday: Does Ideology Matter for People from North Korea?,"</a> Association of Asian Studies (AAS), March 21-24.</li>
 </ul>
 </div>
 </details>
