@@ -300,14 +300,12 @@ hr {
 }
 
 .repo-link {
-  display: inline;
   text-decoration: none;
 }
 
 .repo-link svg {
   width: 1em;
   height: 1em;
-  vertical-align: text-bottom;
   fill: currentColor;
 }
 
