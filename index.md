@@ -13,4 +13,4 @@ Beyond Leiden, I serve as Director of Research at [SinoNK.com](http://sinonk.com
 
 I earned a Ph.D. in Political Science from the University of Toronto, an M.A. in Global Affairs and Policy from Yonsei University, and a B.A. in Political Science from Harding University.
 
-To learn more about my current work, visit the [Projects](/projects/) page for an overview of active research, or explore my [Publications](/publications/) for peer-reviewed articles, working papers, and other scholarly output.
+To learn more about my current work, visit the [Projects](/projects/) page for an overview of active research, or explore my [Research](/research/) for peer-reviewed articles, working papers, and other scholarly output.

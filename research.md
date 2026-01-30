@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Publications
-permalink: /publications/
+title: Research
+permalink: /research/
 ---
 
-# Publications
+# Research
 
 This page lists my academic working papers and published work, both peer-reviewed and non-academic.
 
@@ -343,6 +343,139 @@ Denney, S. (2015). [Review of the book <em>The Korean War: An international hist
 
 <p class="publication-item">
 Denney, S. (2014). [Review of the book <em>The Oxford handbook of the international relations of Asia</em>]. <em>Asan Forum, 2</em>(6). <a href="https://theasanforum.org/oxford-handbook-of-the-international-relations-of-asia-oxford-oxford-university-press-2014-kindle-edition/" target="_blank">Link</a>
+</p>
+
+</div>
+</details>
+</div>
+
+<div class="project-card">
+<details>
+<summary>Selected Talks (31)</summary>
+<div>
+
+<p class="publication-item">
+Denney, S. (2025). Guardianship democracy: Mapping elite rule preferences in East and Southeast Asia. 8th Annual Meeting of the Social Science Korean Studies Network in Europe (SoKEN), University of Duisburg–Essen, May 23–24.
+</p>
+
+<p class="publication-item">
+Denney, S. (2025). Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? Recalibrating 'Skill' in Changing Immigration Regimes, Asia Research Institute, National University of Singapore, January 16–17.
+</p>
+
+<p class="publication-item">
+Denney, S. (2024). Democracy and nationalism: The case of Taiwan. American Political Science Association (APSA) Conference, September 4–8.
+</p>
+
+<p class="publication-item">
+Denney, S. (2024). Determinants of foreign information use in North Korea: Research findings and implications. International North Korean Studies Networking Forum, Yonsei University, August 5.
+</p>
+
+<p class="publication-item">
+Denney, S. (2024). Who are 'we' and how do we know it? New experimental designs for measuring national identity. Consequences of Identity Politics Workshop, University of Southampton, July 24–25.
+</p>
+
+<p class="publication-item">
+Denney, S. (2024). How inclusive are national identities in East Asian democracies? Exploring a new conjoint approach. East Asia Institute, National University of Singapore, July 19.
+</p>
+
+<p class="publication-item">
+Denney, S. (2024). Public attitudes towards immigrant incorporation in South Korea, Taiwan, and Japan. European Political Science Association (EPSA) Conference, July 4–6.
+</p>
+
+<p class="publication-item">
+Denney, S. (2024). Plus ça change? South Korean public opinion of the United States during the Trump administration. International Korean Studies Institute (IKSU) Summer School, June 19.
+</p>
+
+<p class="publication-item">
+Denney, S. (2024). Public support for citizenship expansion in East Asian democracies. LIAS Talk Series, Leiden Institute for Asian Studies (LIAS), May 15.
+</p>
+
+<p class="publication-item">
+Denney, S. (2024). The enduring legacy of forced division: Welfare nationalism in Germany and South Korea. Korean Studies Research Seminar, Leiden Institute for Asian Studies (LIAS), Leiden University, April 17.
+</p>
+
+<p class="publication-item">
+Denney, S. (2023). Size or speed? Public attitudes toward rising immigration levels in historically homogeneous nations. American Political Science Association (APSA) Conference, August 31–September 3.
+</p>
+
+<p class="publication-item">
+Denney, S. (2023). Nationalism under democracy: Why institutions matter for national identity and belonging. Ostasienforum, Department of East Asian Studies, University of Vienna, May 24.
+</p>
+
+<p class="publication-item">
+Denney, S. (2023). Measuring national identity: A choice-based conjoint approach. Midwest Political Science Association (MPSA) Conference, April 13–16.
+</p>
+
+<p class="publication-item">
+Denney, S. (2023). Why do democratic societies tolerate undemocratic laws? Sorting public support for the National Security Act in South Korea. International Studies Association (ISA) Conference, March 15–18.
+</p>
+
+<p class="publication-item">
+Denney, S. (2022). 한국인의 남북통일방식에 대한 의식 결정요인 분석: 컨조인트 분석 조사를 중심으로 [Analysis of South Korean attitudes towards unification: A conjoint experiment]. 북한연구학회 [North Korean Research Institute], Seoul, South Korea, December 12.
+</p>
+
+<p class="publication-item">
+Denney, S. (2022). National security conservatism: Enduring support for the National Security Act in South Korea. Generation Asia – 2022 Nordic NIAS Council Conference, August 22–26.
+</p>
+
+<p class="publication-item">
+Denney, S. (2022). Determinants of co-ethnic integration in South Korea: A conjoint experiment. East Asian Network (EAN), Institute for Asian Studies, Charles University, Prague, Czech Republic, February 8.
+</p>
+
+<p class="publication-item">
+Denney, S. (2021). National security conservatism and enduring support for the National Security Act in South Korea. Ostasienforum, Department of East Asian Studies, University of Vienna, December 15.
+</p>
+
+<p class="publication-item">
+Denney, S., Fraser, N., & Crabtree, C. (2021). Who stays and who leaves? Determinants of public support for permanent residency and citizenship in South Korea and Japan. American Political Science Association Conference, September 30–October 3.
+</p>
+
+<p class="publication-item">
+Denney, S. (2020). Scale the gap: Impact of growth barriers on women entrepreneurs in Canadian high-growth firms. Canadian Council for Small Business and Entrepreneurship (CCSBE) Annual Conference, October 16–17.
+</p>
+
+<p class="publication-item">
+Denney, S. (2019). Juche and the everyday: Does ideology matter for people from North Korea? Association of Asian Studies (AAS), March 21–24.
+</p>
+
+<p class="publication-item">
+Denney, S. (2019). Entrepreneurs and the evolution of Toronto's ICT cluster: Insights and lessons learned. Creating Digital Opportunity, 6th Annual CDO Partnership Network Conference, Toronto, Ontario, April 29–May 1.
+</p>
+
+<p class="publication-item">
+Denney, S. (2019). A conjoint analysis of South Korean attitudes toward immigrants. Midwest Political Science Association Conference, Chicago, Illinois, April 4–7.
+</p>
+
+<p class="publication-item">
+Denney, S. (2018). Transforming a cluster while building a firm: Entrepreneurs and the evolution of Toronto's ICT cluster. 5th Annual Creating Digital Opportunity Partnership Meeting, Vancouver, BC, April 25–27.
+</p>
+
+<p class="publication-item">
+Denney, S. (2018). Does democracy matter? What the re-socialization of North Korean migrants in South Korea tells us about the relationship between institutions and national identity. Midwest Political Science Association Conference, Chicago, Illinois, April 5–8.
+</p>
+
+<p class="publication-item">
+Denney, S. (2018). After defection: The identity politics of integrating North Korean refugees. Association of Asian Studies Annual Conference, Washington, DC, April 18–21.
+</p>
+
+<p class="publication-item">
+Denney, S. (2017). Korea and the world: New frontiers in Korean studies. Conference/Workshop at the George Washington University, Washington, D.C., May 23–24.
+</p>
+
+<p class="publication-item">
+Denney, S. (2016). Assessing ethnic national identity among North Korean migrants in the ROK. Brookings Institution Second Annual Young and Brave Conference, Washington, D.C., September 30.
+</p>
+
+<p class="publication-item">
+Denney, S. (2016). What the re-socialization of North Korean immigrants tells us about changes in contemporary South Korean national identity. Academy of Korean Studies (AKS) 127th Overseas Korean Studies Colloquium, Bundang, South Korea, August 18.
+</p>
+
+<p class="publication-item">
+Denney, S. (2016). Transformation of Korean national identity: What can different developmental experiences tell us about national identity formation? Association of Asian Studies Annual Conference, Seattle, Washington, March 31–April 3.
+</p>
+
+<p class="publication-item">
+Denney, S. (2015). Telling tales: North Korea's use of re-defectors. Korean Economic Institute's Academic Paper Series, March 12.
 </p>
 
 </div>
