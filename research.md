@@ -14,7 +14,7 @@ See <a href="http://SinoNK.com" target="_blank">SinoNK.com</a> for an overview o
 
 <div class="project-card">
 <details>
-<summary>Working Papers Under Review (5)</summary>
+<summary>Working Papers Under Review (4)</summary>
 <div>
 
 <p class="publication-item">
@@ -39,7 +39,7 @@ Denney, S., Kelly, R., & Wolfe, D. (n.d.). Innovation policy in practice: Assess
 
 <div class="project-card">
 <details>
-<summary>Papers in Progress (4)</summary>
+<summary>Papers in Progress (5)</summary>
 <div>
 
 <p class="publication-item">
