@@ -37,14 +37,14 @@ Denney, S., Kelly, R., & Wolfe, D. (n.d.). Innovation policy in practice: Assess
 </details>
 </div>
 
-<p class="publication-item">
-Denney, S. (n.d.). Guardianship democracy: Mapping elite rule preferences in East and Southeast Asia. <a href="https://github.com/scdenney/guardianship_asia/tree/main" target="_blank">Working paper</a>
-</p>
-
 <div class="project-card">
 <details>
 <summary>Papers in Progress (4)</summary>
 <div>
+
+<p class="publication-item">
+Denney, S. (n.d.). Guardianship democracy: Mapping elite rule preferences in East and Southeast Asia. <a href="https://github.com/scdenney/guardianship_asia/tree/main" target="_blank">Working paper</a>
+</p>
 
 <p class="publication-item">
 Denney, S. (n.d.). Fairness, threat, and the norms-based model of immigration legitimacy.
