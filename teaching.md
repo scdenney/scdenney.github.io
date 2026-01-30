@@ -18,7 +18,8 @@ I also teach courses in international relations and comparative politics.
 <h3>Digital Korea: Introduction to Computational Text Analysis</h3>
 
 <p class="project-meta">
-<strong>Level:</strong> BA II · <strong>Program:</strong> Korean Studies, Leiden University
+<strong>Level:</strong> BA II · <strong>Program:</strong> Korean Studies, Leiden University<br>
+<a href="https://scdenney.github.io/ba2_digital-korea/">Course Website</a>
 </p>
 
 <details>
@@ -33,7 +34,8 @@ I also teach courses in international relations and comparative politics.
 <h3>Digital Humanities</h3>
 
 <p class="project-meta">
-<strong>Level:</strong> BA III · <strong>Program:</strong> Korean Studies, Leiden University
+<strong>Level:</strong> BA III · <strong>Program:</strong> Korean Studies, Leiden University<br>
+<a href="https://scdenney.github.io/ba3_text_as_data/">Course Website</a>
 </p>
 
 <details>
