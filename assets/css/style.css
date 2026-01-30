@@ -438,7 +438,7 @@ details li {
 .site-footer {
   background-color: var(--warm-tan);
   padding: 1.75rem 0;
-  margin-top: 3.5rem;
+  margin-top: 0;
   font-size: 0.85rem;
   color: var(--text-gray);
   border-top: 3px solid var(--muted-gold);
