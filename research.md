@@ -18,28 +18,28 @@ See <a href="http://SinoNK.com" target="_blank">SinoNK.com</a> for an overview o
 <div>
 
 <p class="publication-item">
-Denney, S., Fraser, N., & Steinhardt, H. C. (n.d.). Cues of commitment: Integration and naturalization support in South Korea and Taiwan. [Manuscript submitted for publication]. <a href="https://github.com/scdenney/cues-east-asia" target="_blank">Working paper</a>
+Denney, S., Fraser, N., & Steinhardt, H. C. (n.d.). Cues of commitment: Integration and naturalization support in South Korea and Taiwan. <a href="https://github.com/scdenney/cues-east-asia" target="_blank">Working paper</a>
 </p>
 
 <p class="publication-item">
-Denney, S., & Steinhardt, H. C. (n.d.). The boundaries of belonging: An experimental approach to national identity measurement in Taiwan and South Korea. [Manuscript submitted for publication]. <a href="https://github.com/scdenney/national-identity-cbc-taiwan-korea/tree/main" target="_blank">Working paper</a>
+Denney, S., & Steinhardt, H. C. (n.d.). The boundaries of belonging: An experimental approach to national identity measurement in Taiwan and South Korea. <a href="https://github.com/scdenney/national-identity-cbc-taiwan-korea/tree/main" target="_blank">Working paper</a>
 </p>
 
 <p class="publication-item">
-Denney, S., van Dam, I., & Green, C. (n.d.). Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? [Manuscript submitted for publication]. <a href="https://github.com/scdenney/persuasion-cues-kr-imm/blob/main/README.md" target="_blank">Working paper</a>
+Denney, S., van Dam, I., & Green, C. (n.d.). Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? <a href="https://github.com/scdenney/persuasion-cues-kr-imm/blob/main/README.md" target="_blank">Working paper</a>
 </p>
 
 <p class="publication-item">
-Denney, S., Kelly, R., & Wolfe, D. (n.d.). Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. [Manuscript submitted for publication]. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank">Working paper</a>
-</p>
-
-<p class="publication-item">
-Denney, S. (n.d.). Guardianship democracy: Mapping elite rule preferences in East and Southeast Asia. [Manuscript in preparation]. <a href="https://github.com/scdenney/guardianship_asia/tree/main" target="_blank">Working paper</a>
+Denney, S., Kelly, R., & Wolfe, D. (n.d.). Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank">Working paper</a>
 </p>
 
 </div>
 </details>
 </div>
+
+<p class="publication-item">
+Denney, S. (n.d.). Guardianship democracy: Mapping elite rule preferences in East and Southeast Asia. <a href="https://github.com/scdenney/guardianship_asia/tree/main" target="_blank">Working paper</a>
+</p>
 
 <div class="project-card">
 <details>
@@ -47,19 +47,15 @@ Denney, S. (n.d.). Guardianship democracy: Mapping elite rule preferences in Eas
 <div>
 
 <p class="publication-item">
-Denney, S. (n.d.). Fairness, threat, and the norms-based model of immigration legitimacy. [Manuscript in preparation].
+Denney, S. (n.d.). Fairness, threat, and the norms-based model of immigration legitimacy.
 </p>
 
 <p class="publication-item">
-Denney, S. (n.d.). Educating the nation: History textbooks and the long-run political socialization of national identity. [Manuscript in preparation].
+Denney, S. (n.d.). A generational theory of identity change.
 </p>
 
 <p class="publication-item">
-Denney, S. (n.d.). A generational theory of identity change. [Manuscript in preparation].
-</p>
-
-<p class="publication-item">
-Denney, S., & van de Pol, A. (n.d.). Constructing the nation: Identity and historical narratives in South Korean history textbooks. [Manuscript in preparation].
+Denney, S., & van de Pol, A. (n.d.). Constructing the nation: Identity and historical narratives in South Korean history textbooks.
 </p>
 
 </div>
@@ -211,6 +207,51 @@ Hayes, P., Denney, S., et al. (2015). The implications of civic diplomacy for RO
 
 <div class="project-card">
 <details>
+<summary>Book Reviews (9)</summary>
+<div>
+
+<p class="publication-item">
+Denney, S. (2025). [Review of the book <em>Narratives of civic duty: How national stories shape democracy in Asia</em>, by A. Hur]. <em>Korean Histories</em>. <a href="https://korean-histories.org/archives/volumes/2025/civic.html" target="_blank">Link</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2025). [Review of the book <em>North Korea's mundane revolution: Socialist living and the rise of Kim Il-sung, 1953-1965</em>, by A. Schmid]. <em>Korean Histories</em>. <a href="https://korean-histories.org/archives/volumes/2025/denney.html" target="_blank">Link</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2024). [Review of the book <em>From development to democracy: The transformations of modern Asia</em>, by D. Slater & J. Wong]. <em>Pacific Affairs, 97</em>(4). <a href="https://pacificaffairs.ubc.ca/book-reviews/from-development-to-democracy-the-transformations-of-modern-asia-by-dan-slater-and-joseph-wong/" target="_blank">Link</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2022). [Review of the book <em>After the Korean War: An intimate history</em>, by H. Kwon]. <em>Pacific Affairs, 95</em>(1). <a href="https://pacificaffairs.ubc.ca/book-reviews/after-the-korean-war-an-intimate-history-by-heonik-kwon/" target="_blank">Link</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2018). [Review of the book <em>Park Chung Hee and modern Korea: The roots of militarism, 1866-1945</em>, by C. Eckert]. <em>Korea Journal, 58</em>(3), 184–190.
+</p>
+
+<p class="publication-item">
+Denney, S. (2018). [Review of the book <em>North Korea's hidden revolution: How the information underground is transforming a closed society</em>, by J. Baek]. <em>Pacific Affairs, 91</em>(1), 176–178. <a href="https://pacificaffairs.ubc.ca/book-reviews/north-koreas-hidden-revolution-how-the-information-underground-is-transforming-a-closed-society-by-jieun-baek/" target="_blank">Link</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2015). [Review of the book <em>Assimilating Seoul: Japanese rule and the politics of public space in colonial Korea, 1910–1945</em>, by T. A. Henry]. <em>British Academy of Korean Studies Journal</em>. <a href="http://www.baks.org.uk/wptest/book-review-assimilating-seoul-japanese-rule-and-the-politics-of-public-space-in-colonial-korea-1910-1945-by-todd-a-henry/" target="_blank">Link</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2015). [Review of the book <em>The Korean War: An international history</em>, by H. Wada]. <em>European Journal of Korean Studies</em>. <a href="http://www.baks.org.uk/wptest/book-review-the-korean-war-an-international-history-by-wada-haruki/" target="_blank">Link</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2014). [Review of the book <em>The Oxford handbook of the international relations of Asia</em>]. <em>Asan Forum, 2</em>(6). <a href="https://theasanforum.org/oxford-handbook-of-the-international-relations-of-asia-oxford-oxford-university-press-2014-kindle-edition/" target="_blank">Link</a>
+</p>
+
+</div>
+</details>
+</div>
+
+<div class="project-card">
+<details>
 <summary>Dissertations and Theses (2)</summary>
 <div>
 
@@ -298,51 +339,6 @@ Denney, S., & Green, C. (2022, May). Improving North Korean defector integration
 
 <p class="publication-item">
 Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>Italian Institute for International Political Studies (ISPI)</em>. <a href="https://www.ispionline.it/en/publication/south-koreans-support-immigration-conditions-apply-33979" target="_blank">Link</a>
-</p>
-
-</div>
-</details>
-</div>
-
-<div class="project-card">
-<details>
-<summary>Book Reviews (9)</summary>
-<div>
-
-<p class="publication-item">
-Denney, S. (2025). [Review of the book <em>Narratives of civic duty: How national stories shape democracy in Asia</em>, by A. Hur]. <em>Korean Histories</em>. <a href="https://korean-histories.org/archives/volumes/2025/civic.html" target="_blank">Link</a>
-</p>
-
-<p class="publication-item">
-Denney, S. (2025). [Review of the book <em>North Korea's mundane revolution: Socialist living and the rise of Kim Il-sung, 1953-1965</em>, by A. Schmid]. <em>Korean Histories</em>. <a href="https://korean-histories.org/archives/volumes/2025/denney.html" target="_blank">Link</a>
-</p>
-
-<p class="publication-item">
-Denney, S. (2024). [Review of the book <em>From development to democracy: The transformations of modern Asia</em>, by D. Slater & J. Wong]. <em>Pacific Affairs, 97</em>(4). <a href="https://pacificaffairs.ubc.ca/book-reviews/from-development-to-democracy-the-transformations-of-modern-asia-by-dan-slater-and-joseph-wong/" target="_blank">Link</a>
-</p>
-
-<p class="publication-item">
-Denney, S. (2022). [Review of the book <em>After the Korean War: An intimate history</em>, by H. Kwon]. <em>Pacific Affairs, 95</em>(1). <a href="https://pacificaffairs.ubc.ca/book-reviews/after-the-korean-war-an-intimate-history-by-heonik-kwon/" target="_blank">Link</a>
-</p>
-
-<p class="publication-item">
-Denney, S. (2018). [Review of the book <em>Park Chung Hee and modern Korea: The roots of militarism, 1866-1945</em>, by C. Eckert]. <em>Korea Journal, 58</em>(3), 184–190.
-</p>
-
-<p class="publication-item">
-Denney, S. (2018). [Review of the book <em>North Korea's hidden revolution: How the information underground is transforming a closed society</em>, by J. Baek]. <em>Pacific Affairs, 91</em>(1), 176–178. <a href="https://pacificaffairs.ubc.ca/book-reviews/north-koreas-hidden-revolution-how-the-information-underground-is-transforming-a-closed-society-by-jieun-baek/" target="_blank">Link</a>
-</p>
-
-<p class="publication-item">
-Denney, S. (2015). [Review of the book <em>Assimilating Seoul: Japanese rule and the politics of public space in colonial Korea, 1910–1945</em>, by T. A. Henry]. <em>British Academy of Korean Studies Journal</em>. <a href="http://www.baks.org.uk/wptest/book-review-assimilating-seoul-japanese-rule-and-the-politics-of-public-space-in-colonial-korea-1910-1945-by-todd-a-henry/" target="_blank">Link</a>
-</p>
-
-<p class="publication-item">
-Denney, S. (2015). [Review of the book <em>The Korean War: An international history</em>, by H. Wada]. <em>European Journal of Korean Studies</em>. <a href="http://www.baks.org.uk/wptest/book-review-the-korean-war-an-international-history-by-wada-haruki/" target="_blank">Link</a>
-</p>
-
-<p class="publication-item">
-Denney, S. (2014). [Review of the book <em>The Oxford handbook of the international relations of Asia</em>]. <em>Asan Forum, 2</em>(6). <a href="https://theasanforum.org/oxford-handbook-of-the-international-relations-of-asia-oxford-oxford-university-press-2014-kindle-edition/" target="_blank">Link</a>
 </p>
 
 </div>
