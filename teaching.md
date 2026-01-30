@@ -6,9 +6,9 @@ permalink: /teaching/
 
 # Teaching
 
-My teaching sits at the intersection of digital humanities and quantitative social science. I previously taught research methods in political science at the University of Toronto, where I developed courses focused on research design and data analysis. At Leiden University, I currently focus my teaching on computational text analysis and research design, with an emphasis on applications to Korean studies and area studies more broadly.
+My teaching is closely informed by my research and also sits at the intersection of digital humanities and quantitative social science. I previously taught research methods in political science at the University of Toronto. At Leiden University, I currently focus my teaching on digital humanities, computational text analysis, and research design, with an emphasis on applications to Korean studies and area studies more broadly.
 
-I also teach courses in international relations and comparative politics.
+I also teach courses in international relations and comparative politics and supervise MA and PhD students working on topics related to migration and governance, East Asian politics and society, and those using quantiative research methods.
 
 ---
 
