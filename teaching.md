@@ -48,6 +48,46 @@ I previously taught comparative politics courses and research methods in politic
 
 ---
 
+## Research Design Courses
+
+<div class="project-card">
+<h3>BA Thesis Seminar</h3>
+
+<p class="project-meta">
+<strong>Level:</strong> BA III · <strong>Program:</strong> Korean Studies, Leiden University<br>
+<a href="https://scdenney.github.io/baks_thesis-seminar/">Course Website</a>
+</p>
+
+<details>
+<summary>Course Description</summary>
+<div>
+<p>This seminar guides students through the process of designing and executing their BA thesis research. Students develop research questions, review relevant literature, and learn methodological approaches appropriate for their projects.</p>
+</div>
+</details>
+</div>
+
+---
+
+## IR/Comparative Politics
+
+<div class="project-card">
+<h3>International Relations</h3>
+
+<p class="project-meta">
+<strong>Level:</strong> BA · <strong>Program:</strong> International Studies, Leiden University<br>
+<a href="/assets/pdf/2526-bais-ir.pdf">Syllabus (PDF)</a>
+</p>
+
+<details>
+<summary>Course Description</summary>
+<div>
+<p>An introduction to international relations, covering major theories and contemporary issues in global politics.</p>
+</div>
+</details>
+</div>
+
+---
+
 ## Teaching Resources
 
 I develop and maintain open educational resources for computational text analysis. These include curated datasets and instructional materials designed to support students and researchers working at the intersection of Korean studies and digital humanities.
