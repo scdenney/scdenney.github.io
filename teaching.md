@@ -6,7 +6,7 @@ permalink: /teaching/
 
 # Teaching
 
-I teach coureses in comparative politics and those at the intersection of digital humanities and quantitative social science. 
+I teach courses in comparative politics and those at the intersection of digital humanities and quantitative social science. 
 
 I previously taught comparative politics courses and research methods in political science at the University of Toronto. At Leiden University, my teaching focus is on digital humanities and research design, with an emphasis on applications to Korean studies and area studies more broadly. I also teach courses in international relations and comparative politics. I supervise MA and PhD students working on topics related to migration and governance, East Asian politics and society, and those using quantiative research methods.
 
