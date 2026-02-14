@@ -72,7 +72,7 @@ Currently, my research program is organized around three projects that collectiv
 <h3>III. Nationalism and Political Change: Why Institutions Matter for National Identity and Belonging</h3>
 
 <p class="project-meta">
-<strong>Duration:</strong> 12 months (2024-25) · <strong>PI:</strong> Steven Denney (University of Vienna) · <strong>Funding:</strong> Academy of Korean Studies; University of Vienna
+<strong>Duration:</strong> Ongoing (2022-present) · <strong>PI:</strong> Steven Denney (Leiden University) · <strong>Collaborators:</strong> H. Christoph Steinhardt (University of Vienna) · <strong>Funding:</strong> Academy of Korean Studies; Leiden University; University of Vienna
 </p>
 
 <details>
@@ -93,12 +93,12 @@ Currently, my research program is organized around three projects that collectiv
 
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
+<li>Denney, S., Steinhardt, H. C., & Bhowmick, L. (2026). Identity conformity in Taiwan and South Korea: Why citizens in divided societies are pressured to overstate national pride. <em>Nationalism and Ethnic Politics</em>. Advance online publication. <a href="https://doi.org/10.1080/13537113.2026.2616954" target="_blank">https://doi.org/10.1080/13537113.2026.2616954</a></li>
 <li>Denney, S., & Green, C. (2024). Why do democratic societies tolerate undemocratic laws? Sorting public support for the National Security Act in South Korea. <em>Democratization, 31</em>(1), 113-131. <a href="https://doi.org/10.1080/13510347.2023.2258082" target="_blank">https://doi.org/10.1080/13510347.2023.2258082</a></li>
 </ul>
 
 <p><strong>Working Papers</strong></p>
 <ul>
-<li>Denney, S., Steinhardt, H. C., & Bhowmick, L. Identity conformity and concealment in Taiwan and South Korea. [Under review] — <a href="https://github.com/scdenney/national_identity_lists/tree/main/manuscript" target="_blank">Working paper</a></li>
 <li>Denney, S., & Steinhardt, H. C. The boundaries of belonging: An experimental approach to national identity measurement in Taiwan and South Korea. [Under review] — <a href="https://github.com/scdenney/national-identity-cbc-taiwan-korea/blob/main/README.md" target="_blank">Working paper</a></li>
 <li>Denney, S., Fraser, N., & Steinhardt, H. C. Cues of commitment: Integration and naturalization support in South Korea and Taiwan. [Under review] — <a href="https://github.com/scdenney/cues-east-asia" target="_blank">Working paper</a></li>
 <li>Denney, S., van Dam, I., & Green, C. Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? [Under review] — <a href="https://github.com/scdenney/persuasion-cues-kr-imm/blob/main/README.md" target="_blank">Working paper</a></li>
