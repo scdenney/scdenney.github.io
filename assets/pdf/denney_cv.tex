@@ -1,0 +1,442 @@
+%!TEX program = xelatex
+\documentclass[11pt, a4paper]{article}
+
+% --- Geometry ---
+\usepackage[top=1.5cm, bottom=1.5cm, left=2.0cm, right=2.0cm]{geometry}
+
+% --- Fonts (XeLaTeX) ---
+\usepackage{fontspec}
+\setmainfont{Palatino}
+\setsansfont{Helvetica Neue}
+\usepackage{microtype}
+
+% --- CJK support ---
+\usepackage{xeCJK}
+\setCJKmainfont{Apple SD Gothic Neo}[AutoFakeBold, AutoFakeSlant]
+
+% --- Packages ---
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{xurl}        % better URL/DOI line breaking
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+
+% --- Hyperref ---
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  urlcolor=black,
+  pdfauthor={Steven Denney},
+  pdftitle={Curriculum Vitae -- Steven Denney},
+}
+
+% --- Section formatting ---
+\titleformat{\section}
+  {\large\sffamily\bfseries}
+  {}{0pt}{}
+  [\vspace{-0.6em}{\rule{\textwidth}{0.8pt}}]
+\titlespacing{\section}{0pt}{0.6em}{0.3em}
+
+\titleformat{\subsection}
+  {\normalsize\bfseries}
+  {}{0pt}{}
+\titlespacing{\subsection}{0pt}{0.5em}{0.2em}
+
+% --- List formatting ---
+\setlist[enumerate]{leftmargin=2em, itemsep=0.1em, parsep=0pt, topsep=0.15em, label={[\arabic*]}}
+\setlist[itemize]{leftmargin=1.5em, itemsep=0.1em, parsep=0pt, topsep=0.15em}
+
+% --- Header / Footer ---
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\footnotesize Steven Denney \,|\, Curriculum Vitae \,|\, \thepage\ of \pageref{LastPage}}
+
+% --- Custom entry commands ---
+\newcommand{\cventry}[3]{%
+  \noindent
+  \begin{tabularx}{\textwidth}{@{}p{2.4cm}X@{}}
+    \textsc{#1} & \textbf{#2} \\
+                 & #3
+  \end{tabularx}\vspace{0.15em}%
+}
+
+% --- No paragraph indent ---
+\setlength{\parindent}{0pt}
+
+% --- Allow flexible spacing to prevent overflow ---
+\emergencystretch=3.5em
+
+% ============================================================
+\begin{document}
+
+% --- Title block ---
+\begin{center}
+  {\LARGE\sffamily\bfseries Steven Denney, Ph.D.}\\[0.3em]
+  {\normalsize
+    Leiden Institute for Area Studies\,\textperiodcentered\, Leiden University\\[0.1em]
+    \href{mailto:s.c.denney@hum.leidenuniv.nl}{s.c.denney@hum.leidenuniv.nl}
+    \,\textperiodcentered\,
+    \href{https://scdenney.net}{scdenney.net}
+  }
+\end{center}
+
+\vspace{0.15em}
+
+% ============================================================
+% PAGE 1 — the "one pager"
+% No hyphenation on this page; use vfill to distribute space
+% ============================================================
+\begingroup
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\tolerance=2000
+\emergencystretch=2em
+
+\section{Research Profile}
+
+I study the relationship between political institutions and individual preferences, particularly how democracy shapes national identity, attitudes toward migration, and political behavior. My work draws on surveys, experimental designs, and computational text analysis, and is situated at the intersection of comparative politics and digital humanities. Regionally, I focus on East Asia, with an emphasis on the Korean Peninsula, but I draw on cases in other regions where appropriate. I also maintain an active program of applied research on innovation policy, entrepreneurship, and the digital economy.
+
+\vfill
+
+% ============================================================
+\section{Academic Positions}
+
+\cventry{Current}{Leiden University, Institute for Area Studies}
+  {Assistant Professor \textit{[Universitair Docent]} of International Relations and Korean Studies}
+
+\cventry{2021--2023}{University of Vienna, Department of East Asian Studies}
+  {University Lecturer \textit{[Post-Doc Universitätsassistent*innen]} in East Asian Studies}
+
+\cventry{2019--2021}{University of Toronto, Munk School of Global Affairs and Public Policy}
+  {Postdoctoral Research Fellow}
+
+\vfill
+
+% ============================================================
+\section{Education}
+
+\cventry{2013--2019}{University of Toronto}
+  {Ph.D., Department of Political Science}
+
+\cventry{2011--2013}{Yonsei University}
+  {M.A., Global Affairs and Policy}
+
+\cventry{2005--2008}{Harding University}
+  {B.A., Department of Political Science}
+
+\vfill
+
+% ============================================================
+\section{Teaching}
+
+\cventry{Current}{Leiden University}
+  {Regions in World Politics; International Relations; Computational Text Analysis for Humanities and Social Science; Methodologies in the Social Sciences and Humanities (MA/PhD); Issues in Korean Studies}
+
+\cventry{2021--2023}{University of Vienna}
+  {Research Seminar for the Master's and PhD Thesis; Political Systems in East Asia; International Relations in East Asia; Nations and Nationalism in East Asia}
+
+\cventry{2013--2021}{University of Toronto}
+  {Methods in Political Science; Political Economy of East Asian Development; Introduction to Comparative Politics}
+
+\vfill
+
+% ============================================================
+\section{Technical Qualifications}
+
+\noindent\begin{tabularx}{\textwidth}{@{}p{2.4cm}X@{}}
+  \textbf{Languages} & English (native), Korean (advanced; C2), Spanish (intermediate; B2), German (beginner; B1), Dutch (beginner; A1/2) \\[0.5em]
+  \textbf{Analysis} & R, Python, Stata, and NVivo for quantitative and qualitative analysis; OCR and large language models for text extraction and classification \\[0.5em]
+  \textbf{Methods} & Survey and experimental design (conjoint, list, framing); computational text analysis; content and discourse analysis; qualitative interviews
+\end{tabularx}
+
+\vfill
+\endgroup
+
+% ============================================================
+\newpage
+\section{Research Grants \& Fellowships {\normalsize\normalfont(USD)}}
+
+{\small Grants administered as Primary Investigator marked with * and Co-Investigator marked with \dag}
+
+\vspace{0.2em}
+
+\begin{enumerate}[itemsep=0.15em]
+  \item ``Fairness or Threat? Understanding Sources of Immigration Backlash in Democracies.'' Netherlands Organisation for Scientific Research (NWO), SSH - XS 2025, 2025--2026. (\$57,000)*
+
+  \item ``Integration Challenges and Opportunities in Divided Countries: A Comparative Analysis of Germany and South Korea.'' IFES-MOU Overseas North Korea-Unification Policy Academic Research Grant, 2023--2024. (\$40,000)*
+
+  \item ``Who Belongs to the Nation? National Identity and Migrant Integration in South Korea.'' Academy of Korean Studies (AKS) Research Grant, AKS-2023-R018, 2022--2023. (\$13,500)*
+
+  \item ``Measuring the Impact of the Digital Economy.'' Facebook Research Grant, 2021--2023. (\$100,000)\dag
+
+  \item ``Neighbors, Employees, and Representatives: Why Do Some North Korean Migrants Integrate and Others Don't?'' Academy of Korean Studies (AKS) Research Grant, AKS-2021-R-083, 2020--2021. (\$25,000)\dag
+
+  \item ``Information Dissemination in North Korea: The Role of Social Networks, Markets, and Social Change.'' National Endowment for Democracy (NED) Research Grant, 2020--2021. (\$60,000)\dag
+
+  \item ``The Scale-up Challenge? Obstacles to High-Growth Technology-based Firms and the Policy Response.'' Mitacs--SSHRC Accelerate Grant, Award No.\ IT10712, 2017--2021. (\$150,000)*
+
+  \item ``Politics and Process of `Unification in Action'.'' UniKorea Fund Grant Program, 2018--2019. (\$40,000)*
+
+  \item ``Reproducing Contested Korean Identities and Social Structures on the Korean Peninsula.'' Academy of Korean Studies (AKS) Research Grant, AKS-2015-R49, 2015--2016. (\$16,000)\dag
+
+  \item ``Documenting Cultural and Political Information Strategies on the Korean Peninsula, 2012--2013.'' Academy of Korean Studies (AKS) Research Grant, AKS-2013-R11, 2012--2013. (\$15,000)\dag
+
+  \item Academy of Korean Studies (AKS), Pre-Doctoral Fellowship, 2016. (\$9,000)
+
+  \item Richard Simeon Doctoral Student Scholarship, University of Toronto, 2016. (\$5,000)
+
+  \item School of Graduate Studies (SGS) Research Grant, University of Toronto, 2016. (\$5,000)
+
+  \item Ontario Graduate Scholarship (OGS) Visa Award, University of Toronto, 2014. (\$25,000)
+\end{enumerate}
+
+% ============================================================
+\section{Research \& Publications}
+
+% --- Peer-Reviewed Articles ---
+\subsection{Peer-Reviewed Articles}
+
+\begin{enumerate}[itemsep=0.15em]\sloppy
+  \item Denney, S., Steinhardt, H.\ Christoph, \& Bhowmick, L.\ (2026). Identity conformity and concealment in Taiwan and South Korea: Why citizens in divided societies are pressured to overstate national pride. \textit{Nationalism and Ethnic Politics}. \href{https://doi.org/10.1080/13537113.2026.2616954}{doi:10.1080/13537113.2026.2616954}
+
+  \item Denney, S., Zhou, T., \& Brehm, R.\ (2025). From division to democracy: Integration of post-communist citizens in Germany and South Korea. \textit{Communist and Post-Communist Studies}. \href{https://doi.org/10.1525/cpcs.2025.2636997}{doi:10.1525/cpcs.2025.2636997}
+
+  \item Ward, P., \& Denney, S.\ (2025). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. \textit{Policy and Society}. \href{https://doi.org/10.1093/polsoc/puaf027}{doi:10.1093/polsoc/puaf027}
+
+  \item Ward, P., \& Denney, S.\ (2025). Partisan voters in party systems with ephemeral parties: Evidence from South Korea. \textit{Party Politics}. \href{https://doi.org/10.1177/13540688251339976}{doi:10.1177/13540688251339976}
+
+  \item Denney, S., Ward, P., \& Green, C.\ (2024). 한국인의 남북통일방식에 대한 의식 결정요인 분석: 컨조인트 분석 조사를 중심으로 [Analyzing the determinants of South Korean attitudes toward Korean unification: A conjoint analysis]. \textit{국가전략} [National Strategy], 30(1), 137--163. \href{https://doi.org/10.35390/sejong.30.1.202402.006}{doi:10.35390/sejong.30.1.202402.006}
+
+  \item Green, C., \& Denney, S.\ (2024). Why do democratic societies tolerate undemocratic laws? Sorting public support for the National Security Act in South Korea. \textit{Democratization}, 31(1), 113--131. \href{https://doi.org/10.1080/13510347.2023.2258082}{doi:10.1080/13510347.2023.2258082}
+
+  \item Denney, S., \& Green, C.\ (2024). Public attitudes towards co-ethnic migrant integration: Evidence from South Korea. \textit{Journal of Ethnic and Migration Studies}, 50(8), 1998--2022. \href{https://doi.org/10.1080/1369183X.2023.2286207}{doi:10.1080/1369183X.2023.2286207}
+
+  \item Denney, S., Ward, P., \& Green, C.\ (2023). Public support for migrant entrepreneurship: The case of North Koreans in the Republic of Korea. \textit{International Migration Review}. \href{https://doi.org/10.1177/01979183231203927}{doi:10.1177/01979183231203927}
+
+  \item Denney, S., \& Ward, P.\ (2023). How autocracies disrupt unsanctioned information flows: The role of state power and social capital in North Korea. \textit{Problems of Post-Communism}, 71(2), 177--191. \href{https://doi.org/10.1080/10758216.2023.2180038}{doi:10.1080/10758216.2023.2180038}
+
+  \item Denney, S., Breznitz, S., \& Zhang, Q.\ (2023). Too much support? Entrepreneurial ecosystems and firm growth. \textit{The Journal of Technology Transfer}. \href{https://doi.org/10.1007/s10961-023-10013-1}{doi:10.1007/s10961-023-10013-1}
+
+  \item Denney, S., Wolfe, D.\ A., \& Southin, T.\ (2023). Do winners pick government? How scale-up experience shapes entrepreneurs' assessments of innovation policy mixes. \textit{Science and Public Policy}, 50, 858--870. \href{https://doi.org/10.1093/scipol/scad030}{doi:10.1093/scipol/scad030}
+
+  \item Ward, P., \& Denney, S.\ (2022). Welfare chauvinism among co-ethnics: Evidence from a conjoint experiment in South Korea. \textit{International Migration}, 60(5), 74--90. \href{https://doi.org/10.1111/imig.12934}{doi:10.1111/imig.12934}
+
+  \item Wolfe, D.\ A., DiFrancesco, R.\ J., \& Denney, S.\ C.\ (2022). Localization of global networks: New mandates for MNEs in Toronto's innovation economy. \textit{Cambridge Journal of Regions, Economy and Society}, 15(2), 323--342. \href{https://doi.org/10.1093/cjres/rsac002}{doi:10.1093/cjres/rsac002}
+
+  \item Denney, S., \& Green, C.\ (2021). Who should be admitted? Conjoint analysis of attitudes toward immigrants in South Korea. \textit{Ethnicities}, 21(1), 120--145. \href{https://doi.org/10.1177/1468796820916609}{doi:10.1177/1468796820916609}
+
+  \item Denney, S., \& Green, C.\ (2021). North Korean patriotism: Assessing the success and failures of a nation. \textit{Korea Journal}, 61(1), 154--185. \href{https://doi.org/10.25024/kj.2021.61.1.154}{doi:10.25024/kj.2021.61.1.154}
+
+  \item Denney, S., Ward, P., \& Green, C.\ (2020). The limits of ethnic capital: Impacts of social desirability on Korean views of co-ethnic immigration. \textit{Journal of Ethnic and Migration Studies}, 48(7), 1669--1689. \href{https://doi.org/10.1080/1369183X.2020.1797477}{doi:10.1080/1369183X.2020.1797477}
+
+  \item Denney, S., Southin, T., \& Wolfe, D.\ A.\ (2021). Entrepreneurs and cluster evolution: The transformation of Toronto's ICT cluster. \textit{Regional Studies}, 55(2), 196--207. \href{https://doi.org/10.1080/00343404.2020.1762854}{doi:10.1080/00343404.2020.1762854}
+
+  \item Song, J., \& Denney, S.\ C.\ (2019). Studying North Korea through North Korean migrants: Lessons from the field. \textit{Critical Asian Studies}, 51(3), 451--466. \href{https://doi.org/10.1080/14672715.2019.1611462}{doi:10.1080/14672715.2019.1611462}
+
+  \item Cathcart, A., Green, C., \& Denney, S.\ C.\ (2014). How authoritarian regimes maintain domain consensus: North Korea's information strategies in the Kim Jong-un era. \textit{The Review of Korean Studies}, 17(2), 145--178. \href{https://doi.org/10.25024/review.2014.17.2.005}{doi:10.25024/review.2014.17.2.005}
+
+  \item Denney, S.\ C., \& Green, C.\ K.\ (2013). Towards a developmental understanding of North Korea: An institutional approach to economic reform and development. \textit{European Journal of Korean Studies}, 15, 92--111.
+
+  \item Cathcart, A., \& Denney, S.\ C.\ (2013). North Korea's cultural diplomacy in the early Kim Jong-un era. \textit{North Korean Review}, 9(2), 29--42. \href{https://doi.org/10.3172/NKR.9.2.29}{doi:10.3172/NKR.9.2.29}
+\end{enumerate}
+
+% --- Selected Working Papers ---
+\subsection{Selected Working Papers}
+
+\begin{enumerate}[itemsep=0.15em]
+  \item ``The Boundaries of Belonging: An Experimental Approach to National Identity Measurement in Taiwan and South Korea,'' with H.\ Christoph Steinhardt and Lisa Bhowmick. [\textit{under review}]
+
+  \item ``Cues of Commitment: Integration and Naturalization Support in South Korea and Taiwan,'' with Nicholas Fraser and Christoph Steinhardt. [\textit{under review}]
+
+  \item ``Persuasion and Prejudice: Are South Korean Attitudes Toward Immigration Open to Change?,'' with Isa van Dam and Christopher Green. [\textit{under review}]
+
+  \item ``Innovation Policy in Practice: Assessing Business Innovation and Growth Support Policies in Canada.'' [\textit{under review}]
+\end{enumerate}
+
+% --- Theses ---
+\subsection{Theses}
+
+\begin{enumerate}[itemsep=0.15em]
+  \item Denney, S.\ C.\ (2019). \textit{Does democracy matter? Political change and national identification in South Korea and beyond} (Ph.D.\ dissertation, Department of Political Science, University of Toronto).
+
+  \item Denney, S.\ C.\ (2013). \textit{Nation, state, and national economy: The early 19th century American developmental state} (M.A.\ thesis, Graduate School of Yonsei University).
+\end{enumerate}
+
+% --- Books ---
+\subsection{Books}
+
+\begin{enumerate}[itemsep=0.15em]
+  \item Denney, S.\ C.\ (n.d.). \textit{Nationalism under democracy: Why institutions matter for national identity and belonging} [manuscript in progress].
+
+  \item Denney, S., \& Lee, M.\ (n.d.). \textit{Democracy at school: Authoritarian education and post-democratization citizens in South Korea and Poland} [manuscript in preparation].
+
+  \item Cathcart, A., Green, C., \& Denney, S.\ C.\ (Eds.). (2020). \textit{Decoding the Sino--North Korean borderlands}. Amsterdam: Amsterdam University Press.
+\end{enumerate}
+
+% --- Book Chapters ---
+\subsection{Book Chapters}
+
+\begin{enumerate}[itemsep=0.15em]
+  \item Denney, S.\ C.\ (2024). Plus \c{c}a change? South Korean public opinion of the United States during the Trump administration. In M.\ Lerner \& D.\ Fields (Eds.), \textit{Divided America, divided Korea}. Cambridge University Press.
+
+  \item Denney, S.\ C.\ (2019). Democratic support and generational change in South Korea. In G.\ A.\ Brazinsky (Ed.), \textit{Korea and the world: New frontiers in Korean studies}. Lanham, MD: Rowman \& Littlefield.
+
+  \item Denney, S.\ C., Green, C., \& Cathcart, A.\ (2016). Kim Jong-un and the practice of Songun politics. In A.\ Cathcart et al.\ (Eds.), \textit{Change and continuity in North Korean politics}. Routledge.
+
+  \item Denney, S.\ C., \& Green, C.\ (2016). Pockets of efficiency: An institutional approach to economic reform and development. In A.\ Cathcart et al.\ (Eds.), \textit{Change and continuity in North Korean politics}. Routledge.
+
+  \item Denney, S.\ C., Hayes, P., et al.\ (2015). The implications of civic diplomacy for ROK foreign policy. In P.\ Hayes \& K.\ Yi (Eds.), \textit{Complexity, security and civil society in East Asia: Foreign policies and the Korean Peninsula}. Open Book Publishers.
+\end{enumerate}
+
+% --- Reports & Applied Research ---
+\subsection{Reports \& Applied Research}
+
+\begin{enumerate}[itemsep=0.15em]
+  \item Denney, S.\ C., \& Ward, P.\ (2023). Information dissemination in North Korea: A report for NGOs. National Endowment for Democracy (NED), January.
+
+  \item Denney, S.\ C., Vu, V., \& Kelly, R.\ (2021). Into the scale-up-verse: Exploring the landscape of Canada's high performing firms. IPL \& Brookfield Institute, December.
+
+  \item Denney, S.\ C., \& Vu, V.\ (2021). Just out of reach: The elusive quest to measure the digital economy. Brookfield Institute, June.
+
+  \item Denney, S.\ C., \& Vu, V.\ (2021). Scale the gap: The impact of growth barriers on women entrepreneurs in Canadian high-growth firms. Brookfield Institute, April.
+
+  \item Denney, S.\ C., Ward, P., \& Abrahamian, A.\ (2020). North Korean refugee entrepreneurs in South Korea: Unveiling Korea's hidden potential. The Asia Foundation, December.
+
+  \item Denney, S.\ C.\ (2019). Political order and civic space in the Asia Pacific: A multilevel analysis of trends, 1989--2020. United Nations Office of Global Insights and Policy, June.
+
+  \item Denney, S.\ C.\ (2019). Impact of COVID-19 on the market research community. Delvinia--Insights Association Special Report, May.
+
+  \item Denney, S.\ C., Green, C., \& Ward, P.\ (2019). New values \& old orders: Where do North Koreans fit in the new South Korea? Leiden Asia Centre, May.
+
+  \item Denney, S.\ C., \& Green, C.\ (2018). Unification in action? The national identity of North Korean defector-migrants: Insights and implications. Korean Economic Institute of America: Academic Paper Series, October.
+
+  \item Denney, S.\ C., Green, C., \& Gleason, B.\ (2015). The whisper in the ear: Re-defector press conference as information management tool. KEI Academic Paper Series, March.
+\end{enumerate}
+
+% --- Selected Policy Papers & Commentary ---
+\subsection{Selected Policy Papers \& Commentary}
+
+\begin{enumerate}[itemsep=0.15em]
+  \item Denney, S.\ C., \& Green, C.\ (2023). Because it is good for South Korea: Public support for defector entrepreneurship. \textit{38 North}, January.
+
+  \item Denney, S.\ C.\ (2022). Human rights and the future of the international order: Where does Seoul stand? \textit{Korea On Point}, November.
+
+  \item Denney, S.\ C., \& Green, C.\ (2022). Improving North Korean defector integration in South Korea: Survey findings and recommendations. \textit{38 North}, May.
+
+  \item Denney, S.\ C.\ (2022). South Koreans support immigration, but conditions apply. Italian Institute for International Political Studies (ISPI), March.
+
+  \item Denney, S.\ C., \& Vu, V.\ (2021). Great Canadian Survey of 2021: Insights for the Council of Canadian Innovators. IPL \& Brookfield Institute, July.
+
+  \item Denney, S.\ C., \& Vu, V.\ (2019). The COVID-19 crisis and policy preferences of Canadian technology scale-ups. IPL Research Report 2020-02, March.
+
+  \item Denney, S.\ C.\ (2016). Identité nationale et nationalisme nord-coréens [North Korean national identity and nationalism]. \textit{Korea Analysis}, 11, 40--44.
+
+  \item Denney, S.\ C.\ (2016). «Hell Chosun», expression de l'insatisfaction de la jeunesse sud-coréenne [``Hell Chosun:'' Expressions of dissatisfaction among South Korean youth]. \textit{Korea Analysis}, 9, 42--45.
+\end{enumerate}
+
+% --- Selected Reviews ---
+\subsection{Selected Reviews}
+
+\begin{enumerate}[itemsep=0.15em]
+  \item Denney, S.\ (2025). Review of \textit{Narratives of Civic Duty: How National Stories Shape Democracy in Asia}, by Aram Hur. \textit{Korean Histories}.
+
+  \item Denney, S.\ (2025). Review of \textit{North Korea's Mundane Revolution: Socialist Living and the Rise of Kim Il-sung, 1953--1965}, by Andre Schmid. \textit{Korean Histories}.
+
+  \item Denney, S.\ (2024). Review of \textit{From development to democracy: The transformations of modern Asia}, by Dan Slater and Joseph Wong. \textit{Pacific Affairs}, 97(4).
+
+  \item Denney, S.\ (2021). Review of \textit{After the Korean War: An intimate history}, by Heonik Kwon. \textit{Pacific Affairs}, 95(1).
+
+  \item Denney, S.\ (2018). Review of \textit{Park Chung Hee and modern Korea: The roots of militarism, 1866--1945}, by Carter Eckert. \textit{Korea Journal}, 58(3), 184--190.
+
+  \item Denney, S.\ (2018). Review of \textit{Unveiling the North Korean economy: Collapse and transition}, by Byung-Yeon Kim. \textit{Journal of American--East Asian Relations}, 25(1), 93--96.
+
+  \item Denney, S.\ (2018). Review of \textit{North Korea's hidden revolution}, by Jieun Baek. \textit{Pacific Affairs}, 91(1), 176--178.
+
+  \item Denney, S.\ (2014). Review of \textit{The Oxford handbook of the international relations of Asia}. \textit{The Asan Forum}, 2(6).
+
+  \item Denney, S.\ (2012). To never forget, one must first know [Review of \textit{Escape from Camp 14}, by Blaine Harden]. \textit{Korea Review}, 2(2), 171--175.
+\end{enumerate}
+
+% ============================================================
+\section{Selected Conferences, Workshops \& Presentations}
+
+{\small\textit{2023--2025 only}}
+
+\begin{enumerate}[itemsep=0.15em]
+  \item ``Guardianship Democracy: Mapping Elite Rule Preferences in East and Southeast Asia,'' 8th Annual Meeting of the Social Science Korean Studies Network in Europe (SoKEN), University of Duisburg--Essen, May 23--24, 2025.
+
+  \item ``Persuasion and Prejudice: Are South Korean Attitudes toward Immigration Open to Change?,'' Recalibrating `Skill' in Changing Immigration Regimes, Asia Research Institute, National University of Singapore, January 16--17, 2025.
+
+  \item ``Democracy and Nationalism: The Case of Taiwan,'' American Political Science Association (APSA) Conference, September 4--8, 2024.
+
+  \item ``Determinants of Foreign Information Use in North Korea: Research Findings and Implications,'' International North Korean Studies Networking Forum, Yonsei University, August 5, 2024.
+
+  \item ``Who Are `We' and How Do We Know It? New Experimental Designs for Measuring National Identity,'' Consequences of Identity Politics Workshop, University of Southampton, July 24--25, 2024.
+
+  \item ``How Inclusive Are National Identities in East Asian Democracies? Exploring a New Conjoint Approach,'' East Asia Institute, National University of Singapore, July 19, 2024.
+
+  \item ``Public Attitudes Towards Immigrant Incorporation in South Korea, Taiwan, and Japan,'' European Political Science Association (EPSA) Conference, July 4--6, 2024.
+
+  \item ``Plus \c{c}a change? South Korean Public Opinion of the United States During the Trump Administration,'' International Korean Studies Institute (IKSU) Summer School, June 19, 2024.
+
+  \item ``Public Support for Citizenship Expansion in East Asian Democracies,'' LIAS Talk Series, Leiden Institute for Asian Studies, May 15, 2024.
+
+  \item ``The Enduring Legacy of Forced Division: Welfare Nationalism in Germany and South Korea,'' Korean Studies Research Seminar, LIAS, Leiden University, April 17, 2024.
+
+  \item ``Size or Speed? Public Attitudes toward Rising Immigration Levels in Historically Homogeneous Nations,'' American Political Science Association (APSA) Conference, August 31--September 3, 2023.
+
+  \item ``Measuring National Identity: A Choice-Based Conjoint Approach,'' Midwest Political Science Association (MPSA) Conference, April 13--16, 2023.
+
+  \item ``Why Do Democratic Societies Tolerate Undemocratic Laws? Sorting Public Support for the National Security Act in South Korea,'' International Studies Association (ISA) Conference, March 15--18, 2023.
+
+  \item ``Nationalism Under Democracy: Why Institutions Matter for National Identity and Belonging,'' Ostasienforum, Department of East Asian Studies, University of Vienna, May 24, 2023.
+\end{enumerate}
+
+% ============================================================
+\section{Professional Experience}
+
+\cventry{2019--present}{Innovation Policy Lab, University of Toronto}
+  {Associate (non-resident)}
+
+\cventry{2022--present}{European Centre for North Korean Studies, University of Vienna}
+  {Vice-Director (2022--2023); Senior Fellow (current)}
+
+\cventry{2022--2023}{University of Vienna}
+  {Vice-Director of Study Program, East Asian Economy and Society (EcoS)}
+
+\cventry{2020--2021}{United Nations}
+  {Research Analyst \& Consultant}
+
+\cventry{2019--2021}{Brookfield Institute for Innovation + Entrepreneurship}
+  {Research Fellow}
+
+\cventry{2019--2021}{Statistics Canada}
+  {Deemed Employee}
+
+\cventry{2018--2019}{E\&Y / Toronto Global}
+  {Research Analyst \& Consultant}
+
+\cventry{2018--2019}{Asia Foundation}
+  {Research Analyst \& Consultant}
+
+\cventry{2014--2017}{The Diplomat}
+  {Contributor \& Analyst}
+
+% ============================================================
+\section{Memberships \& Associations}
+
+\noindent\begin{tabularx}{\textwidth}{@{}p{2.4cm}X@{}}
+  \textbf{Reviewer} & Government and Opposition, Democratization, International Political Science Review, International Migration, Asian Studies Review, Social Science Journal, Regional Studies, Communist and Post-Communist Studies, Journal of Ethnic and Migration Studies \\[0.5em]
+  \textbf{Member} & International Studies Association, Association of Asian Studies, Midwest Political Science Association, American Political Science Association, European Association for Political Science
+\end{tabularx}
+
+\vfill
+
+\begin{center}
+  \footnotesize\textit{Last updated: February 2026}
+\end{center}
+
+\end{document}

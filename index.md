@@ -3,9 +3,9 @@ layout: home
 title: About
 ---
 
-I am an assistant professor of International Relations and Korean Studies at [Leiden University](https://www.universiteitleiden.nl/), where I work at the intersection of digital humanities and quantitative social science to study questions of national identity, migration, and political change.
+I am an assistant professor of International Relations and Korean Studies at [Leiden University](https://www.universiteitleiden.nl/). I study the relationship between political institutions and individual preferences, particularly how democracy shapes national identity, attitudes toward migration, and political behavior. My work draws on surveys, experimental designs, and computational text analysis, and is situated at the intersection of comparative politics and digital humanities. Regionally, I focus on East Asia, with an emphasis on the Korean Peninsula, but I draw on cases in other regions where appropriate.
 
-Mainly, I am interested in relationship between institutions and individual preferences, such as the relationship between democracy and national identity. I use surveys and experimental designs to analyze public opinion and political behavior, but I am working increasingly more on machine learning for text analysis and developing pipelines that integrate OCR, vision-language models, and large language models to analyze large quantities of text. 
+I also maintain an active program of applied research on innovation policy, entrepreneurship, and the digital economy. I am working increasingly on machine learning for text analysis and developing pipelines that integrate OCR, vision-language models, and large language models to analyze large quantities of text.
 
 Motivated and informed by my research, I teach courses on computational text analysis, comparative politics, and Korean studies at both the undergraduate and graduate levels.
 
