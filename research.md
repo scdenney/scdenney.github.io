@@ -161,7 +161,7 @@ Cathcart, A., & Denney, S. (2013). North Korea's cultural diplomacy in the early
 <div>
 
 <p class="publication-item">
-Denney, S. (n.d.). <em>Nationalism under democracy: Why institutions matter for national identity and belonging</em>. [Manuscript in progress].
+Denney, S. (n.d.). <em>Nationalism under democracy: Why institutions matter for national identity and belonging</em>. [Manuscript under review].
 </p>
 
 <p class="publication-item">
@@ -169,7 +169,24 @@ Denney, S., & Lee, M. (n.d.). <em>Democracy at school: Authoritarian education a
 </p>
 
 <p class="publication-item">
-Cathcart, A., Denney, S., & Green, C. (Eds.). (2020). <em>Decoding the Sino-North Korean borderlands</em>. Amsterdam University Press.
+Cathcart, A., Denney, S., & Green, C. (Eds.). (2020). <em>Decoding the Sino-North Korean borderlands</em>. Amsterdam University Press. <a href="https://www.aup.nl/en/book/9789462987562/decoding-the-sino-north-korean-borderlands" target="_blank">Link</a>
+</p>
+
+</div>
+</details>
+</div>
+
+<div class="project-card">
+<details>
+<summary>Research Monographs (2)</summary>
+<div>
+
+<p class="publication-item">
+Denney, S., Frank, R., Brehm, R., Zhou, T., & Ward, P. (2023). <em>Integration challenges and opportunities in divided societies</em>. European Centre for North Korean Studies, University of Vienna.
+</p>
+
+<p class="publication-item">
+Denney, S., Vu, V., & Kelly, R. (2021). <em>Into the scale-up-verse: Exploring the landscape of Canada's high performing firms</em>. Innovation Policy Lab and Brookfield Institute. <a href="https://brookfieldinstitute.ca/scale-up-verse/" target="_blank">https://brookfieldinstitute.ca/scale-up-verse/</a>
 </p>
 
 </div>
@@ -269,19 +286,11 @@ Denney, S. (2013). <em>Nation, state, and national economy: The early 19th centu
 
 <div class="project-card">
 <details>
-<summary>Reports and Policy Papers (10)</summary>
+<summary>Reports and Policy Papers (8)</summary>
 <div>
 
 <p class="publication-item">
-Denney, S., Frank, R., Brehm, R., Zhou, T., & Ward, P. (2023). <em>Integration challenges and opportunities in divided societies</em>. European Centre for North Korean Studies, University of Vienna.
-</p>
-
-<p class="publication-item">
 Denney, S., & Ward, P. (2022). <em>Information dissemination in North Korea: A report for NGOs</em>. National Endowment for Democracy.
-</p>
-
-<p class="publication-item">
-Denney, S., Vu, V., & Kelly, R. (2021). <em>Into the scale-up-verse: Exploring the landscape of Canada's high performing firms</em>. Innovation Policy Lab and Brookfield Institute. <a href="https://brookfieldinstitute.ca/scale-up-verse/" target="_blank">https://brookfieldinstitute.ca/scale-up-verse/</a>
 </p>
 
 <p class="publication-item">
@@ -478,4 +487,4 @@ Denney, S. (2015). Telling tales: North Korea's use of re-defectors. Korean Econ
 </details>
 </div>
 
-<p style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 2rem;"><em>Last updated: January 2025</em></p>
+<p style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 2rem;"><em>Last updated: February 2026</em></p>
