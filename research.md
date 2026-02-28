@@ -182,7 +182,7 @@ Cathcart, A., Denney, S., & Green, C. (Eds.). (2020). <em>Decoding the Sino-Nort
 <div>
 
 <p class="publication-item">
-Denney, S., Frank, R., Brehm, R., Zhou, T., & Ward, P. (2023). <em>Integration challenges and opportunities in divided societies</em>. European Centre for North Korean Studies, University of Vienna.
+Denney, S., Frank, R., Brehm, R., Zhou, T., & Ward, P. (2023). <em>Integration challenges and opportunities in divided societies</em>. European Centre for North Korean Studies, University of Vienna. <a href="/assets/pdf/denney-et-al-2023-ifes-research-report.pdf" target="_blank">PDF</a>
 </p>
 
 <p class="publication-item">
