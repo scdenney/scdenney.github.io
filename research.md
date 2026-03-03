@@ -43,7 +43,7 @@ Denney, S., Kelly, R., & Wolfe, D. (n.d.). Innovation policy in practice: Assess
 <div>
 
 <p class="publication-item">
-Denney, S. (n.d.). Guardianship democracy: Mapping elite rule preferences in East and Southeast Asia. <a href="https://github.com/scdenney/guardianship_asia/tree/main" target="_blank">Working paper</a>
+Denney, S. (n.d.). "What were they thinking?" Using open-text responses to validate constructs in survey experiments.
 </p>
 
 <p class="publication-item">
