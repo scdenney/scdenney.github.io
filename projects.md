@@ -158,7 +158,7 @@ Currently, my research program is organized around three projects that collectiv
 <h3>Integration Challenges and Opportunities in Divided Countries</h3>
 
 <p class="project-meta">
-<strong>Duration:</strong> 12 months (2024-25) · <strong>PI:</strong> Steven Denney (University of Vienna) · <strong>Collaborators:</strong> Peter Ward · <strong>Funding:</strong> 2023 Overseas North Korea-Unification Policy Academic Research Support Grant; University of Vienna
+<strong>Duration:</strong> 12 months (2024-25) · <strong>PI:</strong> Steven Denney (European Centre for North Korean Studies / University of Vienna) · <strong>Collaborators:</strong> Ruediger Frank (University of Vienna), Rachel Brehm, Tim Zhou, Peter Ward · <strong>Funding:</strong> 2023 Overseas North Korea-Unification Policy Academic Research Support Grant; European Centre for North Korean Studies (ECNK), University of Vienna
 </p>
 
 <details>
@@ -177,9 +177,9 @@ Currently, my research program is organized around three projects that collectiv
 <li>Denney, S., Zhou, T., & Brehm, R. (2025). From division to democracy: Integration of post-communist citizens in Germany and South Korea. <em>Communist and Post-Communist Studies</em>. <a href="https://doi.org/10.1525/cpcs.2025.2636997" target="_blank">https://doi.org/10.1525/cpcs.2025.2636997</a></li>
 </ul>
 
-<p><strong>Reports</strong></p>
+<p><strong>Research Monograph</strong></p>
 <ul>
-<li>2023. <em>Integration Challenges and Opportunities in Divided Countries: A Comparative Analysis of Germany and South Korea</em>, Institute for Far Eastern Studies (IFES), Kyungnam University. [embargoed]</li>
+<li>Denney, S., Frank, R., Brehm, R., Zhou, T., & Ward, P. (2023). <em>Integration challenges and opportunities in divided societies</em>. European Centre for North Korean Studies, University of Vienna. <a href="/assets/pdf/denney-et-al-2023-ifes-research-report.pdf" target="_blank">PDF</a></li>
 </ul>
 
 <p><strong>Presentations</strong></p>
@@ -219,9 +219,13 @@ Currently, my research program is organized around three projects that collectiv
 <li>Denney, S., Kelly, R., & Wolfe, D. Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. [Under review] — <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank">Working paper</a></li>
 </ul>
 
+<p><strong>Research Monograph</strong></p>
+<ul>
+<li>Denney, S., Vu, V., & Kelly, R. (2021). <em>Into the scale-up-verse: Exploring the landscape of Canada's high performing firms</em>. Innovation Policy Lab and Brookfield Institute. <a href="https://brookfieldinstitute.ca/scale-up-verse/" target="_blank">Link</a></li>
+</ul>
+
 <p><strong>Reports</strong></p>
 <ul>
-<li>Denney, S., Vu, V., & Kelly, R. (2021). <a href="https://brookfieldinstitute.ca/scale-up-verse/" target="_blank">"Into the Scale-up-verse: Exploring the Landscape of Canada's High Performing Firms."</a> Innovation Policy Lab and Brookfield Institute, December.</li>
 <li>Denney, S., & Vu, V. (2021). <a href="https://scdenney.files.wordpress.com/2021/10/great-canadian-survey-2021_denney-vu_iplbiie.pdf" target="_blank">"Great Canadian Survey of 2021: Insights for the Council of Canadian Innovators."</a> Innovation Policy Lab and Brookfield Institute, July.</li>
 <li>Denney, S., & Vu, V. (2021). <a href="https://brookfieldinstitute.ca/measuring-the-digital-economy/" target="_blank">"Just Out of Reach: The Elusive Quest to Measure the Digital Economy."</a> Brookfield Institute, June.</li>
 <li>Denney, S., & Vu, V. (2021). <a href="https://brookfieldinstitute.ca/the-scale-up-challenge-for-women-entrepreneurs/" target="_blank">"Scale the Gap: The Impact of Growth Barriers on Women Entrepreneurs in Canadian High-Growth Firms."</a> Brookfield Institute, April.</li>
