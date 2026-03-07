@@ -158,7 +158,7 @@ Currently, my research program is organized around three projects that collectiv
 <h3>Integration Challenges and Opportunities in Divided Countries</h3>
 
 <p class="project-meta">
-<strong>Duration:</strong> 12 months (2024-25) · <strong>PI:</strong> Steven Denney (European Centre for North Korean Studies / University of Vienna) · <strong>Collaborators:</strong> Ruediger Frank, Robin Brehm, Tianzi Zhou (European Centre for North Korean Studies, University of Vienna), Peter Ward (Sejong Institute) · <strong>Funding:</strong> 2023 Overseas North Korea-Unification Policy Academic Research Support Grant; European Centre for North Korean Studies (ECNK), University of Vienna
+<strong>Duration:</strong> 12 months (2024-25) · <strong>PI:</strong> Steven Denney (European Centre for North Korean Studies, University of Vienna) · <strong>Collaborators:</strong> Ruediger Frank, Robin Brehm, Tianzi Zhou (European Centre for North Korean Studies, University of Vienna), Peter Ward (Sejong Institute) · <strong>Funding:</strong> 2023 Overseas North Korea-Unification Policy Academic Research Support Grant; European Centre for North Korean Studies (ECNK), University of Vienna
 </p>
 
 <details>
