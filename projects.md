@@ -69,7 +69,30 @@ Currently, my research program is organized around three projects that collectiv
 </div>
 
 <div class="project-card">
-<h3>III. Nationalism and Political Change: Why Institutions Matter for National Identity and Belonging</h3>
+<h3>III. AI Workforce Intelligence Initiative</h3>
+
+<p class="project-meta">
+<strong>Duration:</strong> 8 months (2026) · <strong>Role:</strong> Research Lead · <strong>Partner:</strong> The Dais, Toronto Metropolitan University · <strong>Funding:</strong> Government of Canada (AI and Technology Measurement Program / TechStat)
+</p>
+
+<details>
+<summary>Overview</summary>
+<div>
+<p>This project lays the groundwork for an ongoing initiative to track AI's impacts and trends on Canada's workforce and economy. It addresses three core questions: What data and measures allow ongoing analysis of how AI is penetrating the Canadian economy? What methodologies can identify AI's impact on the labour market? And how can this intelligence be mobilized to support policymakers, industry, and education systems?</p>
+<p>The project proceeds through three workstreams. The first develops an <em>AI Workforce Intelligence Measurement Framework</em> — an environmental scan identifying key measures of AI diffusion and impact, categorized by domain, frequency, and accessibility, with gap analysis aligned with Statistics Canada's TechStat initiatives. The second is a <em>pilot study on GenAI's impact on young workers and entry-level jobs</em>, combining GenAI usage indicators, occupational exposure measures, and comparative methodologies for isolating AI's labour market effects since ChatGPT's release. The third workstream develops an <em>AI Workforce Monitor</em>, a publicly accessible interactive data dashboard tracking key measures of AI adoption and disruption in Canada's workforce, modeled on the Dais Inclusive Innovation Monitor and Harvard's Generative AI Adoption Tracker.</p>
+</div>
+</details>
+
+<details>
+<summary>Output</summary>
+<div>
+<p><strong>Forthcoming</strong></p>
+</div>
+</details>
+</div>
+
+<div class="project-card">
+<h3>IV. Nationalism and Political Change: Why Institutions Matter for National Identity and Belonging</h3>
 
 <p class="project-meta">
 <strong>Duration:</strong> Ongoing (2022-present) · <strong>PI:</strong> Steven Denney (Leiden University) · <strong>Collaborators:</strong> H. Christoph Steinhardt (University of Vienna) · <strong>Funding:</strong> Academy of Korean Studies; Leiden University; University of Vienna
