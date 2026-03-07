@@ -72,7 +72,7 @@ Currently, my research program is organized around three projects that collectiv
 <h3>III. AI Workforce Intelligence Initiative</h3>
 
 <p class="project-meta">
-<strong>Duration:</strong> 8 months (2026) · <strong>Role:</strong> Research Lead · <strong>Partner:</strong> The Dais, Toronto Metropolitan University · <strong>Funding:</strong> Government of Canada (AI and Technology Measurement Program / TechStat)
+<strong>Duration:</strong> 8 months (2026) · <strong>Researcher:</strong> Steven Denney (Leiden University) · <strong>Collaborator:</strong> Viet Vu (The Dais, Toronto Metropolitan University) · <strong>Funding:</strong> Government of Canada (AI and Technology Measurement Program / TechStat)
 </p>
 
 <details>
