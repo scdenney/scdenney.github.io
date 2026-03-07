@@ -158,7 +158,7 @@ Currently, my research program is organized around three projects that collectiv
 <h3>Integration Challenges and Opportunities in Divided Countries</h3>
 
 <p class="project-meta">
-<strong>Duration:</strong> 12 months (2024-25) · <strong>PI:</strong> Steven Denney (European Centre for North Korean Studies, University of Vienna) · <strong>Collaborators:</strong> Ruediger Frank, Robin Brehm, Tianzi Zhou (European Centre for North Korean Studies, University of Vienna), Peter Ward (Sejong Institute) · <strong>Funding:</strong> 2023 Overseas North Korea-Unification Policy Academic Research Support Grant; European Centre for North Korean Studies (ECNK), University of Vienna
+<strong>Duration:</strong> 12 months (2024-25) · <strong>PI:</strong> Steven Denney (European Centre for North Korean Studies, University of Vienna) · <strong>Collaborators:</strong> Ruediger Frank, Robin Brehm, Tianzi Zhou (European Centre for North Korean Studies, University of Vienna), Peter Ward (Sejong Institute) · <strong>Funding:</strong> 2023 Overseas North Korea-Unification Policy Academic Research Support Grant, Institute for Far Eastern Studies (IFES), Kyungnam University
 </p>
 
 <details>
@@ -179,7 +179,7 @@ Currently, my research program is organized around three projects that collectiv
 
 <p><strong>Research Monograph</strong></p>
 <ul>
-<li>Denney, S., Frank, R., Brehm, R., Zhou, T., & Ward, P. (2023). <em>Integration challenges and opportunities in divided societies</em>. European Centre for North Korean Studies, University of Vienna. <a href="/assets/pdf/denney-et-al-2023-ifes-research-report.pdf" target="_blank">PDF</a></li>
+<li>Denney, S., Ward, P., Brehm, R., Frank, R., & Zhou, T. (2023). <em>Integration challenges and opportunities in divided countries: A comparative analysis of Germany and South Korea</em>. European Centre for North Korean Studies (ECNK), University of Vienna. <a href="/assets/pdf/denney-et-al-2023-ifes-research-report.pdf" target="_blank">PDF</a></li>
 </ul>
 
 <p><strong>Presentations</strong></p>
