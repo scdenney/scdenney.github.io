@@ -173,7 +173,8 @@ body {
   list-style: none;
   padding: 0;
   margin: 0;
-  text-align: center;
+  display: inline-block;
+  text-align: left;
 }
 
 .author__urls li {
@@ -181,7 +182,7 @@ body {
 }
 
 .author__urls a {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   gap: 0.6rem;
   color: var(--text-gray);
