@@ -545,12 +545,18 @@ details li {
   display: none;
 }
 
-.research-content h2 {
+.research-section {
+  border-left: 3px solid var(--dusty-rose);
+  padding-left: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.research-section h2 {
   color: var(--deep-plum);
-  margin-top: 1.5rem;
+  margin-top: 0;
   margin-bottom: 0.75rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid var(--muted-gold);
+  padding-bottom: 0;
+  border-bottom: none;
 }
 
 /* Responsive */
