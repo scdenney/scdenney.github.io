@@ -519,7 +519,7 @@ details li {
 .research-toc a {
   color: var(--text-dark);
   text-decoration: none;
-  font-size: 1.05rem;
+  font-size: 1rem;
   line-height: 1.5;
   display: block;
   padding: 0.1rem 0;
@@ -549,8 +549,8 @@ details li {
   color: var(--deep-plum);
   margin-top: 1.5rem;
   margin-bottom: 0.75rem;
-  padding-bottom: 0;
-  border-bottom: none;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--muted-gold);
 }
 
 /* Responsive */
