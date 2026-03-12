@@ -546,9 +546,18 @@ details li {
 }
 
 .research-section {
+  padding: 1rem 0 1rem 1.25rem;
+  margin-bottom: 0.75rem;
   border-left: 3px solid var(--dusty-rose);
-  padding-left: 1.25rem;
-  margin-bottom: 1.5rem;
+  border-radius: 0 4px 4px 0;
+}
+
+.research-section:nth-child(odd) {
+  background: white;
+}
+
+.research-section:nth-child(even) {
+  background: var(--cream);
 }
 
 .research-section h2 {
