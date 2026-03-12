@@ -86,7 +86,7 @@ body {
 .masthead__nav a {
   color: var(--warm-tan);
   text-decoration: none;
-  font-size: 0.95rem;
+  font-size: 1.02rem;
   font-weight: 400;
   padding: 0.25rem 0;
   transition: color 0.2s ease;
@@ -519,7 +519,7 @@ details li {
 .research-toc a {
   color: var(--text-dark);
   text-decoration: none;
-  font-size: 1rem;
+  font-size: 0.97rem;
   line-height: 1.5;
   display: block;
   padding: 0.1rem 0;
