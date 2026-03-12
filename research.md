@@ -4,18 +4,39 @@ title: Research
 permalink: /research/
 ---
 
-# Research
+<div class="research-layout">
+  <aside class="research-sidebar">
+    <div class="research-sidebar-inner">
+      <h2 class="research-sidebar-title">On this page</h2>
+      <nav class="research-toc">
+        <ul>
+          <li><a href="#working-papers">Working Papers Under Review</a></li>
+          <li><a href="#papers-in-progress">Papers in Progress</a></li>
+          <li><a href="#journal-articles">Peer-Reviewed Journal Articles</a></li>
+          <li><a href="#books">Books</a></li>
+          <li><a href="#research-monographs">Research Monographs</a></li>
+          <li><a href="#book-chapters">Book Chapters</a></li>
+          <li><a href="#book-reviews">Book Reviews</a></li>
+          <li><a href="#dissertations">Dissertations and Theses</a></li>
+          <li><a href="#reports">Reports and Policy Papers</a></li>
+          <li><a href="#commentary">Selected Commentary</a></li>
+          <li><a href="#talks">Selected Talks</a></li>
+        </ul>
+      </nav>
+    </div>
+  </aside>
 
-This page lists my academic working papers and published work, both peer-reviewed and non-academic.
+  <div class="research-content">
 
-See <a href="http://SinoNK.com" target="_blank">SinoNK.com</a> for an overview of my work there. Articles written for <a href="https://thediplomat.com/" target="_blank"><em>The Diplomat</em></a> (2014-2019) can be found at <a href="https://thediplomat.com/authors/steven-denney/" target="_blank">my author page</a>.
+<h1>Research</h1>
 
----
+<p>This page lists my academic working papers and published work, both peer-reviewed and non-academic.</p>
 
-<div class="project-card">
-<details>
-<summary>Working Papers Under Review (4)</summary>
-<div>
+<p>See <a href="http://SinoNK.com" target="_blank">SinoNK.com</a> for an overview of my work there. Articles written for <a href="https://thediplomat.com/" target="_blank"><em>The Diplomat</em></a> (2014-2019) can be found at <a href="https://thediplomat.com/authors/steven-denney/" target="_blank">my author page</a>.</p>
+
+<hr>
+
+<h2 id="working-papers">Working Papers Under Review</h2>
 
 <p class="publication-item">
 Denney, S., Fraser, N., & Steinhardt, H. C. (n.d.). Cues of commitment: Integration and naturalization support in South Korea and Taiwan. <a href="https://github.com/scdenney/cues-east-asia" target="_blank">Working paper</a>
@@ -33,14 +54,9 @@ Denney, S., van Dam, I., & Green, C. (n.d.). Persuasion and prejudice: Are South
 Denney, S., Kelly, R., & Wolfe, D. (n.d.). Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank">Working paper</a>
 </p>
 
-</div>
-</details>
-</div>
+<hr>
 
-<div class="project-card">
-<details>
-<summary>Papers in Progress (5)</summary>
-<div>
+<h2 id="papers-in-progress">Papers in Progress</h2>
 
 <p class="publication-item">
 Denney, S. (n.d.). "What were they thinking?" Using open-text responses to validate constructs in survey experiments.
@@ -58,14 +74,9 @@ Denney, S. (n.d.). A generational theory of identity change.
 Denney, S., & van de Pol, A. (n.d.). Constructing the nation: Identity and historical narratives in South Korean history textbooks.
 </p>
 
-</div>
-</details>
-</div>
+<hr>
 
-<div class="project-card">
-<details>
-<summary>Peer-Reviewed Journal Articles (21)</summary>
-<div>
+<h2 id="journal-articles">Peer-Reviewed Journal Articles</h2>
 
 <p class="publication-item">
 Denney, S., Steinhardt, H. C., & Bhowmick, L. (2026). Identity conformity in Taiwan and South Korea: Why citizens in divided societies are pressured to overstate national pride. <em>Nationalism and Ethnic Politics</em>. Advance online publication. <a href="https://doi.org/10.1080/13537113.2026.2616954" target="_blank">https://doi.org/10.1080/13537113.2026.2616954</a>
@@ -151,14 +162,9 @@ Denney, S., & Green, C. (2013). Towards a developmental understanding of North K
 Cathcart, A., & Denney, S. (2013). North Korea's cultural diplomacy in the early Kim Jong-un era. <em>North Korean Review, 9</em>(2), 29–42. <a href="https://doi.org/10.3172/NKR.9.2.29" target="_blank">https://doi.org/10.3172/NKR.9.2.29</a>
 </p>
 
-</div>
-</details>
-</div>
+<hr>
 
-<div class="project-card">
-<details>
-<summary>Books (3)</summary>
-<div>
+<h2 id="books">Books</h2>
 
 <p class="publication-item">
 Denney, S. (n.d.). <em>Nationalism under democracy: Why institutions matter for national identity and belonging</em>. [Manuscript under review].
@@ -172,14 +178,9 @@ Denney, S., & Lee, M. (n.d.). <em>Democracy at school: Authoritarian education a
 Cathcart, A., Denney, S., & Green, C. (Eds.). (2020). <em>Decoding the Sino-North Korean borderlands</em>. Amsterdam University Press. <a href="https://www.aup.nl/en/book/9789462987562/decoding-the-sino-north-korean-borderlands" target="_blank">Link</a>
 </p>
 
-</div>
-</details>
-</div>
+<hr>
 
-<div class="project-card">
-<details>
-<summary>Research Monographs (2)</summary>
-<div>
+<h2 id="research-monographs">Research Monographs</h2>
 
 <p class="publication-item">
 Denney, S., Frank, R., Brehm, R., Zhou, T., & Ward, P. (2023). <em>Integration challenges and opportunities in divided societies</em>. European Centre for North Korean Studies, University of Vienna. <a href="/assets/pdf/denney-et-al-2023-ifes-research-report.pdf" target="_blank">PDF</a>
@@ -189,14 +190,9 @@ Denney, S., Frank, R., Brehm, R., Zhou, T., & Ward, P. (2023). <em>Integration c
 Denney, S., Vu, V., & Kelly, R. (2021). <em>Into the scale-up-verse: Exploring the landscape of Canada's high performing firms</em>. Innovation Policy Lab and Brookfield Institute. <a href="https://brookfieldinstitute.ca/scale-up-verse/" target="_blank">https://brookfieldinstitute.ca/scale-up-verse/</a>
 </p>
 
-</div>
-</details>
-</div>
+<hr>
 
-<div class="project-card">
-<details>
-<summary>Book Chapters (5)</summary>
-<div>
+<h2 id="book-chapters">Book Chapters</h2>
 
 <p class="publication-item">
 Denney, S. (2024). Plus ça change? South Korean public opinion of the United States during the Trump administration. In M. Lerner & D. Fields (Eds.), <em>Divided America, divided Korea</em>. Cambridge University Press.
@@ -218,14 +214,9 @@ Denney, S., & Green, C. (2016). Pockets of efficiency: An institutional approach
 Hayes, P., Denney, S., et al. (2015). The implications of civic diplomacy for ROK foreign policy. In P. Hayes & K. Yi (Eds.), <em>Complexity, security and civil society in East Asia</em>. Open Book Publishers.
 </p>
 
-</div>
-</details>
-</div>
+<hr>
 
-<div class="project-card">
-<details>
-<summary>Book Reviews (9)</summary>
-<div>
+<h2 id="book-reviews">Book Reviews</h2>
 
 <p class="publication-item">
 Denney, S. (2025). [Review of the book <em>Narratives of civic duty: How national stories shape democracy in Asia</em>, by A. Hur]. <em>Korean Histories</em>. <a href="https://korean-histories.org/archives/volumes/2025/civic.html" target="_blank">Link</a>
@@ -263,14 +254,9 @@ Denney, S. (2015). [Review of the book <em>The Korean War: An international hist
 Denney, S. (2014). [Review of the book <em>The Oxford handbook of the international relations of Asia</em>]. <em>Asan Forum, 2</em>(6). <a href="https://theasanforum.org/oxford-handbook-of-the-international-relations-of-asia-oxford-oxford-university-press-2014-kindle-edition/" target="_blank">Link</a>
 </p>
 
-</div>
-</details>
-</div>
+<hr>
 
-<div class="project-card">
-<details>
-<summary>Dissertations and Theses (2)</summary>
-<div>
+<h2 id="dissertations">Dissertations and Theses</h2>
 
 <p class="publication-item">
 Denney, S. (2019). <em>Does democracy matter? Political change and national identification in South Korea and beyond</em> [Doctoral dissertation, University of Toronto]. TSpace. <a href="https://hdl.handle.net/1807/97443" target="_blank">https://hdl.handle.net/1807/97443</a>
@@ -280,14 +266,9 @@ Denney, S. (2019). <em>Does democracy matter? Political change and national iden
 Denney, S. (2013). <em>Nation, state, and national economy: The early 19th century American developmental state</em> [Master's thesis, Yonsei University].
 </p>
 
-</div>
-</details>
-</div>
+<hr>
 
-<div class="project-card">
-<details>
-<summary>Reports and Policy Papers (8)</summary>
-<div>
+<h2 id="reports">Reports and Policy Papers</h2>
 
 <p class="publication-item">
 Denney, S., & Ward, P. (2022). <em>Information dissemination in North Korea: A report for NGOs</em>. National Endowment for Democracy.
@@ -321,14 +302,9 @@ Denney, S., & Green, C. (2018). Unification in action? The national identity of 
 Denney, S., Green, C., & Gleason, B. (2015). The whisper in the ear: Re-defector press conference as information management tool. <em>Korean Economic Institute of America: Academic Paper Series</em>. <a href="https://keia.org/publication/the-whisper-in-the-ear-re-defector-press-conference-as-information-management-tool/" target="_blank">Link</a>
 </p>
 
-</div>
-</details>
-</div>
+<hr>
 
-<div class="project-card">
-<details>
-<summary>Selected Commentary (5)</summary>
-<div>
+<h2 id="commentary">Selected Commentary</h2>
 
 <p class="publication-item">
 Denney, S. (2025, March). Will Lee Jae-myung rise from South Korea's political chaos? <em>The Diplomat</em>. <a href="https://thediplomat.com/2025/03/will-lee-jae-myung-rise-from-south-koreas-political-chaos/" target="_blank">Link</a>
@@ -350,14 +326,9 @@ Denney, S., & Green, C. (2022, May). Improving North Korean defector integration
 Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>Italian Institute for International Political Studies (ISPI)</em>. <a href="https://www.ispionline.it/en/publication/south-koreans-support-immigration-conditions-apply-33979" target="_blank">Link</a>
 </p>
 
-</div>
-</details>
-</div>
+<hr>
 
-<div class="project-card">
-<details>
-<summary>Selected Talks (31)</summary>
-<div>
+<h2 id="talks">Selected Talks</h2>
 
 <p class="publication-item">
 Denney, S. (2025). Guardianship democracy: Mapping elite rule preferences in East and Southeast Asia. 8th Annual Meeting of the Social Science Korean Studies Network in Europe (SoKEN), University of Duisburg–Essen, May 23–24.
@@ -483,8 +454,7 @@ Denney, S. (2016). Transformation of Korean national identity: What can differen
 Denney, S. (2015). Telling tales: North Korea's use of re-defectors. Korean Economic Institute's Academic Paper Series, March 12.
 </p>
 
-</div>
-</details>
-</div>
-
 <p style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 2rem;"><em>Last updated: February 2026</em></p>
+
+  </div>
+</div>
