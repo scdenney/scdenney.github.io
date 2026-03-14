@@ -154,7 +154,7 @@ Cathcart, A., Green, C., & Denney, S. (2014). How authoritarian regimes maintain
 </p>
 
 <p class="publication-item">
-Denney, S., & Green, C. (2013). Towards a developmental understanding of North Korea: An institutional approach to economic reform and development. <em>European Journal of Korean Studies, 15</em>, 92–111. <a href="https://www.ejks.org.uk/download/pages-88-111-christopher-green-and-steven-denney-an-institutional-approach-to-economic-reform-and-development-towards-a-developmental-understanding-of-north-korea/">10.ejks/2014.green-denney</a>
+Denney, S., & Green, C. (2013). Towards a developmental understanding of North Korea: An institutional approach to economic reform and development. <em>European Journal of Korean Studies, 15</em>, 92–111. <a href="https://www.ejks.org.uk/download/pages-88-111-christopher-green-and-steven-denney-an-institutional-approach-to-economic-reform-and-development-towards-a-developmental-understanding-of-north-korea/">10.ejks/2013.denney-green</a>
 </p>
 
 <p class="publication-item">
