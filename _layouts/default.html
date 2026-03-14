@@ -13,5 +13,29 @@
   </div>
 
   {% include footer.html %}
+
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var sections = document.querySelectorAll('.research-section');
+    sections.forEach(function(section) {
+      var items = section.querySelectorAll('.publication-item');
+      if (items.length <= 5) return;
+
+      section.classList.add('is-collapsible', 'is-collapsed');
+
+      var btn = document.createElement('button');
+      btn.className = 'show-more-btn';
+      btn.textContent = 'Show all ' + items.length + ' items';
+      section.appendChild(btn);
+
+      btn.addEventListener('click', function() {
+        var collapsed = section.classList.toggle('is-collapsed');
+        btn.textContent = collapsed
+          ? 'Show all ' + items.length + ' items'
+          : 'Show fewer';
+      });
+    });
+  });
+  </script>
 </body>
 </html>
