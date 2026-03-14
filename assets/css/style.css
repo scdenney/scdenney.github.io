@@ -320,6 +320,37 @@ hr {
   fill: currentColor;
 }
 
+/* Replication badge */
+.replication-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  margin-left: 0.5em;
+  padding: 0.15em 0.6em;
+  font-size: 0.8em;
+  font-weight: 500;
+  color: var(--burgundy);
+  background-color: var(--warm-tan);
+  border: 1px solid var(--dusty-rose);
+  border-radius: 999px;
+  text-decoration: none;
+  vertical-align: middle;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.replication-badge:hover {
+  background-color: var(--burgundy);
+  color: var(--cream);
+  border-color: var(--burgundy);
+}
+
+.replication-badge svg {
+  width: 0.95em;
+  height: 0.95em;
+  flex-shrink: 0;
+  fill: currentColor;
+}
+
 /* Collapsible Details */
 details {
   margin: 0.25rem 0;
