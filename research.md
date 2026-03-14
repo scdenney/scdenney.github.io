@@ -78,19 +78,19 @@ Denney, S., & van de Pol, A. (n.d.). Constructing the nation: Identity and histo
 <h2 id="journal-articles">Peer-Reviewed Journal Articles</h2>
 
 <p class="publication-item">
-Denney, S., Steinhardt, H. C., & Bhowmick, L. (2026). Identity conformity in Taiwan and South Korea: Why citizens in divided societies are pressured to overstate national pride. <em>Nationalism and Ethnic Politics</em>. Advance online publication. <a href="https://doi.org/10.1080/13537113.2026.2616954" target="_blank">https://doi.org/10.1080/13537113.2026.2616954</a> <a href="https://github.com/scdenney/nep-2026-replication" target="_blank" class="replication-badge"><span class="gh-icon" aria-hidden="true"></span><span>Replication package</span></a>
+Denney, S., Steinhardt, H. C., & Bhowmick, L. (2026). Identity conformity in Taiwan and South Korea: Why citizens in divided societies are pressured to overstate national pride. <em>Nationalism and Ethnic Politics</em>. Advance online publication. <a href="https://doi.org/10.1080/13537113.2026.2616954" target="_blank">https://doi.org/10.1080/13537113.2026.2616954</a> <a href="https://github.com/scdenney/nep-2026-replication" target="_blank" class="replication-badge">Replication package</a>
 </p>
 
 <p class="publication-item">
-Denney, S., Zhou, T., & Brehm, R. (2025). From division to democracy: Integration of post-communist citizens in Germany and South Korea. <em>Communist and Post-Communist Studies</em>. Advance online publication. <a href="https://doi.org/10.1525/cpcs.2025.2636997" target="_blank">https://doi.org/10.1525/cpcs.2025.2636997</a> <a href="https://github.com/scdenney/cpcs-2025-replication" target="_blank" class="replication-badge"><span class="gh-icon" aria-hidden="true"></span><span>Replication package</span></a>
+Denney, S., Zhou, T., & Brehm, R. (2025). From division to democracy: Integration of post-communist citizens in Germany and South Korea. <em>Communist and Post-Communist Studies</em>. Advance online publication. <a href="https://doi.org/10.1525/cpcs.2025.2636997" target="_blank">https://doi.org/10.1525/cpcs.2025.2636997</a> <a href="https://github.com/scdenney/cpcs-2025-replication" target="_blank" class="replication-badge">Replication package</a>
 </p>
 
 <p class="publication-item">
-Ward, P., & Denney, S. (2025). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. <em>Policy and Society</em>. Advance online publication. <a href="https://doi.org/10.1093/polsoc/puaf027" target="_blank">https://doi.org/10.1093/polsoc/puaf027</a> <a href="https://github.com/scdenney/welfare-chauvinism-replication" target="_blank" class="replication-badge"><span class="gh-icon" aria-hidden="true"></span><span>Replication package</span></a>
+Ward, P., & Denney, S. (2025). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. <em>Policy and Society</em>. Advance online publication. <a href="https://doi.org/10.1093/polsoc/puaf027" target="_blank">https://doi.org/10.1093/polsoc/puaf027</a> <a href="https://github.com/scdenney/welfare-chauvinism-replication" target="_blank" class="replication-badge">Replication package</a>
 </p>
 
 <p class="publication-item">
-Ward, P., & Denney, S. (2025). Partisan voters in party systems with ephemeral parties: Evidence from South Korea. <em>Party Politics</em>. Advance online publication. <a href="https://doi.org/10.1177/13540688251339976" target="_blank">https://doi.org/10.1177/13540688251339976</a> <a href="https://github.com/scdenney/korean-election-conjoint" target="_blank" class="replication-badge"><span class="gh-icon" aria-hidden="true"></span><span>Replication package</span></a>
+Ward, P., & Denney, S. (2025). Partisan voters in party systems with ephemeral parties: Evidence from South Korea. <em>Party Politics</em>. Advance online publication. <a href="https://doi.org/10.1177/13540688251339976" target="_blank">https://doi.org/10.1177/13540688251339976</a> <a href="https://github.com/scdenney/korean-election-conjoint" target="_blank" class="replication-badge">Replication package</a>
 </p>
 
 <p class="publication-item">
@@ -98,19 +98,19 @@ Denney, S., Ward, P., & Green, C. (2024). 한국인의 남북통일방식에 대
 </p>
 
 <p class="publication-item">
-Green, C., & Denney, S. (2024). Why do democratic societies tolerate undemocratic laws? Sorting public support for the National Security Act in South Korea. <em>Democratization, 31</em>(1), 113–131. <a href="https://doi.org/10.1080/13510347.2023.2258082" target="_blank">https://doi.org/10.1080/13510347.2023.2258082</a> <a href="https://github.com/scdenney/South-Korean-support-for-NSA" target="_blank" class="replication-badge"><span class="gh-icon" aria-hidden="true"></span><span>Replication package</span></a>
+Green, C., & Denney, S. (2024). Why do democratic societies tolerate undemocratic laws? Sorting public support for the National Security Act in South Korea. <em>Democratization, 31</em>(1), 113–131. <a href="https://doi.org/10.1080/13510347.2023.2258082" target="_blank">https://doi.org/10.1080/13510347.2023.2258082</a> <a href="https://github.com/scdenney/South-Korean-support-for-NSA" target="_blank" class="replication-badge">Replication package</a>
 </p>
 
 <p class="publication-item">
-Denney, S., & Green, C. (2024). Public attitudes towards co-ethnic migrant integration: Evidence from South Korea. <em>Journal of Ethnic and Migration Studies, 50</em>(8), 1998–2022. <a href="https://doi.org/10.1080/1369183X.2023.2286207" target="_blank">https://doi.org/10.1080/1369183X.2023.2286207</a> <a href="https://github.com/scdenney/north-korean-migrant-integration" target="_blank" class="replication-badge"><span class="gh-icon" aria-hidden="true"></span><span>Replication package</span></a>
+Denney, S., & Green, C. (2024). Public attitudes towards co-ethnic migrant integration: Evidence from South Korea. <em>Journal of Ethnic and Migration Studies, 50</em>(8), 1998–2022. <a href="https://doi.org/10.1080/1369183X.2023.2286207" target="_blank">https://doi.org/10.1080/1369183X.2023.2286207</a> <a href="https://github.com/scdenney/north-korean-migrant-integration" target="_blank" class="replication-badge">Replication package</a>
 </p>
 
 <p class="publication-item">
-Denney, S., Ward, P., & Green, C. (2023). Public support for migrant entrepreneurship: The case of North Koreans in the Republic of Korea. <em>International Migration Review</em>. Advance online publication. <a href="https://doi.org/10.1177/01979183231203927" target="_blank">https://doi.org/10.1177/01979183231203927</a> <a href="https://github.com/scdenney/NK-migrant-entrepreneur-support" target="_blank" class="replication-badge"><span class="gh-icon" aria-hidden="true"></span><span>Replication package</span></a>
+Denney, S., Ward, P., & Green, C. (2023). Public support for migrant entrepreneurship: The case of North Koreans in the Republic of Korea. <em>International Migration Review</em>. Advance online publication. <a href="https://doi.org/10.1177/01979183231203927" target="_blank">https://doi.org/10.1177/01979183231203927</a> <a href="https://github.com/scdenney/NK-migrant-entrepreneur-support" target="_blank" class="replication-badge">Replication package</a>
 </p>
 
 <p class="publication-item">
-Denney, S., & Ward, P. (2023). How autocracies disrupt unsanctioned information flows: The role of state power and social capital in North Korea. <em>Problems of Post-Communism, 71</em>(2), 177–191. <a href="https://doi.org/10.1080/10758216.2023.2180038" target="_blank">https://doi.org/10.1080/10758216.2023.2180038</a> <a href="https://github.com/scdenney/Information-Flows-in-North-Korea" target="_blank" class="replication-badge"><span class="gh-icon" aria-hidden="true"></span><span>Replication package</span></a>
+Denney, S., & Ward, P. (2023). How autocracies disrupt unsanctioned information flows: The role of state power and social capital in North Korea. <em>Problems of Post-Communism, 71</em>(2), 177–191. <a href="https://doi.org/10.1080/10758216.2023.2180038" target="_blank">https://doi.org/10.1080/10758216.2023.2180038</a> <a href="https://github.com/scdenney/Information-Flows-in-North-Korea" target="_blank" class="replication-badge">Replication package</a>
 </p>
 
 <p class="publication-item">
@@ -130,15 +130,15 @@ Wolfe, D. A., DiFrancesco, R. J., & Denney, S. (2022). Localization of global ne
 </p>
 
 <p class="publication-item">
-Denney, S., & Green, C. (2021). Who should be admitted? Conjoint analysis of attitudes toward immigrants in South Korea. <em>Ethnicities, 21</em>(1), 120–145. <a href="https://doi.org/10.1177/1468796820916609" target="_blank">https://doi.org/10.1177/1468796820916609</a> <a href="https://github.com/scdenney/ROK_conjoint_immigrants" target="_blank" class="replication-badge"><span class="gh-icon" aria-hidden="true"></span><span>Replication package</span></a>
+Denney, S., & Green, C. (2021). Who should be admitted? Conjoint analysis of attitudes toward immigrants in South Korea. <em>Ethnicities, 21</em>(1), 120–145. <a href="https://doi.org/10.1177/1468796820916609" target="_blank">https://doi.org/10.1177/1468796820916609</a> <a href="https://github.com/scdenney/ROK_conjoint_immigrants" target="_blank" class="replication-badge">Replication package</a>
 </p>
 
 <p class="publication-item">
-Denney, S., & Green, C. (2021). North Korean patriotism: Assessing the success and failures of a nation. <em>Korea Journal, 61</em>(1), 154–185. <a href="https://doi.org/10.25024/kj.2021.61.1.154" target="_blank">https://doi.org/10.25024/kj.2021.61.1.154</a> <a href="https://github.com/scdenney/DPRK_national_identity" target="_blank" class="replication-badge"><span class="gh-icon" aria-hidden="true"></span><span>Replication package</span></a>
+Denney, S., & Green, C. (2021). North Korean patriotism: Assessing the success and failures of a nation. <em>Korea Journal, 61</em>(1), 154–185. <a href="https://doi.org/10.25024/kj.2021.61.1.154" target="_blank">https://doi.org/10.25024/kj.2021.61.1.154</a> <a href="https://github.com/scdenney/DPRK_national_identity" target="_blank" class="replication-badge">Replication package</a>
 </p>
 
 <p class="publication-item">
-Denney, S., Ward, P., & Green, C. (2020). The limits of ethnic capital: Impacts of social desirability on Korean views of co-ethnic immigration. <em>Journal of Ethnic and Migration Studies, 47</em>(17), 4046–4066. <a href="https://doi.org/10.1080/1369183X.2020.1797477" target="_blank">https://doi.org/10.1080/1369183X.2020.1797477</a> <a href="https://github.com/scdenney/Korea_list_experiments" target="_blank" class="replication-badge"><span class="gh-icon" aria-hidden="true"></span><span>Replication package</span></a>
+Denney, S., Ward, P., & Green, C. (2020). The limits of ethnic capital: Impacts of social desirability on Korean views of co-ethnic immigration. <em>Journal of Ethnic and Migration Studies, 47</em>(17), 4046–4066. <a href="https://doi.org/10.1080/1369183X.2020.1797477" target="_blank">https://doi.org/10.1080/1369183X.2020.1797477</a> <a href="https://github.com/scdenney/Korea_list_experiments" target="_blank" class="replication-badge">Replication package</a>
 </p>
 
 <p class="publication-item">
