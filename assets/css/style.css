@@ -322,14 +322,12 @@ hr {
 
 /* Replication badge */
 .replication-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.3em;
-  margin-left: 0.5em;
-  padding: 0.1em 0.55em;
+  display: inline-block;
+  margin-left: 0.6em;
+  padding: 0.15em 0.8em;
   font-size: 0.72em;
   font-weight: 500;
-  line-height: 1.3;
+  line-height: 1.4;
   white-space: nowrap;
   color: var(--burgundy);
   background-color: var(--warm-tan);
