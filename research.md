@@ -174,7 +174,7 @@ Denney, S., & Lee, M. (n.d.). <em>Democracy at school: Authoritarian education a
 </p>
 
 <p class="publication-item">
-Cathcart, A., Denney, S., & Green, C. (Eds.). (2020). <em>Decoding the Sino-North Korean borderlands</em>. Amsterdam University Press. <a href="https://www.aup.nl/en/book/9789462987562/decoding-the-sino-north-korean-borderlands" target="_blank">Link</a>
+Cathcart, A., Denney, S., & Green, C. (Eds.). (2020). <em>Decoding the Sino-North Korean borderlands</em>. Amsterdam University Press. <a href="https://www.aup.nl/en/book/9789462987562/decoding-the-sino-north-korean-borderlands" target="_blank">Publisher page</a>
 </p>
 </div>
 
@@ -218,19 +218,19 @@ Hayes, P., Denney, S., et al. (2015). The implications of civic diplomacy for RO
 <h2 id="book-reviews">Book Reviews</h2>
 
 <p class="publication-item">
-Denney, S. (2025). [Review of the book <em>Narratives of civic duty: How national stories shape democracy in Asia</em>, by A. Hur]. <em>Korean Histories</em>. <a href="https://korean-histories.org/archives/volumes/2025/civic.html" target="_blank">Link</a>
+Denney, S. (2026). [Review of the book <em>Narratives of civic duty: How national stories shape democracy in Asia</em>, by A. Hur]. <em>Korean Histories, 5</em>(1), 86–87. <a href="https://korean-histories.org/volumes/articles/civic/index.html" target="_blank">Read review</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2025). [Review of the book <em>North Korea's mundane revolution: Socialist living and the rise of Kim Il-sung, 1953-1965</em>, by A. Schmid]. <em>Korean Histories</em>. <a href="https://korean-histories.org/archives/volumes/2025/denney.html" target="_blank">Link</a>
+Denney, S. (2026). [Review of the book <em>North Korea's mundane revolution: Socialist living and the rise of Kim Il-sung, 1953-1965</em>, by A. Schmid]. <em>Korean Histories, 5</em>(1), 83–84. <a href="https://korean-histories.org/volumes/articles/denney/" target="_blank">Read review</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2024). [Review of the book <em>From development to democracy: The transformations of modern Asia</em>, by D. Slater & J. Wong]. <em>Pacific Affairs, 97</em>(4). <a href="https://pacificaffairs.ubc.ca/book-reviews/from-development-to-democracy-the-transformations-of-modern-asia-by-dan-slater-and-joseph-wong/" target="_blank">Link</a>
+Denney, S. (2024). [Review of the book <em>From development to democracy: The transformations of modern Asia</em>, by D. Slater & J. Wong]. <em>Pacific Affairs, 97</em>(4). <a href="https://pacificaffairs.ubc.ca/book-reviews/from-development-to-democracy-the-transformations-of-modern-asia-by-dan-slater-and-joseph-wong/" target="_blank">Read review</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2022). [Review of the book <em>After the Korean War: An intimate history</em>, by H. Kwon]. <em>Pacific Affairs, 95</em>(1). <a href="https://pacificaffairs.ubc.ca/book-reviews/after-the-korean-war-an-intimate-history-by-heonik-kwon/" target="_blank">Link</a>
+Denney, S. (2022). [Review of the book <em>After the Korean War: An intimate history</em>, by H. Kwon]. <em>Pacific Affairs, 95</em>(1). <a href="https://pacificaffairs.ubc.ca/book-reviews/after-the-korean-war-an-intimate-history-by-heonik-kwon/" target="_blank">Read review</a>
 </p>
 
 <p class="publication-item">
@@ -238,19 +238,19 @@ Denney, S. (2018). [Review of the book <em>Park Chung Hee and modern Korea: The 
 </p>
 
 <p class="publication-item">
-Denney, S. (2018). [Review of the book <em>North Korea's hidden revolution: How the information underground is transforming a closed society</em>, by J. Baek]. <em>Pacific Affairs, 91</em>(1), 176–178. <a href="https://pacificaffairs.ubc.ca/book-reviews/north-koreas-hidden-revolution-how-the-information-underground-is-transforming-a-closed-society-by-jieun-baek/" target="_blank">Link</a>
+Denney, S. (2018). [Review of the book <em>North Korea's hidden revolution: How the information underground is transforming a closed society</em>, by J. Baek]. <em>Pacific Affairs, 91</em>(1), 176–178. <a href="https://pacificaffairs.ubc.ca/book-reviews/north-koreas-hidden-revolution-how-the-information-underground-is-transforming-a-closed-society-by-jieun-baek/" target="_blank">Read review</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2015). [Review of the book <em>Assimilating Seoul: Japanese rule and the politics of public space in colonial Korea, 1910–1945</em>, by T. A. Henry]. <em>British Academy of Korean Studies Journal</em>. <a href="http://www.baks.org.uk/wptest/book-review-assimilating-seoul-japanese-rule-and-the-politics-of-public-space-in-colonial-korea-1910-1945-by-todd-a-henry/" target="_blank">Link</a>
+Denney, S. (2015). [Review of the book <em>Assimilating Seoul: Japanese rule and the politics of public space in colonial Korea, 1910–1945</em>, by T. A. Henry]. <em>British Academy of Korean Studies Journal</em>. <a href="http://www.baks.org.uk/wptest/book-review-assimilating-seoul-japanese-rule-and-the-politics-of-public-space-in-colonial-korea-1910-1945-by-todd-a-henry/" target="_blank">Read review</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2015). [Review of the book <em>The Korean War: An international history</em>, by H. Wada]. <em>European Journal of Korean Studies</em>. <a href="http://www.baks.org.uk/wptest/book-review-the-korean-war-an-international-history-by-wada-haruki/" target="_blank">Link</a>
+Denney, S. (2015). [Review of the book <em>The Korean War: An international history</em>, by H. Wada]. <em>European Journal of Korean Studies</em>. <a href="http://www.baks.org.uk/wptest/book-review-the-korean-war-an-international-history-by-wada-haruki/" target="_blank">Read review</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2014). [Review of the book <em>The Oxford handbook of the international relations of Asia</em>]. <em>Asan Forum, 2</em>(6). <a href="https://theasanforum.org/oxford-handbook-of-the-international-relations-of-asia-oxford-oxford-university-press-2014-kindle-edition/" target="_blank">Link</a>
+Denney, S. (2014). [Review of the book <em>The Oxford handbook of the international relations of Asia</em>]. <em>Asan Forum, 2</em>(6). <a href="https://theasanforum.org/oxford-handbook-of-the-international-relations-of-asia-oxford-oxford-university-press-2014-kindle-edition/" target="_blank">Read review</a>
 </p>
 </div>
 
@@ -282,7 +282,7 @@ Denney, S., & Vu, V. (2021). <em>Scale the gap: The impact of growth barriers on
 </p>
 
 <p class="publication-item">
-Denney, S., Ward, P., & Abrahamian, A. (2020). <em>North Korean refugee entrepreneurs in South Korea: Unveiling Korea's hidden potential</em>. The Asia Foundation. <a href="https://asiafoundation.org/publication/north-korean-refugee-entrepreneurs-in-south-korea-unveiling-koreas-hidden-potential/" target="_blank">Link</a>
+Denney, S., Ward, P., & Abrahamian, A. (2020). <em>North Korean refugee entrepreneurs in South Korea: Unveiling Korea's hidden potential</em>. The Asia Foundation. <a href="https://asiafoundation.org/publication/north-korean-refugee-entrepreneurs-in-south-korea-unveiling-koreas-hidden-potential/" target="_blank">Read report</a>
 </p>
 
 <p class="publication-item">
@@ -290,7 +290,7 @@ Denney, S. (2019). <em>Political order and civic space in the Asia Pacific: A mu
 </p>
 
 <p class="publication-item">
-Denney, S., Green, C., & Ward, P. (2019). <em>New values & old orders: Where do North Koreans fit in the new South Korea?</em> Leiden Asia Centre. <a href="https://sinonk.com/2019/05/14/new-values-and-old-orders-where-do-north-koreans-fit-in-the-new-south-korea/" target="_blank">Link</a>
+Denney, S., Green, C., & Ward, P. (2019). <em>New values & old orders: Where do North Koreans fit in the new South Korea?</em> Leiden Asia Centre. <a href="https://sinonk.com/2019/05/14/new-values-and-old-orders-where-do-north-koreans-fit-in-the-new-south-korea/" target="_blank">Read report</a>
 </p>
 
 <p class="publication-item">
@@ -298,7 +298,7 @@ Denney, S., & Green, C. (2018). Unification in action? The national identity of 
 </p>
 
 <p class="publication-item">
-Denney, S., Green, C., & Gleason, B. (2015). The whisper in the ear: Re-defector press conference as information management tool. <em>Korean Economic Institute of America: Academic Paper Series</em>. <a href="https://keia.org/publication/the-whisper-in-the-ear-re-defector-press-conference-as-information-management-tool/" target="_blank">Link</a>
+Denney, S., Green, C., & Gleason, B. (2015). The whisper in the ear: Re-defector press conference as information management tool. <em>Korean Economic Institute of America: Academic Paper Series</em>. <a href="https://keia.org/publication/the-whisper-in-the-ear-re-defector-press-conference-as-information-management-tool/" target="_blank">Read report</a>
 </p>
 </div>
 
@@ -306,23 +306,23 @@ Denney, S., Green, C., & Gleason, B. (2015). The whisper in the ear: Re-defector
 <h2 id="commentary">Selected Commentary</h2>
 
 <p class="publication-item">
-Denney, S. (2025, March). Will Lee Jae-myung rise from South Korea's political chaos? <em>The Diplomat</em>. <a href="https://thediplomat.com/2025/03/will-lee-jae-myung-rise-from-south-koreas-political-chaos/" target="_blank">Link</a>
+Denney, S. (2025, March). Will Lee Jae-myung rise from South Korea's political chaos? <em>The Diplomat</em>. <a href="https://thediplomat.com/2025/03/will-lee-jae-myung-rise-from-south-koreas-political-chaos/" target="_blank">Read article</a>
 </p>
 
 <p class="publication-item">
-Denney, S., & Green, C. (2023, January). Because it is good for South Korea: Public support for defector entrepreneurship. <em>38 North</em>. <a href="https://www.38north.org/2023/01/because-it-is-good-for-south-korea-public-support-for-defector-entrepreneurship/" target="_blank">Link</a>
+Denney, S., & Green, C. (2023, January). Because it is good for South Korea: Public support for defector entrepreneurship. <em>38 North</em>. <a href="https://www.38north.org/2023/01/because-it-is-good-for-south-korea-public-support-for-defector-entrepreneurship/" target="_blank">Read article</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2022). Human rights and the future of the international order: Where does Seoul stand? <em>Korea On Point</em>. <a href="https://koreaonpoint.org/view.php?kword=denney&topic_idx=46&idx=156" target="_blank">Link</a>
+Denney, S. (2022). Human rights and the future of the international order: Where does Seoul stand? <em>Korea On Point</em>. <a href="https://koreaonpoint.org/view.php?kword=denney&topic_idx=46&idx=156" target="_blank">Read article</a>
 </p>
 
 <p class="publication-item">
-Denney, S., & Green, C. (2022, May). Improving North Korean defector integration in South Korea: Survey findings and recommendations. <em>38 North</em>. <a href="https://www.38north.org/2022/05/improving-north-korean-defector-integration-in-south-korea-survey-findings-and-recommendations/" target="_blank">Link</a>
+Denney, S., & Green, C. (2022, May). Improving North Korean defector integration in South Korea: Survey findings and recommendations. <em>38 North</em>. <a href="https://www.38north.org/2022/05/improving-north-korean-defector-integration-in-south-korea-survey-findings-and-recommendations/" target="_blank">Read article</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>Italian Institute for International Political Studies (ISPI)</em>. <a href="https://www.ispionline.it/en/publication/south-koreans-support-immigration-conditions-apply-33979" target="_blank">Link</a>
+Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>Italian Institute for International Political Studies (ISPI)</em>. <a href="https://www.ispionline.it/en/publication/south-koreans-support-immigration-conditions-apply-33979" target="_blank">Read article</a>
 </p>
 </div>
 
