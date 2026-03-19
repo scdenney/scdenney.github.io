@@ -6,7 +6,7 @@ permalink: /teaching/
 
 # Teaching
 
-I teach courses in comparative politics and those at the intersection of digital humanities and quantitative social science. At Leiden University, my teaching focus is on digital humanities and research design, with an emphasis on applications to Korean studies and area studies more broadly. I also teach courses in international relations and supervise BA, MA, and PhD students working on topics related to migration and governance, East Asian politics and society, and quantitative research methods.
+This page collects my teaching and supervision activities at Leiden University, along with open educational resources I develop and maintain. Below you will find resources for thesis supervision, computational text analysis, and research methodology, followed by current course offerings in digital humanities, research design, and international relations.
 
 ---
 
@@ -18,6 +18,7 @@ I develop and maintain open educational resources for research methods, thesis s
 <h3>Thesis Supervision</h3>
 
 <p class="project-meta">
+<strong>Programs:</strong> BA International Studies · BA Korean Studies · MA Asian Studies · MA International Relations<br>
 <a href="https://scdenney.github.io/thesis-supervision/">Website</a>
 </p>
 
