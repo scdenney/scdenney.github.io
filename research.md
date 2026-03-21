@@ -116,7 +116,7 @@ Denney, S., Wolfe, D., & Southin, T. (2023). Do winners pick government? How sca
 </p>
 
 <p class="publication-item">
-Ward, P., & Denney, S. (2022). Welfare chauvinism among co-ethnics: Evidence from a conjoint experiment in South Korea. <em>International Migration, 60</em>(5), 74–90. <a href="https://doi.org/10.1111/imig.12937" target="_blank">https://doi.org/10.1111/imig.12937</a>
+Ward, P., & Denney, S. (2022). Welfare chauvinism among co-ethnics: Evidence from a conjoint experiment in South Korea. <em>International Migration, 60</em>(5), 74–90. <a href="https://doi.org/10.1111/imig.12937" target="_blank">https://doi.org/10.1111/imig.12937</a> <a href="https://github.com/scdenney/housing-conjoint-replication" target="_blank" class="replication-badge">Replication package</a>
 </p>
 
 <p class="publication-item">
