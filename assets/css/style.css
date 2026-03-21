@@ -325,7 +325,7 @@ hr {
   display: inline-block;
   margin-left: 4px;
   padding: 2px 12px;
-  font-size: 0.72em;
+  font-size: 1em;
   font-weight: 500;
   line-height: 1.5;
   white-space: nowrap;
@@ -370,15 +370,15 @@ hr {
   display: inline-block;
   margin-left: 0;
   padding: 2px 12px;
-  font-size: 0.72em;
+  font-size: 1em;
   font-weight: 500;
   line-height: 1.5;
   white-space: nowrap;
   text-indent: 0;
   text-align: center;
-  color: #7A2F3E;
+  color: var(--burgundy);
   background-color: var(--warm-tan);
-  border: 1px solid var(--soft-coral);
+  border: 1px solid var(--dusty-rose);
   border-radius: 999px;
   text-decoration: none;
   vertical-align: baseline;
@@ -386,9 +386,9 @@ hr {
 }
 
 .resource-badge:hover {
-  background-color: var(--soft-coral);
+  background-color: var(--burgundy);
   color: var(--cream);
-  border-color: var(--soft-coral);
+  border-color: var(--burgundy);
 }
 
 /* Working paper badge */
@@ -396,7 +396,7 @@ hr {
   display: inline-block;
   margin-left: 4px;
   padding: 2px 12px;
-  font-size: 0.72em;
+  font-size: 1em;
   font-weight: 500;
   line-height: 1.5;
   white-space: nowrap;
