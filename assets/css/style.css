@@ -376,7 +376,7 @@ hr {
   white-space: nowrap;
   text-indent: 0;
   text-align: center;
-  color: var(--muted-gold);
+  color: #8B6322;
   background-color: var(--warm-tan);
   border: 1px solid var(--muted-gold);
   border-radius: 999px;
