@@ -30,9 +30,7 @@ permalink: /research/
 
 <h1>Research</h1>
 
-<p>This page lists my academic working papers and published work, both peer-reviewed and non-academic.</p>
-
-<p>See <a href="http://SinoNK.com" target="_blank">SinoNK.com</a> for an overview of my work there. Articles written for <a href="https://thediplomat.com/" target="_blank"><em>The Diplomat</em></a> (2014-2019) can be found at <a href="https://thediplomat.com/authors/steven-denney/" target="_blank">my author page</a>.</p>
+<p>This page collects my working papers, publications, and other scholarly output.</p>
 
 <div class="research-section">
 <h2 id="working-papers">Working Papers Under Review</h2>
@@ -42,7 +40,7 @@ Denney, S., Fraser, N., & Steinhardt, H. C. (n.d.). Cues of commitment: Integrat
 </p>
 
 <p class="publication-item">
-Denney, S., & Steinhardt, H. C. (n.d.). The boundaries of belonging: An experimental approach to national identity measurement in Taiwan and South Korea. <a href="https://github.com/scdenney/national-identity-cbc-taiwan-korea/tree/main" target="_blank">Working paper</a>
+Denney, S., Steinhardt, H. C., & Qi, D. (n.d.). Measuring national identity with conjoint experiments using the case of Taiwan. <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 
 <p class="publication-item">
@@ -63,10 +61,6 @@ Denney, S. (n.d.). "What were they thinking?" Using open-text responses to valid
 
 <p class="publication-item">
 Denney, S. (n.d.). Fairness, threat, and the norms-based model of immigration legitimacy.
-</p>
-
-<p class="publication-item">
-Denney, S. (n.d.). A generational theory of identity change.
 </p>
 
 <p class="publication-item">
