@@ -36,7 +36,7 @@ permalink: /research/
 <h2 id="working-papers">Working Papers Under Review</h2>
 
 <p class="publication-item">
-Denney, S., Fraser, N., & Steinhardt, H. C. (n.d.). Cues of commitment: Integration and naturalization support in South Korea and Taiwan. <a href="https://github.com/scdenney/cues-east-asia" target="_blank">Working paper</a>
+Denney, S., Fraser, N., & Steinhardt, H. C. (n.d.). Cues of commitment: Integration and naturalization support in South Korea and Taiwan. <a href="https://github.com/scdenney/cues-east-asia/blob/main/paper/280925_cues-of-committment_denney-fraser-steinhardt.pdf" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 
 <p class="publication-item">
@@ -44,11 +44,11 @@ Denney, S., Steinhardt, H. C., & Qi, D. (n.d.). Measuring national identity with
 </p>
 
 <p class="publication-item">
-Denney, S., van Dam, I., & Green, C. (n.d.). Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? <a href="https://github.com/scdenney/persuasion-cues-kr-imm/blob/main/README.md" target="_blank">Working paper</a>
+Denney, S., van Dam, I., & Green, C. (n.d.). Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? <a href="https://github.com/scdenney/persuasion-cues-kr-imm/blob/main/paper/persuasion-and-prejudice_denney_290925.pdf" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 
 <p class="publication-item">
-Denney, S., Kelly, R., & Wolfe, D. (n.d.). Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank">Working paper</a>
+Denney, S., Kelly, R., & Wolfe, D. (n.d.). Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 </div>
 

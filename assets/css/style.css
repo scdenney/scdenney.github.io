@@ -376,9 +376,9 @@ hr {
   white-space: nowrap;
   text-indent: 0;
   text-align: center;
-  color: var(--burgundy);
-  background-color: var(--warm-tan);
-  border: 1px solid var(--dusty-rose);
+  color: var(--deep-plum);
+  background-color: var(--cream);
+  border: 1px solid var(--muted-gold);
   border-radius: 999px;
   text-decoration: none;
   vertical-align: baseline;
@@ -386,9 +386,9 @@ hr {
 }
 
 .working-paper-badge:hover {
-  background-color: var(--burgundy);
-  color: var(--cream);
-  border-color: var(--burgundy);
+  background-color: var(--muted-gold);
+  color: var(--deep-plum);
+  border-color: var(--muted-gold);
 }
 
 /* Collapsible Details */
