@@ -325,7 +325,7 @@ hr {
   display: inline-block;
   margin-left: 4px;
   padding: 2px 12px;
-  font-size: 1em;
+  font-size: 0.72em;
   font-weight: 500;
   line-height: 1.5;
   white-space: nowrap;
@@ -396,7 +396,7 @@ hr {
   display: inline-block;
   margin-left: 4px;
   padding: 2px 12px;
-  font-size: 1em;
+  font-size: 0.72em;
   font-weight: 500;
   line-height: 1.5;
   white-space: nowrap;
