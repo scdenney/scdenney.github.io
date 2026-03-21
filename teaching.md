@@ -15,9 +15,7 @@ This page collects my teaching and supervision activities at Leiden University, 
 I develop and maintain open educational resources for research methods, thesis supervision, and computational text analysis.
 
 <div class="project-card">
-<h3>Thesis Supervision</h3>
-
-<p class="project-links"><a href="https://scdenney.github.io/thesis-supervision/" class="resource-badge">Website</a></p>
+<h3>Thesis Supervision <a href="https://scdenney.github.io/thesis-supervision/" class="resource-badge">Website</a></h3>
 <p class="project-meta"><strong>Programs:</strong> BA International Studies · BA Korean Studies · MA Asian Studies · MA International Relations</p>
 
 <details>
@@ -61,9 +59,7 @@ I develop and maintain open educational resources for research methods, thesis s
 ### Digital Humanities
 
 <div class="project-card">
-<h3>Digital Korea: Introduction to Computational Text Analysis</h3>
-
-<p class="project-links"><a href="https://scdenney.github.io/ba2_digital-korea/" class="resource-badge">Course website</a></p>
+<h3>Digital Korea: Introduction to Computational Text Analysis <a href="https://scdenney.github.io/ba2_digital-korea/" class="resource-badge">Course website</a></h3>
 <p class="project-meta"><strong>Level:</strong> BA II · <strong>Program:</strong> Korean Studies, Leiden University</p>
 
 <details>
@@ -75,9 +71,7 @@ I develop and maintain open educational resources for research methods, thesis s
 </div>
 
 <div class="project-card">
-<h3>Digital Humanities</h3>
-
-<p class="project-links"><a href="https://scdenney.github.io/ba3_text_as_data/" class="resource-badge">Course website</a></p>
+<h3>Digital Humanities <a href="https://scdenney.github.io/ba3_text_as_data/" class="resource-badge">Course website</a></h3>
 <p class="project-meta"><strong>Level:</strong> BA III · <strong>Program:</strong> Korean Studies, Leiden University</p>
 
 <details>
@@ -91,9 +85,7 @@ I develop and maintain open educational resources for research methods, thesis s
 ### Research Design
 
 <div class="project-card">
-<h3>BA Thesis Seminar</h3>
-
-<p class="project-links"><a href="https://scdenney.github.io/baks_thesis-seminar/" class="resource-badge">Course website</a></p>
+<h3>BA Thesis Seminar <a href="https://scdenney.github.io/baks_thesis-seminar/" class="resource-badge">Course website</a></h3>
 <p class="project-meta"><strong>Level:</strong> BA III · <strong>Program:</strong> Korean Studies, Leiden University</p>
 
 <details>
@@ -107,9 +99,7 @@ I develop and maintain open educational resources for research methods, thesis s
 ### International Relations & Comparative Politics
 
 <div class="project-card">
-<h3>International Relations</h3>
-
-<p class="project-links"><a href="/assets/pdf/2526-bais-ir.pdf" class="resource-badge">Syllabus</a></p>
+<h3>International Relations <a href="/assets/pdf/2526-bais-ir.pdf" class="resource-badge">Syllabus</a></h3>
 <p class="project-meta"><strong>Level:</strong> BA · <strong>Program:</strong> International Studies, Leiden University</p>
 
 <details>

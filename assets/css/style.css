@@ -374,9 +374,9 @@ hr {
 /* Resource badge (course websites, syllabi) */
 .resource-badge {
   display: inline-block;
-  margin-left: 0;
+  margin-left: 8px;
   padding: 2px 12px;
-  font-size: 1em;
+  font-size: 0.75rem;
   font-weight: 500;
   line-height: 1.5;
   white-space: nowrap;
@@ -387,7 +387,7 @@ hr {
   border: 1px solid var(--dusty-rose);
   border-radius: 999px;
   text-decoration: none;
-  vertical-align: baseline;
+  vertical-align: middle;
   transition: background-color 0.2s, color 0.2s;
 }
 
