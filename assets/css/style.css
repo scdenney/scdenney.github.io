@@ -376,8 +376,8 @@ hr {
   white-space: nowrap;
   text-indent: 0;
   text-align: center;
-  color: var(--deep-plum);
-  background-color: var(--muted-gold);
+  color: var(--muted-gold);
+  background-color: transparent;
   border: 1px solid var(--muted-gold);
   border-radius: 999px;
   text-decoration: none;
