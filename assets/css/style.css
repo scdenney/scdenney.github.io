@@ -295,13 +295,19 @@ hr {
 
 .project-card h3 {
   font-size: 1.15rem;
-  margin: 0 0 0.85rem;
+  margin: 0 0 0.35rem;
   color: var(--deep-plum);
+}
+
+.project-links {
+  margin: 0 0 0.6rem;
+  font-size: 0.88rem;
 }
 
 .project-meta {
   font-size: 0.88rem;
   color: var(--text-gray);
+  margin-top: 0.5rem;
   margin-bottom: 1rem;
   line-height: 1.7;
 }
