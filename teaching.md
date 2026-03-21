@@ -19,7 +19,7 @@ I develop and maintain open educational resources for research methods, thesis s
 
 <p class="project-meta">
 <strong>Programs:</strong> BA International Studies · BA Korean Studies · MA Asian Studies · MA International Relations<br>
-<a href="https://scdenney.github.io/thesis-supervision/">Website</a>
+<a href="https://scdenney.github.io/thesis-supervision/" class="resource-badge">Website</a>
 </p>
 
 <details>
@@ -77,7 +77,7 @@ GitHub Repository
 
 <p class="project-meta">
 <strong>Level:</strong> BA II · <strong>Program:</strong> Korean Studies, Leiden University<br>
-<a href="https://scdenney.github.io/ba2_digital-korea/">Course Website</a>
+<a href="https://scdenney.github.io/ba2_digital-korea/" class="resource-badge">Course website</a>
 </p>
 
 <details>
@@ -93,7 +93,7 @@ GitHub Repository
 
 <p class="project-meta">
 <strong>Level:</strong> BA III · <strong>Program:</strong> Korean Studies, Leiden University<br>
-<a href="https://scdenney.github.io/ba3_text_as_data/">Course Website</a>
+<a href="https://scdenney.github.io/ba3_text_as_data/" class="resource-badge">Course website</a>
 </p>
 
 <details>
@@ -111,7 +111,7 @@ GitHub Repository
 
 <p class="project-meta">
 <strong>Level:</strong> BA III · <strong>Program:</strong> Korean Studies, Leiden University<br>
-<a href="https://scdenney.github.io/baks_thesis-seminar/">Course Website</a>
+<a href="https://scdenney.github.io/baks_thesis-seminar/" class="resource-badge">Course website</a>
 </p>
 
 <details>
@@ -129,7 +129,7 @@ GitHub Repository
 
 <p class="project-meta">
 <strong>Level:</strong> BA · <strong>Program:</strong> International Studies, Leiden University<br>
-<a href="/assets/pdf/2526-bais-ir.pdf">Syllabus (PDF)</a>
+<a href="/assets/pdf/2526-bais-ir.pdf" class="resource-badge">Syllabus</a>
 </p>
 
 <details>

@@ -365,6 +365,32 @@ hr {
   background-color: var(--cream);
 }
 
+/* Resource badge (course websites, syllabi) */
+.resource-badge {
+  display: inline-block;
+  margin-left: 0;
+  padding: 2px 12px;
+  font-size: 0.72em;
+  font-weight: 500;
+  line-height: 1.5;
+  white-space: nowrap;
+  text-indent: 0;
+  text-align: center;
+  color: #7A2F3E;
+  background-color: var(--warm-tan);
+  border: 1px solid var(--soft-coral);
+  border-radius: 999px;
+  text-decoration: none;
+  vertical-align: baseline;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.resource-badge:hover {
+  background-color: var(--soft-coral);
+  color: var(--cream);
+  border-color: var(--soft-coral);
+}
+
 /* Working paper badge */
 .working-paper-badge {
   display: inline-block;
