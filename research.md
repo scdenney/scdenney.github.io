@@ -40,7 +40,7 @@ Denney, S., Fraser, N., & Steinhardt, H. C. (n.d.). Cues of commitment: Integrat
 </p>
 
 <p class="publication-item">
-Denney, S., Steinhardt, H. C., & Qi, D. (n.d.). Measuring national identity with conjoint experiments using the case of Taiwan. <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" class="working-paper-badge">Working paper</a>
+Denney, S., & Steinhardt, H. C. (n.d.). Measuring national identity with conjoint experiments using the case of Taiwan. <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 
 <p class="publication-item">
