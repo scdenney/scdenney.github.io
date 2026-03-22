@@ -56,7 +56,7 @@ Denney, S., Kelly, R., & Wolfe, D. (n.d.). Innovation policy in practice: Assess
 <h2 id="papers-in-progress">Papers in Progress</h2>
 
 <p class="publication-item">
-Denney, S. (n.d.). "What were they thinking?" Using open-text responses to validate constructs in survey experiments.
+Denney, S. (n.d.). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. <a href="https://github.com/scdenney/what-were-they-thinking/blob/main/denney_2026_what-were-they-thinking.pdf" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 
 <p class="publication-item">
