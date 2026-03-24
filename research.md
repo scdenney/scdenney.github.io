@@ -324,6 +324,10 @@ Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>
 <h2 id="talks">Selected Talks</h2>
 
 <p class="publication-item">
+Denney, S. (2026). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. <a href="https://www.universiteitleiden.nl/en/events/2026/03/lunch-lecture-steven-denney" target="_blank">Leiden University Centre for Digital Humanities (LUCDH) Lunch Lecture Series</a>, Leiden University, March 24.
+</p>
+
+<p class="publication-item">
 Denney, S. (2025). Guardianship democracy: Mapping elite rule preferences in East and Southeast Asia. 8th Annual Meeting of the Social Science Korean Studies Network in Europe (SoKEN), University of Duisburg–Essen, May 23–24.
 </p>
 
