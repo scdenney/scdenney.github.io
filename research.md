@@ -100,7 +100,7 @@ Denney, S., & Green, C. (2024). Public attitudes towards co-ethnic migrant integ
 </p>
 
 <p class="publication-item">
-Denney, S., Ward, P., & Green, C. (2023). Public support for migrant entrepreneurship: The case of North Koreans in the Republic of Korea. <em>International Migration Review</em>. Advance online publication. <a href="https://doi.org/10.1177/01979183231203927" target="_blank">https://doi.org/10.1177/01979183231203927</a> <a href="https://github.com/scdenney/NK-migrant-entrepreneur-support" target="_blank" class="replication-badge">Replication package</a>
+Denney, S., Ward, P., & Green, C. (2024). Public support for migrant entrepreneurship: The case of North Koreans in the Republic of Korea. <em>International Migration Review, 58</em>(2), 781–805. <a href="https://doi.org/10.1177/01979183231203927" target="_blank">https://doi.org/10.1177/01979183231203927</a> <a href="https://github.com/scdenney/NK-migrant-entrepreneur-support" target="_blank" class="replication-badge">Replication data</a>
 </p>
 
 <p class="publication-item">
