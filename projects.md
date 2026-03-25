@@ -116,7 +116,7 @@ Currently, my research program is organized around three projects that collectiv
 
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
-<li>Denney, S., Steinhardt, H. C., & Bhowmick, L. (2026). Identity conformity in Taiwan and South Korea: Why citizens in divided societies are pressured to overstate national pride. <em>Nationalism and Ethnic Politics</em>. Advance online publication. <a href="https://doi.org/10.1080/13537113.2026.2616954" target="_blank">https://doi.org/10.1080/13537113.2026.2616954</a></li>
+<li>Denney, S., Steinhardt, H. C., & Bhowmick, L. (2026). Identity conformity in Taiwan and South Korea: Why citizens in divided societies are pressured to overstate national pride. <em>Nationalism and Ethnic Politics</em>. Advance online publication. <a href="https://doi.org/10.1080/13537113.2026.2616954" target="_blank">https://doi.org/10.1080/13537113.2026.2616954</a> <a href="https://github.com/scdenney/nep-2026-replication" target="_blank" class="replication-badge">Replication package</a></li>
 <li>Green, C., & Denney, S. (2024). Why do democratic societies tolerate undemocratic laws? Sorting public support for the National Security Act in South Korea. <em>Democratization, 31</em>(1), 113–131. <a href="https://doi.org/10.1080/13510347.2023.2258082" target="_blank">https://doi.org/10.1080/13510347.2023.2258082</a></li>
 </ul>
 
@@ -172,8 +172,8 @@ Currently, my research program is organized around three projects that collectiv
 <div>
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
-<li>Denney, S., & Ward, P. (2025). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. <em>Policy and Society</em>. <a href="https://doi.org/10.1093/polsoc/puaf027" target="_blank">https://doi.org/10.1093/polsoc/puaf027</a></li>
-<li>Denney, S., Zhou, T., & Brehm, R. (2025). From division to democracy: Integration of post-communist citizens in Germany and South Korea. <em>Communist and Post-Communist Studies</em>. <a href="https://doi.org/10.1525/cpcs.2025.2636997" target="_blank">https://doi.org/10.1525/cpcs.2025.2636997</a></li>
+<li>Ward, P., & Denney, S. (2025). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. <em>Policy and Society</em>. Advance online publication. <a href="https://doi.org/10.1093/polsoc/puaf027" target="_blank">https://doi.org/10.1093/polsoc/puaf027</a></li>
+<li>Denney, S., Zhou, T., & Brehm, R. (2025). From division to democracy: Integration of post-communist citizens in Germany and South Korea. <em>Communist and Post-Communist Studies</em>. Advance online publication. <a href="https://doi.org/10.1525/cpcs.2025.2636997" target="_blank">https://doi.org/10.1525/cpcs.2025.2636997</a></li>
 </ul>
 
 <p><strong>Research Monograph</strong></p>
@@ -209,8 +209,8 @@ Currently, my research program is organized around three projects that collectiv
 <div>
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
-<li>Denney, S., Wolfe, D., & Southin, T. (2023). Do winners pick government? How scale-up experience shapes entrepreneurs' assessments of innovation policy mixes. <em>Science and Public Policy, 50</em>, 858–870. <a href="https://doi.org/10.1093/scipol/scad030" target="_blank">https://doi.org/10.1093/scipol/scad030</a></li>
-<li>Denney, S., Wolfe, D., & DiFrancesco, R. (2022). Localization of global networks: New mandates for MNEs in regional economies. <em>Journal of Regions, Economy and Society, 15</em>(2), 323-342. <a href="https://doi.org/10.1093/cjres/rsac002" target="_blank">https://doi.org/10.1093/cjres/rsac002</a></li>
+<li>Denney, S., Wolfe, D., & Southin, T. (2023). Do winners pick government? How scale-up experience shapes entrepreneurs' assessments of innovation policy mixes. <em>Science and Public Policy, 50</em>(5), 858–870. <a href="https://doi.org/10.1093/scipol/scad030" target="_blank">https://doi.org/10.1093/scipol/scad030</a></li>
+<li>Wolfe, D. A., DiFrancesco, R. J., & Denney, S. (2022). Localization of global networks: New mandates for MNEs in regional economies. <em>Cambridge Journal of Regions, Economy and Society, 15</em>(2), 323–342. <a href="https://doi.org/10.1093/cjres/rsac002" target="_blank">https://doi.org/10.1093/cjres/rsac002</a></li>
 </ul>
 
 <p><strong>Working Papers</strong></p>
@@ -266,7 +266,7 @@ Currently, my research program is organized around three projects that collectiv
 <div>
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
-<li>Denney, S., & Ward, P. (2023). How autocracies disrupt unsanctioned information flows: The role of state power and social capital in North Korea. <em>Problems of Post-Communism, 71</em>(2), 177-191. <a href="https://doi.org/10.1080/10758216.2023.2180038" target="_blank">https://doi.org/10.1080/10758216.2023.2180038</a></li>
+<li>Denney, S., & Ward, P. (2023). How autocracies disrupt unsanctioned information flows: The role of state power and social capital in North Korea. <em>Problems of Post-Communism, 71</em>(2), 177–191. <a href="https://doi.org/10.1080/10758216.2023.2180038" target="_blank">https://doi.org/10.1080/10758216.2023.2180038</a></li>
 </ul>
 
 <p><strong>Reports</strong></p>
@@ -313,11 +313,11 @@ Currently, my research program is organized around three projects that collectiv
 <div>
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
-<li>Denney, S., Ward, P., & Green, C. (2024). 한국인의 남북통일방식에 대한 의식 결정요인 분석 [Analyzing the determinants of South Korean attitudes toward Korean unification: A conjoint analysis, in Korean]. <em>국가전략, 30</em>(1), 137-163. <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003053315" target="_blank">Link</a></li>
-<li>Denney, S., & Green, C. (2024). Public attitudes towards co-ethnic migrant integration: Evidence from South Korea. <em>Journal of Ethnic and Migration Studies, 50</em>(8), 1998-2022. <a href="https://doi.org/10.1080/1369183X.2023.2286207" target="_blank">https://doi.org/10.1080/1369183X.2023.2286207</a></li>
-<li>Denney, S., Ward, P., & Green, C. (2023). Public support for migrant entrepreneurship: The case of North Koreans in the Republic of Korea. <em>International Migration Review</em>. <a href="https://doi.org/10.1177/01979183231203927" target="_blank">https://doi.org/10.1177/01979183231203927</a></li>
-<li>Denney, S., & Ward, P. (2022). Welfare chauvinism among co-ethnics: Evidence from a conjoint experiment in South Korea. <em>International Migration, 60</em>(50), 74-90. <a href="https://doi.org/10.1111/imig.12937" target="_blank">https://doi.org/10.1111/imig.12937</a></li>
-<li>Denney, S., & Green, C. (2021). North Korean patriotism: Assessing the success and failures of a nation. <em>Korea Journal, 61</em>(1), 154-185. <a href="https://doi.org/10.25024/kj.2021.61.1.154" target="_blank">https://doi.org/10.25024/kj.2021.61.1.154</a></li>
+<li>Denney, S., Ward, P., & Green, C. (2024). 한국인의 남북통일방식에 대한 의식 결정요인 분석 [Analyzing the determinants of South Korean attitudes toward Korean unification: A conjoint analysis]. <em>국가전략 [National Strategy], 30</em>(1), 137–163. <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003053315" target="_blank">Link</a></li>
+<li>Denney, S., & Green, C. (2024). Public attitudes towards co-ethnic migrant integration: Evidence from South Korea. <em>Journal of Ethnic and Migration Studies, 50</em>(8), 1998–2022. <a href="https://doi.org/10.1080/1369183X.2023.2286207" target="_blank">https://doi.org/10.1080/1369183X.2023.2286207</a></li>
+<li>Denney, S., Ward, P., & Green, C. (2024). Public support for migrant entrepreneurship: The case of North Koreans in the Republic of Korea. <em>International Migration Review, 58</em>(2), 781–805. <a href="https://doi.org/10.1177/01979183231203927" target="_blank">https://doi.org/10.1177/01979183231203927</a></li>
+<li>Ward, P., & Denney, S. (2022). Welfare chauvinism among co-ethnics: Evidence from a conjoint experiment in South Korea. <em>International Migration, 60</em>(5), 74–90. <a href="https://doi.org/10.1111/imig.12937" target="_blank">https://doi.org/10.1111/imig.12937</a></li>
+<li>Denney, S., & Green, C. (2021). North Korean patriotism: Assessing the success and failures of a nation. <em>Korea Journal, 61</em>(1), 154–185. <a href="https://doi.org/10.25024/kj.2021.61.1.154" target="_blank">https://doi.org/10.25024/kj.2021.61.1.154</a></li>
 </ul>
 
 <p><strong>Reports</strong></p>
