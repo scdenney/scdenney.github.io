@@ -324,7 +324,7 @@ Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>
 <h2 id="talks">Selected Talks</h2>
 
 <p class="publication-item">
-Denney, S. (2026). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. Leiden University Centre for Digital Humanities (LUCDH) Lunch Lecture Series, Leiden University, March 24. <a href="https://github.com/scdenney/lucdh_opentext-surveys/blob/main/presentation/denney_2026_what-were-they-thinking_slides.pdf" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2026). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. Leiden University Centre for Digital Humanities (LUCDH) Lunch Lecture Series, Leiden University, March 24. <a href="https://github.com/scdenney/lucdh_opentext-surveys/blob/main/presentation/denney_2026_what-were-they-thinking_slides.pdf" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
@@ -336,11 +336,11 @@ Denney, S. (2025). Persuasion and prejudice: Are South Korean attitudes toward i
 </p>
 
 <p class="publication-item">
-Denney, S. (2024). Democracy and nationalism: The case of Taiwan. American Political Science Association (APSA) Conference, September 4–8. <a href="https://scdenney.net/wp-content/uploads/2024/09/apsa_2024-denney_hcs_qi.pdf" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2024). Democracy and nationalism: The case of Taiwan. American Political Science Association (APSA) Conference, September 4–8. <a href="https://scdenney.net/wp-content/uploads/2024/09/apsa_2024-denney_hcs_qi.pdf" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2024). Determinants of foreign information use in North Korea: Research findings and implications. International North Korean Studies Networking Forum, Yonsei University, August 5. <a href="https://scdenney.net/wp-content/uploads/2024/08/05082024-drpk_information-dissimination-denney_yonsei-presentation-1.pdf" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2024). Determinants of foreign information use in North Korea: Research findings and implications. International North Korean Studies Networking Forum, Yonsei University, August 5. <a href="https://scdenney.net/wp-content/uploads/2024/08/05082024-drpk_information-dissimination-denney_yonsei-presentation-1.pdf" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
@@ -348,11 +348,11 @@ Denney, S. (2024). Who are 'we' and how do we know it? New experimental designs 
 </p>
 
 <p class="publication-item">
-Denney, S. (2024). How inclusive are national identities in East Asian democracies? Exploring a new conjoint approach. East Asia Institute, National University of Singapore, July 19. <a href="https://scdenney.net/wp-content/uploads/2024/07/denney_steinhardt_nus-final.pdf" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2024). How inclusive are national identities in East Asian democracies? Exploring a new conjoint approach. East Asia Institute, National University of Singapore, July 19. <a href="https://scdenney.net/wp-content/uploads/2024/07/denney_steinhardt_nus-final.pdf" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2024). Public attitudes towards immigrant incorporation in South Korea, Taiwan, and Japan. European Political Science Association (EPSA) Conference, July 4–6. <a href="https://scdenney.net/wp-content/uploads/2024/07/epsa24-citizenship-expansion-east-asia-denney.pdf" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2024). Public attitudes towards immigrant incorporation in South Korea, Taiwan, and Japan. European Political Science Association (EPSA) Conference, July 4–6. <a href="https://scdenney.net/wp-content/uploads/2024/07/epsa24-citizenship-expansion-east-asia-denney.pdf" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
@@ -360,15 +360,15 @@ Denney, S. (2024). Plus ça change? South Korean public opinion of the United St
 </p>
 
 <p class="publication-item">
-Denney, S. (2024). Public support for citizenship expansion in East Asian democracies. LIAS Talk Series, Leiden Institute for Asian Studies (LIAS), May 15. <a href="https://scdenney.net/wp-content/uploads/2024/06/lias-citizenship-expansion-east-asia-denney2.pdf" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2024). Public support for citizenship expansion in East Asian democracies. LIAS Talk Series, Leiden Institute for Asian Studies (LIAS), May 15. <a href="https://scdenney.net/wp-content/uploads/2024/06/lias-citizenship-expansion-east-asia-denney2.pdf" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2024). The enduring legacy of forced division: Welfare nationalism in Germany and South Korea. Korean Studies Research Seminar, Leiden Institute for Asian Studies (LIAS), Leiden University, April 17. <a href="https://scdenney.files.wordpress.com/2024/04/ksrs_enduring-legacy-s.denney.pdf" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2024). The enduring legacy of forced division: Welfare nationalism in Germany and South Korea. Korean Studies Research Seminar, Leiden Institute for Asian Studies (LIAS), Leiden University, April 17. <a href="https://scdenney.files.wordpress.com/2024/04/ksrs_enduring-legacy-s.denney.pdf" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2023). Size or speed? Public attitudes toward rising immigration levels in historically homogeneous nations. American Political Science Association (APSA) Conference, August 31–September 3. <a href="https://docs.google.com/presentation/d/1fMPQlGUe1A18dSNRd8vSTr8F3S0cRDODOKTCSNhlWAA/edit?usp=sharing" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2023). Size or speed? Public attitudes toward rising immigration levels in historically homogeneous nations. American Political Science Association (APSA) Conference, August 31–September 3. <a href="https://docs.google.com/presentation/d/1fMPQlGUe1A18dSNRd8vSTr8F3S0cRDODOKTCSNhlWAA/edit?usp=sharing" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
@@ -376,23 +376,23 @@ Denney, S. (2023). Nationalism under democracy: Why institutions matter for nati
 </p>
 
 <p class="publication-item">
-Denney, S. (2023). Measuring national identity: A choice-based conjoint approach. Midwest Political Science Association (MPSA) Conference, April 13–16. <a href="https://docs.google.com/presentation/d/1BRw0PYCRi86dteLq8kZQcpKJ0CNJSjBINqTtCqPzTI0/edit#slide=id.gf71da67333_1_0" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2023). Measuring national identity: A choice-based conjoint approach. Midwest Political Science Association (MPSA) Conference, April 13–16. <a href="https://docs.google.com/presentation/d/1BRw0PYCRi86dteLq8kZQcpKJ0CNJSjBINqTtCqPzTI0/edit#slide=id.gf71da67333_1_0" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2023). Why do democratic societies tolerate undemocratic laws? Sorting public support for the National Security Act in South Korea. International Studies Association (ISA) Conference, March 15–18. <a href="https://docs.google.com/presentation/d/1fioI78LissBdRcxStNU9UO3Tt_BM1QniOutxw7Fl5nA/edit#slide=id.gf71da67333_1_0" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2023). Why do democratic societies tolerate undemocratic laws? Sorting public support for the National Security Act in South Korea. International Studies Association (ISA) Conference, March 15–18. <a href="https://docs.google.com/presentation/d/1fioI78LissBdRcxStNU9UO3Tt_BM1QniOutxw7Fl5nA/edit#slide=id.gf71da67333_1_0" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2022). 한국인의 남북통일방식에 대한 의식 결정요인 분석: 컨조인트 분석 조사를 중심으로 [Analysis of South Korean attitudes towards unification: A conjoint experiment]. 북한연구학회 [North Korean Research Institute], Seoul, South Korea, December 12. <a href="https://docs.google.com/presentation/d/1GnorLY3LgVMViSUHTYtsmhtNTvmppPIb/edit?usp=sharing&ouid=109909952322920338023&rtpof=true&sd=true" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2022). 한국인의 남북통일방식에 대한 의식 결정요인 분석: 컨조인트 분석 조사를 중심으로 [Analysis of South Korean attitudes towards unification: A conjoint experiment]. 북한연구학회 [North Korean Research Institute], Seoul, South Korea, December 12. <a href="https://docs.google.com/presentation/d/1GnorLY3LgVMViSUHTYtsmhtNTvmppPIb/edit?usp=sharing&ouid=109909952322920338023&rtpof=true&sd=true" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2022). National security conservatism: Enduring support for the National Security Act in South Korea. Generation Asia – 2022 Nordic NIAS Council Conference, August 22–26. <a href="https://docs.google.com/presentation/d/1jqh7TO0HT2m8mp8ZXyeEW5Xngd9xTQPaOdG5aI8_Rio/edit?usp=sharing" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2022). National security conservatism: Enduring support for the National Security Act in South Korea. Generation Asia – 2022 Nordic NIAS Council Conference, August 22–26. <a href="https://docs.google.com/presentation/d/1jqh7TO0HT2m8mp8ZXyeEW5Xngd9xTQPaOdG5aI8_Rio/edit?usp=sharing" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2022). Determinants of co-ethnic integration in South Korea: A conjoint experiment. East Asian Network (EAN), Institute for Asian Studies, Charles University, Prague, Czech Republic, February 8. <a href="https://docs.google.com/presentation/d/1TD6QechqpZTZExMjEGnt3hKnt680QV7GR_CU5ilRLiQ/edit?usp=sharing" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2022). Determinants of co-ethnic integration in South Korea: A conjoint experiment. East Asian Network (EAN), Institute for Asian Studies, Charles University, Prague, Czech Republic, February 8. <a href="https://docs.google.com/presentation/d/1TD6QechqpZTZExMjEGnt3hKnt680QV7GR_CU5ilRLiQ/edit?usp=sharing" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
@@ -404,11 +404,11 @@ Denney, S., Fraser, N., & Crabtree, C. (2021). Who stays and who leaves? Determi
 </p>
 
 <p class="publication-item">
-Denney, S. (2020). Scale the gap: Impact of growth barriers on women entrepreneurs in Canadian high-growth firms. Canadian Council for Small Business and Entrepreneurship (CCSBE) Annual Conference, October 16–17. <a href="https://scdenney.files.wordpress.com/2021/10/denney-vu_wekh_report_presentation.pdf" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2020). Scale the gap: Impact of growth barriers on women entrepreneurs in Canadian high-growth firms. Canadian Council for Small Business and Entrepreneurship (CCSBE) Annual Conference, October 16–17. <a href="https://scdenney.files.wordpress.com/2021/10/denney-vu_wekh_report_presentation.pdf" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2019). Juche and the everyday: Does ideology matter for people from North Korea? Association of Asian Studies (AAS), March 21–24. <a href="https://scdenney.files.wordpress.com/2024/05/aas_presentation_denney.pdf" target="_blank" class="replication-badge">Slides</a>
+Denney, S. (2019). Juche and the everyday: Does ideology matter for people from North Korea? Association of Asian Studies (AAS), March 21–24. <a href="https://scdenney.files.wordpress.com/2024/05/aas_presentation_denney.pdf" target="_blank">Slides</a>
 </p>
 
 <p class="publication-item">
