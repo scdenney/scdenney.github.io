@@ -212,6 +212,10 @@ Hayes, P., Denney, S., et al. (2015). The implications of civic diplomacy for RO
 <h2 id="book-reviews">Book Reviews</h2>
 
 <p class="publication-item">
+Denney, S. (2026). [Review of the book <em>Welfare nationalism in Europe and Russia: The politics of 21st century exclusionary and inclusionary migrations</em>, by L. J. Cook]. <em>Perspectives on Politics</em>. <a href="https://doi.org/10.1017/S1537592725104325" target="_blank">Read review</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2026). [Review of the book <em>Narratives of civic duty: How national stories shape democracy in Asia</em>, by A. Hur]. <em>Korean Histories, 5</em>(1), 86–87. <a href="https://korean-histories.org/volumes/articles/civic/index.html" target="_blank">Read review</a>
 </p>
 
