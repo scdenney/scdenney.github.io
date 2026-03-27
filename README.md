@@ -4,3 +4,5 @@
 Leiden University
 
 I bridge digital humanities with quantitative social science to study national identity, migration, and political change.
+
+This repo is the basis of my personal website.
