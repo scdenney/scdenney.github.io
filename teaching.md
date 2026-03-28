@@ -99,7 +99,7 @@ I develop and maintain open educational resources for research methods, thesis s
 ### International Relations & Comparative Politics
 
 <div class="project-card">
-<h3>International Relations <a href="/assets/pdf/2526-bais-ir.pdf" class="resource-badge">Syllabus</a></h3>
+<h3>International Relations <a href="https://scdenney.github.io/bais_ir-content/" class="resource-badge">Course Content</a> <a href="/assets/pdf/2526-bais-ir.pdf" class="resource-badge">Syllabus</a></h3>
 <p class="project-meta"><strong>Level:</strong> BA · <strong>Program:</strong> International Studies, Leiden University</p>
 
 <details>
