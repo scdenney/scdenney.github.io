@@ -50,14 +50,14 @@ Denney, S., van Dam, I., & Green, C. (n.d.). Persuasion and prejudice: Are South
 <p class="publication-item">
 Denney, S., Kelly, R., & Wolfe, D. (n.d.). Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
-</div>
-
-<div class="research-section">
-<h2 id="papers-in-progress">Papers in Progress</h2>
 
 <p class="publication-item">
 Denney, S. (n.d.). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. <a href="https://github.com/scdenney/what-were-they-thinking/blob/main/denney_2026_what-were-they-thinking.pdf" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
+</div>
+
+<div class="research-section">
+<h2 id="papers-in-progress">Papers in Progress</h2>
 
 <p class="publication-item">
 Denney, S. (n.d.). Fairness, threat, and the norms-based model of immigration legitimacy.
@@ -441,7 +441,7 @@ Denney, S. (2015). Telling tales: North Korea's use of re-defectors. Korean Econ
 </p>
 </div>
 
-<p style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 2rem;"><em>Last updated: March 2026</em></p>
+<p style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 2rem;"><em>Last updated: April 2026</em></p>
 
   </div>
 </div>
