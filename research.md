@@ -44,15 +44,15 @@ Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoin
 </p>
 
 <p class="publication-item">
+Denney, S. (2026). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. <a href="https://github.com/scdenney/what-were-they-thinking/blob/main/denney_2026_what-were-they-thinking.pdf" target="_blank" class="working-paper-badge">Working paper</a>
+</p>
+
+<p class="publication-item">
 Denney, S., van Dam, I., & Green, C. (2025). Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? <a href="https://github.com/scdenney/persuasion-cues-kr-imm/blob/main/paper/persuasion-and-prejudice_denney_290925.pdf" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 
 <p class="publication-item">
 Denney, S., Kelly, R., & Wolfe, D. (2025). Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" class="working-paper-badge">Working paper</a>
-</p>
-
-<p class="publication-item">
-Denney, S. (2026). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. <a href="https://github.com/scdenney/what-were-they-thinking/blob/main/denney_2026_what-were-they-thinking.pdf" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 </div>
 
