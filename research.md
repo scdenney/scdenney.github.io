@@ -36,23 +36,23 @@ permalink: /research/
 <h2 id="working-papers">Working Papers Under Review</h2>
 
 <p class="publication-item">
-Denney, S., Fraser, N., & Steinhardt, H. C. (n.d.). Cues of commitment: Integration and naturalization support in South Korea and Taiwan. <a href="https://github.com/scdenney/cues-east-asia/blob/main/paper/020426_cues-of-commitment_denney-fraser-steinhardt.pdf" target="_blank" class="working-paper-badge">Working paper</a>
+Denney, S., Fraser, N., & Steinhardt, H. C. (2026). Cues of commitment: Integration and naturalization support in Taiwan and South Korea. <a href="https://github.com/scdenney/cues-east-asia/blob/main/paper/020426_cues-of-commitment_denney-fraser-steinhardt.pdf" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 
 <p class="publication-item">
-Denney, S., & Steinhardt, H. C. (n.d.). Measuring national identity with conjoint experiments using the case of Taiwan. <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" class="working-paper-badge">Working paper</a>
+Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoint experiments using the case of Taiwan. <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 
 <p class="publication-item">
-Denney, S., van Dam, I., & Green, C. (n.d.). Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? <a href="https://github.com/scdenney/persuasion-cues-kr-imm/blob/main/paper/persuasion-and-prejudice_denney_290925.pdf" target="_blank" class="working-paper-badge">Working paper</a>
+Denney, S., van Dam, I., & Green, C. (2025). Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? <a href="https://github.com/scdenney/persuasion-cues-kr-imm/blob/main/paper/persuasion-and-prejudice_denney_290925.pdf" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 
 <p class="publication-item">
-Denney, S., Kelly, R., & Wolfe, D. (n.d.). Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" class="working-paper-badge">Working paper</a>
+Denney, S., Kelly, R., & Wolfe, D. (2025). Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (n.d.). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. <a href="https://github.com/scdenney/what-were-they-thinking/blob/main/denney_2026_what-were-they-thinking.pdf" target="_blank" class="working-paper-badge">Working paper</a>
+Denney, S. (2026). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. <a href="https://github.com/scdenney/what-were-they-thinking/blob/main/denney_2026_what-were-they-thinking.pdf" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 </div>
 
