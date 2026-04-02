@@ -36,7 +36,7 @@ permalink: /research/
 <h2 id="working-papers">Working Papers Under Review</h2>
 
 <p class="publication-item">
-Denney, S., Fraser, N., & Steinhardt, H. C. (n.d.). Cues of commitment: Integration and naturalization support in South Korea and Taiwan. <a href="https://github.com/scdenney/cues-east-asia/blob/main/paper/280925_cues-of-committment_denney-fraser-steinhardt.pdf" target="_blank" class="working-paper-badge">Working paper</a>
+Denney, S., Fraser, N., & Steinhardt, H. C. (n.d.). Cues of commitment: Integration and naturalization support in South Korea and Taiwan. <a href="https://github.com/scdenney/cues-east-asia/blob/main/paper/020426_cues-of-commitment_denney-fraser-steinhardt.pdf" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 
 <p class="publication-item">
