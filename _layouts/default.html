@@ -4,38 +4,18 @@
   {% include head.html %}
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
   {% include header.html %}
 
-  <div class="page-wrapper">
-    <div class="section-layout">
-      {{ content }}
+  <main id="main-content" class="page-main">
+    <div class="page-wrapper page-wrapper--section">
+      <div class="section-layout{% if page.url contains '/research' %} section-layout--wide{% endif %}">
+        {{ content }}
+      </div>
     </div>
-  </div>
+  </main>
 
   {% include footer.html %}
-
-  <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var sections = document.querySelectorAll('.research-section');
-    sections.forEach(function(section) {
-      var items = section.querySelectorAll('.publication-item');
-      if (items.length <= 5) return;
-
-      section.classList.add('is-collapsible', 'is-collapsed');
-
-      var btn = document.createElement('button');
-      btn.className = 'show-more-btn';
-      btn.textContent = 'Show all ' + items.length + ' items';
-      section.appendChild(btn);
-
-      btn.addEventListener('click', function() {
-        var collapsed = section.classList.toggle('is-collapsed');
-        btn.textContent = collapsed
-          ? 'Show all ' + items.length + ' items'
-          : 'Show fewer';
-      });
-    });
-  });
-  </script>
+  {% include site-scripts.html %}
 </body>
 </html>

@@ -4,18 +4,24 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Teaching
-
-This page collects my teaching and supervision activities at Leiden University, along with open educational resources I develop and maintain. Below you will find resources for thesis supervision, computational text analysis, and research methodology, followed by current course offerings in digital humanities, research design, and international relations.
+<header class="page-header">
+<h1>Teaching</h1>
+<p>This page collects my teaching and supervision activities at Leiden University, along with open educational resources I develop and maintain. Below you will find resources for thesis supervision, computational text analysis, and research methodology, followed by current course offerings in digital humanities, research design, and international relations.</p>
+</header>
 
 ---
 
 ## Teaching Resources
 
-I develop and maintain open educational resources for research methods, thesis supervision, and computational text analysis.
+<p class="page-intro">I develop and maintain open educational resources for research methods, thesis supervision, and computational text analysis.</p>
 
 <div class="project-card">
-<h3>Thesis Supervision <a href="https://scdenney.github.io/thesis-supervision/" class="resource-badge">Website</a></h3>
+<div class="project-card__header">
+<h3>Thesis Supervision</h3>
+<div class="project-links">
+<a href="https://scdenney.github.io/thesis-supervision/" class="resource-link">Website</a>
+</div>
+</div>
 <p class="project-meta"><strong>Programs:</strong> BA International Studies · BA Korean Studies · MA Asian Studies · MA International Relations</p>
 
 <details>
@@ -27,9 +33,12 @@ I develop and maintain open educational resources for research methods, thesis s
 </div>
 
 <div class="project-card">
+<div class="project-card__header">
 <h3>NLP Corpora for Korean Studies</h3>
-
-<p class="project-links"><a href="https://github.com/scdenney/nlp_corpora"><svg height="16" width="16" viewBox="0 0 16 16" style="vertical-align: text-bottom; margin-right: 4px;"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>GitHub Repository</a></p>
+<div class="project-links">
+<a href="https://github.com/scdenney/nlp_corpora" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a>
+</div>
+</div>
 
 <details>
 <summary>About This Resource</summary>
@@ -40,9 +49,12 @@ I develop and maintain open educational resources for research methods, thesis s
 </div>
 
 <div class="project-card">
+<div class="project-card__header">
 <h3>Open Science Skills for Claude Code</h3>
-
-<p class="project-links"><a href="https://github.com/scdenney/open-science-skills"><svg height="16" width="16" viewBox="0 0 16 16" style="vertical-align: text-bottom; margin-right: 4px;"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>GitHub Repository</a></p>
+<div class="project-links">
+<a href="https://github.com/scdenney/open-science-skills" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a>
+</div>
+</div>
 
 <details>
 <summary>About This Resource</summary>
@@ -59,7 +71,12 @@ I develop and maintain open educational resources for research methods, thesis s
 ### Digital Humanities
 
 <div class="project-card">
-<h3>Digital Korea: Introduction to Computational Text Analysis <a href="https://scdenney.github.io/ba2_digital-korea/" class="resource-badge">Course website</a></h3>
+<div class="project-card__header">
+<h3>Digital Korea: Introduction to Computational Text Analysis</h3>
+<div class="project-links">
+<a href="https://scdenney.github.io/ba2_digital-korea/" class="resource-link">Course website</a>
+</div>
+</div>
 <p class="project-meta"><strong>Level:</strong> BA II · <strong>Program:</strong> Korean Studies, Leiden University</p>
 
 <details>
@@ -71,7 +88,12 @@ I develop and maintain open educational resources for research methods, thesis s
 </div>
 
 <div class="project-card">
-<h3>Digital Humanities <a href="https://scdenney.github.io/ba3_text_as_data/" class="resource-badge">Course website</a></h3>
+<div class="project-card__header">
+<h3>Digital Humanities</h3>
+<div class="project-links">
+<a href="https://scdenney.github.io/ba3_text_as_data/" class="resource-link">Course website</a>
+</div>
+</div>
 <p class="project-meta"><strong>Level:</strong> BA III · <strong>Program:</strong> Korean Studies, Leiden University</p>
 
 <details>
@@ -85,7 +107,12 @@ I develop and maintain open educational resources for research methods, thesis s
 ### Research Design
 
 <div class="project-card">
-<h3>BA Thesis Seminar <a href="https://scdenney.github.io/baks_thesis-seminar/" class="resource-badge">Course website</a></h3>
+<div class="project-card__header">
+<h3>BA Thesis Seminar</h3>
+<div class="project-links">
+<a href="https://scdenney.github.io/baks_thesis-seminar/" class="resource-link">Course website</a>
+</div>
+</div>
 <p class="project-meta"><strong>Level:</strong> BA III · <strong>Program:</strong> Korean Studies, Leiden University</p>
 
 <details>
@@ -99,7 +126,13 @@ I develop and maintain open educational resources for research methods, thesis s
 ### International Relations & Comparative Politics
 
 <div class="project-card">
-<h3>International Relations <a href="https://scdenney.github.io/bais_ir-content/" class="resource-badge">Course Content</a> <a href="/assets/pdf/2526-bais-ir.pdf" class="resource-badge">Syllabus</a></h3>
+<div class="project-card__header">
+<h3>International Relations</h3>
+<div class="project-links">
+<a href="https://scdenney.github.io/bais_ir-content/" class="resource-link">Course content</a>
+<a href="/assets/pdf/2526-bais-ir.pdf" class="resource-link">Syllabus</a>
+</div>
+</div>
 <p class="project-meta"><strong>Level:</strong> BA · <strong>Program:</strong> International Studies, Leiden University</p>
 
 <details>

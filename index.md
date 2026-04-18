@@ -7,6 +7,16 @@ I am an assistant professor of International Relations and Korean Studies at [Le
 
 I also maintain an active program of applied research on innovation policy, entrepreneurship, and the digital economy. I am working increasingly on machine learning for text analysis and developing pipelines that integrate OCR, vision-language models, and large language models to analyze large quantities of text.
 
+<div class="page-callout">
+  <p class="page-callout__eyebrow">Current focus</p>
+  <p class="page-callout__text">Research on national identity and belonging in democratic and democratizing societies, computational text analysis in Korean studies, and applied work on innovation policy and the digital economy.</p>
+  <div class="resource-links">
+    <a href="/research/" class="resource-link resource-link--primary">View research</a>
+    <a href="/projects/" class="resource-link">Current projects</a>
+    <a href="/cv/" class="resource-link resource-link--subtle">Curriculum vitae</a>
+  </div>
+</div>
+
 Motivated and informed by my research, I teach courses on computational text analysis, comparative politics, and Korean studies at both the undergraduate and graduate levels.
 
 Beyond Leiden, I serve as Director of Research at [SinoNK.com](http://sinonk.com), a Senior Fellow at the [European Centre for North Korean Studies](https://ecnk.univie.ac.at/) at the University of Vienna, and a Non-Resident Fellow in the [Innovation Policy Lab](https://munkschool.utoronto.ca/ipl/) at the University of Toronto. These affiliations reflect my commitment to publicly engaged scholarship and policy-relevant research.

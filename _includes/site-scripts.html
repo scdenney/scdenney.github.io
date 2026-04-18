@@ -1,0 +1,65 @@
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('a[target="_blank"]').forEach(function (link) {
+    var rel = (link.getAttribute('rel') || '').split(/\s+/).filter(Boolean);
+
+    if (!rel.includes('noopener')) rel.push('noopener');
+    if (!rel.includes('noreferrer')) rel.push('noreferrer');
+
+    link.setAttribute('rel', rel.join(' '));
+  });
+
+  var navToggle = document.querySelector('.nav-toggle');
+  var navigation = document.getElementById('site-navigation');
+
+  function closeNavigation() {
+    if (!navToggle || !navigation) return;
+
+    navToggle.setAttribute('aria-expanded', 'false');
+    navigation.classList.remove('active');
+    document.body.classList.remove('nav-open');
+  }
+
+  if (navToggle && navigation) {
+    navToggle.addEventListener('click', function () {
+      var isExpanded = navToggle.getAttribute('aria-expanded') === 'true';
+
+      navToggle.setAttribute('aria-expanded', String(!isExpanded));
+      navigation.classList.toggle('active');
+      document.body.classList.toggle('nav-open', !isExpanded);
+    });
+
+    navigation.querySelectorAll('a').forEach(function (link) {
+      link.addEventListener('click', closeNavigation);
+    });
+
+    document.addEventListener('keyup', function (event) {
+      if (event.key === 'Escape') {
+        closeNavigation();
+      }
+    });
+  }
+
+  document.querySelectorAll('.research-section').forEach(function (section) {
+    var items = section.querySelectorAll('.publication-item');
+
+    if (items.length <= 5) return;
+
+    section.classList.add('is-collapsible', 'is-collapsed');
+
+    var button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'show-more-btn';
+    button.setAttribute('aria-expanded', 'false');
+    button.textContent = 'Show all ' + items.length + ' items';
+    section.appendChild(button);
+
+    button.addEventListener('click', function () {
+      var isCollapsed = section.classList.toggle('is-collapsed');
+
+      button.setAttribute('aria-expanded', String(!isCollapsed));
+      button.textContent = isCollapsed ? 'Show all ' + items.length + ' items' : 'Show fewer';
+    });
+  });
+});
+</script>

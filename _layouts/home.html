@@ -4,17 +4,21 @@
   {% include head.html %}
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
   {% include header.html %}
 
-  <div class="page-wrapper">
-    <div class="home-layout">
-      {% include sidebar.html %}
-      <main class="page-content">
-        {{ content }}
-      </main>
+  <main id="main-content" class="page-main">
+    <div class="page-wrapper page-wrapper--home">
+      <div class="home-layout">
+        {% include sidebar.html %}
+        <div class="page-content">
+          {{ content }}
+        </div>
+      </div>
     </div>
-  </div>
+  </main>
 
   {% include footer.html %}
+  {% include site-scripts.html %}
 </body>
 </html>

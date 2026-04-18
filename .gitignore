@@ -29,3 +29,6 @@ setup-sync.sh
 # LaTeX build artifacts
 *.aux
 *.out
+*.fdb_latexmk
+*.fls
+*.xdv

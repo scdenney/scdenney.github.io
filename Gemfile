@@ -1,11 +1,10 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
+gem "webrick"
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
-gem "webrick"
+gem "ffi", "< 1.17"
 
-# GitHub Pages
 group :jekyll_plugins do
-  gem "github-pages", "~> 228", group: :jekyll_plugins
+  gem "github-pages", "~> 228"
 end
