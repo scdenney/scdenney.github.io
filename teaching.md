@@ -66,7 +66,9 @@ permalink: /teaching/
 
 ## Courses
 
-### Digital Humanities
+<p class="page-intro">My courses in this area combine digital humanities with computational text analysis and social science research design, using substantive questions in Korean studies and international relations to ground methodological training.</p>
+
+### Digital Humanities and Computational Text Analysis
 
 <div class="project-card">
 <div class="project-card__header">

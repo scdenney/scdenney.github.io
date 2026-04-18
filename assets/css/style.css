@@ -214,7 +214,7 @@ hr {
   color: rgba(248, 239, 230, 0.92);
   font-family: var(--font-serif);
   font-size: var(--lead-copy-size);
-  font-weight: 650;
+  font-weight: 500;
   letter-spacing: 0.02em;
   text-decoration: none;
 }
@@ -630,6 +630,7 @@ details ul li {
 
 .research-sidebar {
   grid-column: 2;
+  grid-row: 1;
   position: sticky;
   top: 5.75rem;
   align-self: start;
@@ -637,6 +638,7 @@ details ul li {
 
 .research-content {
   grid-column: 1;
+  grid-row: 1;
   min-width: 0;
 }
 
