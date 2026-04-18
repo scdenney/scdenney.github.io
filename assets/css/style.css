@@ -212,10 +212,10 @@ hr {
   position: relative;
   padding: 0.35rem 0;
   color: rgba(248, 239, 230, 0.92);
-  font-family: var(--font-sans);
+  font-family: var(--font-serif);
   font-size: var(--lead-copy-size);
-  font-weight: 600;
-  letter-spacing: 0.01em;
+  font-weight: 650;
+  letter-spacing: 0.02em;
   text-decoration: none;
 }
 
@@ -623,15 +623,21 @@ details ul li {
 
 .research-layout {
   display: grid;
-  grid-template-columns: minmax(14rem, 16rem) minmax(0, 1fr);
-  gap: 2.75rem;
+  grid-template-columns: minmax(0, 1fr) minmax(13.5rem, 15rem);
+  gap: 2.5rem;
   align-items: start;
 }
 
 .research-sidebar {
+  grid-column: 2;
   position: sticky;
   top: 5.75rem;
   align-self: start;
+}
+
+.research-content {
+  grid-column: 1;
+  min-width: 0;
 }
 
 .research-sidebar-inner {
@@ -775,8 +781,14 @@ details ul li {
     gap: 1.5rem;
   }
 
-  .research-sidebar {
+  .research-content {
+    grid-column: auto;
     order: -1;
+  }
+
+  .research-sidebar {
+    grid-column: auto;
+    order: 0;
     position: static;
   }
 
