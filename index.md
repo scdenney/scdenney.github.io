@@ -7,23 +7,7 @@ I am an assistant professor of International Relations and Korean Studies at [Le
 
 I also maintain an active program of applied research on innovation policy, entrepreneurship, and the digital economy. I am working increasingly on machine learning for text analysis and developing pipelines that integrate OCR, vision-language models, and large language models to analyze large quantities of text.
 
-<div class="page-callout">
-  <p class="page-callout__text">Current work centers on national identity and belonging in democratic and democratizing societies, computational text analysis in Korean studies, and applied research on innovation policy and the digital economy.</p>
-  <div class="page-callout__grid">
-    <a href="/research/" class="page-callout__card">
-      <span class="page-callout__card-title">Research</span>
-      <span class="page-callout__card-text">Peer-reviewed work, working papers, reports, and talks.</span>
-    </a>
-    <a href="/projects/" class="page-callout__card">
-      <span class="page-callout__card-title">Projects</span>
-      <span class="page-callout__card-text">Active research agendas, collaborations, and recent output.</span>
-    </a>
-    <a href="/cv/" class="page-callout__card">
-      <span class="page-callout__card-title">CV</span>
-      <span class="page-callout__card-text">Appointments, publications, teaching, and downloadable materials.</span>
-    </a>
-  </div>
-</div>
+<p class="page-inline-summary">Current work centers on national identity and belonging in democratic and democratizing societies, computational text analysis in Korean studies, and applied research on innovation policy and the digital economy. For more, see <a href="/research/">Research</a>, <a href="/projects/">Projects</a>, and <a href="/cv/">CV</a>.</p>
 
 Motivated and informed by my research, I teach courses on computational text analysis, comparative politics, and Korean studies at both the undergraduate and graduate levels.
 
