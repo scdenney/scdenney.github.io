@@ -11,8 +11,6 @@ permalink: /projects/
 
 <p class="page-intro">Currently, my research program is organized around three projects that collectively examine how national identity and belonging are shaped in democratic and democratizing societies.</p>
 
----
-
 ## Active Projects
 
 <div class="project-card">

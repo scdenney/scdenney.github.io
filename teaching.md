@@ -9,8 +9,6 @@ permalink: /teaching/
 <p>This page collects my teaching and supervision activities at Leiden University, along with open educational resources I develop and maintain. Below you will find resources for thesis supervision, computational text analysis, and research methodology, followed by current course offerings in digital humanities, research design, and international relations.</p>
 </header>
 
----
-
 ## Teaching Resources
 
 <p class="page-intro">I develop and maintain open educational resources for research methods, thesis supervision, and computational text analysis.</p>
