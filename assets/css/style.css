@@ -13,6 +13,7 @@
   --color-heading: #3c211c;
   --color-accent: #7a3847;
   --color-accent-strong: #622737;
+  --color-masthead: rgba(85, 31, 45, 0.97);
   --color-accent-soft: #ead5cf;
   --color-border: #d8c3b4;
   --color-border-strong: #b99470;
@@ -150,7 +151,7 @@ iframe:focus-visible {
 
 .skip-link {
   position: absolute;
-  top: -3rem;
+  top: 0;
   left: 1rem;
   z-index: 1000;
   padding: 0.7rem 1rem;
@@ -160,10 +161,12 @@ iframe:focus-visible {
   font-family: var(--font-sans);
   font-weight: 600;
   text-decoration: none;
+  transform: translateY(-140%);
 }
 
-.skip-link:focus {
-  top: 1rem;
+.skip-link:focus,
+.skip-link:focus-visible {
+  transform: translateY(1rem);
 }
 
 hr {
@@ -176,8 +179,7 @@ hr {
   position: sticky;
   top: 0;
   z-index: 100;
-  border-bottom: 1px solid rgba(185, 148, 112, 0.42);
-  background: rgba(108, 46, 62, 0.95);
+  background: var(--color-masthead);
   backdrop-filter: blur(12px);
   box-shadow: 0 10px 28px rgba(54, 31, 24, 0.08);
 }
@@ -188,7 +190,7 @@ hr {
   padding: 0 1.5rem;
   display: flex;
   align-items: center;
-  gap: 1.5rem;
+  justify-content: center;
   min-height: 4.25rem;
 }
 
@@ -208,7 +210,7 @@ hr {
 }
 
 .masthead__nav {
-  margin-left: auto;
+  margin: 0 auto;
   display: flex;
   align-items: center;
   gap: 1.5rem;
@@ -327,7 +329,7 @@ hr {
 
 .author__name {
   margin-bottom: 0.2rem;
-  font-size: 1.55rem;
+  font-size: 1.7rem;
 }
 
 .author__title {
@@ -397,27 +399,61 @@ hr {
 
 .page-callout {
   margin: 1.75rem 0 1.9rem;
-  padding: 1.35rem 1.45rem;
+  padding: 1.5rem 1.6rem;
   border: 1px solid rgba(185, 148, 112, 0.55);
   border-radius: var(--radius-lg);
   background:
-    linear-gradient(135deg, rgba(255, 255, 255, 0.88), rgba(245, 233, 223, 0.82));
+    linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(244, 234, 224, 0.88));
   box-shadow: var(--shadow-sm);
 }
 
-.page-callout__eyebrow {
-  margin-bottom: 0.45rem;
-  color: var(--color-accent-strong);
-  font-family: var(--font-sans);
-  font-size: 0.8rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+.page-callout__text {
+  margin-bottom: 1.15rem;
+  font-size: 1.08rem;
+  line-height: 1.75;
 }
 
-.page-callout__text {
-  margin-bottom: 1rem;
-  font-size: 1.04rem;
+.page-callout__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.8rem;
+}
+
+.page-callout__card {
+  display: block;
+  padding: 0.95rem 1rem 1rem;
+  border: 1px solid rgba(216, 195, 180, 0.9);
+  border-radius: 1rem;
+  background: rgba(255, 252, 248, 0.84);
+  color: var(--color-text);
+  text-decoration: none;
+  box-shadow: 0 8px 22px rgba(54, 31, 24, 0.04);
+}
+
+.page-callout__card:hover,
+.page-callout__card:focus-visible {
+  border-color: rgba(98, 39, 55, 0.36);
+  color: var(--color-text);
+  box-shadow: 0 16px 32px rgba(98, 39, 55, 0.08);
+  transform: translateY(-1px);
+}
+
+.page-callout__card-title {
+  display: block;
+  margin-bottom: 0.2rem;
+  color: var(--color-heading);
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.page-callout__card-text {
+  display: block;
+  color: var(--color-text-soft);
+  font-family: var(--font-sans);
+  font-size: 0.94rem;
+  line-height: 1.5;
 }
 
 .section-layout {
@@ -656,9 +692,13 @@ details ul li {
   align-items: start;
 }
 
-.research-sidebar-inner {
+.research-sidebar {
   position: sticky;
   top: 5.75rem;
+  align-self: start;
+}
+
+.research-sidebar-inner {
   padding: 1rem;
   border: 1px solid rgba(216, 195, 180, 0.82);
   border-radius: var(--radius-md);
@@ -801,10 +841,10 @@ details ul li {
 
   .research-sidebar {
     order: -1;
+    position: static;
   }
 
   .research-sidebar-inner {
-    position: static;
     max-height: none;
   }
 }
@@ -828,11 +868,11 @@ details ul li {
     flex-direction: column;
     align-items: stretch;
     gap: 0;
-    margin-left: 0;
+    margin: 0;
     padding: 0.6rem;
     border: 1px solid rgba(185, 148, 112, 0.35);
     border-radius: 1rem;
-    background: rgba(108, 46, 62, 0.98);
+    background: var(--color-masthead);
     box-shadow: var(--shadow-md);
   }
 
@@ -875,6 +915,10 @@ details ul li {
   .cv-header {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .page-callout__grid {
+    grid-template-columns: 1fr;
   }
 }
 
