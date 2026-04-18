@@ -60,11 +60,11 @@ Denney, S., Kelly, R., & Wolfe, D. (2025). Innovation policy in practice: Assess
 <h2 id="papers-in-progress">Papers in Progress</h2>
 
 <p class="publication-item">
-Denney, S. (n.d.). Fairness, threat, and the norms-based model of immigration legitimacy.
+Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. <a href="https://github.com/scdenney/constructing-the-nation" target="_blank" class="working-paper-badge">Working paper</a>
 </p>
 
 <p class="publication-item">
-Denney, S., & van de Pol, A. (n.d.). Constructing the nation: Identity and historical narratives in South Korean history textbooks.
+Denney, S. (n.d.). Fairness, threat, and the norms-based model of immigration legitimacy.
 </p>
 </div>
 
