@@ -123,7 +123,7 @@ permalink: /teaching/
 </details>
 </div>
 
-### International Relations & Comparative Politics
+### Korean Studies and Comparative Politics
 
 <div class="project-card">
 <div class="project-card__header">
