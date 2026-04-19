@@ -62,6 +62,22 @@ permalink: /teaching/
 </details>
 </div>
 
+<div class="project-card">
+<div class="project-card__header">
+<h3>Pre-Submit Review Pipeline</h3>
+<div class="project-links">
+<a href="https://github.com/scdenney/presubmit" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a>
+</div>
+</div>
+
+<details>
+<summary>About This Resource</summary>
+<div>
+<p>An open-source pre-submission review tool for researchers and students working on manuscripts, theses, and seminar papers. Users can run the pipeline on an academic PDF to generate detailed feedback on the strength of the argument, the quality of evidence, methods, numbers, citations, and overall writing clarity before sharing a draft with supervisors, committees, or journals.</p>
+</div>
+</details>
+</div>
+
 ---
 
 ## Courses

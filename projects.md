@@ -9,7 +9,7 @@ permalink: /projects/
 <p>This page provides an overview of the research projects currently active or recently completed in which I served as the primary investigator or co-investigator.</p>
 </header>
 
-<p class="page-intro">Currently, my research program is organized around three projects that collectively examine how national identity and belonging are shaped in democratic and democratizing societies.</p>
+<p class="page-intro">My current research and applied policy work is organized around four active projects. Three examine how national identity, migration, and belonging are shaped in democratic and democratizing societies, while a fourth extends this agenda into applied research on AI, labour-market change, and workforce intelligence.</p>
 
 ## Active Projects
 
@@ -126,7 +126,7 @@ permalink: /projects/
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
 <li>Denney, S., Steinhardt, H. C., & Bhowmick, L. (2026). Identity conformity in Taiwan and South Korea: Why citizens in divided societies are pressured to overstate national pride. <em>Nationalism and Ethnic Politics</em>. Advance online publication. <a href="https://doi.org/10.1080/13537113.2026.2616954" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/nep-2026-replication" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
-<li>Green, C., & Denney, S. (2024). Why do democratic societies tolerate undemocratic laws? Sorting public support for the National Security Act in South Korea. <em>Democratization, 31</em>(1), 113–131. <a href="https://doi.org/10.1080/13510347.2023.2258082" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a></li>
+<li>Green, C., & Denney, S. (2024). Why do democratic societies tolerate undemocratic laws? Sorting public support for the National Security Act in South Korea. <em>Democratization, 31</em>(1), 113–131. <a href="https://doi.org/10.1080/13510347.2023.2258082" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/South-Korean-support-for-NSA" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
 </ul>
 
 <p><strong>Working Papers</strong></p>
@@ -181,8 +181,8 @@ permalink: /projects/
 <div>
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
-<li>Ward, P., & Denney, S. (2025). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. <em>Policy and Society</em>. Advance online publication. <a href="https://doi.org/10.1093/polsoc/puaf027" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a></li>
-<li>Denney, S., Zhou, T., & Brehm, R. (2025). From division to democracy: Integration of post-communist citizens in Germany and South Korea. <em>Communist and Post-Communist Studies</em>. Advance online publication. <a href="https://doi.org/10.1525/cpcs.2025.2636997" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a></li>
+<li>Ward, P., & Denney, S. (2025). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. <em>Policy and Society</em>. Advance online publication. <a href="https://doi.org/10.1093/polsoc/puaf027" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/welfare-chauvinism-replication" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
+<li>Denney, S., Zhou, T., & Brehm, R. (2025). From division to democracy: Integration of post-communist citizens in Germany and South Korea. <em>Communist and Post-Communist Studies</em>. Advance online publication. <a href="https://doi.org/10.1525/cpcs.2025.2636997" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/cpcs-2025-replication" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
 </ul>
 
 <p><strong>Research Monograph</strong></p>
@@ -275,12 +275,12 @@ permalink: /projects/
 <div>
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
-<li>Denney, S., & Ward, P. (2023). How autocracies disrupt unsanctioned information flows: The role of state power and social capital in North Korea. <em>Problems of Post-Communism, 71</em>(2), 177–191. <a href="https://doi.org/10.1080/10758216.2023.2180038" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a></li>
+<li>Denney, S., & Ward, P. (2023). How autocracies disrupt unsanctioned information flows: The role of state power and social capital in North Korea. <em>Problems of Post-Communism, 71</em>(2), 177–191. <a href="https://doi.org/10.1080/10758216.2023.2180038" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/Information-Flows-in-North-Korea" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
 </ul>
 
 <p><strong>Reports</strong></p>
 <ul>
-<li>2022. <a href="https://scdenney.net/wp-content/uploads/2024/08/02082024-drpk_information-dissimination-denney_yonsei-presentation-1.pdf" target="_blank">"Information Dissemination in North Korea: A Report for NGOs,"</a> with Peter Ward. Report for the National Endowment for Democracy (NED), January.</li>
+<li>2022. <a href="https://scdenney.wordpress.com/wp-content/uploads/2022/02/for-ngos_information-dissimination-in-north-korea_ward-and-denney_ned-2022.pdf" target="_blank" rel="noopener noreferrer">"Information Dissemination in North Korea: A Report for NGOs,"</a> with Peter Ward. Report for the National Endowment for Democracy (NED), January.</li>
 </ul>
 
 <p><strong>Applications</strong></p>
@@ -322,17 +322,18 @@ permalink: /projects/
 <div>
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
-<li>Denney, S., Ward, P., & Green, C. (2024). 한국인의 남북통일방식에 대한 의식 결정요인 분석 [Analyzing the determinants of South Korean attitudes toward Korean unification: A conjoint analysis]. <em>국가전략 [National Strategy], 30</em>(1), 137–163. <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003053315" target="_blank" rel="noopener noreferrer" class="resource-link">KCI record</a></li>
-<li>Denney, S., & Green, C. (2024). Public attitudes towards co-ethnic migrant integration: Evidence from South Korea. <em>Journal of Ethnic and Migration Studies, 50</em>(8), 1998–2022. <a href="https://doi.org/10.1080/1369183X.2023.2286207" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a></li>
-<li>Denney, S., Ward, P., & Green, C. (2024). Public support for migrant entrepreneurship: The case of North Koreans in the Republic of Korea. <em>International Migration Review, 58</em>(2), 781–805. <a href="https://doi.org/10.1177/01979183231203927" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a></li>
-<li>Ward, P., & Denney, S. (2022). Welfare chauvinism among co-ethnics: Evidence from a conjoint experiment in South Korea. <em>International Migration, 60</em>(5), 74–90. <a href="https://doi.org/10.1111/imig.12937" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a></li>
-<li>Denney, S., & Green, C. (2021). North Korean patriotism: Assessing the success and failures of a nation. <em>Korea Journal, 61</em>(1), 154–185. <a href="https://doi.org/10.25024/kj.2021.61.1.154" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a></li>
+<li>Denney, S., Ward, P., & Green, C. (2024). 한국인의 남북통일방식에 대한 의식 결정요인 분석 [Analyzing the determinants of South Korean attitudes toward Korean unification: A conjoint analysis]. <em>국가전략 [National Strategy], 30</em>(1), 137–163. <a href="https://doi.org/10.35390/sejong.30.1.202402.006" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a></li>
+<li>Denney, S., & Green, C. (2024). Public attitudes towards co-ethnic migrant integration: Evidence from South Korea. <em>Journal of Ethnic and Migration Studies, 50</em>(8), 1998–2022. <a href="https://doi.org/10.1080/1369183X.2023.2286207" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/north-korean-migrant-integration" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
+<li>Denney, S., Ward, P., & Green, C. (2024). Public support for migrant entrepreneurship: The case of North Koreans in the Republic of Korea. <em>International Migration Review, 58</em>(2), 781–805. <a href="https://doi.org/10.1177/01979183231203927" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/NK-migrant-entrepreneur-support" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
+<li>Ward, P., & Denney, S. (2022). Welfare chauvinism among co-ethnics: Evidence from a conjoint experiment in South Korea. <em>International Migration, 60</em>(5), 74–90. <a href="https://doi.org/10.1111/imig.12937" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/housing-conjoint-replication" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
+<li>Denney, S., & Green, C. (2021). North Korean patriotism: Assessing the success and failures of a nation. <em>Korea Journal, 61</em>(1), 154–185. <a href="https://doi.org/10.25024/kj.2021.61.1.154" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/DPRK_national_identity" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
 </ul>
 
 <p><strong>Reports</strong></p>
 <ul>
 <li>2023. <a href="https://www.38north.org/2023/01/because-it-is-good-for-south-korea-public-support-for-defector-entrepreneurship/" target="_blank">"Because It Is Good for South Korea: Public Support for Defector Entrepreneurship,"</a> with Christopher Green. <em>38 North</em>, January.</li>
 <li>2022. <a href="https://www.38north.org/2022/05/improving-north-korean-defector-integration-in-south-korea-survey-findings-and-recommendations/" target="_blank">"Improving North Korean Defector Integration in South Korea: Survey Findings and Recommendations,"</a> with Christopher Green. <em>38 North</em>, May.</li>
+<li>2018. <a href="https://keia.org/publication/unification-in-action-the-national-identity-of-north-korean-defector-migrants-insights-and-implications/" target="_blank" rel="noopener noreferrer">"Unification in Action? The National Identity of North Korean Defector-Migrants: Insights and Implications,"</a> with Christopher Green. <em>Korea Economic Institute of America (KEI) Academic Paper Series</em>, October 1.</li>
 </ul>
 
 <p><strong>Presentations</strong></p>

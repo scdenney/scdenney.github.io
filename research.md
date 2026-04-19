@@ -177,7 +177,7 @@ Cathcart, A., Denney, S., & Green, C. (Eds.). (2020). <em>Decoding the Sino-Nort
 <h2 id="research-monographs">Research Monographs</h2>
 
 <p class="publication-item">
-Denney, S., Frank, R., Brehm, R., Zhou, T., & Ward, P. (2023). <em>Integration challenges and opportunities in divided societies</em>. European Centre for North Korean Studies, University of Vienna. <a href="/assets/pdf/denney-et-al-2023-ifes-research-report.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">PDF</a>
+Denney, S., Frank, R., Brehm, R., Zhou, T., & Ward, P. (2023). <em>Integration challenges and opportunities in divided countries: A comparative analysis of Germany and South Korea</em>. European Centre for North Korean Studies, University of Vienna. <a href="/assets/pdf/denney-et-al-2023-ifes-research-report.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">PDF</a>
 </p>
 
 <p class="publication-item">
@@ -269,7 +269,7 @@ Denney, S. (2013). <em>Nation, state, and national economy: The early 19th centu
 <h2 id="reports">Reports and Policy Papers</h2>
 
 <p class="publication-item">
-Denney, S., & Ward, P. (2022). <em>Information dissemination in North Korea: A report for NGOs</em>. National Endowment for Democracy.
+Denney, S., & Ward, P. (2022). <em>Information dissemination in North Korea: A report for NGOs</em>. National Endowment for Democracy. <a href="https://scdenney.wordpress.com/wp-content/uploads/2022/02/for-ngos_information-dissimination-in-north-korea_ward-and-denney_ned-2022.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Report</a>
 </p>
 
 <p class="publication-item">
@@ -285,7 +285,7 @@ Denney, S., Ward, P., & Abrahamian, A. (2020). <em>North Korean refugee entrepre
 </p>
 
 <p class="publication-item">
-Denney, S. (2019). <em>Political order and civic space in the Asia Pacific: A multilevel analysis of trends, 1989-2020</em>. United Nations Office of Global Insights and Policy.
+Denney, S. (2020). <em>Political order and civic space in the Asia Pacific: A multilevel analysis of trends, 1989-2020</em>. UNICEF Office of Global Insight and Policy. <a href="https://scdenney.wordpress.com/wp-content/uploads/2021/04/unicef_report_political-order-asia_final.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Report</a> <a href="https://github.com/scdenney/UNICEF-political-rule-civic-order" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
 </p>
 
 <p class="publication-item">
@@ -293,7 +293,7 @@ Denney, S., Green, C., & Ward, P. (2019). <em>New values & old orders: Where do 
 </p>
 
 <p class="publication-item">
-Denney, S., & Green, C. (2018). Unification in action? The national identity of North Korean defector-migrants: Insights and implications. <em>Korean Economic Institute of America: Academic Paper Series</em>.
+Denney, S., & Green, C. (2018). Unification in action? The national identity of North Korean defector-migrants: Insights and implications. <em>Korean Economic Institute of America: Academic Paper Series</em>. <a href="https://keia.org/publication/unification-in-action-the-national-identity-of-north-korean-defector-migrants-insights-and-implications/" target="_blank" rel="noopener noreferrer" class="resource-link">Report</a>
 </p>
 
 <p class="publication-item">
