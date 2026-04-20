@@ -67,6 +67,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
   if (researchSidebar && researchToc) {
     var researchLayout = researchSidebar.closest('.research-layout');
+    var researchSidebarInner = researchSidebar.querySelector('.research-sidebar-inner');
+    var researchClose = null;
 
     researchToggle = document.createElement('button');
     researchToggle.type = 'button';
@@ -76,6 +78,17 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (researchLayout) {
       researchLayout.insertAdjacentElement('beforebegin', researchToggle);
+    }
+
+    if (researchSidebarInner) {
+      researchClose = document.createElement('button');
+      researchClose.type = 'button';
+      researchClose.className = 'research-sidebar-close';
+      researchClose.setAttribute('aria-label', 'Close sections');
+      researchClose.textContent = '×';
+      researchSidebarInner.insertAdjacentElement('afterbegin', researchClose);
+
+      researchClose.addEventListener('click', closeResearchToc);
     }
 
     researchToggle.addEventListener('click', function () {
