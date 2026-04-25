@@ -329,6 +329,10 @@ Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>
 <h2 id="talks">Selected Talks</h2>
 
 <p class="publication-item">
+Denney, S., & van de Pol, A. (2026). Constructing the nation: Identity and historical narratives in South Korean history textbooks. Midwest Political Science Association (MPSA) Conference, April 2026. <a href="/assets/slides/constructing-the-nation/" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2026). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. Leiden University Centre for Digital Humanities (LUCDH) Lunch Lecture Series, Leiden University, March 24.</p>
 
 <p class="publication-item">
