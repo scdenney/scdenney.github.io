@@ -36,7 +36,10 @@ permalink: /projects/
 <details>
 <summary>Output</summary>
 <div>
-<p><strong>Forthcoming</strong></p>
+<p><strong>Presentations</strong></p>
+<ul>
+<li>2026. <a href="/assets/pdf/denney_2026_fairness-threat-immigration-legitimacy_mpsa-slides.pdf" target="_blank" rel="noopener noreferrer">"Fairness, Threat, and the Norms-Based Model of Immigration Legitimacy,"</a> Midwest Political Science Association (MPSA) Conference, April 2026.</li>
+</ul>
 </div>
 </details>
 </div>
@@ -71,6 +74,7 @@ permalink: /projects/
 </ul>
 <p><strong>Presentations</strong></p>
 <ul>
+<li>2026. <a href="/assets/slides/constructing-the-nation/" target="_blank" rel="noopener noreferrer">"Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks,"</a> Midwest Political Science Association (MPSA) Conference, April 2026.</li>
 <li>2025. <a href="https://github.com/scdenney/textbook-pipeline/blob/main/presentation/ALICE_presentation_denney-03062025.pdf" target="_blank">"From OCR to Multimodal LLMs: Building a Textbook Corpus with ALICE,"</a> ALICE_SHARK User Meeting 2025, June 3.</li>
 </ul>
 </div>

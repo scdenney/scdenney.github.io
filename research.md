@@ -333,7 +333,11 @@ Denney, S., & van de Pol, A. (2026). Constructing the nation: Identity and histo
 </p>
 
 <p class="publication-item">
-Denney, S. (2026). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. Leiden University Centre for Digital Humanities (LUCDH) Lunch Lecture Series, Leiden University, March 24.</p>
+Denney, S. (2026). Fairness, threat, and the norms-based model of immigration legitimacy. Midwest Political Science Association (MPSA) Conference, April 2026. <a href="/assets/pdf/denney_2026_fairness-threat-immigration-legitimacy_mpsa-slides.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2026). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. Leiden University Centre for Digital Humanities (LUCDH) Lunch Lecture Series, Leiden University, March 24. <a href="/assets/pdf/denney_2026_what-were-they-thinking_slides.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a></p>
 
 <p class="publication-item">
 Denney, S. (2025). Guardianship democracy: Mapping elite rule preferences in East and Southeast Asia. 8th Annual Meeting of the Social Science Korean Studies Network in Europe (SoKEN), University of Duisburg–Essen, May 23–24.
