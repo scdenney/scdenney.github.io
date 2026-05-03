@@ -45,7 +45,7 @@ Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoin
 </p>
 
 <p class="publication-item">
-Denney, S. (2026). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. <a href="https://github.com/scdenney/what-were-they-thinking/blob/main/denney_2026_what-were-they-thinking.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
+Denney, S. (2026). "What Were They Thinking?" Using Open-Text Responses to Validate Constructs in Conjoint Survey Experiments. <a href="https://github.com/scdenney/what-were-they-thinking/blob/main/denney_2026_what-were-they-thinking.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
 
 <p class="publication-item">
@@ -337,7 +337,7 @@ Denney, S. (2026). Fairness, threat, and the norms-based model of immigration le
 </p>
 
 <p class="publication-item">
-Denney, S. (2026). "What were they thinking?" Using open-text responses to validate constructs in survey experiments. Leiden University Centre for Digital Humanities (LUCDH) Lunch Lecture Series, Leiden University, March 24. <a href="/assets/pdf/denney_2026_what-were-they-thinking_slides.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a></p>
+Denney, S. (2026). "What Were They Thinking?" Using Open-Text Responses to Validate Constructs in Conjoint Survey Experiments. Leiden University Centre for Digital Humanities (LUCDH) Lunch Lecture Series, Leiden University, March 24. <a href="/assets/pdf/denney_2026_what-were-they-thinking_slides.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a></p>
 
 <p class="publication-item">
 Denney, S. (2025). Guardianship democracy: Mapping elite rule preferences in East and Southeast Asia. 8th Annual Meeting of the Social Science Korean Studies Network in Europe (SoKEN), University of Duisburg–Essen, May 23–24.
