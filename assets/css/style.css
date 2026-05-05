@@ -31,7 +31,7 @@
   --content-width: 74rem;
   --section-width: 58rem;
   --section-width-wide: 68rem;
-  --lead-copy-size: 1rem;
+  --lead-copy-size: 1.18rem;
   --lead-copy-line-height: 1.78;
 }
 
@@ -40,7 +40,7 @@
 }
 
 html {
-  font-size: 85%;
+  font-size: 16px;
   scroll-behavior: smooth;
   background:
     radial-gradient(circle at top left, rgba(213, 170, 142, 0.22), transparent 28rem),
@@ -53,7 +53,7 @@ body {
   display: flex;
   flex-direction: column;
   font-family: var(--font-serif);
-  font-size: 1rem;
+  font-size: 1.05rem;
   line-height: 1.72;
   color: var(--color-text);
   -webkit-font-smoothing: antialiased;
@@ -398,6 +398,12 @@ hr {
   margin-bottom: 0;
 }
 
+.layout-home .page-content > p,
+.page-inline-summary {
+  font-size: var(--lead-copy-size);
+  line-height: var(--lead-copy-line-height);
+}
+
 .section-layout {
   max-width: var(--section-width);
 }
@@ -420,13 +426,13 @@ hr {
   max-width: 50rem;
   margin: 0;
   color: var(--color-text-soft);
-  font-size: inherit;
+  font-size: 1.08rem;
 }
 
 .page-intro {
   margin-bottom: 1.75rem;
   color: var(--color-text-soft);
-  font-size: inherit;
+  font-size: 1.08rem;
   line-height: 1.72;
 }
 
