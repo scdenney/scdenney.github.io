@@ -31,7 +31,7 @@
   --content-width: 74rem;
   --section-width: 58rem;
   --section-width-wide: 68rem;
-  --lead-copy-size: 1.18rem;
+  --lead-copy-size: 1rem;
   --lead-copy-line-height: 1.78;
 }
 
@@ -53,7 +53,7 @@ body {
   display: flex;
   flex-direction: column;
   font-family: var(--font-serif);
-  font-size: 1.05rem;
+  font-size: 1rem;
   line-height: 1.72;
   color: var(--color-text);
   -webkit-font-smoothing: antialiased;
@@ -398,12 +398,6 @@ hr {
   margin-bottom: 0;
 }
 
-.layout-home .page-content > p,
-.page-inline-summary {
-  font-size: var(--lead-copy-size);
-  line-height: var(--lead-copy-line-height);
-}
-
 .section-layout {
   max-width: var(--section-width);
 }
@@ -426,13 +420,13 @@ hr {
   max-width: 50rem;
   margin: 0;
   color: var(--color-text-soft);
-  font-size: 1.08rem;
+  font-size: inherit;
 }
 
 .page-intro {
   margin-bottom: 1.75rem;
   color: var(--color-text-soft);
-  font-size: 1.08rem;
+  font-size: inherit;
   line-height: 1.72;
 }
 
