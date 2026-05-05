@@ -9,9 +9,9 @@ permalink: /teaching/
 <p>This page collects my teaching and supervision activities at Leiden University, along with open educational resources I develop and maintain. Below you will find resources for thesis supervision, computational text analysis, and research methodology, followed by current course offerings in digital humanities, research design, and international relations.</p>
 </header>
 
-## Teaching Resources
+<p class="page-intro">I develop and maintain open educational resources for research methods, thesis supervision, and computational text analysis. I also teach courses in digital humanities, research design, and international relations.</p>
 
-<p class="page-intro">I develop and maintain open educational resources for research methods, thesis supervision, and computational text analysis.</p>
+## Teaching Resources
 
 <div class="project-card">
 <div class="project-card__header">
@@ -78,13 +78,7 @@ permalink: /teaching/
 </details>
 </div>
 
----
-
 ## Courses
-
-<p class="page-intro">My courses in this area combine digital humanities with computational text analysis and social science research design, using substantive questions in Korean studies and international relations to ground methodological training.</p>
-
-### Digital Humanities and Computational Text Analysis
 
 <div class="project-card">
 <div class="project-card__header">
@@ -120,8 +114,6 @@ permalink: /teaching/
 </details>
 </div>
 
-### Research Design
-
 <div class="project-card">
 <div class="project-card__header">
 <h3>BA Thesis Seminar</h3>
@@ -138,8 +130,6 @@ permalink: /teaching/
 </div>
 </details>
 </div>
-
-### Korean Studies and Comparative Politics
 
 <div class="project-card">
 <div class="project-card__header">

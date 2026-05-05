@@ -4,15 +4,18 @@ title: CV
 permalink: /cv/
 ---
 
-<div class="cv-container">
-<div class="cv-header">
+<header class="page-header">
 <h1>Curriculum Vitae</h1>
-<a href="{{ '/assets/pdf/denney_cv.pdf' | relative_url }}" class="resource-link resource-link--primary" download>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
-<path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/>
-</svg>
-Download PDF
-</a>
+</header>
+
+<p class="page-intro">Download a PDF version of my curriculum vitae below.</p>
+
+<div class="project-card">
+<div class="project-card__header">
+<h3>Curriculum Vitae</h3>
+<div class="project-links">
+<a href="{{ '/assets/pdf/denney_cv.pdf' | relative_url }}" class="resource-link resource-link--primary" download>Download PDF</a>
+</div>
 </div>
 
 <iframe
