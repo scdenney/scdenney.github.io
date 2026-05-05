@@ -65,6 +65,10 @@ Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Histo
 </p>
 
 <p class="publication-item">
+Denney, S., & Steinhardt, H. C. (n.d.). <em>Political Regimes and the Shape of Nationalism: A Conjoint Approach to the Content of National Identity in Mainland China and Taiwan</em>.
+</p>
+
+<p class="publication-item">
 Denney, S. (n.d.). Fairness, threat, and the norms-based model of immigration legitimacy.
 </p>
 </div>
