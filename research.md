@@ -65,7 +65,7 @@ Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Histo
 </p>
 
 <p class="publication-item">
-Denney, S., & Steinhardt, H. C. (n.d.). <em>Political Regimes and the Shape of Nationalism: A Conjoint Approach to the Content of National Identity in Mainland China and Taiwan</em>.
+Denney, S., & Steinhardt, H. C. (n.d.). Political Regimes and the Shape of Nationalism: A Conjoint Approach to the Content of National Identity in Mainland China and Taiwan.
 </p>
 
 <p class="publication-item">
