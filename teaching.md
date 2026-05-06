@@ -57,7 +57,7 @@ permalink: /teaching/
 <details>
 <summary>About This Resource</summary>
 <div>
-<p>A library of <a href="https://docs.anthropic.com/en/docs/claude-code/skills">Claude Code skills</a> for experimental social science methodology. 15 skills cover the research pipeline from hypothesis generation through final reporting — including conjoint design and diagnostics, survey design, list experiments, cross-national design, topic modeling, LLM text classification, pre-registration, and methods reporting. All guidance is grounded in 65+ published methodology sources.</p>
+<p>A library of <a href="https://docs.anthropic.com/en/docs/claude-code/skills">Claude Code skills</a> for experimental social science methodology. 15 skills cover the research pipeline from hypothesis generation through final reporting — including conjoint design and diagnostics, survey design, list experiments, cross-national design, topic modeling, LLM text classification, pre-registration, and methods reporting. All guidance is grounded in more than 150 published methodology sources.</p>
 </div>
 </details>
 </div>
