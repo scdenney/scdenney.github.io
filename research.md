@@ -333,6 +333,10 @@ Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>
 <h2 id="talks">Selected Talks</h2>
 
 <p class="publication-item">
+Denney, S. (2026). Identity conformity in Taiwan and South Korea: Why citizens in divided societies are pressured to overstate national pride. Korea University, May 13. <a href="/assets/pdf/denney_2026_identity-conformity_korea-university-slides.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
+</p>
+
+<p class="publication-item">
 Denney, S., & van de Pol, A. (2026). Constructing the nation: Identity and historical narratives in South Korean history textbooks. Midwest Political Science Association (MPSA) Conference, April 2026. <a href="/assets/slides/constructing-the-nation/" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
 </p>
 
@@ -454,7 +458,7 @@ Denney, S. (2015). Telling tales: North Korea's use of re-defectors. Korean Econ
 </p>
 </div>
 
-<p class="page-updated"><em>Last updated: April 2026</em></p>
+<p class="page-updated"><em>Last updated: May 2026</em></p>
 
   </div>
 </div>
