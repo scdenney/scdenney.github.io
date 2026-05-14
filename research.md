@@ -49,7 +49,7 @@ Denney, S. (2026). "What Were They Thinking?" Using Open-Text Responses to Valid
 </p>
 
 <p class="publication-item">
-Denney, S., van Dam, I., & Green, C. (2026). Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? <a href="https://github.com/scdenney/persuasion-cues-kr-imm/blob/main/paper/persuasion-and-prejudice_denney_090526.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
+Denney, S., van Dam, I., & Green, C. (2026). Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? <a href="[https://github.com/scdenney/persuasion-cues-kr-imm/blob/main/paper/persuasion-and-prejudice_denney_090526.pdf](https://github.com/scdenney/persuasion-cues-kr-imm)" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
 
 <p class="publication-item">
