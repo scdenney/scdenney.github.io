@@ -137,7 +137,7 @@ permalink: /projects/
 <ul>
 <li>Denney, S., & Steinhardt, H. C. Measuring national identity with conjoint experiments using the case of Taiwan. [Under review] — <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 <li>Denney, S., Fraser, N., & Steinhardt, H. C. Cues of commitment: Integration and naturalization support in South Korea and Taiwan. [Under review] — <a href="https://github.com/scdenney/cues-east-asia/blob/main/paper/020426_cues-of-commitment_denney-fraser-steinhardt.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
-<li>Denney, S., van Dam, I., & Green, C. Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? [Under review] — <a href="https://github.com/scdenney/persuasion-cues-kr-imm/blob/main/paper/persuasion-and-prejudice_denney_090526.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
+<li>Denney, S., van Dam, I., & Green, C. Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? [Under review] — <a href="https://github.com/scdenney/persuasion-cues-kr-imm" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 <li>Denney, S. Inference under constraint: The problem and potential of using North Korean (defector-)migrant surveys. [Preparing for submission] — <a href="https://github.com/scdenney/nk-surveys/tree/main" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a></li>
 </ul>
 
