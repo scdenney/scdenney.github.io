@@ -11,7 +11,7 @@ I also maintain an active program of applied research on innovation policy, entr
 
 Motivated and informed by my research, I teach courses on computational text analysis, comparative politics, and Korean studies at both the undergraduate and graduate levels.
 
-Beyond Leiden, I serve as Director of Research at [SinoNK.com](http://sinonk.com), a Senior Fellow at the [European Centre for North Korean Studies](https://ecnk.univie.ac.at/) at the University of Vienna, and a Non-Resident Fellow in the [Innovation Policy Lab](https://munkschool.utoronto.ca/ipl/) at the University of Toronto. These affiliations reflect my commitment to publicly engaged scholarship and policy-relevant research.
+At Leiden, I am also an affiliated researcher with the [Leiden University Centre for Digital Humanities (LUCDH)](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities). Beyond Leiden, I serve as Director of Research at [SinoNK.com](http://sinonk.com), a Senior Fellow at the [European Centre for North Korean Studies](https://ecnk.univie.ac.at/) at the University of Vienna, and a Non-Resident Fellow in the [Innovation Policy Lab](https://munkschool.utoronto.ca/ipl/) at the University of Toronto. These affiliations reflect my commitment to publicly engaged scholarship and policy-relevant research.
 
 I earned a Ph.D. in Political Science from the University of Toronto, an M.A. in Global Affairs and Policy from Yonsei University, and a B.A. in Political Science from Harding University.
 
