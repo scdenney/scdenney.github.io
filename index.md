@@ -13,4 +13,4 @@ My teaching covers many of the same methods. At Leiden I teach computational tex
 
 Beyond Leiden, I serve as Director of Research at [SinoNK.com](http://sinonk.com), a Senior Fellow at the [European Centre for North Korean Studies](https://ecnk.univie.ac.at/) at the University of Vienna, and a Non-Resident Fellow in the [Innovation Policy Lab](https://munkschool.utoronto.ca/ipl/) at the University of Toronto. These affiliations reflect my commitment to publicly engaged scholarship and policy-relevant research.
 
-For more, see <a href="/research/">Research</a>, <a href="/projects/">Projects</a>, and <a href="/teaching/">Teaching</a>.
+For more, see <a href="/projects/">Projects</a> for an overview of active and recently completed projects, <a href="/research/">Research</a> for an overview of published work and working papers, and <a href="/teaching/">Teaching</a> for links to my teaching resources.
