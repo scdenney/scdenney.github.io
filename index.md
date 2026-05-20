@@ -3,13 +3,9 @@ layout: home
 title: About
 ---
 
-I am an assistant professor of International Relations and Korean Studies at [Leiden University](https://www.universiteitleiden.nl/) and an affiliated researcher with the [Centre for Digital Humanities (LUCDH)](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities). I study the relationship between political institutions and individual preferences, particularly how democracy shapes national identity, attitudes toward migration, and political behavior. My work draws on surveys, experimental designs, and computational text analysis, and is situated at the intersection of comparative politics and digital humanities. Regionally, I focus on East Asia, with an emphasis on the Korean Peninsula, but I draw on cases in other regions where appropriate.
+I am an assistant professor of International Relations and Korean Studies at Leiden University and an affiliated researcher with the Centre for Digital Humanities (LUCDH). I study how political institutions shape individual preferences—national identity, attitudes toward migration, and political behavior. Working at the intersection of comparative politics and digital humanities, I combine surveys, experimental designs, and computational text analysis, with a regional focus on East Asia and the Korean Peninsula. I teach courses on computational text analysis, comparative politics, and Korean studies at both the undergraduate and graduate levels.
 
-I also maintain an active program of applied research on innovation policy, entrepreneurship, and the digital economy. I am working increasingly on machine learning for text analysis and developing pipelines that integrate OCR, vision-language models, and large language models to analyze large quantities of text.
-
-<p class="page-inline-summary">Current work centers on national identity and belonging in democratic and democratizing societies, computational text analysis in Korean studies, and applied research on innovation policy and the digital economy. For more, see <a href="/research/">Research</a>, <a href="/projects/">Projects</a>, and <a href="/cv/">CV</a>.</p>
-
-Motivated and informed by my research, I teach courses on computational text analysis, comparative politics, and Korean studies at both the undergraduate and graduate levels.
+<p class="page-inline-summary">My current work centers on national identity and belonging in democratic and democratizing societies, computational text analysis in Korean studies, and applied research on innovation policy and the digital economy. For more, see <a href="/research/">Research</a>, <a href="/projects/">Projects</a>, and <a href="/cv/">CV</a>.</p>
 
 Beyond Leiden, I serve as Director of Research at [SinoNK.com](http://sinonk.com), a Senior Fellow at the [European Centre for North Korean Studies](https://ecnk.univie.ac.at/) at the University of Vienna, and a Non-Resident Fellow in the [Innovation Policy Lab](https://munkschool.utoronto.ca/ipl/) at the University of Toronto. These affiliations reflect my commitment to publicly engaged scholarship and policy-relevant research.
 
