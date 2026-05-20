@@ -71,10 +71,9 @@ Denney, S., & Steinhardt, H. C. (n.d.). Political Regimes and the Shape of Natio
 <p class="publication-item">
 Denney, S. (n.d.). Fairness, threat, and the norms-based model of immigration legitimacy.
 </p>
-</div>
 
 <p class="publication-item">
-Denney, S. & Ward, P. (n.d.). Words Before Deeds? Reform Discourse and Economic Policy in North Korea, 1987–2020.
+Denney, S., & Ward, P. (n.d.). Words Before Deeds? Reform Discourse and Economic Policy in North Korea, 1987–2020.
 </p>
 </div>
 
