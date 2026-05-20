@@ -73,6 +73,11 @@ Denney, S. (n.d.). Fairness, threat, and the norms-based model of immigration le
 </p>
 </div>
 
+<p class="publication-item">
+Denney, S. & Ward, P. (n.d.). Words Before Deeds? Reform Discourse and Economic Policy in North Korea, 1987–2020.
+</p>
+</div>
+
 <div class="research-section">
 <h2 id="journal-articles">Peer-Reviewed Journal Articles</h2>
 
