@@ -120,6 +120,54 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  if (researchToc) {
+    var tocLinks = Array.prototype.slice.call(researchToc.querySelectorAll('a[href^="#"]'));
+    var headings = [];
+    tocLinks.forEach(function (link) {
+      var id = link.getAttribute('href').slice(1);
+      var heading = document.getElementById(id);
+      if (heading) headings.push({ id: id, el: heading, link: link });
+    });
+
+    if (headings.length) {
+      var activeId = null;
+      function setActive(id) {
+        if (id === activeId) return;
+        activeId = id;
+        headings.forEach(function (h) {
+          h.link.classList.toggle('is-active', h.id === id);
+        });
+      }
+
+      function updateActiveSection() {
+        var threshold = 120;
+        var current = headings[0];
+        for (var i = 0; i < headings.length; i++) {
+          if (headings[i].el.getBoundingClientRect().top <= threshold) {
+            current = headings[i];
+          } else {
+            break;
+          }
+        }
+        setActive(current.id);
+      }
+
+      var rafPending = false;
+      function scheduleUpdate() {
+        if (rafPending) return;
+        rafPending = true;
+        window.requestAnimationFrame(function () {
+          rafPending = false;
+          updateActiveSection();
+        });
+      }
+
+      window.addEventListener('scroll', scheduleUpdate, { passive: true });
+      window.addEventListener('resize', scheduleUpdate);
+      updateActiveSection();
+    }
+  }
+
   document.querySelectorAll('.research-section').forEach(function (section) {
     var items = section.querySelectorAll('.publication-item');
 

@@ -749,6 +749,13 @@ details ul li {
   color: var(--color-accent-strong);
 }
 
+.research-toc a.is-active {
+  background: rgba(234, 213, 207, 0.9);
+  color: var(--color-accent-strong);
+  font-weight: 600;
+  box-shadow: inset 2px 0 0 var(--color-accent-strong);
+}
+
 .research-content hr {
   display: none;
 }
