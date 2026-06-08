@@ -37,6 +37,10 @@ permalink: /research/
 <h2 id="working-papers">Working Papers Under Review</h2>
 
 <p class="publication-item">
+Denney, S. (2026). Democracy and nationalism, reconsidered. <a href="https://github.com/scdenney/democracy-nationalism-reconsidered/blob/main/paper/democracy-nationalism-reconsidered.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
+</p>
+
+<p class="publication-item">
 Denney, S., Fraser, N., & Steinhardt, H. C. (2026). Cues of commitment: Integration and naturalization support in Taiwan and South Korea. <a href="https://github.com/scdenney/cues-east-asia/blob/main/paper/020426_cues-of-commitment_denney-fraser-steinhardt.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
 
