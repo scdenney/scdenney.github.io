@@ -37,7 +37,7 @@ permalink: /research/
 <h2 id="working-papers">Working Papers Under Review</h2>
 
 <p class="publication-item">
-Denney, S. (2026). Democracy and nationalism, reconsidered. <a href="https://github.com/scdenney/democracy-nationalism-reconsidered" target="_blank" rel="noopener noreferrer" class="resource-link">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904542" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+Denney, S. (2026). Democracy and nationalism, reconsidered. <a href="https://github.com/scdenney/democracy-nationalism-reconsidered" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904542" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
 <p class="publication-item">
