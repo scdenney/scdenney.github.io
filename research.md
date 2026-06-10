@@ -41,15 +41,15 @@ Denney, S. (2026). Democracy and nationalism, reconsidered. <a href="https://git
 </p>
 
 <p class="publication-item">
+Denney, S. (2026). "What Were They Thinking?" Using Open-Text Responses to Validate Constructs in Conjoint Survey Experiments. <a href="https://github.com/scdenney/what-were-they-thinking/tree/main" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6912419" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+</p>
+
+<p class="publication-item">
 Denney, S., Fraser, N., & Steinhardt, H. C. (2026). Cues of commitment: Integration and naturalization support in Taiwan and South Korea. <a href="https://github.com/scdenney/cues-east-asia" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
 
 <p class="publication-item">
 Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoint experiments using the case of Taiwan. <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
-</p>
-
-<p class="publication-item">
-Denney, S. (2026). "What Were They Thinking?" Using Open-Text Responses to Validate Constructs in Conjoint Survey Experiments. <a href="https://github.com/scdenney/what-were-they-thinking/tree/main" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
 
 <p class="publication-item">
