@@ -36,6 +36,10 @@ permalink: /projects/
 <details>
 <summary>Output</summary>
 <div>
+<p><strong>Papers in Progress</strong></p>
+<ul>
+<li>"Fairness, threat, and the norms-based model of immigration legitimacy."</li>
+</ul>
 <p><strong>Presentations</strong></p>
 <ul>
 <li>2026. <a href="/assets/pdf/denney_2026_fairness-threat-immigration-legitimacy_mpsa-slides.pdf" target="_blank" rel="noopener noreferrer">"Fairness, Threat, and the Norms-Based Model of Immigration Legitimacy,"</a> Midwest Political Science Association (MPSA) Conference, April 2026.</li>
@@ -70,7 +74,6 @@ permalink: /projects/
 <p><strong>Papers in Progress</strong></p>
 <ul>
 <li>"Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks," with Aron van de Pol.</li>
-<li>"Variations in Nation-Building: Sorting National History Education in Transitional Regimes," with Myunghee Lee and Aron van de Pol.</li>
 </ul>
 <p><strong>Presentations</strong></p>
 <ul>
@@ -85,7 +88,7 @@ permalink: /projects/
 <h3>III. AI Workforce Intelligence Initiative</h3>
 
 <p class="project-meta">
-<strong>Duration:</strong> 8 months (2026) · <strong>Researcher:</strong> Steven Denney (Leiden University) · <strong>Collaborator:</strong> Viet Vu (The Dais, Toronto Metropolitan University) · <strong>Funding:</strong> Government of Canada (AI and Technology Measurement Program / TechStat)
+<strong>Duration:</strong> 8 months (2026) · <strong>Researcher:</strong> Steven Denney (Leiden University) · <strong>Collaborator:</strong> Viet Vu (The Dais, Toronto Metropolitan University) · <strong>Funding:</strong> Future Skills Centre
 </p>
 
 <details>
@@ -136,25 +139,26 @@ permalink: /projects/
 <p><strong>Working Papers</strong></p>
 <ul>
 <li>Denney, S., & Steinhardt, H. C. Measuring national identity with conjoint experiments using the case of Taiwan. [Under review] — <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
-<li>Denney, S., Fraser, N., & Steinhardt, H. C. Cues of commitment: Integration and naturalization support in South Korea and Taiwan. [Under review] — <a href="https://github.com/scdenney/cues-east-asia/blob/main/paper/020426_cues-of-commitment_denney-fraser-steinhardt.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
+<li>Denney, S., Fraser, N., & Steinhardt, H. C. Cues of commitment: Integration and naturalization support in Taiwan and South Korea. [Under review] — <a href="https://github.com/scdenney/cues-east-asia" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 <li>Denney, S., van Dam, I., & Green, C. Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? [Under review] — <a href="https://github.com/scdenney/persuasion-cues-kr-imm" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
-<li>Denney, S. Inference under constraint: The problem and potential of using North Korean (defector-)migrant surveys. [Preparing for submission] — <a href="https://github.com/scdenney/nk-surveys/tree/main" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a></li>
+<li>Denney, S. Democracy and nationalism, reconsidered. [Under review] — <a href="https://github.com/scdenney/democracy-nationalism-reconsidered" target="_blank" rel="noopener noreferrer" class="resource-link">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904542" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
 </ul>
 
 <p><strong>Papers in Progress</strong></p>
 <ul>
-<li>"The Resettlement of North Korean Migrants and Identity Change in Korea."</li>
+<li>"Political Regimes and the Shape of Nationalism: A Conjoint Approach to the Content of National Identity in Mainland China and Taiwan," with H. Christoph Steinhardt.</li>
 </ul>
 
 <p><strong>Presentations</strong></p>
 <ul>
+<li>2026. <a href="/assets/pdf/denney_2026_identity-conformity_korea-university-slides.pdf" target="_blank" rel="noopener noreferrer">"Identity Conformity in Taiwan and South Korea: Why Citizens in Divided Societies Are Pressured to Overstate National Pride,"</a> Korea University, May 13.</li>
 <li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/09/apsa_2024-denney_hcs_qi.pdf" target="_blank">"Democracy and Nationalism: The Case of Taiwan,"</a> American Political Science Association (APSA) Conference, September 4-8.</li>
 <li>2024. "Who Are 'We' and How Do We Know It? New Experimental Designs for Measuring National Identity," Consequences of Identity Politics Workshop, University of Southampton, July 24-25.</li>
 <li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/07/denney_steinhardt_nus-final.pdf" target="_blank">"How Inclusive Are National Identities in East Asian Democracies? Exploring a New Conjoint Approach,"</a> East Asia Institute, National University of Singapore, July 19.</li>
 <li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/07/epsa24-citizenship-expansion-east-asia-denney.pdf" target="_blank">"Public Attitudes Towards Immigrant Incorporation in South Korea, Taiwan, and Japan,"</a> European Political Science Association (EPSA) Conference, July 4-6.</li>
-<li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/06/lias-citizenship-expansion-east-asia-denney2.pdf" target="_blank">"Public Support for Citizenship Expansion in East Asian Democracies,"</a> LIAS Talk Series, Leiden Institute for Asian Studies (LIAS), May 15.</li>
-<li>2023. <a href="https://docs.google.com/presentation/d/1fMPQlGUe1A18dSNRd8vSTr8F3S0cRDODOKTCSNhlWAA/edit?usp=sharing" target="_blank">"Size or Speed? Public Attitudes toward Rising Immigration Levels in Historically Homogeneous Nations,"</a> American Political Science Association (APSA) Conference, August 31-September 3.</li>
-<li>2023. <a href="https://docs.google.com/presentation/d/1BRw0PYCRi86dteLq8kZQcpKJ0CNJSjBINqTtCqPzTI0/edit#slide=id.gf71da67333_1_0" target="_blank">"Measuring National Identity: A Choice-Based Conjoint Approach,"</a> Midwest Political Science Association (MPSA) Conference, April 13-16.</li>
+<li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/06/lias-citizenship-expansion-east-asia-denney2.pdf" target="_blank">"Public Support for Citizenship Expansion in East Asian Democracies,"</a> LIAS Talk Series, Leiden University Institute for Area Studies (LIAS), May 15.</li>
+<li>2023. "Size or Speed? Public Attitudes toward Rising Immigration Levels in Historically Homogeneous Nations," American Political Science Association (APSA) Conference, August 31-September 3.</li>
+<li>2023. "Measuring National Identity: A Choice-Based Conjoint Approach," Midwest Political Science Association (MPSA) Conference, April 13-16.</li>
 <li>2023. <a href="https://docs.google.com/presentation/d/1fioI78LissBdRcxStNU9UO3Tt_BM1QniOutxw7Fl5nA/edit#slide=id.gf71da67333_1_0" target="_blank">"Why Do Democratic Societies Tolerate Undemocratic Laws? Sorting Public Support for the National Security Act in South Korea,"</a> International Studies Association (ISA) Conference, March 15-18.</li>
 <li>2022. <a href="https://docs.google.com/presentation/d/1jqh7TO0HT2m8mp8ZXyeEW5Xngd9xTQPaOdG5aI8_Rio/edit?usp=sharing" target="_blank">"National Security Conservatism: Enduring Support for the National Security Act in South Korea,"</a> Generation Asia – 2022 Nordic NIAS Council Conference, August 22-26.</li>
 </ul>
@@ -197,7 +201,7 @@ permalink: /projects/
 <p><strong>Presentations</strong></p>
 <ul>
 <li>2025. "Persuasion and Prejudice: Are South Korean Attitudes toward Immigration Open to Change?," Recalibrating 'Skill' in Changing Immigration Regimes, Asia Research Institute, National University of Singapore, January 16-17.</li>
-<li>2024. <a href="https://scdenney.files.wordpress.com/2024/04/ksrs_enduring-legacy-s.denney.pdf" target="_blank">"The Enduring Legacy of Forced Division: Welfare Nationalism in Germany and South Korea,"</a> Korean Studies Research Seminar, Leiden Institute for Asian Studies (LIAS), Leiden University, April 17.</li>
+<li>2024. <a href="https://scdenney.files.wordpress.com/2024/04/ksrs_enduring-legacy-s.denney.pdf" target="_blank">"The Enduring Legacy of Forced Division: Welfare Nationalism in Germany and South Korea,"</a> Korean Studies Research Seminar, Leiden University Institute for Area Studies (LIAS), April 17.</li>
 </ul>
 </div>
 </details>
@@ -240,12 +244,12 @@ permalink: /projects/
 <ul>
 <li>Denney, S., & Vu, V. (2021). <a href="https://scdenney.files.wordpress.com/2021/10/great-canadian-survey-2021_denney-vu_iplbiie.pdf" target="_blank">"Great Canadian Survey of 2021: Insights for the Council of Canadian Innovators."</a> Innovation Policy Lab and Brookfield Institute, July.</li>
 <li>Denney, S., & Vu, V. (2021). <a href="https://brookfieldinstitute.ca/measuring-the-digital-economy/" target="_blank">"Just Out of Reach: The Elusive Quest to Measure the Digital Economy."</a> Brookfield Institute, June.</li>
-<li>Denney, S., & Vu, V. (2021). <a href="https://brookfieldinstitute.ca/the-scale-up-challenge-for-women-entrepreneurs/" target="_blank">"Scale the Gap: The Impact of Growth Barriers on Women Entrepreneurs in Canadian High-Growth Firms."</a> Brookfield Institute, April.</li>
+<li>Denney, S., & Vu, V. (2021). <a href="https://brookfieldinstitute.ca/scale-the-gap/" target="_blank">"Scale the Gap: The Impact of Growth Barriers on Women Entrepreneurs in Canadian High-Growth Firms."</a> Brookfield Institute, April.</li>
 </ul>
 
 <p><strong>Presentations</strong></p>
 <ul>
-<li>2023. <a href="https://scdenney.net/wp-content/uploads/2024/06/2023_09_20_scale-up_workshop-final.pdf" target="_blank">"Scale-ups and Canada's Innovation Policy Suite: Usage and Impacts,"</a> Seminar, Treasury Board of Canada Secretariat, September 31.</li>
+<li>2023. <a href="https://scdenney.net/wp-content/uploads/2024/06/2023_09_20_scale-up_workshop-final.pdf" target="_blank">"Scale-ups and Canada's Innovation Policy Suite: Usage and Impacts,"</a> Seminar, Treasury Board of Canada Secretariat, September 20.</li>
 <li>2023. "Scale-ups and Canada's Innovation Policy Suite: Usage and Impacts," 57th Canadian Economics Association Conference, May 30-June 3.</li>
 <li>2020. <a href="https://scdenney.files.wordpress.com/2021/10/denney-vu_wekh_report_presentation.pdf" target="_blank">"Scale the Gap: Impact of Growth Barriers on Women Entrepreneurs in Canadian High-Growth Firms,"</a> Canadian Council for Small Business and Entrepreneurship (CCSBE) Annual Conference, October 16-17.</li>
 </ul>

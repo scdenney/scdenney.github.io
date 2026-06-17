@@ -133,7 +133,7 @@ Ward, P., & Denney, S. (2022). Welfare chauvinism among co-ethnics: Evidence fro
 </p>
 
 <p class="publication-item">
-Wolfe, D. A., DiFrancesco, R. J., & Denney, S. (2022). Localization of global networks: New mandates for MNEs in regional economies. <em>Cambridge Journal of Regions, Economy and Society, 15</em>(2), 323–342. <a href="https://doi.org/10.1093/cjres/rsac002" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a>
+Wolfe, D. A., DiFrancesco, R. J., & Denney, S. (2022). Localization of global networks: New mandates for MNEs in Toronto's innovation economy. <em>Cambridge Journal of Regions, Economy and Society, 15</em>(2), 323–342. <a href="https://doi.org/10.1093/cjres/rsac002" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a>
 </p>
 
 <p class="publication-item">
@@ -149,7 +149,7 @@ Denney, S., Ward, P., & Green, C. (2020). The limits of ethnic capital: Impacts 
 </p>
 
 <p class="publication-item">
-Denney, S., Southin, T., & Wolfe, D. A. (2020). Entrepreneurs and cluster evolution: The transformation of Toronto's ICT cluster. <em>Regional Studies, 55</em>(2), 196–207. <a href="https://doi.org/10.1080/00343404.2020.1762854" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a>
+Denney, S., Southin, T., & Wolfe, D. A. (2021). Entrepreneurs and cluster evolution: The transformation of Toronto's ICT cluster. <em>Regional Studies, 55</em>(2), 196–207. <a href="https://doi.org/10.1080/00343404.2020.1762854" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a>
 </p>
 
 <p class="publication-item">
@@ -217,7 +217,7 @@ Denney, S., & Green, C. (2016). Pockets of efficiency: An institutional approach
 </p>
 
 <p class="publication-item">
-Hayes, P., Denney, S., et al. (2015). The implications of civic diplomacy for ROK foreign policy. In P. Hayes & K. Yi (Eds.), <em>Complexity, security and civil society in East Asia</em>. Open Book Publishers.
+Hayes, P., Denney, S., et al. (2015). The implications of civic diplomacy for ROK foreign policy. In P. Hayes & K. Yi (Eds.), <em>Complexity, security and civil society in East Asia: Foreign policies and the Korean Peninsula</em>. Open Book Publishers.
 </p>
 </div>
 
@@ -253,6 +253,10 @@ Denney, S. (2018). [Review of the book <em>North Korea's hidden revolution: How 
 </p>
 
 <p class="publication-item">
+Denney, S. (2018). [Review of the book <em>Unveiling the North Korean economy: Collapse and transition</em>, by B.-Y. Kim]. <em>Journal of American–East Asian Relations, 25</em>(1), 93–96.
+</p>
+
+<p class="publication-item">
 Denney, S. (2015). [Review of the book <em>Assimilating Seoul: Japanese rule and the politics of public space in colonial Korea, 1910–1945</em>, by T. A. Henry]. <em>British Academy of Korean Studies Journal</em>. <a href="http://www.baks.org.uk/wptest/book-review-assimilating-seoul-japanese-rule-and-the-politics-of-public-space-in-colonial-korea-1910-1945-by-todd-a-henry/" target="_blank" rel="noopener noreferrer" class="resource-link">Review</a>
 </p>
 
@@ -262,6 +266,10 @@ Denney, S. (2015). [Review of the book <em>The Korean War: An international hist
 
 <p class="publication-item">
 Denney, S. (2014). [Review of the book <em>The Oxford handbook of the international relations of Asia</em>]. <em>Asan Forum, 2</em>(6). <a href="https://theasanforum.org/oxford-handbook-of-the-international-relations-of-asia-oxford-oxford-university-press-2014-kindle-edition/" target="_blank" rel="noopener noreferrer" class="resource-link">Review</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2012). To never forget, one must first know [Review of the book <em>Escape from Camp 14</em>, by B. Harden]. <em>Korea Review, 2</em>(2), 171–175.
 </p>
 </div>
 
@@ -325,7 +333,7 @@ Denney, S., & Green, C. (2023, January). Because it is good for South Korea: Pub
 </p>
 
 <p class="publication-item">
-Denney, S. (2022). Human rights and the future of the international order: Where does Seoul stand? <em>Korea On Point</em>. <a href="https://koreaonpoint.org/view.php?kword=denney&topic_idx=46&idx=156" target="_blank" rel="noopener noreferrer" class="resource-link">Article</a>
+Denney, S. (2022). Human rights and the future of the international order: Where does Seoul stand? <em>Korea On Point</em>.
 </p>
 
 <p class="publication-item">
@@ -384,10 +392,10 @@ Denney, S. (2024). Plus ça change? South Korean public opinion of the United St
 </p>
 
 <p class="publication-item">
-Denney, S. (2024). Public support for citizenship expansion in East Asian democracies. LIAS Talk Series, Leiden Institute for Asian Studies (LIAS), May 15.</p>
+Denney, S. (2024). Public support for citizenship expansion in East Asian democracies. LIAS Talk Series, Leiden University Institute for Area Studies (LIAS), May 15.</p>
 
 <p class="publication-item">
-Denney, S. (2024). The enduring legacy of forced division: Welfare nationalism in Germany and South Korea. Korean Studies Research Seminar, Leiden Institute for Asian Studies (LIAS), Leiden University, April 17.</p>
+Denney, S. (2024). The enduring legacy of forced division: Welfare nationalism in Germany and South Korea. Korean Studies Research Seminar, Leiden University Institute for Area Studies (LIAS), April 17.</p>
 
 <p class="publication-item">
 Denney, S. (2023). Size or speed? Public attitudes toward rising immigration levels in historically homogeneous nations. American Political Science Association (APSA) Conference, August 31–September 3.</p>
