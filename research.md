@@ -474,7 +474,7 @@ Denney, S. (2015). Telling tales: North Korea's use of re-defectors. Korean Econ
 </p>
 </div>
 
-<p class="page-updated"><em>Last updated: May 2026</em></p>
+<p class="page-updated"><em>Last updated: June 2026</em></p>
 
   </div>
 </div>
