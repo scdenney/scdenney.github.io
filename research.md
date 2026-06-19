@@ -45,6 +45,10 @@ Denney, S. (2026). "What Were They Thinking?" Using Open-Text Responses to Valid
 </p>
 
 <p class="publication-item">
+Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link">GitHub</a>
+</p>
+
+<p class="publication-item">
 Denney, S., Fraser, N., & Steinhardt, H. C. (2026). Cues of commitment: Integration and naturalization support in Taiwan and South Korea. <a href="https://github.com/scdenney/cues-east-asia" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
 
@@ -58,10 +62,6 @@ Denney, S., van Dam, I., & Green, C. (2026). Persuasion and prejudice: Are South
 
 <p class="publication-item">
 Denney, S., Kelly, R., & Wolfe, D. (2025). Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
-</p>
-
-<p class="publication-item">
-Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
 </div>
 
