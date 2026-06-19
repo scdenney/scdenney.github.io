@@ -71,9 +71,9 @@ permalink: /projects/
 <details>
 <summary>Output</summary>
 <div>
-<p><strong>Papers in Progress</strong></p>
+<p><strong>Working Papers</strong></p>
 <ul>
-<li>"Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks," with Aron van de Pol.</li>
+<li>Denney, S., & van de Pol, A. Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. [Under review] — <a href="https://github.com/scdenney/constructing-the-nation" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 </ul>
 <p><strong>Presentations</strong></p>
 <ul>

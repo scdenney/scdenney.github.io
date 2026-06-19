@@ -59,14 +59,14 @@ Denney, S., van Dam, I., & Green, C. (2026). Persuasion and prejudice: Are South
 <p class="publication-item">
 Denney, S., Kelly, R., & Wolfe, D. (2025). Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
-</div>
-
-<div class="research-section">
-<h2 id="papers-in-progress">Papers in Progress</h2>
 
 <p class="publication-item">
 Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. <a href="https://github.com/scdenney/constructing-the-nation" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
+</div>
+
+<div class="research-section">
+<h2 id="papers-in-progress">Papers in Progress</h2>
 
 <p class="publication-item">
 Denney, S., & Steinhardt, H. C. (n.d.). Political Regimes and the Shape of Nationalism: A Conjoint Approach to the Content of National Identity in Mainland China and Taiwan.
