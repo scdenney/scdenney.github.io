@@ -61,7 +61,7 @@ Denney, S., Kelly, R., & Wolfe, D. (2025). Innovation policy in practice: Assess
 </p>
 
 <p class="publication-item">
-Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. <a href="https://github.com/scdenney/constructing-the-nation" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
+Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
 </div>
 
