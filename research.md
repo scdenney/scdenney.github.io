@@ -45,7 +45,7 @@ Denney, S. (2026). "What Were They Thinking?" Using Open-Text Responses to Valid
 </p>
 
 <p class="publication-item">
-Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link">GitHub</a>
+Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
 <p class="publication-item">
