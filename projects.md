@@ -7,9 +7,8 @@ permalink: /projects/
 <header class="page-header">
 <h1>Projects</h1>
 <p>This page provides an overview of the research projects currently active or recently completed in which I served as the primary investigator or co-investigator.</p>
+<p class="page-header__lead">My current research and applied policy work is organized around four active projects. Three examine how national identity, migration, and belonging are shaped in democratic and democratizing societies, while a fourth extends this agenda into applied research on AI, labour-market change, and workforce intelligence.</p>
 </header>
-
-<p class="page-intro">My current research and applied policy work is organized around four active projects. Three examine how national identity, migration, and belonging are shaped in democratic and democratizing societies, while a fourth extends this agenda into applied research on AI, labour-market change, and workforce intelligence.</p>
 
 ## Active Projects
 

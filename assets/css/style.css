@@ -429,6 +429,14 @@ hr {
   font-size: 1.08rem;
 }
 
+.page-header p + p {
+  margin-top: 1rem;
+}
+
+.page-header__lead {
+  line-height: 1.72;
+}
+
 .page-intro {
   margin-bottom: 1.75rem;
   color: var(--color-text-soft);
