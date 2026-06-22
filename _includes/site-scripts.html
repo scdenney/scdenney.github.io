@@ -195,5 +195,29 @@ document.addEventListener('DOMContentLoaded', function () {
       button.textContent = isCollapsed ? 'Show all ' + items.length + ' items' : 'Show fewer';
     });
   });
+
+  document.querySelectorAll('.recently-completed').forEach(function (group) {
+    var cards = group.querySelectorAll('.project-card');
+
+    if (!cards.length) return;
+
+    group.classList.add('is-collapsible', 'is-collapsed');
+
+    var collapsedLabel = 'Show ' + cards.length + ' recently completed project' + (cards.length === 1 ? '' : 's');
+
+    var button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'show-more-btn';
+    button.setAttribute('aria-expanded', 'false');
+    button.textContent = collapsedLabel;
+    group.insertAdjacentElement('beforebegin', button);
+
+    button.addEventListener('click', function () {
+      var isCollapsed = group.classList.toggle('is-collapsed');
+
+      button.setAttribute('aria-expanded', String(!isCollapsed));
+      button.textContent = isCollapsed ? collapsedLabel : 'Hide recently completed projects';
+    });
+  });
 });
 </script>

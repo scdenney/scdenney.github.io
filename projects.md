@@ -22,7 +22,7 @@ permalink: /projects/
 </div>
 
 <p class="project-meta">
-<strong>Duration:</strong> 12 months (2025-2026) · <strong>PI:</strong> Steven Denney (Leiden University) · <strong>Funding:</strong> Netherlands Organisation for Scientific Research (NWO)
+<strong>Duration:</strong> 12 months (2025–2026) · <strong>PI:</strong> Steven Denney (Leiden University) · <strong>Funding:</strong> Netherlands Organisation for Scientific Research (NWO)
 </p>
 
 <details>
@@ -57,7 +57,7 @@ permalink: /projects/
 </div>
 
 <p class="project-meta">
-<strong>Duration:</strong> 2 years (2026-2028) · <strong>PI:</strong> Steven Denney (Leiden University) · <strong>Collaborators:</strong> Aron van de Pol (Leiden University) · <strong>Funding:</strong> Academy of Korean Studies
+<strong>Duration:</strong> 2 years (2026–2028) · <strong>PI:</strong> Steven Denney (Leiden University) · <strong>Collaborators:</strong> Aron van de Pol (Leiden University) · <strong>Funding:</strong> Academy of Korean Studies
 </p>
 
 <details>
@@ -111,7 +111,7 @@ permalink: /projects/
 <h3>IV. Nationalism and Political Change: Why Institutions Matter for National Identity and Belonging</h3>
 
 <p class="project-meta">
-<strong>Duration:</strong> Ongoing (2022-present) · <strong>PI:</strong> Steven Denney (Leiden University) · <strong>Collaborators:</strong> H. Christoph Steinhardt (University of Vienna), Myunghee Lee (Michigan State University) · <strong>Funding:</strong> Academy of Korean Studies; Leiden University; University of Vienna
+<strong>Duration:</strong> Ongoing (2022–present) · <strong>PI:</strong> Steven Denney (Leiden University) · <strong>Collaborators:</strong> H. Christoph Steinhardt (University of Vienna), Myunghee Lee (Michigan State University) · <strong>Funding:</strong> Academy of Korean Studies; Leiden University; University of Vienna
 </p>
 
 <details>
@@ -170,11 +170,13 @@ permalink: /projects/
 
 ## Recently Completed
 
+<div class="recently-completed">
+
 <div class="project-card">
 <h3>Integration Challenges and Opportunities in Divided Countries</h3>
 
 <p class="project-meta">
-<strong>Duration:</strong> 12 months (2024-25) · <strong>PI:</strong> Steven Denney (European Centre for North Korean Studies, University of Vienna) · <strong>Collaborators:</strong> Ruediger Frank, Robin Brehm, Tianzi Zhou (European Centre for North Korean Studies, University of Vienna), Peter Ward (Sejong Institute) · <strong>Funding:</strong> 2023 Overseas North Korea-Unification Policy Academic Research Support Grant, Institute for Far Eastern Studies (IFES), Kyungnam University
+<strong>Duration:</strong> 12 months (2024–2025) · <strong>PI:</strong> Steven Denney (European Centre for North Korean Studies, University of Vienna) · <strong>Collaborators:</strong> Ruediger Frank, Robin Brehm, Tianzi Zhou (European Centre for North Korean Studies, University of Vienna), Peter Ward (Sejong Institute) · <strong>Funding:</strong> 2023 Overseas North Korea-Unification Policy Academic Research Support Grant, Institute for Far Eastern Studies (IFES), Kyungnam University
 </p>
 
 <details>
@@ -353,4 +355,6 @@ permalink: /projects/
 </ul>
 </div>
 </details>
+</div>
+
 </div>
