@@ -349,6 +349,10 @@ Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>
 <h2 id="talks">Selected Talks</h2>
 
 <p class="publication-item">
+Denney, S. (2026). From pixels to patterns: Vision-language OCR and LLM-based text analysis. Machine Collaborators, June 25. <a href="/assets/slides/from-pixels-to-patterns/" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2026). Identity conformity in Taiwan and South Korea: Why citizens in divided societies are pressured to overstate national pride. Korea University, May 13. <a href="/assets/pdf/denney_2026_identity-conformity_korea-university-slides.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
 </p>
 
