@@ -49,32 +49,17 @@ permalink: /teaching/
 
 <div class="project-card">
 <div class="project-card__header">
-<h3>Open Science Skills for Claude Code</h3>
+<h3>AI for Research</h3>
 <div class="project-links">
-<a href="https://github.com/scdenney/open-science-skills" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a>
+<a href="https://scdenney.github.io/ai-for-research/" target="_blank" rel="noopener noreferrer" class="resource-link">Website</a>
+<a href="https://github.com/scdenney/ai-for-research" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a>
 </div>
 </div>
 
 <details>
 <summary>About This Resource</summary>
 <div>
-<p>A library of <a href="https://docs.anthropic.com/en/docs/claude-code/skills">Claude Code skills</a> for experimental social science methodology. 15 skills cover the research pipeline from hypothesis generation through final reporting — including conjoint design and diagnostics, survey design, list experiments, cross-national design, topic modeling, LLM text classification, pre-registration, and methods reporting. All guidance is grounded in more than 150 published methodology sources.</p>
-</div>
-</details>
-</div>
-
-<div class="project-card">
-<div class="project-card__header">
-<h3>Pre-Submit Review Pipeline</h3>
-<div class="project-links">
-<a href="https://github.com/scdenney/presubmit" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a>
-</div>
-</div>
-
-<details>
-<summary>About This Resource</summary>
-<div>
-<p>An open-source pre-submission review tool for researchers and students working on manuscripts, theses, and seminar papers. Users can run the pipeline on an academic PDF to generate detailed feedback on the strength of the argument, the quality of evidence, methods, numbers, citations, and overall writing clarity before sharing a draft with supervisors, committees, or journals.</p>
+<p>A teaching hub for working with AI agents and skills in empirical social science. It collects how-to guides, runnable demos, and lecture slides, including a step-by-step setup walkthrough and a reference- and source-claim checking demo you can clone and run end to end. Companion to the <a href="https://github.com/scdenney/open-science-skills" target="_blank" rel="noopener noreferrer">Open Science Skills</a> toolkit, a library of <a href="https://docs.anthropic.com/en/docs/claude-code/skills">Claude Code skills</a> for experimental social science methodology.</p>
 </div>
 </details>
 </div>
