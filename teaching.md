@@ -89,7 +89,7 @@ permalink: /teaching/
 <details>
 <summary>About This Resource</summary>
 <div>
-<p>A Substack where I write about computational text analysis for research and teaching, with a focus on vision-language OCR and large language models for working with difficult or non-English sources. Posts walk through methods and applications that complement my courses in digital humanities and text-as-data.</p>
+<p>A resource for how to integrate and use AI ethically and responsibly in research and other computational work. It complements my courses and other open educational resources.</p>
 </div>
 </details>
 </div>
