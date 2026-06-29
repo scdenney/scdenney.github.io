@@ -30,8 +30,9 @@ permalink: /research/
 
 <header class="page-header">
 <h1>Research</h1>
-<p>This page collects working papers, publications, and related scholarly output, with direct access to papers, replication materials, reports, and talks.</p>
 </header>
+
+<p class="page-intro">This page collects working papers, publications, and related scholarly output, with direct access to papers, replication materials, reports, and talks.</p>
 
 <div class="research-section">
 <h2 id="working-papers">Working Papers Under Review</h2>
