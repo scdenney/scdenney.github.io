@@ -78,6 +78,22 @@ permalink: /teaching/
 </details>
 </div>
 
+<div class="project-card">
+<div class="project-card__header">
+<h3>Pixels and Patterns</h3>
+<div class="project-links">
+<a href="https://www.pixelsandpatterns.org/" target="_blank" rel="noopener noreferrer" class="resource-link">Substack</a>
+</div>
+</div>
+
+<details>
+<summary>About This Resource</summary>
+<div>
+<p>A Substack where I write about computational text analysis for research and teaching, with a focus on vision-language OCR and large language models for working with difficult or non-English sources. Posts walk through methods and applications that complement my courses in digital humanities and text-as-data.</p>
+</div>
+</details>
+</div>
+
 ## Courses
 
 <div class="project-card">
