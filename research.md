@@ -350,6 +350,10 @@ Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>
 <h2 id="talks">Selected Talks</h2>
 
 <p class="publication-item">
+Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoint experiments using the case of Taiwan. Ostasienforum, Department of East Asian Studies, University of Vienna, June 30. <a href="/assets/pdf/denney_2026_measuring-national-identity_vienna-slides.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2026). From pixels to patterns: Vision-language OCR and LLM-based text analysis. Machine Collaborators, June 25. <a href="/assets/slides/from-pixels-to-patterns/" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
 </p>
 
