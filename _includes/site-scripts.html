@@ -224,6 +224,7 @@ document.addEventListener('DOMContentLoaded', function () {
     actions.className = 'detail-actions';
     panel.className = 'detail-panel';
     panel.id = panelId;
+    panel.setAttribute('role', 'region');
     panel.hidden = true;
 
     entries.forEach(function (entry) {
