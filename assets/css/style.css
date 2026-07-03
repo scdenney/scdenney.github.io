@@ -246,7 +246,7 @@ hr {
   display: flex;
   align-items: center;
   gap: 1.35rem;
-  justify-self: end;
+  justify-self: start;
 }
 
 .masthead__nav a {
