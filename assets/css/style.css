@@ -224,22 +224,6 @@ hr {
   min-height: 3.7rem;
 }
 
-.masthead__brand {
-  grid-column: 1;
-  justify-self: start;
-  color: #fff8f0;
-  font-family: var(--font-sans);
-  font-size: 0.98rem;
-  font-weight: 700;
-  letter-spacing: 0.025em;
-  text-decoration: none;
-}
-
-.masthead__brand:hover,
-.masthead__brand:focus-visible {
-  color: #fff;
-}
-
 .masthead__nav {
   grid-column: 2;
   margin: 0;
@@ -542,17 +526,18 @@ hr {
 }
 
 .project-card {
-  margin-bottom: 1.05rem;
-  padding: 1.25rem;
-  border: 1px solid rgba(216, 195, 180, 0.82);
-  border-radius: var(--radius-lg);
-  background: var(--color-surface-strong);
-  box-shadow: var(--shadow-sm);
+  margin: 0;
+  padding: 0.95rem 0 0.88rem;
+  border: 0;
+  border-top: 1px solid rgba(185, 148, 112, 0.55);
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
 }
 
 .project-card h3 {
   margin-bottom: 0;
-  font-size: 1.18rem;
+  font-size: 1.1rem;
 }
 
 .project-card p:last-child,
@@ -565,31 +550,146 @@ hr {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  gap: 1rem;
+  gap: 0.7rem;
 }
 
 .project-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.55rem;
-  margin: 0.95rem 0 0;
+  gap: 0.45rem;
+  margin: 0.1rem 0 0;
 }
 
 .project-links .resource-link {
   margin: 0;
 }
 
+.project-card .resource-link {
+  padding: 0.15rem 0.2rem;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  font-size: 0.77rem;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.project-card .resource-link:hover,
+.project-card .resource-link:focus-visible {
+  border-color: transparent;
+  background: transparent;
+  box-shadow: none;
+  color: var(--color-accent);
+  transform: none;
+}
+
 .project-meta {
-  margin: 0.95rem 0 0;
+  max-width: 48rem;
+  margin: 0.45rem 0 0;
   color: var(--color-text-soft);
   font-family: var(--font-sans);
-  font-size: 0.9rem;
-  line-height: 1.55;
+  font-size: 0.84rem;
+  line-height: 1.45;
 }
 
 .project-meta strong {
   color: var(--color-text);
   font-weight: 700;
+}
+
+.project-card > details {
+  display: block;
+  margin: 0.45rem 0 0;
+  border: 0;
+  border-top: 1px solid rgba(185, 148, 112, 0.38);
+  border-radius: 0;
+  background: transparent;
+}
+
+.project-card > details + details {
+  margin-top: 0;
+}
+
+.project-card > details summary {
+  padding: 0.52rem 1.3rem 0.52rem 0;
+  font-size: 0.8rem;
+}
+
+.project-card > details summary::after {
+  right: 0.1rem;
+}
+
+.project-card > details summary:hover,
+.project-card > details summary:focus-visible {
+  background: transparent;
+  box-shadow: none;
+  transform: none;
+}
+
+.project-card > details > div {
+  padding: 0.2rem 0 0.7rem;
+  border: 0;
+  background: transparent;
+  font-size: 0.92rem;
+}
+
+.detail-switcher {
+  margin-top: 0.45rem;
+}
+
+.detail-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.15rem;
+  padding: 0.25rem 0 0.1rem;
+}
+
+.detail-actions button {
+  padding: 0.2rem 0;
+  border: 0;
+  background: transparent;
+  color: var(--color-accent-strong);
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.detail-actions button::after {
+  content: "+";
+  margin-left: 0.4rem;
+}
+
+.detail-actions button[aria-expanded="true"] {
+  text-decoration: underline;
+  text-underline-offset: 0.24em;
+}
+
+.detail-actions button[aria-expanded="true"]::after {
+  content: "−";
+}
+
+.detail-actions button:hover,
+.detail-actions button:focus-visible {
+  color: var(--color-accent);
+}
+
+.detail-panel {
+  margin-top: 0.5rem;
+  padding: 0.8rem 0.9rem;
+  border: 1px solid rgba(216, 195, 180, 0.76);
+  border-radius: 0.65rem;
+  background: rgba(241, 230, 220, 0.62);
+  font-size: 0.92rem;
+}
+
+.detail-panel[hidden] {
+  display: none;
+}
+
+.detail-panel > div > *:last-child {
+  margin-bottom: 0;
 }
 
 details {
@@ -932,10 +1032,6 @@ details ul li {
     gap: 0;
   }
 
-  .masthead__brand {
-    font-size: 0.94rem;
-  }
-
   .nav-toggle {
     display: inline-flex;
     margin-left: auto;
@@ -1141,10 +1237,13 @@ details ul li {
     padding-top: 2.15rem;
   }
 
-  .project-card,
   .publication-item,
   .cv-container {
     padding: 1rem;
+  }
+
+  .project-card {
+    padding: 0.85rem 0 0.78rem;
   }
 
   .publication-item {

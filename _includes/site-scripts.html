@@ -196,6 +196,77 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 
+  var detailSwitcherIndex = 0;
+
+  document.querySelectorAll('.project-card').forEach(function (card) {
+    var details = Array.prototype.slice.call(card.querySelectorAll(':scope > details'));
+
+    if (!details.length) return;
+
+    detailSwitcherIndex += 1;
+
+    var switcher = document.createElement('div');
+    var actions = document.createElement('div');
+    var panel = document.createElement('div');
+    var panelId = 'detail-panel-' + detailSwitcherIndex;
+    var entries = details.map(function (detail, index) {
+      var summary = detail.querySelector('summary');
+      var content = detail.querySelector(':scope > div');
+
+      return {
+        label: summary.textContent.trim(),
+        content: content,
+        buttonId: panelId + '-button-' + (index + 1)
+      };
+    });
+
+    switcher.className = 'detail-switcher';
+    actions.className = 'detail-actions';
+    panel.className = 'detail-panel';
+    panel.id = panelId;
+    panel.hidden = true;
+
+    entries.forEach(function (entry) {
+      var button = document.createElement('button');
+
+      button.type = 'button';
+      button.id = entry.buttonId;
+      button.textContent = entry.label;
+      button.setAttribute('aria-controls', panelId);
+      button.setAttribute('aria-expanded', 'false');
+
+      button.addEventListener('click', function () {
+        var wasOpen = button.getAttribute('aria-expanded') === 'true';
+
+        actions.querySelectorAll('button').forEach(function (otherButton) {
+          otherButton.setAttribute('aria-expanded', 'false');
+        });
+
+        if (wasOpen) {
+          panel.hidden = true;
+          panel.removeAttribute('aria-labelledby');
+          panel.replaceChildren();
+          return;
+        }
+
+        button.setAttribute('aria-expanded', 'true');
+        panel.setAttribute('aria-labelledby', entry.buttonId);
+        panel.replaceChildren(entry.content);
+        panel.hidden = false;
+      });
+
+      actions.appendChild(button);
+    });
+
+    details.forEach(function (detail) {
+      detail.remove();
+    });
+
+    switcher.appendChild(actions);
+    switcher.appendChild(panel);
+    card.appendChild(switcher);
+  });
+
   document.querySelectorAll('.recently-completed').forEach(function (group) {
     var cards = group.querySelectorAll('.project-card');
 
