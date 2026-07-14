@@ -54,7 +54,7 @@ Denney, S., Fraser, N., & Steinhardt, H. C. (2026). Cues of commitment: Integrat
 </p>
 
 <p class="publication-item">
-Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoint experiments using the case of Taiwan. <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7027118" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+Denney, S., & Steinhardt, H. C. (2026). The boundaries of belonging. Under review at <em>Political Behavior</em>. <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7027118" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
 <p class="publication-item">
