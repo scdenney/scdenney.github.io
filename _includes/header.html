@@ -1,9 +1,11 @@
 <header class="masthead">
   <div class="masthead__inner">
+    {% unless page.url == '/' %}
     <a class="masthead__brand" href="{{ '/' | relative_url }}" aria-label="Steven Denney home">
       <span>Steven Denney</span>
       <small>Leiden University</small>
     </a>
+    {% endunless %}
     <nav class="masthead__nav" id="site-navigation" aria-label="Primary">
       <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active" aria-current="page"{% endif %}>About</a>
       <a href="{{ '/projects/' | relative_url }}" {% if page.url contains '/projects' %}class="active" aria-current="page"{% endif %}>Projects</a>
