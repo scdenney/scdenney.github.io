@@ -224,6 +224,34 @@ hr {
   min-height: 3.7rem;
 }
 
+.masthead__brand {
+  grid-column: 1;
+  display: inline-flex;
+  flex-direction: column;
+  justify-self: start;
+  color: #fff8f0;
+  font-family: var(--font-serif);
+  font-size: 1.08rem;
+  font-weight: 600;
+  line-height: 1.1;
+  text-decoration: none;
+}
+
+.masthead__brand small {
+  margin-top: 0.22rem;
+  color: rgba(248, 239, 230, 0.72);
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.055em;
+  text-transform: uppercase;
+}
+
+.masthead__brand:hover,
+.masthead__brand:focus-visible {
+  color: #fff;
+}
+
 .masthead__nav {
   grid-column: 2;
   margin: 0;
@@ -417,6 +445,38 @@ hr {
 .page-inline-summary {
   font-size: var(--lead-copy-size);
   line-height: var(--lead-copy-line-height);
+}
+
+.home-intro {
+  margin-bottom: 1.65rem;
+  padding: 0.15rem 0 1.35rem;
+  border-bottom: 1px solid rgba(185, 148, 112, 0.55);
+}
+
+.home-intro__eyebrow {
+  margin-bottom: 0.55rem;
+  color: var(--color-accent-strong);
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.home-intro h1 {
+  max-width: 42rem;
+  margin-bottom: 0.65rem;
+  font-size: clamp(2rem, 3.2vw, 2.85rem);
+  line-height: 1.12;
+}
+
+.home-intro__deck {
+  max-width: 44rem;
+  margin: 0;
+  color: var(--color-text-soft);
+  font-size: 1.08rem;
+  line-height: 1.62;
 }
 
 .section-layout {
@@ -1007,12 +1067,16 @@ details ul li {
   color: var(--color-text-soft);
   font-family: var(--font-sans);
   font-size: 0.9rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem 2rem;
 }
 
-.footer-credit {
-  margin-top: 0.3rem;
+.footer-context {
   color: rgba(98, 39, 55, 0.82);
   font-size: 0.82rem;
+  text-align: right;
 }
 
 @media (max-width: 1024px) {
@@ -1049,6 +1113,10 @@ details ul li {
     min-height: 4rem;
     justify-content: space-between;
     gap: 0;
+  }
+
+  .masthead__brand {
+    font-size: 1.04rem;
   }
 
   .nav-toggle {
@@ -1288,6 +1356,25 @@ details ul li {
 
   .author-profile {
     padding: 1rem;
+  }
+
+  .home-intro {
+    margin-bottom: 1.35rem;
+    padding-bottom: 1.15rem;
+  }
+
+  .home-intro h1 {
+    font-size: 2.05rem;
+  }
+
+  .footer-inner {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+
+  .footer-context {
+    text-align: left;
   }
 }
 

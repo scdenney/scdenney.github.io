@@ -3,9 +3,15 @@ layout: home
 title: About
 ---
 
+<header class="home-intro">
+<p class="home-intro__eyebrow">International Relations · Korean Studies · Digital Humanities</p>
+<h1>Institutions, identity, and political change</h1>
+<p class="home-intro__deck">I study how political institutions shape national identity, attitudes toward migration, and political behavior, using surveys, experiments, and computational text analysis.</p>
+</header>
+
 I am an assistant professor of International Relations and Korean Studies at [Leiden University](https://www.universiteitleiden.nl/) and an affiliated researcher with the [Leiden University Centre for Digital Humanities (LUCDH)](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities). I earned a Ph.D. in Political Science from the University of Toronto, an M.A. in Global Affairs and Policy from Yonsei University, and a B.A. in Political Science from Harding University.
 
-I study how political institutions shape individual preferences, including national identity, attitudes toward migration, and political behavior. My work sits at the intersection of comparative politics and digital humanities, drawing on surveys, experimental designs, and computational text analysis. Regionally, I focus on East Asia, with an emphasis on the Korean Peninsula.
+My work sits at the intersection of comparative politics and digital humanities. Regionally, I focus on East Asia, with an emphasis on the Korean Peninsula.
 
 Increasingly, my research relies on building research corpora from archival and other hard-to-use sources, combining OCR, vision-language models, and large language models to work with bodies of text that were previously difficult to analyze. Additionally, I maintain a portfolio of applied research that examines innovation policy, entrepreneurship, and the digital economy.
 

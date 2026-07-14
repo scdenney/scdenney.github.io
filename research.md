@@ -7,7 +7,7 @@ permalink: /research/
 <div class="research-layout">
   <aside class="research-sidebar">
     <div class="research-sidebar-inner">
-      <h2 class="research-sidebar-title">On this page</h2>
+      <p class="research-sidebar-title">On this page</p>
       <nav class="research-toc">
         <ul>
           <li><a href="#working-papers">Working Papers</a></li>
