@@ -19,11 +19,13 @@ permalink: /teaching/
 <a href="https://scdenney.github.io/thesis-supervision/" class="resource-link">Website</a>
 </div>
 </div>
-<p class="project-meta"><strong>Programs:</strong> BA International Studies · BA Korean Studies · MA Asian Studies · MA International Relations</p>
 
 <details>
 <summary>About This Resource</summary>
 <div>
+<dl class="detail-meta">
+<div><dt>Programs</dt><dd>BA International Studies · BA Korean Studies · MA Asian Studies · MA International Relations</dd></div>
+</dl>
 <p>A central resource for thesis students I supervise across four Leiden University programs (BAIS, BAKS, MAAS, MAIR). Includes program-specific requirements, shared assessment standards, an interactive getting-started guide, downloadable student guidelines, and links to university resources.</p>
 </div>
 </details>
@@ -87,11 +89,14 @@ permalink: /teaching/
 <a href="https://scdenney.github.io/ba2_digital-korea/" class="resource-link">Course website</a>
 </div>
 </div>
-<p class="project-meta"><strong>Level:</strong> BA II · <strong>Program:</strong> Korean Studies, Leiden University</p>
 
 <details>
 <summary>Course Description</summary>
 <div>
+<dl class="detail-meta">
+<div><dt>Level</dt><dd>BA II</dd></div>
+<div><dt>Program</dt><dd>Korean Studies, Leiden University</dd></div>
+</dl>
 <p>This course introduces students to computational methods for analyzing text, with a focus on Korean-language materials. Students learn foundational techniques in text-as-data analysis while working with primary sources relevant to Korean studies, including historical documents, political speeches, and media content.</p>
 </div>
 </details>
@@ -104,11 +109,14 @@ permalink: /teaching/
 <a href="https://scdenney.github.io/ba3_text_as_data/" class="resource-link">Course website</a>
 </div>
 </div>
-<p class="project-meta"><strong>Level:</strong> BA III · <strong>Program:</strong> Korean Studies, Leiden University</p>
 
 <details>
 <summary>Course Description</summary>
 <div>
+<dl class="detail-meta">
+<div><dt>Level</dt><dd>BA III</dd></div>
+<div><dt>Program</dt><dd>Korean Studies, Leiden University</dd></div>
+</dl>
 <p>An advanced course covering text-as-data approaches within the humanities. Students develop skills in computational text analysis, working with corpora and applying methods from natural language processing to humanistic inquiry.</p>
 </div>
 </details>
@@ -121,11 +129,14 @@ permalink: /teaching/
 <a href="https://scdenney.github.io/baks_thesis-seminar/" class="resource-link">Course website</a>
 </div>
 </div>
-<p class="project-meta"><strong>Level:</strong> BA III · <strong>Program:</strong> Korean Studies, Leiden University</p>
 
 <details>
 <summary>Course Description</summary>
 <div>
+<dl class="detail-meta">
+<div><dt>Level</dt><dd>BA III</dd></div>
+<div><dt>Program</dt><dd>Korean Studies, Leiden University</dd></div>
+</dl>
 <p>This seminar guides students through the process of designing and executing their BA thesis research. Students develop research questions, review relevant literature, and learn methodological approaches appropriate for their projects.</p>
 </div>
 </details>
@@ -139,11 +150,14 @@ permalink: /teaching/
 <a href="/assets/pdf/2526-bais-ir.pdf" class="resource-link">Syllabus</a>
 </div>
 </div>
-<p class="project-meta"><strong>Level:</strong> BA · <strong>Program:</strong> International Studies, Leiden University</p>
 
 <details>
 <summary>Course Description</summary>
 <div>
+<dl class="detail-meta">
+<div><dt>Level</dt><dd>BA</dd></div>
+<div><dt>Program</dt><dd>International Studies, Leiden University</dd></div>
+</dl>
 <p>An introduction to international relations, covering major theories and contemporary issues in global politics.</p>
 </div>
 </details>

@@ -131,6 +131,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (headings.length) {
       var activeId = null;
+      var wideResearchToc = window.matchMedia('(min-width: 1025px)');
       function setActive(id) {
         if (id === activeId) return;
         activeId = id;
@@ -140,6 +141,11 @@ document.addEventListener('DOMContentLoaded', function () {
       }
 
       function updateActiveSection() {
+        if (!wideResearchToc.matches) {
+          setActive(null);
+          return;
+        }
+
         var threshold = 120;
         var scrollBottom = window.innerHeight + window.scrollY;
         var pageHeight = document.documentElement.scrollHeight;

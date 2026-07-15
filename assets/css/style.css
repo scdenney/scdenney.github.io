@@ -681,17 +681,15 @@ hr {
   flex: 0 1 auto;
   align-items: center;
   justify-content: center;
-  min-width: 7.4rem;
-  min-height: 2.75rem;
   margin: 0;
-  padding: 0.58rem 0.72rem;
+  padding: 0.34rem 0.64rem;
   border: 1px solid rgba(122, 56, 71, 0.2);
   border-radius: 0.55rem;
   background: rgba(234, 213, 207, 0.38);
   box-shadow: 0 2px 8px rgba(54, 31, 24, 0.025);
   color: var(--color-accent-strong);
   font-family: var(--font-sans);
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   font-weight: 700;
   line-height: 1.15;
   text-align: center;
@@ -760,6 +758,36 @@ hr {
 
 .detail-panel > div > *:last-child {
   margin-bottom: 0;
+}
+
+.detail-meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  gap: 0.55rem 1.2rem;
+  margin: 0 0 0.75rem;
+  padding: 0 0 0.7rem;
+  border-bottom: 1px solid rgba(185, 148, 112, 0.42);
+  font-family: var(--font-sans);
+}
+
+.detail-meta > div {
+  min-width: 0;
+}
+
+.detail-meta dt {
+  margin: 0 0 0.08rem;
+  color: var(--color-accent-strong);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.055em;
+  text-transform: uppercase;
+}
+
+.detail-meta dd {
+  margin: 0;
+  color: var(--color-text);
+  font-size: 0.86rem;
+  line-height: 1.4;
 }
 
 details {
@@ -1090,6 +1118,40 @@ details ul li {
   .research-sidebar-inner {
     max-height: none;
   }
+
+  .research-toc a.is-active {
+    background: transparent;
+    color: var(--color-text-soft);
+    font-weight: 400;
+    box-shadow: none;
+  }
+}
+
+@media (min-width: 861px) and (max-width: 1024px) {
+  .research-sidebar-inner {
+    padding: 1rem;
+  }
+
+  .research-sidebar-title {
+    margin-bottom: 0.65rem;
+  }
+
+  .research-toc ul {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.3rem 0.5rem;
+  }
+
+  .research-toc li + li {
+    margin-top: 0;
+  }
+
+  .research-toc a {
+    height: 100%;
+    padding: 0.5rem 0.62rem;
+    border: 1px solid rgba(216, 195, 180, 0.62);
+    background: rgba(255, 252, 248, 0.62);
+  }
 }
 
 @media (max-width: 860px) {
@@ -1321,13 +1383,6 @@ details ul li {
   .detail-actions {
     gap: 0.4rem;
     padding-top: 0.35rem;
-  }
-
-  .detail-actions button,
-  .project-links .resource-link {
-    min-height: 2.9rem;
-    padding: 0.58rem 0.72rem;
-    font-size: 0.77rem;
   }
 
   .detail-actions button::after {
