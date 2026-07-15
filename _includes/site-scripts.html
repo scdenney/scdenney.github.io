@@ -200,7 +200,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
   document.querySelectorAll('.project-card').forEach(function (card) {
     var details = Array.prototype.slice.call(card.querySelectorAll(':scope > details'));
-    var projectLinks = card.querySelector('.project-links');
     var cardTitle = card.querySelector('h3');
 
     if (!details.length) return;
@@ -225,7 +224,7 @@ document.addEventListener('DOMContentLoaded', function () {
     switcher.className = 'detail-switcher';
     actions.className = 'detail-actions';
     actions.setAttribute('role', 'group');
-    actions.setAttribute('aria-label', (cardTitle ? cardTitle.textContent.trim() + ' ' : '') + 'details and resources');
+    actions.setAttribute('aria-label', (cardTitle ? cardTitle.textContent.trim() + ' ' : '') + 'details');
     panel.className = 'detail-panel';
     panel.id = panelId;
     panel.setAttribute('role', 'region');
@@ -262,17 +261,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
       actions.appendChild(button);
     });
-
-    if (projectLinks) {
-      Array.prototype.slice.call(projectLinks.querySelectorAll('a')).forEach(function (link) {
-        link.classList.add('detail-action-link');
-        actions.appendChild(link);
-      });
-
-      projectLinks.remove();
-    }
-
-    actions.setAttribute('data-action-count', String(actions.children.length));
 
     details.forEach(function (detail) {
       detail.remove();
