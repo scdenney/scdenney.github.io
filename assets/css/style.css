@@ -1373,6 +1373,13 @@ details ul li {
   }
 }
 
+@media (min-width: 641px) and (max-width: 860px) {
+  .home-layout {
+    grid-template-columns: minmax(15rem, var(--home-sidebar-width)) minmax(0, 1fr);
+    gap: 1.5rem;
+  }
+}
+
 @media (max-width: 640px) {
   body {
     font-size: 1rem;

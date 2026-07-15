@@ -20,20 +20,21 @@ permalink: /projects/
 </div>
 </div>
 
-<p class="project-meta">
-<strong>Duration:</strong> 12 months (2025–2026) · <strong>PI:</strong> Steven Denney (Leiden University) · <strong>Funding:</strong> Netherlands Organisation for Scientific Research (NWO)
-</p>
-
 <details>
-<summary>Overview</summary>
+<summary>About This Project</summary>
 <div>
+<dl class="detail-meta">
+<div><dt>Duration</dt><dd>12 months (2025–2026)</dd></div>
+<div><dt>PI</dt><dd>Steven Denney (Leiden University)</dd></div>
+<div><dt>Funding</dt><dd>Netherlands Organisation for Scientific Research (NWO)</dd></div>
+</dl>
 <p>Immigration is one of the most contentious political issues in contemporary democracies, generating public backlash and policy instability. Explanations for immigration attitudes have traditionally emphasized two perspectives: group threat theory, which holds that dominant groups react defensively when immigration challenges cultural identity, national character, or established hierarchies; and economic competition theory, which views attitudes as shaped by perceived individual or national economic risks. Recent work introduces a third perspective: civic fairness, which claims that citizens assess immigration through moral principles of legal compliance and equal opportunity, potentially superseding both group-based concerns and economic calculations.</p>
 <p>This project extends the civic fairness framework by testing whether perceptions of fairness override, complement, or contradict threat- and competition-based considerations across different democratic contexts. The project employs experimental surveys in the United States, Germany, South Korea, and Singapore.</p>
 </div>
 </details>
 
 <details>
-<summary>Output</summary>
+<summary>Outputs</summary>
 <div>
 <p><strong>Papers in Progress</strong></p>
 <ul>
@@ -55,20 +56,22 @@ permalink: /projects/
 </div>
 </div>
 
-<p class="project-meta">
-<strong>Duration:</strong> 2 years (2026–2028) · <strong>PI:</strong> Steven Denney (Leiden University) · <strong>Collaborators:</strong> Aron van de Pol (Leiden University) · <strong>Funding:</strong> Academy of Korean Studies
-</p>
-
 <details>
-<summary>Overview</summary>
+<summary>About This Project</summary>
 <div>
+<dl class="detail-meta">
+<div><dt>Duration</dt><dd>2 years (2026–2028)</dd></div>
+<div><dt>PI</dt><dd>Steven Denney (Leiden University)</dd></div>
+<div><dt>Collaborators</dt><dd>Aron van de Pol (Leiden University)</dd></div>
+<div><dt>Funding</dt><dd>Academy of Korean Studies</dd></div>
+</dl>
 <p>This project sits at the intersection of digital humanities and social science, using text analysis and survey methods to study how national identity is constructed and transmitted through education. Working with a corpus of South Korean national history textbooks spanning from 1948 through 2016, collected from the National Institute of Korean History and the Georg Eckert Institute, the project covers the post-liberation authoritarian regimes and the democratic era, each presenting different grand narratives of the Korean nation.</p>
 <p>The project proceeds in two stages. First, we use AI-assisted text analysis to identify how the nation is narrated across different periods and what type of national identity is articulated in each era's textbooks. Second, we design a survey experiment that draws directly from these textbook-derived narratives, asking South Koreans to evaluate competing versions of the nation rather than respond to abstract hypotheticals. This design allows us to test whether individuals favor the version of the nation that reflects what they learned during their school years, as theories of long-run political socialization would predict.</p>
 </div>
 </details>
 
 <details>
-<summary>Output</summary>
+<summary>Outputs</summary>
 <div>
 <p><strong>Working Papers</strong></p>
 <ul>
@@ -84,22 +87,26 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
+<div class="project-card__header">
 <h3>III. AI Workforce Intelligence Initiative</h3>
-
-<p class="project-meta">
-<strong>Duration:</strong> 8 months (2026) · <strong>Researcher:</strong> Steven Denney (Leiden University) · <strong>Collaborator:</strong> Viet Vu (The Dais, Toronto Metropolitan University) · <strong>Funding:</strong> Future Skills Centre
-</p>
+</div>
 
 <details>
-<summary>Overview</summary>
+<summary>About This Project</summary>
 <div>
+<dl class="detail-meta">
+<div><dt>Duration</dt><dd>8 months (2026)</dd></div>
+<div><dt>Researcher</dt><dd>Steven Denney (Leiden University)</dd></div>
+<div><dt>Collaborator</dt><dd>Viet Vu (The Dais, Toronto Metropolitan University)</dd></div>
+<div><dt>Funding</dt><dd>Future Skills Centre</dd></div>
+</dl>
 <p>This project lays the groundwork for an ongoing initiative to track AI's impacts and trends on Canada's workforce and economy. It addresses three core questions: What data and measures allow ongoing analysis of how AI is penetrating the Canadian economy? What methodologies can identify AI's impact on the labour market? And how can this intelligence be mobilized to support policymakers, industry, and education systems?</p>
 <p>The project proceeds through three workstreams. The first develops an <em>AI Workforce Intelligence Measurement Framework</em> — an environmental scan identifying key measures of AI diffusion and impact, categorized by domain, frequency, and accessibility, with gap analysis aligned with Statistics Canada's TechStat initiatives. The second is a <em>pilot study on GenAI's impact on young workers and entry-level jobs</em>, combining GenAI usage indicators, occupational exposure measures, and comparative methodologies for isolating AI's labour market effects since ChatGPT's release. The third workstream develops an <em>AI Workforce Monitor</em>, a publicly accessible interactive data dashboard tracking key measures of AI adoption and disruption in Canada's workforce, modeled on the Dais Inclusive Innovation Monitor and Harvard's Generative AI Adoption Tracker.</p>
 </div>
 </details>
 
 <details>
-<summary>Output</summary>
+<summary>Outputs</summary>
 <div>
 <p><strong>Forthcoming</strong></p>
 </div>
@@ -107,22 +114,26 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
+<div class="project-card__header">
 <h3>IV. Nationalism and Political Change: Why Institutions Matter for National Identity and Belonging</h3>
-
-<p class="project-meta">
-<strong>Duration:</strong> Ongoing (2022–present) · <strong>PI:</strong> Steven Denney (Leiden University) · <strong>Collaborators:</strong> H. Christoph Steinhardt (University of Vienna), Myunghee Lee (Michigan State University) · <strong>Funding:</strong> Academy of Korean Studies; Leiden University; University of Vienna
-</p>
+</div>
 
 <details>
-<summary>Overview</summary>
+<summary>About This Project</summary>
 <div>
+<dl class="detail-meta">
+<div><dt>Duration</dt><dd>Ongoing (2022–present)</dd></div>
+<div><dt>PI</dt><dd>Steven Denney (Leiden University)</dd></div>
+<div><dt>Collaborators</dt><dd>H. Christoph Steinhardt (University of Vienna), Myunghee Lee (Michigan State University)</dd></div>
+<div><dt>Funding</dt><dd>Academy of Korean Studies; Leiden University; University of Vienna</dd></div>
+</dl>
 <p>This project focuses on the relationship between political system change and preferences for national membership and belonging. Existing research suggests that preferences and institutions align and that citizens in democracies have national identities that are more open and inclusive than those in authoritarian countries, but it remains unclear how democratization affects national identity in newer democracies with authoritarian and ethnocultural legacies.</p>
 <p>The project utilizes cross-sectional data that measures attitudes toward national identity, immigration, diversity, and related variables in (South) Korea, Germany, and Taiwan, supplemented by new survey experiments and other data sources.</p>
 </div>
 </details>
 
 <details>
-<summary>Output</summary>
+<summary>Outputs</summary>
 <div>
 <p><strong>Books</strong></p>
 <ul>
@@ -173,21 +184,25 @@ permalink: /projects/
 <div class="recently-completed">
 
 <div class="project-card">
+<div class="project-card__header">
 <h3>Integration Challenges and Opportunities in Divided Countries</h3>
-
-<p class="project-meta">
-<strong>Duration:</strong> 12 months (2024–2025) · <strong>PI:</strong> Steven Denney (European Centre for North Korean Studies, University of Vienna) · <strong>Collaborators:</strong> Ruediger Frank, Robin Brehm, Tianzi Zhou (European Centre for North Korean Studies, University of Vienna), Peter Ward (Sejong Institute) · <strong>Funding:</strong> 2023 Overseas North Korea-Unification Policy Academic Research Support Grant, Institute for Far Eastern Studies (IFES), Kyungnam University
-</p>
+</div>
 
 <details>
-<summary>Overview</summary>
+<summary>About This Project</summary>
 <div>
+<dl class="detail-meta">
+<div><dt>Duration</dt><dd>12 months (2024–2025)</dd></div>
+<div><dt>PI</dt><dd>Steven Denney (European Centre for North Korean Studies, University of Vienna)</dd></div>
+<div><dt>Collaborators</dt><dd>Ruediger Frank, Robin Brehm, Tianzi Zhou (European Centre for North Korean Studies, University of Vienna), Peter Ward (Sejong Institute)</dd></div>
+<div><dt>Funding</dt><dd>2023 Overseas North Korea-Unification Policy Academic Research Support Grant, Institute for Far Eastern Studies (IFES), Kyungnam University</dd></div>
+</dl>
 <p>This project explores the challenges and opportunities associated with the social integration of people in divided nations, concentrating specifically on Germany's reunification experience and the present-day assimilation of North Korean defector-migrants into South Korea.</p>
 </div>
 </details>
 
 <details>
-<summary>Output</summary>
+<summary>Outputs</summary>
 <div>
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
@@ -210,21 +225,25 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
+<div class="project-card__header">
 <h3>The National Scale-Ups Project</h3>
-
-<p class="project-meta">
-<strong>Duration:</strong> 2019–2023 · <strong>PI:</strong> Steven Denney (Innovation Policy Lab, University of Toronto) · <strong>Collaborators:</strong> David Wolfe (University of Toronto), Viet Vu (Brookfield Institute), Ryan Kelly (University of Toronto); University of Vienna, Toronto Metropolitan University, ISED Canada · <strong>Funding:</strong> Mitacs Accelerate; Treasury Board Secretariat of Canada; Facebook; Brookfield Institute
-</p>
+</div>
 
 <details>
-<summary>Overview</summary>
+<summary>About This Project</summary>
 <div>
+<dl class="detail-meta">
+<div><dt>Duration</dt><dd>2019–2023</dd></div>
+<div><dt>PI</dt><dd>Steven Denney (Innovation Policy Lab, University of Toronto)</dd></div>
+<div><dt>Collaborators</dt><dd>David Wolfe (University of Toronto), Viet Vu (Brookfield Institute), Ryan Kelly (University of Toronto); University of Vienna, Toronto Metropolitan University, ISED Canada</dd></div>
+<div><dt>Funding</dt><dd>Mitacs Accelerate; Treasury Board Secretariat of Canada; Facebook; Brookfield Institute</dd></div>
+</dl>
 <p>A collaborative effort exploring the landscape of high-performing firms, known as "scale-ups," and their impact on key policy objectives, such as employment gains, technological innovation, and economic competitiveness. Uses administrative micro-files linked to financial and survey data.</p>
 </div>
 </details>
 
 <details>
-<summary>Output</summary>
+<summary>Outputs</summary>
 <div>
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
@@ -267,21 +286,24 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
+<div class="project-card__header">
 <h3>Information Dissemination in North Korea</h3>
-
-<p class="project-meta">
-<strong>Duration:</strong> 2 years (2019–2021) · <strong>PIs:</strong> Steven Denney, Peter Ward · <strong>Funding:</strong> National Endowment for Democracy
-</p>
+</div>
 
 <details>
-<summary>Overview</summary>
+<summary>About This Project</summary>
 <div>
+<dl class="detail-meta">
+<div><dt>Duration</dt><dd>2 years (2019–2021)</dd></div>
+<div><dt>PIs</dt><dd>Steven Denney, Peter Ward</dd></div>
+<div><dt>Funding</dt><dd>National Endowment for Democracy</dd></div>
+</dl>
 <p>Identifies determinants of non-state information dissemination within North Korean society using experimental and observational surveys.</p>
 </div>
 </details>
 
 <details>
-<summary>Output</summary>
+<summary>Outputs</summary>
 <div>
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
@@ -314,21 +336,24 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
+<div class="project-card__header">
 <h3>Unification in Action? North Korean Migrant Integration and Support Expansion</h3>
-
-<p class="project-meta">
-<strong>Duration:</strong> 2 years (2021–2023) · <strong>PIs:</strong> Steven Denney, Christopher Green, Peter Ward · <strong>Funding:</strong> Academy of Korean Studies (AKS-2021-R-083)
-</p>
+</div>
 
 <details>
-<summary>Overview</summary>
+<summary>About This Project</summary>
 <div>
+<dl class="detail-meta">
+<div><dt>Duration</dt><dd>2 years (2021–2023)</dd></div>
+<div><dt>PIs</dt><dd>Steven Denney, Christopher Green, Peter Ward</dd></div>
+<div><dt>Funding</dt><dd>Academy of Korean Studies (AKS-2021-R-083)</dd></div>
+</dl>
 <p>Investigates public attitudes and public policies regarding migrant entrepreneurship and integration, leveraging the case of North Korean migrant resettlement in South Korea.</p>
 </div>
 </details>
 
 <details>
-<summary>Output</summary>
+<summary>Outputs</summary>
 <div>
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
