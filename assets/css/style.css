@@ -1378,6 +1378,43 @@ details ul li {
   }
 }
 
+@media (min-width: 560px) and (max-width: 860px) {
+  .author-profile {
+    grid-template-columns: 7.5rem minmax(9rem, auto) minmax(11rem, 1fr);
+    column-gap: 1.1rem;
+    align-items: center;
+    padding: 1rem;
+  }
+
+  .author__avatar {
+    grid-column: 1;
+    grid-row: 1 / span 2;
+  }
+
+  .author__name {
+    grid-column: 2;
+    grid-row: 1;
+    align-self: end;
+  }
+
+  .author__title {
+    grid-column: 2;
+    grid-row: 2;
+    align-self: start;
+  }
+
+  .author__urls {
+    grid-column: 3;
+    grid-row: 1 / span 2;
+    display: grid;
+    grid-template-columns: repeat(4, 2.75rem);
+    justify-content: end;
+    align-content: center;
+    gap: 0.5rem;
+    margin-top: 0;
+  }
+}
+
 @media (max-width: 640px) {
   body {
     font-size: 1rem;
