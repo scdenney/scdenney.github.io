@@ -59,7 +59,7 @@ permalink: /teaching/
 <details>
 <summary>About This Resource</summary>
 <div>
-<p>A teaching hub for working with AI agents and skills in empirical social science. It collects how-to guides, runnable demos, and lecture slides, including a step-by-step setup walkthrough and a reference- and source-claim checking demo you can clone and run end to end. Companion to the <a href="https://github.com/scdenney/open-science-skills" target="_blank" rel="noopener noreferrer">Open Science Skills</a> toolkit, a library of <a href="https://docs.anthropic.com/en/docs/claude-code/skills">Claude Code skills</a> for experimental social science methodology.</p>
+<p>A teaching hub for working with AI agents and skills in empirical social science. It collects how-to guides, runnable demos, and lecture slides, including a step-by-step setup walkthrough, a reference- and source-claim checking demo, and an orchestration lab. Companion to the <a href="https://github.com/scdenney/open-science-skills" target="_blank" rel="noopener noreferrer">Open Science Skills</a> toolkit: open research-methods skills for <a href="https://docs.anthropic.com/en/docs/claude-code/skills">Claude Code</a> and <a href="https://developers.openai.com/codex/skills">OpenAI Codex</a>.</p>
 </div>
 </details>
 </div>
