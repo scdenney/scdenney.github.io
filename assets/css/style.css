@@ -1342,16 +1342,16 @@ details ul li {
   }
 
   .author-profile {
-    width: min(100%, var(--home-sidebar-width));
+    width: min(100%, 20rem);
     margin-right: auto;
-    margin-left: 0;
+    margin-left: auto;
     padding: 1rem;
     text-align: center;
   }
 
   .author__avatar {
     width: 100%;
-    max-width: 190px;
+    max-width: 15rem;
     margin: 0 auto 1rem;
   }
 
