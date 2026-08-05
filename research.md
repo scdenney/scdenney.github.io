@@ -350,7 +350,7 @@ Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>
 <h2 id="talks">Selected Talks</h2>
 
 <p class="publication-item">
-Denney, S., & Ward, P. (2026). No previews in Pyongyang: Reform discourse and policy change in North Korea, 1987–2020. European Centre for North Korean Studies (ECNK) Webinar, University of Vienna, August 4. <a href="/assets/pdf/denney_2026_no-previews-in-pyongyang_ecnk-slides.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
+Denney, S., & Ward, P. (2026). No previews in Pyongyang: Reform discourse and policy change in North Korea, 1987–2020. European Centre for North Korean Studies (ECNK) Webinar, University of Vienna, August 4. <a href="/assets/slides/no-previews-in-pyongyang/" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a> <a href="/assets/pdf/denney_2026_no-previews-in-pyongyang_ecnk-slides.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">PDF</a>
 </p>
 
 <p class="publication-item">
