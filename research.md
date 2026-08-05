@@ -78,7 +78,7 @@ Denney, S. (n.d.). Fairness, threat, and the norms-based model of immigration le
 </p>
 
 <p class="publication-item">
-Denney, S., & Ward, P. (n.d.). Words Before Deeds? Reform Discourse and Economic Policy in North Korea, 1987–2020.
+Denney, S., & Ward, P. (n.d.). No Previews in Pyongyang: Reform Discourse and Policy Change in North Korea, 1987–2020.
 </p>
 </div>
 
@@ -348,6 +348,10 @@ Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>
 
 <div class="research-section">
 <h2 id="talks">Selected Talks</h2>
+
+<p class="publication-item">
+Denney, S., & Ward, P. (2026). No previews in Pyongyang: Reform discourse and policy change in North Korea, 1987–2020. European Centre for North Korean Studies (ECNK) Webinar, University of Vienna, August 4.
+</p>
 
 <p class="publication-item">
 Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoint experiments using the case of Taiwan. Ostasienforum, Department of East Asian Studies, University of Vienna, June 30. <a href="/assets/pdf/denney_2026_measuring-national-identity_vienna-slides.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
