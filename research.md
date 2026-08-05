@@ -354,7 +354,7 @@ Denney, S., & Ward, P. (2026). No previews in Pyongyang: Reform discourse and po
 </p>
 
 <p class="publication-item">
-Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoint experiments using the case of Taiwan. Ostasienforum, Department of East Asian Studies, University of Vienna, June 30. <a href="/assets/pdf/denney_2026_measuring-national-identity_vienna-slides.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
+Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoint experiments using the case of Taiwan. Ostasienforum, Department of East Asian Studies, University of Vienna, June 30. <a href="/assets/slides/measuring-national-identity/" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
 </p>
 
 <p class="publication-item">
