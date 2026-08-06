@@ -6,5 +6,5 @@ gem "jekyll-sitemap"
 gem "ffi", "< 1.17"
 
 group :jekyll_plugins do
-  gem "github-pages", "~> 228"
+  gem "github-pages", "~> 232"
 end

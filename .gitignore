@@ -32,3 +32,4 @@ setup-sync.sh
 *.fdb_latexmk
 *.fls
 *.xdv
+Gemfile.lock
