@@ -137,7 +137,7 @@ permalink: /projects/
 <div>
 <p><strong>Books</strong></p>
 <ul>
-<li><em>Nationalism Under Democracy: Why Institutions Matter for National Identity and Belonging</em> [in progress]</li>
+<li><em>Nationalism Under Democracy: Why Institutions Matter for National Identity and Belonging</em> [Manuscript being revised]</li>
 </ul>
 
 <p><strong>Peer-Reviewed Articles</strong></p>

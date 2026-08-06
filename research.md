@@ -174,11 +174,11 @@ Cathcart, A., & Denney, S. (2013). North Korea's cultural diplomacy in the early
 <h2 id="books">Books</h2>
 
 <p class="publication-item">
-Denney, S. (n.d.). <em>Nationalism under democracy: Why institutions matter for national identity and belonging</em>. [Manuscript under review].
+Denney, S. (n.d.). <em>Nationalism under democracy: Why institutions matter for national identity and belonging</em>. [Manuscript being revised].
 </p>
 
 <p class="publication-item">
-Denney, S., & Lee, M. (n.d.). <em>Democracy at school: Authoritarian education and post-democratization citizens in South Korea and Poland</em>. [Manuscript in preparation].
+Denney, S., & Lee, M. (n.d.). <em>Democracy at school: Authoritarian education, post-transition citizens, and the long shadow of the Cold War in South Korea and Poland</em>. [Manuscript in preparation]. <a href="/assets/summaries/democracy-at-school/" target="_blank" rel="noopener noreferrer" class="resource-link">Summary</a>
 </p>
 
 <p class="publication-item">
