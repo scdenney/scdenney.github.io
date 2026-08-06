@@ -307,7 +307,7 @@ permalink: /projects/
 <div>
 <p><strong>Peer-Reviewed Articles</strong></p>
 <ul>
-<li>Denney, S., & Ward, P. (2023). How autocracies disrupt unsanctioned information flows: The role of state power and social capital in North Korea. <em>Problems of Post-Communism, 71</em>(2), 177–191. <a href="https://doi.org/10.1080/10758216.2023.2180038" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/Information-Flows-in-North-Korea" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
+<li>Ward, P., & Denney, S. (2023). How autocracies disrupt unsanctioned information flows: The role of state power and social capital in North Korea. <em>Problems of Post-Communism, 71</em>(2), 177–191. <a href="https://doi.org/10.1080/10758216.2023.2180038" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/Information-Flows-in-North-Korea" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
 </ul>
 
 <p><strong>Reports</strong></p>

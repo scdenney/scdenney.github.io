@@ -118,7 +118,7 @@ Denney, S., Ward, P., & Green, C. (2024). Public support for migrant entrepreneu
 </p>
 
 <p class="publication-item">
-Denney, S., & Ward, P. (2023). How autocracies disrupt unsanctioned information flows: The role of state power and social capital in North Korea. <em>Problems of Post-Communism, 71</em>(2), 177–191. <a href="https://doi.org/10.1080/10758216.2023.2180038" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/Information-Flows-in-North-Korea" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
+Ward, P., & Denney, S. (2023). How autocracies disrupt unsanctioned information flows: The role of state power and social capital in North Korea. <em>Problems of Post-Communism, 71</em>(2), 177–191. <a href="https://doi.org/10.1080/10758216.2023.2180038" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/Information-Flows-in-North-Korea" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
 </p>
 
 <p class="publication-item">
@@ -487,7 +487,7 @@ Denney, S. (2015). Telling tales: North Korea's use of re-defectors. Korean Econ
 </p>
 </div>
 
-<p class="page-updated"><em>Last updated: June 2026</em></p>
+<p class="page-updated"><em>Last updated: August 2026</em></p>
 
   </div>
 </div>
