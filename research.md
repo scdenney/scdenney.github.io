@@ -70,11 +70,19 @@ Denney, S., Kelly, R., & Wolfe, D. (2025). Innovation policy in practice: Assess
 <h2 id="papers-in-progress">Papers in Progress</h2>
 
 <p class="publication-item">
-Denney, S., & Steinhardt, H. C. (n.d.). Political Regimes and the Shape of Nationalism: A Conjoint Approach to the Content of National Identity in Mainland China and Taiwan.
+Denney, S., & Steinhardt, H. C. (n.d.). Political Regimes and the Shape of Nationalism: A Conjoint Approach to the Content of National Identity in Mainland China and Taiwan. <a href="/assets/preregistrations/political-regimes-nationalism/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (n.d.). Fairness, threat, and the norms-based model of immigration legitimacy.
+Denney, S. (n.d.). Civic Fairness and the Evaluation of Individual Immigrants. <a href="/assets/preregistrations/civic-fairness/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (n.d.). Procedural Legitimacy and Immigration Policy. <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (n.d.). A Survey Experiment on Creedal Nationalist Persuasion. <a href="/assets/preregistrations/creedal-persuasion/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a>
 </p>
 
 <p class="publication-item">
