@@ -46,10 +46,6 @@ Denney, S., Fraser, N., & Steinhardt, H. C. (2026). Cues of commitment: Integrat
 </p>
 
 <p class="publication-item">
-Denney, S. (2026). Democracy and nationalism, reconsidered. <a href="https://github.com/scdenney/democracy-nationalism-reconsidered" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904542" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
-</p>
-
-<p class="publication-item">
 Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
@@ -67,6 +63,10 @@ Denney, S., van Dam, I., & Green, C. (2026). Persuasion and prejudice: Are South
 
 <p class="publication-item">
 Denney, S. (2026). "What Were They Thinking?" Using Open-Text Responses to Validate Constructs in Conjoint Survey Experiments. <a href="https://github.com/scdenney/what-were-they-thinking/tree/main" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6912419" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2026). Democracy and nationalism, reconsidered. <a href="https://github.com/scdenney/democracy-nationalism-reconsidered" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904542" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
 <p class="publication-item">
