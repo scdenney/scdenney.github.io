@@ -38,6 +38,14 @@ permalink: /research/
 <h2 id="working-papers">Working Papers Under Review</h2>
 
 <p class="publication-item">
+Denney, S., Kelly, R., & Wolfe, D. (2026). Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. Revise and resubmit at <em>Canadian Public Policy</em>. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
+</p>
+
+<p class="publication-item">
+Denney, S., Fraser, N., & Steinhardt, H. C. (2026). Cues of commitment: Integration and naturalization support in Taiwan and South Korea. Revise and resubmit at <em>British Journal of Political Science</em>. <a href="https://github.com/scdenney/cues-east-asia" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2026). Democracy and nationalism, reconsidered. <a href="https://github.com/scdenney/democracy-nationalism-reconsidered" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904542" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
@@ -50,19 +58,11 @@ Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Histo
 </p>
 
 <p class="publication-item">
-Denney, S., Fraser, N., & Steinhardt, H. C. (2026). Cues of commitment: Integration and naturalization support in Taiwan and South Korea. <a href="https://github.com/scdenney/cues-east-asia" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
-</p>
-
-<p class="publication-item">
 Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoint experiments using the case of Taiwan. <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7027118" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
 <p class="publication-item">
 Denney, S., van Dam, I., & Green, C. (2026). Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? <a href="https://github.com/scdenney/persuasion-cues-kr-imm" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
-</p>
-
-<p class="publication-item">
-Denney, S., Kelly, R., & Wolfe, D. (2026). Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
 </div>
 
