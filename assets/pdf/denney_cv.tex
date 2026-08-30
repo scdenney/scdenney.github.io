@@ -34,6 +34,7 @@
 \usepackage{hyperref}
 \usepackage{fancyhdr}
 \usepackage{lastpage}
+\usepackage{refcount}
 
 % --- Hyperref ---
 \hypersetup{
@@ -64,15 +65,12 @@
 \pagestyle{fancy}
 \fancyhf{}
 \renewcommand{\headrulewidth}{0pt}
-\fancyfoot[C]{\footnotesize Steven Denney \,|\, Curriculum Vitae \,|\, \thepage\ of \pageref{LastPage}}
-
-% --- Last page style (adds "Last updated") ---
-\fancypagestyle{lastpage}{%
-  \fancyhf{}%
-  \renewcommand{\headrulewidth}{0pt}%
-  \fancyfoot[L]{\footnotesize\textit{Last updated: August 2026}}%
-  \fancyfoot[C]{\footnotesize Steven Denney \,|\, Curriculum Vitae \,|\, \thepage\ of \pageref{LastPage}}%
+\fancyfoot[L]{%
+  \ifnum\value{page}=\getpagerefnumber{LastPage}\relax
+    \footnotesize\textit{Last updated: August 2026}%
+  \fi
 }
+\fancyfoot[C]{\footnotesize Steven Denney \,|\, Curriculum Vitae \,|\, \thepage\ of \pageref{LastPage}}
 
 % --- Custom entry commands ---
 \newcommand{\cventry}[3]{%
@@ -281,6 +279,18 @@
   \item Denney, S.\ (2026). ``What were they thinking?'' Using open-text responses to validate constructs in conjoint survey experiments. \href{https://ssrn.com/abstract=6912419}{ssrn.com/abstract=6912419}
 
   \item Denney, S.\ (2026). Democracy and nationalism, reconsidered. \href{https://ssrn.com/abstract=6904542}{ssrn.com/abstract=6904542}
+
+  \item Denney, S., \& Steinhardt, H.\ C.\ (n.d.). Political regimes and the shape of nationalism: A conjoint approach to the content of national identity in Mainland China and Taiwan. \href{https://scdenney.net/assets/preregistrations/political-regimes-nationalism/}{Pre-registration}
+
+  \item Denney, S.\ (n.d.). Civic fairness and the evaluation of individual immigrants. \href{https://scdenney.net/assets/preregistrations/civic-fairness/}{Pre-registration}
+
+  \item Denney, S.\ (n.d.). Procedural legitimacy and immigration policy. \href{https://scdenney.net/assets/preregistrations/procedural-legitimacy/}{Pre-registration}
+
+  \item Denney, S.\ (n.d.). A survey experiment on creedal nationalist persuasion. \href{https://scdenney.net/assets/preregistrations/creedal-persuasion/}{Pre-registration}
+
+  \item Denney, S., \& Ward, P.\ (n.d.). No previews in Pyongyang: Reform discourse and policy change in North Korea, 1987--2020.
+
+  \item Vu, V., Denney, S., Shahidi, F.\ V., \& Jain, S.\ (2026). Adoption without disruption? Generative AI and the changing Canadian labour market.
 \end{enumerate}
 
 % --- Theses ---
@@ -456,7 +466,5 @@
   2014--2017 & Contributor \& Analyst, The Diplomat
 \end{tabularx}
 
-
-\thispagestyle{lastpage}
 
 \end{document}

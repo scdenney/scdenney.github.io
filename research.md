@@ -88,6 +88,14 @@ Denney, S. (n.d.). A Survey Experiment on Creedal Nationalist Persuasion. <a hre
 <p class="publication-item">
 Denney, S., & Ward, P. (n.d.). No Previews in Pyongyang: Reform Discourse and Policy Change in North Korea, 1987–2020.
 </p>
+
+<p class="publication-item">
+Vu, V. (2026). Are We There Yet? A Measurement Framework for How AI Impacts Work and the Economy.
+</p>
+
+<p class="publication-item">
+Vu, V., Denney, S., Shahidi, F. V., & Jain, S. (2026). Adoption Without Disruption? Generative AI and the Changing Canadian Labour Market.
+</p>
 </div>
 
 <div class="research-section">
