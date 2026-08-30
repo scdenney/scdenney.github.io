@@ -34,7 +34,7 @@ permalink: /research/
 
 <p class="page-intro">This page collects working papers, publications, and related scholarly output, with direct access to papers, replication materials, reports, and talks.</p>
 
-<div class="research-section">
+<div class="research-section research-section--featured">
 <h2 id="working-papers">Working Papers Under Review</h2>
 
 <p class="publication-item">
@@ -58,7 +58,7 @@ Denney, S., van Dam, I., & Green, C. (2026). Persuasion and prejudice: Are South
 </p>
 </div>
 
-<div class="research-section">
+<div class="research-section research-section--featured">
 <h2 id="papers-in-progress">Papers in Progress</h2>
 
 <p class="publication-item">
@@ -118,7 +118,7 @@ Ward, P., & Denney, S. (2025). Partisan voters in party systems with ephemeral p
 </p>
 
 <p class="publication-item">
-Denney, S., Ward, P., & Green, C. (2024). 한국인의 남북통일방식에 대한 의식 결정요인 분석: 컨조인트 분석 조사를 중심으로 [Analyzing the determinants of South Korean attitudes toward Korean unification: A conjoint analysis]. <em>국가전략 [National Strategy], 30</em>(1), 137–163. <a href="http://doi.org/10.35390/sejong.30.1.202402.006" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a>
+Denney, S., Ward, P., & Green, C. (2024). 한국인의 남북통일방식에 대한 의식 결정요인 분석: 컨조인트 분석 조사를 중심으로 [Analyzing the determinants of South Korean attitudes toward Korean unification: A conjoint analysis]. <em>국가전략 [National Strategy], 30</em>(1), 137–163. <a href="https://sinonk.com/wp-content/uploads/2024/04/KCI_FI003053315.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">PDF</a>
 </p>
 
 <p class="publication-item">

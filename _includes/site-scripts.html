@@ -16,64 +16,143 @@ document.addEventListener('DOMContentLoaded', function () {
   var researchSidebar = document.querySelector('.research-sidebar');
   var researchToc = researchSidebar ? researchSidebar.querySelector('.research-toc') : null;
   var researchToggle = null;
+  var researchClose = null;
+  var researchBackgroundElements = [];
+  var mainContent = document.getElementById('main-content');
+  var siteFooter = document.querySelector('.site-footer');
+  var masthead = document.querySelector('.masthead');
+  var cvPreview = document.querySelector('.cv-preview');
 
-  function closeNavigation() {
+  function setElementsInert(elements, inert) {
+    elements.filter(Boolean).forEach(function (element) {
+      element.toggleAttribute('inert', inert);
+    });
+  }
+
+  function getFocusableElements(containers) {
+    var selector = 'a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])';
+    var focusable = [];
+
+    containers.filter(Boolean).forEach(function (container) {
+      if (container.matches && container.matches(selector)) focusable.push(container);
+      container.querySelectorAll(selector).forEach(function (element) {
+        focusable.push(element);
+      });
+    });
+
+    return focusable.filter(function (element, index) {
+      return focusable.indexOf(element) === index && !element.closest('[inert]') && element.getClientRects().length > 0;
+    });
+  }
+
+  function trapFocus(event, containers) {
+    if (event.key !== 'Tab') return;
+
+    var focusable = getFocusableElements(containers);
+    if (!focusable.length) return;
+
+    var first = focusable[0];
+    var last = focusable[focusable.length - 1];
+
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault();
+      last.focus();
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault();
+      first.focus();
+    } else if (!containers.some(function (container) { return container && container.contains(document.activeElement); })) {
+      event.preventDefault();
+      first.focus();
+    }
+  }
+
+  if (cvPreview && window.matchMedia('(min-width: 861px)').matches) {
+    cvPreview.open = true;
+  }
+
+  function closeNavigation(restoreFocus) {
     if (!navToggle || !navigation) return;
 
+    var wasOpen = document.body.classList.contains('nav-open');
     navToggle.setAttribute('aria-expanded', 'false');
     navigation.classList.remove('active');
     document.body.classList.remove('nav-open');
+    setElementsInert([mainContent, siteFooter], false);
+
+    if (restoreFocus && wasOpen) navToggle.focus();
   }
 
   if (navToggle && navigation) {
     navToggle.addEventListener('click', function () {
       var isExpanded = navToggle.getAttribute('aria-expanded') === 'true';
 
-      navToggle.setAttribute('aria-expanded', String(!isExpanded));
-      navigation.classList.toggle('active');
-      document.body.classList.toggle('nav-open', !isExpanded);
+      if (isExpanded) {
+        closeNavigation(true);
+        return;
+      }
+
+      navToggle.setAttribute('aria-expanded', 'true');
+      navigation.classList.add('active');
+      document.body.classList.add('nav-open');
+      setElementsInert([mainContent, siteFooter], true);
+
+      var firstLink = navigation.querySelector('a');
+      if (firstLink) firstLink.focus();
     });
 
     navigation.querySelectorAll('a').forEach(function (link) {
-      link.addEventListener('click', closeNavigation);
+      link.addEventListener('click', function () {
+        closeNavigation(false);
+      });
     });
 
     document.addEventListener('click', function (event) {
       if (!document.body.classList.contains('nav-open')) return;
       if (event.target.closest('.masthead__nav') || event.target.closest('.nav-toggle')) return;
-      closeNavigation();
+      closeNavigation(true);
     });
 
-    document.addEventListener('keyup', function (event) {
+    document.addEventListener('keydown', function (event) {
+      if (!document.body.classList.contains('nav-open')) return;
+
       if (event.key === 'Escape') {
-        closeNavigation();
+        event.preventDefault();
+        closeNavigation(true);
+        return;
       }
+
+      trapFocus(event, [navigation, navToggle]);
     });
 
     window.addEventListener('resize', function () {
       if (window.innerWidth > 860) {
-        closeNavigation();
+        closeNavigation(false);
       }
     });
   }
 
-  function closeResearchToc() {
+  function closeResearchToc(restoreFocus) {
     if (!researchSidebar || !researchToggle) return;
 
+    var wasOpen = researchSidebar.classList.contains('is-open');
     researchSidebar.classList.remove('is-open');
     researchToggle.setAttribute('aria-expanded', 'false');
     document.body.classList.remove('research-toc-open');
+    setElementsInert(researchBackgroundElements, false);
+
+    if (restoreFocus && wasOpen) researchToggle.focus();
   }
 
   if (researchSidebar && researchToc) {
     var researchLayout = researchSidebar.closest('.research-layout');
     var researchSidebarInner = researchSidebar.querySelector('.research-sidebar-inner');
-    var researchClose = null;
+    researchSidebar.id = researchSidebar.id || 'research-section-navigation';
 
     researchToggle = document.createElement('button');
     researchToggle.type = 'button';
     researchToggle.className = 'research-toc-toggle';
     researchToggle.setAttribute('aria-expanded', 'false');
+    researchToggle.setAttribute('aria-controls', researchSidebar.id);
     researchToggle.textContent = 'Browse sections';
 
     if (researchLayout) {
@@ -88,35 +167,55 @@ document.addEventListener('DOMContentLoaded', function () {
       researchClose.textContent = '×';
       researchSidebarInner.insertAdjacentElement('afterbegin', researchClose);
 
-      researchClose.addEventListener('click', closeResearchToc);
+      researchClose.addEventListener('click', function () {
+        closeResearchToc(true);
+      });
     }
+
+    researchBackgroundElements = [masthead, siteFooter, researchToggle, document.querySelector('.research-content')];
 
     researchToggle.addEventListener('click', function () {
       var willOpen = !researchSidebar.classList.contains('is-open');
-      researchSidebar.classList.toggle('is-open', willOpen);
-      researchToggle.setAttribute('aria-expanded', String(willOpen));
-      document.body.classList.toggle('research-toc-open', willOpen);
+
+      if (!willOpen) {
+        closeResearchToc(true);
+        return;
+      }
+
+      researchSidebar.classList.add('is-open');
+      researchToggle.setAttribute('aria-expanded', 'true');
+      document.body.classList.add('research-toc-open');
+      if (researchClose) researchClose.focus();
+      setElementsInert(researchBackgroundElements, true);
     });
 
     researchSidebar.addEventListener('click', function (event) {
       if (event.target !== researchSidebar) return;
-      closeResearchToc();
+      closeResearchToc(true);
     });
 
     researchToc.querySelectorAll('a').forEach(function (link) {
-      link.addEventListener('click', closeResearchToc);
+      link.addEventListener('click', function () {
+        closeResearchToc(false);
+      });
     });
 
     window.addEventListener('resize', function () {
       if (window.innerWidth > 860) {
-        closeResearchToc();
+        closeResearchToc(false);
       }
     });
 
-    document.addEventListener('keyup', function (event) {
+    document.addEventListener('keydown', function (event) {
+      if (!researchSidebar.classList.contains('is-open')) return;
+
       if (event.key === 'Escape') {
-        closeResearchToc();
+        event.preventDefault();
+        closeResearchToc(true);
+        return;
       }
+
+      trapFocus(event, [researchSidebar]);
     });
   }
 
@@ -187,10 +286,20 @@ document.addEventListener('DOMContentLoaded', function () {
 
     section.classList.add('is-collapsible', 'is-collapsed');
 
+    var heading = section.querySelector('h2');
+    var publicationList = document.createElement('div');
+    publicationList.className = 'publication-list';
+    publicationList.id = (heading && heading.id ? heading.id : 'research-section') + '-items';
+    items[0].insertAdjacentElement('beforebegin', publicationList);
+    items.forEach(function (item) {
+      publicationList.appendChild(item);
+    });
+
     var button = document.createElement('button');
     button.type = 'button';
     button.className = 'show-more-btn';
     button.setAttribute('aria-expanded', 'false');
+    button.setAttribute('aria-controls', publicationList.id);
     button.textContent = 'Show all ' + items.length + ' items';
     section.appendChild(button);
 
@@ -295,6 +404,8 @@ document.addEventListener('DOMContentLoaded', function () {
     var button = document.createElement('button');
     button.type = 'button';
     button.className = 'show-more-btn';
+    group.id = group.id || 'recently-completed-projects';
+    button.setAttribute('aria-controls', group.id);
     group.insertAdjacentElement('beforebegin', button);
 
     setCollapsed(true);

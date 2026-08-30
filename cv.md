@@ -8,7 +8,9 @@ permalink: /cv/
 <h1>Curriculum Vitae</h1>
 </header>
 
-<p class="page-intro">Download the PDF version below, or expand the preview if you want to view it in the browser.</p>
+<p class="page-intro">Download the PDF version below or view it directly in the browser.</p>
+
+<p class="cv-updated">Last updated: August 2026</p>
 
 <p>
 <a href="{{ '/assets/pdf/denney_cv.pdf' | relative_url }}" class="resource-link resource-link--primary" download>
@@ -16,7 +18,7 @@ Download PDF
 </a>
 </p>
 
-<details>
+<details class="cv-preview">
 <summary>Preview CV</summary>
 <div>
 <iframe
