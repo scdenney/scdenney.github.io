@@ -90,7 +90,7 @@ Denney, S., & Ward, P. (n.d.). No Previews in Pyongyang: Reform Discourse and Po
 </p>
 
 <p class="publication-item">
-Vu, V. (2026). Are We There Yet? A Measurement Framework for How AI Impacts Work and the Economy.
+Vu, V., & Denney, S. (2026). Are We There Yet? A Measurement Framework for How AI Impacts Work and the Economy.
 </p>
 
 <p class="publication-item">

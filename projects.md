@@ -112,7 +112,7 @@ permalink: /projects/
 <div>
 <p><strong>Papers in Progress</strong></p>
 <ul>
-<li>Vu, V. Are We There Yet? A Measurement Framework for How AI Impacts Work and the Economy.</li>
+<li>Vu, V., & Denney, S. Are We There Yet? A Measurement Framework for How AI Impacts Work and the Economy.</li>
 <li>Vu, V., Denney, S., Shahidi, F. V., & Jain, S. Adoption Without Disruption? Generative AI and the Changing Canadian Labour Market.</li>
 </ul>
 </div>
