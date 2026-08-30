@@ -154,7 +154,7 @@ permalink: /projects/
 
 <p><strong>Working Papers Under Review</strong></p>
 <ul>
-<li>Denney, S., Fraser, N., & Steinhardt, H. C. Cues of commitment: Integration and naturalization support in Taiwan and South Korea. [Revise and resubmit, <em>British Journal of Political Science</em>] — <a href="https://github.com/scdenney/cues-east-asia" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
+<li>Denney, S., Fraser, N., & Steinhardt, H. C. Cues of commitment: Integration and naturalization support in Taiwan and South Korea. [R&amp;R at <em>British Journal of Political Science</em>] — <a href="https://github.com/scdenney/cues-east-asia" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 <li>Denney, S., & Steinhardt, H. C. Measuring national identity with conjoint experiments using the case of Taiwan. [Under review] — <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 <li>Denney, S., van Dam, I., & Green, C. Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? [Under review] — <a href="https://github.com/scdenney/persuasion-cues-kr-imm" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 </ul>
@@ -259,7 +259,7 @@ permalink: /projects/
 
 <p><strong>Working Papers Under Review</strong></p>
 <ul>
-<li>Denney, S., Kelly, R., & Wolfe, D. Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. [Revise and resubmit, <em>Canadian Public Policy</em>] — <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
+<li>Denney, S., Kelly, R., & Wolfe, D. Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. [R&amp;R at <em>Canadian Public Policy</em>] — <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 </ul>
 
 <p><strong>Research Monograph</strong></p>

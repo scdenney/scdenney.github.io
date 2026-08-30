@@ -38,11 +38,11 @@ permalink: /research/
 <h2 id="working-papers">Working Papers Under Review</h2>
 
 <p class="publication-item">
-Denney, S., Kelly, R., & Wolfe, D. (2026). Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. Revise and resubmit at <em>Canadian Public Policy</em>. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
+Denney, S., Kelly, R., & Wolfe, D. (2026). Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. R&amp;R at <em>Canadian Public Policy</em>. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
 
 <p class="publication-item">
-Denney, S., Fraser, N., & Steinhardt, H. C. (2026). Cues of commitment: Integration and naturalization support in Taiwan and South Korea. Revise and resubmit at <em>British Journal of Political Science</em>. <a href="https://github.com/scdenney/cues-east-asia" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
+Denney, S., Fraser, N., & Steinhardt, H. C. (2026). Cues of commitment: Integration and naturalization support in Taiwan and South Korea. R&amp;R at <em>British Journal of Political Science</em>. <a href="https://github.com/scdenney/cues-east-asia" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
 
 <p class="publication-item">
