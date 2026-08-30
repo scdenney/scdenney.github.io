@@ -38,7 +38,9 @@ permalink: /projects/
 <div>
 <p><strong>Papers in Progress</strong></p>
 <ul>
-<li>"Fairness, threat, and the norms-based model of immigration legitimacy."</li>
+<li>Denney, S. Civic Fairness and the Evaluation of Individual Immigrants. — <a href="/assets/preregistrations/civic-fairness/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
+<li>Denney, S. Procedural Legitimacy and Immigration Policy. — <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
+<li>Denney, S. A Survey Experiment on Creedal Nationalist Persuasion. — <a href="/assets/preregistrations/creedal-persuasion/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
 </ul>
 <p><strong>Presentations</strong></p>
 <ul>
@@ -73,7 +75,7 @@ permalink: /projects/
 <details>
 <summary>Outputs</summary>
 <div>
-<p><strong>Working Papers</strong></p>
+<p><strong>Working Papers Under Review</strong></p>
 <ul>
 <li>Denney, S., & van de Pol, A. Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. [Under review] — <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
 </ul>
@@ -146,7 +148,7 @@ permalink: /projects/
 <li>Green, C., & Denney, S. (2024). Why do democratic societies tolerate undemocratic laws? Sorting public support for the National Security Act in South Korea. <em>Democratization, 31</em>(1), 113–131. <a href="https://doi.org/10.1080/13510347.2023.2258082" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/South-Korean-support-for-NSA" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
 </ul>
 
-<p><strong>Working Papers</strong></p>
+<p><strong>Working Papers Under Review</strong></p>
 <ul>
 <li>Denney, S., Fraser, N., & Steinhardt, H. C. Cues of commitment: Integration and naturalization support in Taiwan and South Korea. [Revise and resubmit, <em>British Journal of Political Science</em>] — <a href="https://github.com/scdenney/cues-east-asia" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 <li>Denney, S., & Steinhardt, H. C. Measuring national identity with conjoint experiments using the case of Taiwan. [Under review] — <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
@@ -156,7 +158,7 @@ permalink: /projects/
 <p><strong>Papers in Progress</strong></p>
 <ul>
 <li>Denney, S. Democracy and nationalism, reconsidered. — <a href="https://github.com/scdenney/democracy-nationalism-reconsidered" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904542" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
-<li>"Political Regimes and the Shape of Nationalism: A Conjoint Approach to the Content of National Identity in Mainland China and Taiwan," with H. Christoph Steinhardt.</li>
+<li>Denney, S., & Steinhardt, H. C. Political Regimes and the Shape of Nationalism: A Conjoint Approach to the Content of National Identity in Mainland China and Taiwan. — <a href="/assets/preregistrations/political-regimes-nationalism/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
 </ul>
 
 <p><strong>Presentations</strong></p>
@@ -251,7 +253,7 @@ permalink: /projects/
 <li>Wolfe, D. A., DiFrancesco, R. J., & Denney, S. (2022). Localization of global networks: New mandates for MNEs in regional economies. <em>Cambridge Journal of Regions, Economy and Society, 15</em>(2), 323–342. <a href="https://doi.org/10.1093/cjres/rsac002" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a></li>
 </ul>
 
-<p><strong>Working Papers</strong></p>
+<p><strong>Working Papers Under Review</strong></p>
 <ul>
 <li>Denney, S., Kelly, R., & Wolfe, D. Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. [Revise and resubmit, <em>Canadian Public Policy</em>] — <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 </ul>
