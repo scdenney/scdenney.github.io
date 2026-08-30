@@ -34,7 +34,7 @@ permalink: /research/
 
 <p class="page-intro">This page collects working papers, publications, and related scholarly output, with direct access to papers, replication materials, reports, and talks.</p>
 
-<div class="research-section research-section--featured">
+<div class="research-section">
 <h2 id="working-papers">Working Papers Under Review</h2>
 
 <p class="publication-item">
@@ -58,7 +58,7 @@ Denney, S., van Dam, I., & Green, C. (2026). Persuasion and prejudice: Are South
 </p>
 </div>
 
-<div class="research-section research-section--featured">
+<div class="research-section">
 <h2 id="papers-in-progress">Papers in Progress</h2>
 
 <p class="publication-item">
