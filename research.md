@@ -50,10 +50,6 @@ Denney, S. (2026). Democracy and nationalism, reconsidered. <a href="https://git
 </p>
 
 <p class="publication-item">
-Denney, S. (2026). "What Were They Thinking?" Using Open-Text Responses to Validate Constructs in Conjoint Survey Experiments. <a href="https://github.com/scdenney/what-were-they-thinking/tree/main" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6912419" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
-</p>
-
-<p class="publication-item">
 Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
@@ -68,6 +64,10 @@ Denney, S., van Dam, I., & Green, C. (2026). Persuasion and prejudice: Are South
 
 <div class="research-section">
 <h2 id="papers-in-progress">Papers in Progress</h2>
+
+<p class="publication-item">
+Denney, S. (2026). "What Were They Thinking?" Using Open-Text Responses to Validate Constructs in Conjoint Survey Experiments. <a href="https://github.com/scdenney/what-were-they-thinking/tree/main" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6912419" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+</p>
 
 <p class="publication-item">
 Denney, S., & Steinhardt, H. C. (n.d.). Political Regimes and the Shape of Nationalism: A Conjoint Approach to the Content of National Identity in Mainland China and Taiwan. <a href="/assets/preregistrations/political-regimes-nationalism/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a>
