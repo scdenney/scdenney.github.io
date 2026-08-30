@@ -6,9 +6,11 @@
 
 % --- Fonts (XeLaTeX) ---
 \usepackage{fontspec}
-\IfFontExistsTF{P052}
-  {\setmainfont{P052}}
-  {\setmainfont{Palatino}}
+\IfFontExistsTF{EB Garamond}
+  {\setmainfont{EB Garamond}}
+  {\IfFontExistsTF{P052}
+    {\setmainfont{P052}}
+    {\setmainfont{TeX Gyre Pagella}}}
 \IfFontExistsTF{Nimbus Sans}
   {\setsansfont{Nimbus Sans}}
   {\setsansfont{Helvetica Neue}}
@@ -29,6 +31,7 @@
 % --- Packages ---
 \usepackage{titlesec}
 \usepackage{enumitem}
+\usepackage{etoolbox}
 \usepackage{tabularx}
 \usepackage{xurl}        % better URL/DOI line breaking
 \usepackage{hyperref}
@@ -60,6 +63,10 @@
 % --- List formatting ---
 \setlist[enumerate]{leftmargin=2em, itemsep=0.05em, parsep=0pt, topsep=0.1em, label={[\arabic*]}}
 \setlist[itemize]{leftmargin=1.5em, itemsep=0.05em, parsep=0pt, topsep=0.1em}
+\AtBeginEnvironment{enumerate}{%
+  \setlength{\itemsep}{0.5em}%
+  \setlength{\topsep}{0.4em}%
+}
 
 % --- Header / Footer ---
 \pagestyle{fancy}
@@ -165,11 +172,21 @@
 
 \noindent\begin{tabularx}{\textwidth}{@{}p{2.4cm}X@{}}
   \textbf{Admin} & Member, Board of Examiners for Asian Studies, Faculty of Humanities, Leiden University (current); Vice-Director of Study Program, East Asian Economy and Society (EcoS), University of Vienna (2022--2023) \\[0.3em]
-  \textbf{Supervision} & BA and MA thesis students conducting primary source research on Korea and East Asia, qualitative comparative designs, and quantitative social science
+  \textbf{Supervision} & BA, MA, and PhD supervision in Korean and East Asian studies, qualitative comparative research, and quantitative social science
 \end{tabularx}
 
 % ============================================================
 \newpage
+
+% --- More generous spacing for the full CV after the one-page overview ---
+\linespread{1.08}\selectfont
+\titlespacing{\section}{0pt}{0.85em}{0.45em}
+\titlespacing{\subsection}{0pt}{0.65em}{0.32em}
+\raggedbottom
+\widowpenalty=10000
+\clubpenalty=10000
+\interlinepenalty=10000
+
 \section{Research Grants \& Fellowships {\normalsize\normalfont(USD)}}
 
 {\small Grants administered as Primary Investigator marked with * and Co-Investigator marked with \dag}
@@ -447,6 +464,7 @@
 \end{enumerate}
 
 % ============================================================
+\newpage
 \section{Academic Service \& Affiliations}
 
 \noindent\begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}p{2.4cm}X@{}}

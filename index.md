@@ -9,7 +9,7 @@ I study how political institutions shape and are shaped by national identity, mi
 
 Increasingly, my research relies on building research corpora from archival and other hard-to-use sources, combining OCR, vision-language models, and large language models to work with bodies of text that were previously difficult to analyze. I also conduct applied policy research on innovation policy, firm growth, and labour markets.
 
-My teaching covers many of the same methods. At Leiden I teach computational text analysis and digital humanities, as well as courses in research design and international relations. I supervise BA and MA theses across four programs, in International Studies, Korean Studies, Asian Studies, and International Relations, and accept PhD supervisees on a rolling basis.
+My teaching covers many of the same methods. At Leiden I teach computational text analysis and digital humanities, as well as courses in research design and international relations. I supervise BA and MA theses across four programs in International Studies, Korean Studies, Asian Studies, and International Relations. I also supervise PhD research and accept new candidates on a rolling basis.
 
 I also develop and maintain open educational resources for research methods and computational text analysis, including curated Korean-studies corpora and open-source tools for experimental design and pre-submission manuscript review. Alongside these, I write and maintain [*Pixels and Patterns*](https://www.pixelsandpatterns.org/), a Substack on how to integrate and use AI responsibly in research and other computational work.
 

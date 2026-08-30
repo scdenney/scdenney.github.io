@@ -13,7 +13,7 @@ permalink: /cv/
 <p class="cv-updated">Last updated: August 2026</p>
 
 <p>
-<a href="{{ '/assets/pdf/denney_cv.pdf?v=20260830a' | relative_url }}" class="resource-link resource-link--primary" download>
+<a href="{{ '/assets/pdf/denney_cv.pdf?v=20260830b' | relative_url }}" class="resource-link resource-link--primary" download>
 Download PDF
 </a>
 </p>
@@ -23,10 +23,10 @@ Download PDF
 <div>
 <iframe
 class="pdf-viewer"
-src="{{ '/assets/pdf/denney_cv.pdf?v=20260830a' | relative_url }}"
+src="{{ '/assets/pdf/denney_cv.pdf?v=20260830b' | relative_url }}"
 title="Steven Denney CV"
 loading="lazy">
-<p>Your browser does not support PDFs. Please <a href="{{ '/assets/pdf/denney_cv.pdf?v=20260830a' | relative_url }}" download>download the CV</a> to view it.</p>
+<p>Your browser does not support PDFs. Please <a href="{{ '/assets/pdf/denney_cv.pdf?v=20260830b' | relative_url }}" download>download the CV</a> to view it.</p>
 </iframe>
 </div>
 </details>
