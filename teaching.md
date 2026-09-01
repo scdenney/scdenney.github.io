@@ -84,7 +84,7 @@ permalink: /teaching/
 
 <div class="project-card">
 <div class="project-card__header">
-<h3>Digital Korea: Introduction to Computational Text Analysis</h3>
+<h3>Introduction to Computational Text Analysis</h3>
 <div class="project-links">
 <a href="https://scdenney.github.io/ba2_digital-korea/" class="resource-link">Course website</a>
 </div>
@@ -104,7 +104,7 @@ permalink: /teaching/
 
 <div class="project-card">
 <div class="project-card__header">
-<h3>Digital Humanities</h3>
+<h3>Text as Data</h3>
 <div class="project-links">
 <a href="https://scdenney.github.io/ba3tad-26/" class="resource-link">Course website</a>
 </div>
