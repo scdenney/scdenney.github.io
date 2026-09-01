@@ -156,7 +156,7 @@ permalink: /projects/
 <ul>
 <li>Denney, S., Fraser, N., & Steinhardt, H. C. Cues of commitment: Integration and naturalization support in Taiwan and South Korea. [R&amp;R at <em>British Journal of Political Science</em>] — <a href="https://github.com/scdenney/cues-east-asia" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 <li>Denney, S., & Steinhardt, H. C. Measuring national identity with conjoint experiments using the case of Taiwan. [Under review] — <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
-<li>Denney, S., van Dam, I., & Green, C. Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? [Under review] — <a href="https://github.com/scdenney/persuasion-cues-kr-imm" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
+<li>Denney, S., van Dam, I., & Green, C. Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? [R&amp;R at <em>International Migration</em>] — <a href="https://github.com/scdenney/persuasion-cues-kr-imm" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 </ul>
 
 <p><strong>Papers in Progress</strong></p>
