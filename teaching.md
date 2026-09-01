@@ -106,7 +106,7 @@ permalink: /teaching/
 <div class="project-card__header">
 <h3>Digital Humanities</h3>
 <div class="project-links">
-<a href="https://scdenney.github.io/ba3_text_as_data/" class="resource-link">Course website</a>
+<a href="https://scdenney.github.io/ba3tad-26/" class="resource-link">Course website</a>
 </div>
 </div>
 
