@@ -366,6 +366,10 @@ Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>
 <h2 id="talks">Selected Talks</h2>
 
 <p class="publication-item">
+Denney, S. (2026). Governing immigration by the rules: Legal procedure, equal treatment, and public support across four countries. American Political Science Association (APSA) Annual Meeting, Boston, September 4. <a href="/assets/slides/governing-immigration/" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
+</p>
+
+<p class="publication-item">
 Denney, S., & Ward, P. (2026). No previews in Pyongyang: Reform discourse and policy change in North Korea, 1987–2020. European Centre for North Korean Studies (ECNK) Webinar, University of Vienna, August 4. <a href="/assets/slides/no-previews-in-pyongyang/" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
 </p>
 

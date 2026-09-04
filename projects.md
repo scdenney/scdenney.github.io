@@ -44,6 +44,7 @@ permalink: /projects/
 </ul>
 <p><strong>Presentations</strong></p>
 <ul>
+<li>2026. <a href="/assets/slides/governing-immigration/" target="_blank" rel="noopener noreferrer">"Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries,"</a> American Political Science Association (APSA) Annual Meeting, Boston, September 4, 2026.</li>
 <li>2026. <a href="/assets/pdf/denney_2026_fairness-threat-immigration-legitimacy_mpsa-slides.pdf" target="_blank" rel="noopener noreferrer">"Fairness, Threat, and the Norms-Based Model of Immigration Legitimacy,"</a> Midwest Political Science Association (MPSA) Conference, April 2026.</li>
 </ul>
 </div>
