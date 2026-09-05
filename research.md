@@ -366,7 +366,7 @@ Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>
 <h2 id="talks">Selected Talks</h2>
 
 <p class="publication-item">
-Denney, S., & Steinhardt, H. C. (2026). Political regimes and the shape of nationalism: A conjoint experiment on the content of national identity in Mainland China and Taiwan. American Political Science Association (APSA) Annual Meeting, Boston, September 6. <a href="/assets/slides/political-regimes-nationalism/" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
+Denney, S., & Steinhardt, H. C. (2026). Political regimes and the shape of nationalism. American Political Science Association (APSA) Annual Meeting, Boston, September 6. <a href="/assets/slides/political-regimes-nationalism/" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
 </p>
 
 <p class="publication-item">
