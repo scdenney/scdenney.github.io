@@ -163,7 +163,7 @@ permalink: /projects/
 <p><strong>Papers in Progress</strong></p>
 <ul>
 <li>Denney, S. Democracy and nationalism, reconsidered. — <a href="https://github.com/scdenney/democracy-nationalism-reconsidered" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904542" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
-<li>Denney, S., & Steinhardt, H. C. Political Regimes and the Shape of Nationalism: A Conjoint Approach to the Content of National Identity in Mainland China and Taiwan. — <a href="/assets/preregistrations/political-regimes-nationalism/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
+<li>Denney, S., & Steinhardt, H. C. Political Regimes and the Shape of Nationalism: A Conjoint Approach to the Content of National Identity in Mainland China and Taiwan. — <a href="/assets/preregistrations/political-regimes-nationalism/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a> <a href="/assets/slides/political-regimes-nationalism/" target="_blank" rel="noopener noreferrer" class="resource-link">APSA 2026 slides</a></li>
 </ul>
 
 <p><strong>Presentations</strong></p>
