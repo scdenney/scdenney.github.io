@@ -83,22 +83,23 @@ body.no-anim *, body.no-anim *::before, body.no-anim *::after { transition: none
 body.show-notes #notes { display: block; }
 body.blackout #stage { visibility: hidden; }
 #help { position: fixed; right: 14px; bottom: 10px; color: rgba(247,244,237,.45); font-size: 12px; letter-spacing: .04em; }
-/* floating navigation pill */
-#nav { position: fixed; left: 50%; bottom: 22px; transform: translateX(-50%); display: flex; align-items: center; gap: 6px;
-  height: 64px; padding: 0 22px; border-radius: 999px; background: #0B0F0D; color: var(--paper);
-  box-shadow: 0 6px 24px rgba(0,0,0,.28); user-select: none; z-index: 20; }
-#nav button { appearance: none; background: none; border: 0; color: var(--paper); cursor: pointer; display: inline-flex; align-items: center; justify-content: center;
-  height: 44px; min-width: 44px; padding: 0 10px; border-radius: 999px; font: inherit; }
-#nav button:hover { background: rgba(247,244,237,.10); }
-#nav button:focus { outline: none; } #nav button:focus-visible { outline: 2px solid var(--governance); outline-offset: 2px; }
-#nav button svg { width: 18px; height: 18px; stroke: currentColor; stroke-width: 2.4; fill: none; stroke-linecap: round; stroke-linejoin: round; }
-#nav .n { font-family: var(--font-editorial); font-size: 24px; font-weight: 600; font-variant-numeric: tabular-nums lining-nums; min-width: 84px; text-align: center; letter-spacing: .02em; }
-#nav .n span { color: rgba(247,244,237,.55); font-weight: 400; margin: 0 4px; }
-#nav .n { white-space: nowrap; }
-#nav .sep { width: 1px; height: 26px; background: rgba(247,244,237,.28); margin: 0 12px; }
-#nav .reset { font-family: var(--font-editorial); font-size: 24px; gap: 12px; padding-right: 6px; }
-#nav kbd { display: inline-flex; align-items: center; justify-content: center; min-width: 40px; height: 32px; padding: 0 10px; border-radius: 8px;
-  background: #2A2F2C; color: var(--paper); font-family: var(--font-functional); font-size: 17px; font-weight: 600; }
+/* floating navigation pill, sized to the site's shared deck pill */
+#nav { position: fixed; left: 50%; bottom: 22px; transform: translate(-50%, 6px) scale(.92); display: flex; align-items: center; gap: 4px;
+  padding: 4px; border-radius: 999px; background: #000; color: #fff; font-family: var(--font-functional); font-size: 12px; letter-spacing: .01em;
+  opacity: 0; pointer-events: none; filter: blur(6px); transition: opacity .26s ease, transform .26s cubic-bezier(.2,.8,.2,1), filter .26s ease; z-index: 20; user-select: none; }
+body.nav-visible #nav { opacity: 1; pointer-events: auto; transform: translate(-50%, 0) scale(1); filter: blur(0); }
+#nav button { appearance: none; background: transparent; border: 0; margin: 0; padding: 0; color: rgba(255,255,255,.72); font: inherit; cursor: default;
+  display: inline-flex; align-items: center; justify-content: center; height: 28px; min-width: 28px; border-radius: 999px; transition: background .14s, color .14s; }
+#nav button:hover { background: rgba(255,255,255,.12); color: #fff; }
+#nav button:active { background: rgba(255,255,255,.18); }
+#nav button:focus, #nav button:focus-visible { outline: none; }
+#nav button svg { width: 14px; height: 14px; display: block; stroke: currentColor; stroke-width: 1.8; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+#nav .n { font-variant-numeric: tabular-nums; color: #fff; font-weight: 500; padding: 0 8px; min-width: 42px; text-align: center; white-space: nowrap; }
+#nav .n span { color: rgba(255,255,255,.45); margin: 0 3px; font-weight: 400; }
+#nav .sep { width: 1px; height: 14px; background: rgba(255,255,255,.18); margin: 0 4px; }
+#nav .reset { font-size: 11px; font-weight: 500; letter-spacing: .02em; padding: 0 10px 0 12px; gap: 6px; }
+#nav kbd { display: inline-flex; align-items: center; justify-content: center; min-width: 16px; height: 16px; padding: 0 4px;
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; font-size: 10px; line-height: 1; color: rgba(255,255,255,.88); background: rgba(255,255,255,.12); border-radius: 4px; }
 
 /* ============================================================
    Components
@@ -418,13 +419,13 @@ body.print-mode .screen-only, body.print-mode #help, body.print-mode #notes, bod
   <div class="examples">
     <div class="example">
       <div class="where"><span class="flag" style="height:35px"><svg viewBox="0 0 19 10" preserveAspectRatio="none"><use href="#flag-us"/></svg></span>United States</div>
-      <p class="t">Since 2012, presidents have set deportation and border policy by executive action, from DACA to the 2025 deportation orders. Each court fight concerned whether the president had the <b>authority to act</b> and whether <b>due process</b> was followed.</p>
+      <p class="t">Presidents set deportation and border policy by executive order, from DACA in 2012 to the 2025 deportation orders. The court fights were over the <b>authority to act</b> and <b>due process</b>.</p>
       <span class="tag">the dispute is who may decide, and how</span>
       <div class="cite">Tichenor 2002; Christenson &amp; Kriner 2017</div>
     </div>
     <div class="example">
       <div class="where"><span class="flag" style="height:40px"><svg viewBox="0 0 5 3" preserveAspectRatio="none"><use href="#flag-de"/></svg></span>Germany</div>
-      <p class="t">In 2015, the German government admitted asylum seekers by executive decision, setting aside the EU rule that they apply in the first country they enter. The backlash was about procedure as much as numbers. Had the government <b>acted lawfully</b>? Had it <b>lost control</b> of the system (<b>Kontrollverlust</b>)? Those objections first came from the CSU within Merkel's coalition and only later from the far right.</p>
+      <p class="t">In 2015 the government admitted asylum seekers by executive decision, bypassing the EU's Dublin rules. The backlash asked whether it had <b>acted lawfully</b> or <b>lost control</b> (<b>Kontrollverlust</b>).</p>
       <span class="tag">was the law followed, is the government in control</span>
       <div class="cite">Joppke 1999; Solodoch 2021</div>
     </div>
@@ -1078,11 +1079,11 @@ body.print-mode .screen-only, body.print-mode #help, body.print-mode #notes, bod
 <div id="counter"></div>
 <div id="notes"></div>
 <nav id="nav" class="screen-only" aria-label="Slide navigation">
-  <button id="nav-prev" type="button" aria-label="Previous slide"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>
-  <div class="n" id="nav-label">1<span>/</span>15</div>
-  <button id="nav-next" type="button" aria-label="Next slide"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button>
+  <button id="nav-prev" type="button" aria-label="Previous slide"><svg viewBox="0 0 16 16"><path d="M10 3L5 8l5 5"/></svg></button>
+  <span class="n" id="nav-label">1<span>/</span>15</span>
+  <button id="nav-next" type="button" aria-label="Next slide"><svg viewBox="0 0 16 16"><path d="M6 3l5 5-5 5"/></svg></button>
   <div class="sep"></div>
-  <button id="nav-reset" class="reset" type="button" aria-label="Back to the first slide">Reset <kbd>R</kbd></button>
+  <button id="nav-reset" class="reset" type="button" aria-label="Back to the first slide">Reset<kbd>R</kbd></button>
 </nav>
 <div id="help" class="screen-only">← → navigate · R reset · F fullscreen · N notes · B blackout · P print preview</div>
 <script>
@@ -1252,6 +1253,11 @@ body.print-mode .screen-only, body.print-mode #help, body.print-mode #notes, bod
   /* navigation pill */
   var on = function (id, fn) { var el = document.getElementById(id); if (el) el.addEventListener('click', function (e) { e.stopPropagation(); fn(); }); };
   on('nav-prev', prev); on('nav-next', next); on('nav-reset', function () { show(0, false); });
+  var navTimer;
+  function navShow() { document.body.classList.add('nav-visible'); clearTimeout(navTimer); navTimer = setTimeout(function () { document.body.classList.remove('nav-visible'); }, 2200); }
+  window.addEventListener('mousemove', navShow, { passive: true });
+  var navEl = document.getElementById('nav');
+  if (navEl) { navEl.addEventListener('mouseenter', function () { clearTimeout(navTimer); }); navEl.addEventListener('mouseleave', navShow); }
 
   var btn = document.getElementById('draw-card');
   if (btn) btn.addEventListener('click', function (e) { e.stopPropagation(); drawCard(); });
