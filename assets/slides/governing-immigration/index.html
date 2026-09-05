@@ -83,6 +83,22 @@ body.no-anim *, body.no-anim *::before, body.no-anim *::after { transition: none
 body.show-notes #notes { display: block; }
 body.blackout #stage { visibility: hidden; }
 #help { position: fixed; right: 14px; bottom: 10px; color: rgba(247,244,237,.45); font-size: 12px; letter-spacing: .04em; }
+/* floating navigation pill */
+#nav { position: fixed; left: 50%; bottom: 22px; transform: translateX(-50%); display: flex; align-items: center; gap: 6px;
+  height: 64px; padding: 0 22px; border-radius: 999px; background: #0B0F0D; color: var(--paper);
+  box-shadow: 0 6px 24px rgba(0,0,0,.28); user-select: none; z-index: 20; }
+#nav button { appearance: none; background: none; border: 0; color: var(--paper); cursor: pointer; display: inline-flex; align-items: center; justify-content: center;
+  height: 44px; min-width: 44px; padding: 0 10px; border-radius: 999px; font: inherit; }
+#nav button:hover { background: rgba(247,244,237,.10); }
+#nav button:focus { outline: none; } #nav button:focus-visible { outline: 2px solid var(--governance); outline-offset: 2px; }
+#nav button svg { width: 18px; height: 18px; stroke: currentColor; stroke-width: 2.4; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+#nav .n { font-family: var(--font-editorial); font-size: 24px; font-weight: 600; font-variant-numeric: tabular-nums lining-nums; min-width: 84px; text-align: center; letter-spacing: .02em; }
+#nav .n span { color: rgba(247,244,237,.55); font-weight: 400; margin: 0 4px; }
+#nav .n { white-space: nowrap; }
+#nav .sep { width: 1px; height: 26px; background: rgba(247,244,237,.28); margin: 0 12px; }
+#nav .reset { font-family: var(--font-editorial); font-size: 24px; gap: 12px; padding-right: 6px; }
+#nav kbd { display: inline-flex; align-items: center; justify-content: center; min-width: 40px; height: 32px; padding: 0 10px; border-radius: 8px;
+  background: #2A2F2C; color: var(--paper); font-family: var(--font-functional); font-size: 17px; font-weight: 600; }
 
 /* ============================================================
    Components
@@ -317,7 +333,7 @@ body.print-mode .slide { position: relative; display: block; break-after: page; 
 body.print-mode .slide:last-child { break-after: auto; page-break-after: auto; }
 body.print-mode .fragment { opacity: 1; transform: none; transition: none; }
 body.print-mode .c-bar { transform: none !important; transition: none; }
-body.print-mode .screen-only, body.print-mode #help, body.print-mode #notes { display: none !important; }
+body.print-mode .screen-only, body.print-mode #help, body.print-mode #notes, body.print-mode #nav, body.blackout #nav, body.no-anim #nav { display: none !important; }
 @media print {
   body { background: #fff; }
   #stage { position: static; width: auto; height: auto; transform: none !important; }
@@ -325,7 +341,7 @@ body.print-mode .screen-only, body.print-mode #help, body.print-mode #notes { di
   .slide:last-child { break-after: auto; page-break-after: auto; }
   .fragment { opacity: 1 !important; transform: none !important; }
   .c-bar { transform: none !important; }
-  .screen-only, #help, #notes { display: none !important; }
+  .screen-only, #help, #notes, #nav { display: none !important; }
 }
 </style>
 </head>
@@ -1061,7 +1077,14 @@ body.print-mode .screen-only, body.print-mode #help, body.print-mode #notes { di
 </div>
 <div id="counter"></div>
 <div id="notes"></div>
-<div id="help" class="screen-only">← → navigate · F fullscreen · N notes · B blackout · P print preview</div>
+<nav id="nav" class="screen-only" aria-label="Slide navigation">
+  <button id="nav-prev" type="button" aria-label="Previous slide"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>
+  <div class="n" id="nav-label">1<span>/</span>15</div>
+  <button id="nav-next" type="button" aria-label="Next slide"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button>
+  <div class="sep"></div>
+  <button id="nav-reset" class="reset" type="button" aria-label="Back to the first slide">Reset <kbd>R</kbd></button>
+</nav>
+<div id="help" class="screen-only">← → navigate · R reset · F fullscreen · N notes · B blackout · P print preview</div>
 <script>
 /* Deck runtime: keyboard navigation, fragments, build-in animation, print mode,
    notes overlay, and the "draw another card" demo. No dependencies. */
@@ -1071,6 +1094,8 @@ body.print-mode .screen-only, body.print-mode #help, body.print-mode #notes { di
   var stage = document.getElementById('stage');
   var counter = document.getElementById('counter');
   var notesBox = document.getElementById('notes');
+  var navLabel = document.getElementById('nav-label');
+  var mainCount = slides.filter(function (s) { return !/^Appendix/.test(s.dataset.slide || ''); }).length;
   var current = 0;
   var printMode = false;
 
@@ -1097,6 +1122,11 @@ body.print-mode .screen-only, body.print-mode #help, body.print-mode #notes { di
     // build-in animation: add .in on the next frame so transitions run
     requestAnimationFrame(function () { requestAnimationFrame(function () { slide.classList.add('in'); }); });
     counter.textContent = slide.dataset.label || ((i + 1) + ' / ' + slides.length);
+    if (navLabel) {
+      var lab = slide.dataset.slide || ((i + 1) + ' / ' + mainCount);
+      var m = lab.match(/^(\d+)\s*\/\s*(\d+)$/);
+      navLabel.innerHTML = m ? m[1] + '<span>/</span>' + m[2] : lab;
+    }
     if (history.replaceState) history.replaceState(null, '', '#' + (i + 1));
     renderNotes();
   }
@@ -1140,6 +1170,7 @@ body.print-mode .screen-only, body.print-mode #help, body.print-mode #notes { di
       case 'n': case 'N': document.body.classList.toggle('show-notes'); break;
       case 'p': case 'P': setPrint(!printMode); break;
       case 'b': case 'B': document.body.classList.toggle('blackout'); break;
+      case 'r': case 'R': show(0, false); break;
       default:
         if (/^[1-9]$/.test(e.key)) { show(parseInt(e.key, 10) - 1, false); }
     }
@@ -1218,6 +1249,10 @@ body.print-mode .screen-only, body.print-mode #help, body.print-mode #notes { di
     var card = document.getElementById('policy-card');
     if (card) { card.classList.remove('flash'); void card.offsetWidth; card.classList.add('flash'); }
   }
+  /* navigation pill */
+  var on = function (id, fn) { var el = document.getElementById(id); if (el) el.addEventListener('click', function (e) { e.stopPropagation(); fn(); }); };
+  on('nav-prev', prev); on('nav-next', next); on('nav-reset', function () { show(0, false); });
+
   var btn = document.getElementById('draw-card');
   if (btn) btn.addEventListener('click', function (e) { e.stopPropagation(); drawCard(); });
 
