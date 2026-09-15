@@ -39,7 +39,7 @@ permalink: /projects/
 <p><strong>Papers in Progress</strong></p>
 <ul>
 <li>Denney, S. Civic Fairness and the Evaluation of Individual Immigrants. — <a href="/assets/preregistrations/civic-fairness/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
-<li>Denney, S. Procedural Legitimacy and Immigration Policy. — <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
+<li>Denney, S. Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. — <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
 <li>Denney, S. A Survey Experiment on Creedal Nationalist Persuasion. — <a href="/assets/preregistrations/creedal-persuasion/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
 </ul>
 <p><strong>Presentations</strong></p>

@@ -78,7 +78,7 @@ Denney, S. (n.d.). Civic Fairness and the Evaluation of Individual Immigrants. <
 </p>
 
 <p class="publication-item">
-Denney, S. (n.d.). Procedural Legitimacy and Immigration Policy. <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a>
+Denney, S. (2026). Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a>
 </p>
 
 <p class="publication-item">
