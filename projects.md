@@ -168,6 +168,7 @@ permalink: /projects/
 
 <p><strong>Presentations</strong></p>
 <ul>
+<li>2026. <a href="/assets/slides/political-regimes-nationalism/" target="_blank" rel="noopener noreferrer">"Political Regimes and the Shape of Nationalism,"</a> American Political Science Association (APSA) Annual Meeting, Boston, September 6.</li>
 <li>2026. <a href="/assets/slides/measuring-national-identity/" target="_blank" rel="noopener noreferrer">"Measuring National Identity with Conjoint Experiments Using the Case of Taiwan,"</a> Ostasienforum, Department of East Asian Studies, University of Vienna, June 30.</li>
 <li>2026. <a href="/assets/pdf/denney_2026_identity-conformity_korea-university-slides.pdf" target="_blank" rel="noopener noreferrer">"Identity Conformity in Taiwan and South Korea: Why Citizens in Divided Societies Are Pressured to Overstate National Pride,"</a> Korea University, May 13.</li>
 <li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/09/apsa_2024-denney_hcs_qi.pdf" target="_blank">"Democracy and Nationalism: The Case of Taiwan,"</a> American Political Science Association (APSA) Conference, September 4-8.</li>
