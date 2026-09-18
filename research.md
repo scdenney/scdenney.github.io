@@ -366,6 +366,10 @@ Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>
 <h2 id="talks">Selected Talks</h2>
 
 <p class="publication-item">
+Denney, S. (2026). Rethinking the research process: How AI is changing research for students and professors. AI Literacy for Social Scientists, Korea University, September 18. <a href="/assets/pdf/denney_2026_rethinking-research-process_korea-university-slides.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
+</p>
+
+<p class="publication-item">
 Denney, S., & Steinhardt, H. C. (2026). Political regimes and the shape of nationalism. American Political Science Association (APSA) Annual Meeting, Boston, September 6. <a href="/assets/slides/political-regimes-nationalism/" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
 </p>
 
