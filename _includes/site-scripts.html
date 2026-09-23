@@ -311,108 +311,228 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 
-  var detailSwitcherIndex = 0;
+  var projectGrid = document.querySelector('.project-grid');
 
-  document.querySelectorAll('.project-card').forEach(function (card) {
-    var details = Array.prototype.slice.call(card.querySelectorAll(':scope > details'));
-    var cardTitle = card.querySelector('h3');
+  if (projectGrid) {
+    var outputWords = {
+      book: ['book', 'books'],
+      article: ['article', 'articles'],
+      review: ['under review', 'under review'],
+      progress: ['in progress', 'in progress'],
+      monograph: ['monograph', 'monographs'],
+      report: ['report', 'reports'],
+      talk: ['talk', 'talks'],
+      app: ['app', 'apps'],
+      media: ['media', 'media']
+    };
+    var projectTiles = Array.prototype.slice.call(projectGrid.querySelectorAll('.project-tile'));
+    var topicLabels = {};
+    var topicOrder = [];
+    var projectFilter = { status: 'all', topic: null };
+    var emptyMessage = document.createElement('p');
 
-    if (!details.length) return;
+    function ledgerItem(count, label, className) {
+      var item = document.createElement('span');
+      var number = document.createElement('strong');
 
-    detailSwitcherIndex += 1;
+      item.className = 'project-ledger__item' + (className ? ' ' + className : '');
+      number.textContent = count;
+      item.appendChild(number);
+      item.appendChild(document.createTextNode(label));
+      return item;
+    }
 
-    var switcher = document.createElement('div');
-    var actions = document.createElement('div');
-    var panel = document.createElement('div');
-    var panelId = 'detail-panel-' + detailSwitcherIndex;
-    var entries = details.map(function (detail, index) {
-      var summary = detail.querySelector('summary');
-      var content = detail.querySelector(':scope > div');
+    function applyProjectFilter() {
+      var shown = 0;
 
-      return {
-        label: summary.textContent.trim(),
-        content: content,
-        buttonId: panelId + '-button-' + (index + 1)
-      };
-    });
+      projectTiles.forEach(function (tile) {
+        var matches = (projectFilter.status === 'all' || tile.dataset.status === projectFilter.status) &&
+          (!projectFilter.topic || tile.dataset.topics.split(' ').indexOf(projectFilter.topic) > -1);
 
-    switcher.className = 'detail-switcher';
-    actions.className = 'detail-actions';
-    actions.setAttribute('role', 'group');
-    actions.setAttribute('aria-label', (cardTitle ? cardTitle.textContent.trim() + ' ' : '') + 'details');
-    panel.className = 'detail-panel';
-    panel.id = panelId;
-    panel.setAttribute('role', 'region');
-    panel.hidden = true;
+        tile.hidden = !matches;
+        if (matches) shown += 1;
+      });
 
-    entries.forEach(function (entry) {
-      var button = document.createElement('button');
+      emptyMessage.hidden = shown > 0;
+    }
 
-      button.type = 'button';
-      button.id = entry.buttonId;
-      button.textContent = entry.label;
-      button.setAttribute('aria-controls', panelId);
-      button.setAttribute('aria-expanded', 'false');
+    function openProject(tile, opener) {
+      var scrim = document.createElement('div');
+      var drawer = document.createElement('div');
+      var closeButton = document.createElement('button');
+      var heading = document.createElement('h2');
+      var top = tile.querySelector('.project-tile__top').cloneNode(true);
+      var detail = tile.querySelector('.project-detail').cloneNode(true);
+      var cue = top.querySelector('.project-tile__cue');
 
-      button.addEventListener('click', function () {
-        var wasOpen = button.getAttribute('aria-expanded') === 'true';
+      if (cue) cue.remove();
 
-        actions.querySelectorAll('button').forEach(function (otherButton) {
-          otherButton.setAttribute('aria-expanded', 'false');
-        });
+      scrim.className = 'project-drawer-scrim';
+      drawer.className = 'project-drawer';
+      drawer.setAttribute('role', 'dialog');
+      drawer.setAttribute('aria-modal', 'true');
+      drawer.setAttribute('aria-labelledby', 'project-drawer-title');
+      drawer.style.setProperty('--topic-color', window.getComputedStyle(tile).getPropertyValue('--topic-color'));
 
-        if (wasOpen) {
-          panel.hidden = true;
-          panel.removeAttribute('aria-labelledby');
-          panel.replaceChildren();
+      closeButton.type = 'button';
+      closeButton.className = 'project-drawer__close';
+      closeButton.textContent = 'Close';
+
+      heading.id = 'project-drawer-title';
+      heading.textContent = tile.querySelector('.project-tile__title').textContent.replace(/\s+/g, ' ').trim();
+
+      detail.querySelectorAll('.project-outputs').forEach(function (group) {
+        var count = document.createElement('span');
+
+        count.textContent = group.querySelectorAll('li').length;
+        group.querySelector('h3').appendChild(count);
+      });
+
+      drawer.appendChild(closeButton);
+      drawer.appendChild(top);
+      drawer.appendChild(heading);
+      drawer.appendChild(tile.querySelector('.project-tile__summary').cloneNode(true));
+      drawer.appendChild(detail);
+      document.body.appendChild(scrim);
+      document.body.appendChild(drawer);
+      document.body.classList.add('project-drawer-open');
+      setElementsInert([masthead, mainContent, siteFooter], true);
+
+      window.requestAnimationFrame(function () {
+        scrim.classList.add('is-open');
+        drawer.classList.add('is-open');
+      });
+      closeButton.focus();
+
+      function closeProject() {
+        document.removeEventListener('keydown', onKeydown);
+        document.body.classList.remove('project-drawer-open');
+        setElementsInert([masthead, mainContent, siteFooter], false);
+        scrim.classList.remove('is-open');
+        drawer.classList.remove('is-open');
+        window.setTimeout(function () {
+          scrim.remove();
+          drawer.remove();
+        }, 260);
+        opener.focus();
+      }
+
+      function onKeydown(event) {
+        if (event.key === 'Escape') {
+          event.preventDefault();
+          closeProject();
           return;
         }
 
-        button.setAttribute('aria-expanded', 'true');
-        panel.setAttribute('aria-labelledby', entry.buttonId);
-        panel.replaceChildren(entry.content);
-        panel.hidden = false;
-      });
+        trapFocus(event, [drawer]);
+      }
 
-      actions.appendChild(button);
-    });
-
-    details.forEach(function (detail) {
-      detail.remove();
-    });
-
-    switcher.appendChild(actions);
-    switcher.appendChild(panel);
-    card.appendChild(switcher);
-  });
-
-  document.querySelectorAll('.recently-completed').forEach(function (group) {
-    var cards = group.querySelectorAll('.project-card');
-
-    if (!cards.length) return;
-
-    var collapsedLabel = 'Show ' + cards.length + ' recently completed project' + (cards.length === 1 ? '' : 's');
-
-    function setCollapsed(collapsed) {
-      group.classList.toggle('is-collapsible', true);
-      group.classList.toggle('is-collapsed', collapsed);
-      group.style.display = collapsed ? 'none' : '';
-      button.setAttribute('aria-expanded', String(!collapsed));
-      button.textContent = collapsed ? collapsedLabel : 'Hide recently completed projects';
+      closeButton.addEventListener('click', closeProject);
+      scrim.addEventListener('click', closeProject);
+      document.addEventListener('keydown', onKeydown);
     }
 
-    var button = document.createElement('button');
-    button.type = 'button';
-    button.className = 'show-more-btn';
-    group.id = group.id || 'recently-completed-projects';
-    button.setAttribute('aria-controls', group.id);
-    group.insertAdjacentElement('beforebegin', button);
+    projectTiles.forEach(function (tile) {
+      var title = tile.querySelector('.project-tile__title');
+      var openButton = document.createElement('button');
+      var cue = document.createElement('span');
+      var groups = tile.querySelectorAll('.project-outputs');
 
-    setCollapsed(true);
+      tile.querySelectorAll('[data-topic]').forEach(function (topic) {
+        if (topicLabels[topic.dataset.topic]) return;
+        topicLabels[topic.dataset.topic] = topic.textContent.trim();
+        topicOrder.push(topic.dataset.topic);
+      });
 
-    button.addEventListener('click', function () {
-      setCollapsed(group.style.display !== 'none');
+      openButton.type = 'button';
+      openButton.className = 'project-tile__open';
+      openButton.setAttribute('aria-haspopup', 'dialog');
+      while (title.firstChild) openButton.appendChild(title.firstChild);
+      title.appendChild(openButton);
+      openButton.addEventListener('click', function () {
+        openProject(tile, openButton);
+      });
+
+      cue.className = 'project-tile__cue';
+      cue.setAttribute('aria-hidden', 'true');
+      cue.textContent = 'View project';
+      tile.querySelector('.project-tile__top').appendChild(cue);
+
+      if (!groups.length) return;
+
+      var ledger = document.createElement('div');
+      var total = 0;
+
+      ledger.className = 'project-ledger';
+      groups.forEach(function (group) {
+        var count = group.querySelectorAll('li').length;
+        var words = outputWords[group.dataset.type] || [group.querySelector('h3').textContent.toLowerCase(), group.querySelector('h3').textContent.toLowerCase()];
+
+        total += count;
+        ledger.appendChild(ledgerItem(count, words[count === 1 ? 0 : 1]));
+      });
+      ledger.insertBefore(ledgerItem(total, total === 1 ? 'output' : 'outputs', 'project-ledger__total'), ledger.firstChild);
+      tile.appendChild(ledger);
     });
-  });
+
+    var filterBar = document.createElement('div');
+    var statusGroup = document.createElement('div');
+    var topicGroup = document.createElement('div');
+    var statusCounts = { all: projectTiles.length, active: 0, completed: 0 };
+
+    projectTiles.forEach(function (tile) {
+      statusCounts[tile.dataset.status] += 1;
+    });
+
+    filterBar.className = 'project-filters';
+    statusGroup.className = 'project-filters__status';
+    statusGroup.setAttribute('role', 'group');
+    statusGroup.setAttribute('aria-label', 'Filter projects by status');
+    topicGroup.className = 'project-filters__topics';
+    topicGroup.setAttribute('role', 'group');
+    topicGroup.setAttribute('aria-label', 'Filter projects by topic');
+
+    [['all', 'All'], ['active', 'Active'], ['completed', 'Completed']].forEach(function (status) {
+      var button = document.createElement('button');
+
+      button.type = 'button';
+      button.textContent = status[1] + ' ' + statusCounts[status[0]];
+      button.setAttribute('aria-pressed', String(status[0] === projectFilter.status));
+      button.addEventListener('click', function () {
+        projectFilter.status = status[0];
+        statusGroup.querySelectorAll('button').forEach(function (other) {
+          other.setAttribute('aria-pressed', String(other === button));
+        });
+        applyProjectFilter();
+      });
+      statusGroup.appendChild(button);
+    });
+
+    topicOrder.forEach(function (topic) {
+      var button = document.createElement('button');
+
+      button.type = 'button';
+      button.dataset.topic = topic;
+      button.textContent = topicLabels[topic];
+      button.setAttribute('aria-pressed', 'false');
+      button.addEventListener('click', function () {
+        projectFilter.topic = projectFilter.topic === topic ? null : topic;
+        topicGroup.querySelectorAll('button').forEach(function (other) {
+          other.setAttribute('aria-pressed', String(other.dataset.topic === projectFilter.topic));
+        });
+        applyProjectFilter();
+      });
+      topicGroup.appendChild(button);
+    });
+
+    filterBar.appendChild(statusGroup);
+    filterBar.appendChild(topicGroup);
+    projectGrid.parentNode.insertBefore(filterBar, projectGrid);
+
+    emptyMessage.className = 'project-grid__empty';
+    emptyMessage.textContent = 'No projects match these filters. Choose another status or topic.';
+    emptyMessage.hidden = true;
+    projectGrid.appendChild(emptyMessage);
+  }
 });
 </script>

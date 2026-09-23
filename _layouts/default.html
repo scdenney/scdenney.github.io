@@ -9,7 +9,7 @@
 
   <main id="main-content" class="page-main">
     <div class="page-wrapper page-wrapper--section">
-      <div class="section-layout{% if page.url contains '/research' %} section-layout--wide{% endif %}">
+      <div class="section-layout{% if page.url contains '/research' or page.url contains '/projects' %} section-layout--wide{% endif %}">
         {{ content }}
       </div>
     </div>
