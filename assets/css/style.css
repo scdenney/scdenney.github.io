@@ -382,6 +382,7 @@ hr {
 
 /* A tall composition shown whole instead of cropped to 4:5. */
 .author__avatar--full {
+  max-width: 100%;
   height: auto;
   aspect-ratio: auto;
   border-radius: 0;
