@@ -24,7 +24,7 @@ permalink: /projects/
 <div><dt>PI</dt><dd>Steven Denney (Leiden University)</dd></div>
 <div><dt>Funding</dt><dd>Netherlands Organisation for Scientific Research (NWO)</dd></div>
 </dl>
-<p class="project-detail__links"><a href="https://github.com/scdenney/immigration-backlash-study" target="_blank" rel="noopener noreferrer" class="action-link">Repository</a></p>
+<p class="project-detail__links"><a href="https://github.com/scdenney/immigration-backlash-study" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a></p>
 <p>Immigration is one of the most contentious political issues in contemporary democracies, generating public backlash and policy instability. Traditional explanations of immigration attitudes focus on group threat and economic competition. Group threat theory holds that dominant groups react defensively when immigration challenges cultural identity, national character, or established hierarchies. Economic competition theory links attitudes to perceived individual or national economic risks. Recent work adds civic fairness, which argues that citizens evaluate immigration through moral principles of legal compliance and equal opportunity. These principles may outweigh group-based concerns and economic calculations.</p>
 <p>This project tests whether civic fairness overrides, complements, or conflicts with perceptions of threat and competition across different democratic contexts. It uses survey experiments in the United States, Germany, South Korea, and Singapore.</p>
 <section class="project-outputs" data-type="progress">
@@ -59,7 +59,7 @@ permalink: /projects/
 <div><dt>Collaborators</dt><dd>Aron van de Pol (Leiden University)</dd></div>
 <div><dt>Funding</dt><dd>Academy of Korean Studies</dd></div>
 </dl>
-<p class="project-detail__links"><a href="https://github.com/scdenney/textbook-identity-aks" target="_blank" rel="noopener noreferrer" class="action-link">Repository</a></p>
+<p class="project-detail__links"><a href="https://github.com/scdenney/textbook-identity-aks" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a></p>
 <p>This project sits at the intersection of digital humanities and social science, using text analysis and survey methods to study how national identity is constructed and transmitted through education. Working with a corpus of South Korean national history textbooks spanning from 1948 through 2016, collected from the National Institute of Korean History and the Georg Eckert Institute, the project covers the post-liberation authoritarian regimes and the democratic era, each presenting different grand narratives of the Korean nation.</p>
 <p>The project proceeds in two stages. First, we use AI-assisted text analysis to identify how the nation is narrated across different periods and what type of national identity is articulated in each era's textbooks. Second, we design a survey experiment that draws directly from these textbook-derived narratives, asking South Koreans to evaluate competing versions of the nation rather than respond to abstract hypotheticals. This design allows us to test whether individuals favor the version of the nation that reflects what they learned during their school years, as theories of long-run political socialization would predict.</p>
 <section class="project-outputs" data-type="review">

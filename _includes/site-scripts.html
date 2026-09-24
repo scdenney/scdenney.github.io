@@ -317,7 +317,6 @@ document.addEventListener('DOMContentLoaded', function () {
     var outputWords = {
       book: ['book', 'books'],
       article: ['article', 'articles'],
-      review: ['under review', 'under review'],
       progress: ['in progress', 'in progress'],
       monograph: ['monograph', 'monographs'],
       report: ['report', 'reports'],
@@ -464,12 +463,27 @@ document.addEventListener('DOMContentLoaded', function () {
       var total = 0;
 
       ledger.className = 'project-ledger';
-      groups.forEach(function (group) {
-        var count = group.querySelectorAll('li').length;
-        var words = outputWords[group.dataset.type] || [group.querySelector('h3').textContent.toLowerCase(), group.querySelector('h3').textContent.toLowerCase()];
+      var tally = [];
 
+      // The tile counts papers under review as in progress; the drawer keeps them apart.
+      groups.forEach(function (group) {
+        var type = group.dataset.type === 'review' ? 'progress' : group.dataset.type;
+        var count = group.querySelectorAll('li').length;
+        var entry = tally.filter(function (item) { return item.type === type; })[0];
+
+        if (!entry) {
+          entry = { type: type, count: 0, heading: group.querySelector('h3').textContent.toLowerCase() };
+          tally.push(entry);
+        }
+
+        entry.count += count;
         total += count;
-        ledger.appendChild(ledgerItem(count, words[count === 1 ? 0 : 1]));
+      });
+
+      tally.forEach(function (entry) {
+        var words = outputWords[entry.type] || [entry.heading, entry.heading];
+
+        ledger.appendChild(ledgerItem(entry.count, words[entry.count === 1 ? 0 : 1]));
       });
       ledger.insertBefore(ledgerItem(total, total === 1 ? 'output' : 'outputs', 'project-ledger__total'), ledger.firstChild);
       tile.appendChild(ledger);

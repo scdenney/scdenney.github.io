@@ -20,7 +20,7 @@ permalink: /teaching/
 <p>Foundational text-as-data methods applied to Korean-language sources, from historical documents to political speeches and media content.</p>
 </div>
 <div class="teaching-item__actions">
-<a href="https://scdenney.github.io/ba2_digital-korea/" class="action-link action-link--primary">Course website</a>
+<a href="https://scdenney.github.io/ba2_digital-korea/" class="resource-link">Course website</a>
 </div>
 </article>
 
@@ -31,7 +31,7 @@ permalink: /teaching/
 <p>Computational text analysis for the humanities, working with corpora and methods from natural language processing.</p>
 </div>
 <div class="teaching-item__actions">
-<a href="https://scdenney.github.io/ba3tad-26/" class="action-link action-link--primary">Course website</a>
+<a href="https://scdenney.github.io/ba3tad-26/" class="resource-link">Course website</a>
 </div>
 </article>
 
@@ -42,7 +42,7 @@ permalink: /teaching/
 <p>Designing and carrying out BA thesis research, from research question and literature review to method.</p>
 </div>
 <div class="teaching-item__actions">
-<a href="https://scdenney.github.io/baks_thesis-seminar/" class="action-link action-link--primary">Course website</a>
+<a href="https://scdenney.github.io/baks_thesis-seminar/" class="resource-link">Course website</a>
 </div>
 </article>
 
@@ -53,7 +53,7 @@ permalink: /teaching/
 <p>An introduction to the major theories and contemporary issues in global politics.</p>
 </div>
 <div class="teaching-item__actions">
-<a href="/assets/pdf/2526-bais-ir.pdf" class="action-link action-link--primary">Syllabus (PDF)</a>
+<a href="/assets/pdf/2526-bais-ir.pdf" class="resource-link">Syllabus (PDF)</a>
 </div>
 </article>
 </div>
@@ -66,7 +66,7 @@ permalink: /teaching/
 <p>I supervise BA and MA theses across four programs in International Studies, Korean Studies, Asian Studies, and International Relations. I also supervise PhD research and accept new candidates on a rolling basis.</p>
 </div>
 <div class="supervision-actions">
-<a href="https://scdenney.github.io/thesis-supervision/" class="supervision-action supervision-action--primary"><strong>Thesis supervision website</strong><span>Program requirements, assessment criteria, and student guidelines</span></a>
+<a href="https://scdenney.github.io/thesis-supervision/" class="supervision-action"><strong>Thesis supervision website</strong><span>Program requirements, assessment criteria, and student guidelines</span></a>
 <a href="mailto:{{ site.author.email }}?subject=PhD%20supervision" class="supervision-action"><strong>PhD enquiries</strong><span>{{ site.author.email }}</span></a>
 </div>
 </div>
@@ -81,7 +81,7 @@ permalink: /teaching/
 <p>Text corpora on Korea, from historical magazines and textbooks to political speeches and social media, prepared for teaching and research.</p>
 </div>
 <div class="teaching-item__actions">
-<a href="https://github.com/scdenney/nlp_corpora" target="_blank" rel="noopener noreferrer" class="action-link action-link--primary">Browse corpora</a>
+<a href="https://github.com/scdenney/nlp_corpora" target="_blank" rel="noopener noreferrer" class="resource-link">Browse corpora</a>
 </div>
 </article>
 
@@ -91,7 +91,7 @@ permalink: /teaching/
 <p>Guides, runnable demos, and lecture slides for working with AI agents in empirical social science.</p>
 </div>
 <div class="teaching-item__actions">
-<a href="https://scdenney.github.io/ai-for-research/" target="_blank" rel="noopener noreferrer" class="action-link action-link--primary">Visit website</a>
+<a href="https://scdenney.github.io/ai-for-research/" target="_blank" rel="noopener noreferrer" class="resource-link">Visit website</a>
 </div>
 </article>
 
@@ -101,7 +101,7 @@ permalink: /teaching/
 <p>Open research-methods skills for Claude Code and OpenAI Codex, the toolkit used in AI for Research.</p>
 </div>
 <div class="teaching-item__actions">
-<a href="https://github.com/scdenney/open-science-skills" target="_blank" rel="noopener noreferrer" class="action-link action-link--primary">View on GitHub</a>
+<a href="https://github.com/scdenney/open-science-skills" target="_blank" rel="noopener noreferrer" class="resource-link">View on GitHub</a>
 </div>
 </article>
 
@@ -111,7 +111,7 @@ permalink: /teaching/
 <p>Writing on how to use AI ethically and responsibly in research and computational work.</p>
 </div>
 <div class="teaching-item__actions">
-<a href="https://www.pixelsandpatterns.org/" target="_blank" rel="noopener noreferrer" class="action-link action-link--primary">Read on Substack</a>
+<a href="https://www.pixelsandpatterns.org/" target="_blank" rel="noopener noreferrer" class="resource-link">Read on Substack</a>
 </div>
 </article>
 </div>
