@@ -45,9 +45,9 @@ permalink: /projects/
 </div>
 </article>
 
-<article class="project-tile" id="textbooks-nation-ai" data-status="active" data-topics="nationalism dh">
+<article class="project-tile" id="textbooks-nation-ai" data-status="active" data-topics="nationalism text">
 <div class="project-tile__top">
-<span class="project-tile__topics"><span data-topic="nationalism">Nationalism</span>, <span data-topic="dh">Digital humanities</span></span>
+<span class="project-tile__topics"><span data-topic="nationalism">Nationalism</span>, <span data-topic="text">Text as data</span></span>
 <span class="project-tile__years">2026–2028</span>
 </div>
 <h2 class="project-tile__title">Textbooks, Nation, and AI<span class="sr-only">:</span> <span class="project-tile__subtitle">Reconstructing Korean National Identity</span></h2>

@@ -587,8 +587,8 @@ hr {
   --topic-color: #85591a;
 }
 
-.project-tile[data-topics^="dh"],
-.project-filters [data-topic="dh"] {
+.project-tile[data-topics^="text"],
+.project-filters [data-topic="text"] {
   --topic-color: #56662f;
 }
 
@@ -812,7 +812,7 @@ hr {
 .project-ledger__item {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   color: var(--color-text-soft);
   font-size: 0.78rem;
   line-height: 1.2;
@@ -1077,22 +1077,9 @@ body.project-drawer-open {
   color: var(--color-accent-strong);
 }
 
-.supervision-action--primary,
-.supervision-action--primary:hover,
-.supervision-action--primary:focus-visible {
-  border-color: var(--color-accent-strong);
-  background: var(--color-accent-strong);
-  color: #fff;
-}
-
-.supervision-action--primary span {
-  color: rgba(255, 248, 240, 0.82);
-}
-
-.supervision-action--primary:hover,
-.supervision-action--primary:focus-visible {
-  border-color: var(--color-heading);
-  background: var(--color-heading);
+.supervision-action--primary {
+  border-color: rgba(122, 56, 71, 0.4);
+  background: rgba(234, 213, 207, 0.75);
 }
 
 /* Mid-sized buttons for the main link on Teaching and in project details. */
@@ -1121,16 +1108,16 @@ body.project-drawer-open {
 }
 
 .action-link--primary {
-  border-color: var(--color-accent-strong);
-  background: var(--color-accent-strong);
-  color: #fff;
+  border-color: rgba(122, 56, 71, 0.4);
+  background: rgba(234, 213, 207, 0.75);
+  color: var(--color-accent-strong);
 }
 
 .action-link--primary:hover,
 .action-link--primary:focus-visible {
-  border-color: var(--color-heading);
-  background: var(--color-heading);
-  color: #fff;
+  border-color: var(--color-accent-strong);
+  background: rgba(234, 213, 207, 0.4);
+  color: var(--color-accent-strong);
 }
 
 details {
