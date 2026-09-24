@@ -53,8 +53,7 @@ permalink: /teaching/
 <p>An introduction to the major theories and contemporary issues in global politics.</p>
 </div>
 <div class="teaching-item__actions">
-<a href="https://scdenney.github.io/bais_ir-content/" class="action-link action-link--primary">Course content</a>
-<a href="/assets/pdf/2526-bais-ir.pdf" class="action-link">Syllabus (PDF)</a>
+<a href="/assets/pdf/2526-bais-ir.pdf" class="action-link action-link--primary">Syllabus (PDF)</a>
 </div>
 </article>
 </div>
@@ -66,9 +65,9 @@ permalink: /teaching/
 <div class="teaching-item__body">
 <p>I supervise BA and MA theses across four programs in International Studies, Korean Studies, Asian Studies, and International Relations. I also supervise PhD research and accept new candidates on a rolling basis.</p>
 </div>
-<div class="teaching-item__actions">
-<a href="https://scdenney.github.io/thesis-supervision/" class="action-link action-link--primary">Thesis supervision guide</a>
-<a href="mailto:{{ site.author.email }}?subject=PhD%20supervision" class="action-link">Ask about a PhD</a>
+<div class="supervision-actions">
+<a href="https://scdenney.github.io/thesis-supervision/" class="supervision-action supervision-action--primary"><strong>Thesis supervision website</strong><span>Program requirements, assessment criteria, and student guidelines</span></a>
+<a href="mailto:{{ site.author.email }}?subject=PhD%20supervision" class="supervision-action"><strong>PhD enquiries</strong><span>{{ site.author.email }}</span></a>
 </div>
 </div>
 </div>
@@ -89,12 +88,20 @@ permalink: /teaching/
 <article class="teaching-item">
 <div class="teaching-item__body">
 <h3>AI for Research</h3>
-<p>Guides, runnable demos, and lecture slides for working with AI agents and skills in empirical social science.</p>
+<p>Guides, runnable demos, and lecture slides for working with AI agents in empirical social science.</p>
 </div>
 <div class="teaching-item__actions">
-<a href="https://scdenney.github.io/ai-for-research/" target="_blank" rel="noopener noreferrer" class="action-link action-link--primary">Website</a>
-<a href="https://github.com/scdenney/ai-for-research" target="_blank" rel="noopener noreferrer" class="action-link">GitHub</a>
-<a href="https://github.com/scdenney/open-science-skills" target="_blank" rel="noopener noreferrer" class="action-link">Open Science Skills</a>
+<a href="https://scdenney.github.io/ai-for-research/" target="_blank" rel="noopener noreferrer" class="action-link action-link--primary">Visit website</a>
+</div>
+</article>
+
+<article class="teaching-item">
+<div class="teaching-item__body">
+<h3>Open Science Skills</h3>
+<p>Open research-methods skills for Claude Code and OpenAI Codex, the toolkit used in AI for Research.</p>
+</div>
+<div class="teaching-item__actions">
+<a href="https://github.com/scdenney/open-science-skills" target="_blank" rel="noopener noreferrer" class="action-link action-link--primary">View on GitHub</a>
 </div>
 </article>
 

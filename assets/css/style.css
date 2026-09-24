@@ -577,13 +577,13 @@ hr {
   --topic-color: #7a3847;
 }
 
-.project-tile[data-topics^="regimes"],
-.project-filters [data-topic="regimes"] {
+.project-tile[data-topics^="institutions"],
+.project-filters [data-topic="institutions"] {
   --topic-color: #474a6b;
 }
 
-.project-tile[data-topics^="economy"],
-.project-filters [data-topic="economy"] {
+.project-tile[data-topics^="policy"],
+.project-filters [data-topic="policy"] {
   --topic-color: #85591a;
 }
 
@@ -668,7 +668,7 @@ hr {
 .project-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
+  gap: 0.85rem;
 }
 
 .project-grid__empty {
@@ -685,7 +685,7 @@ hr {
   position: relative;
   display: flex;
   flex-direction: column;
-  padding: 1.15rem 1.3rem 1.05rem 1.55rem;
+  padding: 0.95rem 1.15rem 0.9rem 1.4rem;
   border: 1px solid rgba(216, 195, 180, 0.85);
   border-radius: 0.8rem;
   background: var(--color-surface-strong);
@@ -747,8 +747,8 @@ hr {
 }
 
 .project-tile__title {
-  margin: 0.45rem 0 0.1rem;
-  font-size: 1.45rem;
+  margin: 0.35rem 0 0.05rem;
+  font-size: 1.3rem;
   line-height: 1.2;
   letter-spacing: -0.01em;
 }
@@ -757,7 +757,7 @@ hr {
   display: block;
   margin-top: 0.1rem;
   color: var(--color-text-soft);
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-weight: 500;
   line-height: 1.35;
   letter-spacing: 0;
@@ -793,42 +793,42 @@ hr {
 
 .project-tile__summary {
   flex: 1;
-  margin: 0.75rem 0 1rem;
-  font-size: 0.95rem;
-  line-height: 1.55;
+  margin: 0.55rem 0 0.8rem;
+  font-size: 0.93rem;
+  line-height: 1.5;
 }
 
-/* Output counts: the total, then every output type in equal columns. */
+/* Output counts: the total, then every output type, left-aligned with even gaps. */
 .project-ledger {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(4.4rem, 1fr));
-  row-gap: 0.7rem;
-  padding-top: 0.8rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0.6rem 1.3rem;
+  padding-top: 0.7rem;
   border-top: 1px solid rgba(185, 148, 112, 0.35);
   font-family: var(--font-sans);
-  text-align: center;
 }
 
 .project-ledger__item {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  padding: 0 0.1rem;
+  align-items: flex-start;
   color: var(--color-text-soft);
   font-size: 0.78rem;
   line-height: 1.2;
 }
 
 .project-ledger__item strong {
-  margin-bottom: 0.15rem;
+  margin-bottom: 0.12rem;
   color: var(--color-heading);
   font-family: var(--font-serif);
-  font-size: 1.55rem;
+  font-size: 1.35rem;
   font-weight: 600;
   line-height: 1;
 }
 
 .project-ledger__total {
+  padding-right: 1.3rem;
   border-right: 1px solid rgba(185, 148, 112, 0.45);
 }
 
@@ -1038,6 +1038,61 @@ body.project-drawer-open {
   justify-content: flex-end;
   gap: 0.45rem;
   max-width: 19rem;
+}
+
+.supervision-actions {
+  display: grid;
+  gap: 0.5rem;
+  width: 19rem;
+}
+
+.supervision-action {
+  display: block;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid rgba(122, 56, 71, 0.3);
+  border-radius: 0.65rem;
+  background: var(--color-surface-strong);
+  color: var(--color-accent-strong);
+  font-family: var(--font-sans);
+  line-height: 1.3;
+  text-decoration: none;
+}
+
+.supervision-action strong {
+  display: block;
+  font-size: 0.92rem;
+}
+
+.supervision-action span {
+  display: block;
+  margin-top: 0.1rem;
+  color: var(--color-text-soft);
+  font-size: 0.82rem;
+}
+
+.supervision-action:hover,
+.supervision-action:focus-visible {
+  border-color: var(--color-accent-strong);
+  background: rgba(234, 213, 207, 0.45);
+  color: var(--color-accent-strong);
+}
+
+.supervision-action--primary,
+.supervision-action--primary:hover,
+.supervision-action--primary:focus-visible {
+  border-color: var(--color-accent-strong);
+  background: var(--color-accent-strong);
+  color: #fff;
+}
+
+.supervision-action--primary span {
+  color: rgba(255, 248, 240, 0.82);
+}
+
+.supervision-action--primary:hover,
+.supervision-action--primary:focus-visible {
+  border-color: var(--color-heading);
+  background: var(--color-heading);
 }
 
 /* Mid-sized buttons for the main link on Teaching and in project details. */
@@ -1679,6 +1734,10 @@ details ul li {
   .teaching-item__actions {
     justify-content: flex-start;
     max-width: none;
+  }
+
+  .supervision-actions {
+    width: 100%;
   }
 
   .home-layout {

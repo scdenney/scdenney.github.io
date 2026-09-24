@@ -78,9 +78,9 @@ permalink: /projects/
 </div>
 </article>
 
-<article class="project-tile" id="ai-workforce" data-status="active" data-topics="economy">
+<article class="project-tile" id="ai-workforce" data-status="active" data-topics="policy">
 <div class="project-tile__top">
-<span class="project-tile__topics"><span data-topic="economy">Political economy</span></span>
+<span class="project-tile__topics"><span data-topic="policy">Public policy</span></span>
 <span class="project-tile__years">2026</span>
 </div>
 <h2 class="project-tile__title">AI Workforce Intelligence Initiative</h2>
@@ -104,9 +104,9 @@ permalink: /projects/
 </div>
 </article>
 
-<article class="project-tile" id="nationalism-political-change" data-status="active" data-topics="nationalism regimes">
+<article class="project-tile" id="nationalism-political-change" data-status="active" data-topics="nationalism institutions">
 <div class="project-tile__top">
-<span class="project-tile__topics"><span data-topic="nationalism">Nationalism</span>, <span data-topic="regimes">Political regimes</span></span>
+<span class="project-tile__topics"><span data-topic="nationalism">Nationalism</span>, <span data-topic="institutions">Political institutions</span></span>
 <span class="project-tile__years">2022–present</span>
 </div>
 <h2 class="project-tile__title">Nationalism and Political Change<span class="sr-only">:</span> <span class="project-tile__subtitle">Why Institutions Matter for National Identity and Belonging</span></h2>
@@ -207,9 +207,9 @@ permalink: /projects/
 </div>
 </article>
 
-<article class="project-tile" id="scale-ups" data-status="completed" data-topics="economy">
+<article class="project-tile" id="scale-ups" data-status="completed" data-topics="policy">
 <div class="project-tile__top">
-<span class="project-tile__topics"><span data-topic="economy">Political economy</span></span>
+<span class="project-tile__topics"><span data-topic="policy">Public policy</span></span>
 <span class="project-tile__years">2019–2023</span>
 <span class="project-tile__status">Completed</span>
 </div>
@@ -269,9 +269,9 @@ permalink: /projects/
 </div>
 </article>
 
-<article class="project-tile" id="information-dissemination" data-status="completed" data-topics="regimes">
+<article class="project-tile" id="information-dissemination" data-status="completed" data-topics="institutions">
 <div class="project-tile__top">
-<span class="project-tile__topics"><span data-topic="regimes">Political regimes</span></span>
+<span class="project-tile__topics"><span data-topic="institutions">Political institutions</span></span>
 <span class="project-tile__years">2019–2021</span>
 <span class="project-tile__status">Completed</span>
 </div>
