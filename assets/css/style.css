@@ -380,16 +380,6 @@ hr {
   box-shadow: var(--shadow-md);
 }
 
-/* A tall composition shown whole instead of cropped to 4:5. */
-.author__avatar--full {
-  max-width: 100%;
-  height: auto;
-  aspect-ratio: auto;
-  border-radius: 0;
-  object-fit: contain;
-  box-shadow: none;
-}
-
 .author__name {
   margin-bottom: 0.2rem;
   color: var(--color-heading);
