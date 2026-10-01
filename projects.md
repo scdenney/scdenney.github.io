@@ -22,6 +22,7 @@ permalink: /projects/
 <dl class="project-facts">
 <div><dt>Duration</dt><dd>12 months (2025–2026)</dd></div>
 <div><dt>PI</dt><dd>Steven Denney (Leiden University)</dd></div>
+<div><dt>Collaborator</dt><dd>Taylor Trummel (Denison University)</dd></div>
 <div><dt>Funding</dt><dd>Netherlands Organisation for Scientific Research (NWO)</dd></div>
 </dl>
 <p class="project-detail__links"><a href="https://github.com/scdenney/immigration-backlash-study" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a></p>
@@ -30,9 +31,10 @@ permalink: /projects/
 <section class="project-outputs" data-type="progress">
 <h3>Papers in Progress</h3>
 <ul>
-<li>Denney, S. Civic Fairness and the Evaluation of Individual Immigrants. — <a href="/assets/preregistrations/civic-fairness/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
+<li>Denney, S., & Trummel, T. Civic Fairness and the Evaluation of Individual Immigrants. — <a href="/assets/preregistrations/civic-fairness/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
 <li>Denney, S. Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. — <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
 <li>Denney, S. A Survey Experiment on Creedal Nationalist Persuasion. — <a href="/assets/preregistrations/creedal-persuasion/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
+<li>Steinhardt, H. C., & Denney, S. Rules, Not Race? What AfD Voters Want from Migration Policy. [Germany-only companion study, outside the NWO grant]</li>
 </ul>
 </section>
 <section class="project-outputs" data-type="talk">
@@ -56,7 +58,7 @@ permalink: /projects/
 <dl class="project-facts">
 <div><dt>Duration</dt><dd>2 years (2026–2028)</dd></div>
 <div><dt>PI</dt><dd>Steven Denney (Leiden University)</dd></div>
-<div><dt>Collaborators</dt><dd>Aron van de Pol (Leiden University)</dd></div>
+<div><dt>Collaborators</dt><dd>Aron van de Pol (Leiden University), Boyoon Lee (Queen's University), Myunghee Lee (Michigan State University)</dd></div>
 <div><dt>Funding</dt><dd>Academy of Korean Studies</dd></div>
 </dl>
 <p class="project-detail__links"><a href="https://github.com/scdenney/textbook-identity-aks" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a></p>
@@ -65,7 +67,14 @@ permalink: /projects/
 <section class="project-outputs" data-type="review">
 <h3>Working Papers Under Review</h3>
 <ul>
-<li>Denney, S., & van de Pol, A. Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. [Under review] — <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
+<li>Denney, S., & van de Pol, A. Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. [Under review at <em>World Politics</em>] — <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
+</ul>
+</section>
+<section class="project-outputs" data-type="progress">
+<h3>Papers in Progress</h3>
+<ul>
+<li>Denney, S., & Lee, B. Measuring Political Bias in South Korean History Textbooks.</li>
+<li>Denney, S., & Lee, M. Authoritarian Education and Post-Transition Citizens: Evidence from South Korea and Poland.</li>
 </ul>
 </section>
 <section class="project-outputs" data-type="talk">
@@ -137,7 +146,7 @@ permalink: /projects/
 <h3>Working Papers Under Review</h3>
 <ul>
 <li>Denney, S., Fraser, N., & Steinhardt, H. C. Cues of commitment: Integration and naturalization support in Taiwan and South Korea. [R&amp;R at <em>British Journal of Political Science</em>] — <a href="https://github.com/scdenney/cues-east-asia" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
-<li>Denney, S., & Steinhardt, H. C. Measuring national identity with conjoint experiments using the case of Taiwan. [Under review] — <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
+<li>Denney, S., & Steinhardt, H. C. Measuring national identity with conjoint experiments using the case of Taiwan. [Under review at <em>Political Behavior</em>] — <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 <li>Denney, S., van Dam, I., & Green, C. Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? [R&amp;R at <em>International Migration</em>] — <a href="https://github.com/scdenney/persuasion-cues-kr-imm" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 </ul>
 </section>
@@ -163,6 +172,36 @@ permalink: /projects/
 <li>2023. "Measuring National Identity: A Choice-Based Conjoint Approach," Midwest Political Science Association (MPSA) Conference, April 13-16.</li>
 <li>2023. <a href="https://docs.google.com/presentation/d/1fioI78LissBdRcxStNU9UO3Tt_BM1QniOutxw7Fl5nA/edit#slide=id.gf71da67333_1_0" target="_blank">"Why Do Democratic Societies Tolerate Undemocratic Laws? Sorting Public Support for the National Security Act in South Korea,"</a> International Studies Association (ISA) Conference, March 15-18.</li>
 <li>2022. <a href="https://docs.google.com/presentation/d/1jqh7TO0HT2m8mp8ZXyeEW5Xngd9xTQPaOdG5aI8_Rio/edit?usp=sharing" target="_blank">"National Security Conservatism: Enduring Support for the National Security Act in South Korea,"</a> Generation Asia – 2022 Nordic NIAS Council Conference, August 22-26.</li>
+</ul>
+</section>
+</div>
+</article>
+
+<article class="project-tile" id="north-korea-state-society" data-status="active" data-topics="institutions text">
+<div class="project-tile__top">
+<span class="project-tile__topics"><span data-topic="institutions">Political institutions</span>, <span data-topic="text">Text as data</span></span>
+<span class="project-tile__years">2026</span>
+</div>
+<h2 class="project-tile__title">North Korea: Policy Discourse and Urban Society</h2>
+<p class="project-tile__summary">Computational analysis of state reform discourse and a household-registry study of residential sorting in Pyongyang.</p>
+<div class="project-detail">
+<dl class="project-facts">
+<div><dt>Duration</dt><dd>2026</dd></div>
+<div><dt>PI</dt><dd>Steven Denney (Leiden University)</dd></div>
+<div><dt>Collaborators</dt><dd>Peter Ward (Sejong Institute), Remco Breuker (Leiden University), Aron van de Pol (Leiden University)</dd></div>
+</dl>
+<p>Two studies use new data sources to examine North Korean politics and society. The first traces reform discourse in official North Korean texts from 1987 to 2020 and asks whether shifts in that discourse anticipate policy change. The second uses a household-registration extract covering Pyongyang's civilian population around 2008 to map how the regime sorts residents across the capital.</p>
+<section class="project-outputs" data-type="progress">
+<h3>Papers in Progress</h3>
+<ul>
+<li>Denney, S., & Ward, P. No Previews in Pyongyang: Reform Discourse and Policy Change in North Korea, 1987–2020.</li>
+<li>Denney, S., Breuker, R., & van de Pol, A. Sorting the Socialist Capital: A Residential Geography of Pyongyang from the Household Registry.</li>
+</ul>
+</section>
+<section class="project-outputs" data-type="talk">
+<h3>Presentations</h3>
+<ul>
+<li>2026. <a href="/assets/slides/no-previews-in-pyongyang/" target="_blank" rel="noopener noreferrer">"No Previews in Pyongyang: Reform Discourse and Policy Change in North Korea, 1987–2020,"</a> with Peter Ward. European Centre for North Korean Studies (ECNK) Webinar, University of Vienna, August 4, 2026.</li>
 </ul>
 </section>
 </div>
@@ -233,7 +272,7 @@ permalink: /projects/
 <section class="project-outputs" data-type="review">
 <h3>Working Papers Under Review</h3>
 <ul>
-<li>Denney, S., Kelly, R., & Wolfe, D. Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. [R&amp;R at <em>Canadian Public Policy</em>] — <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
+<li>Denney, S., Kelly, R., & Wolfe, D. Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. [Under review at <em>Canadian Public Policy</em>] — <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 </ul>
 </section>
 <section class="project-outputs" data-type="monograph">

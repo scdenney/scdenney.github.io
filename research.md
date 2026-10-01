@@ -10,7 +10,7 @@ permalink: /research/
       <p class="research-sidebar-title">On this page</p>
       <nav class="research-toc">
         <ul>
-          <li><a href="#working-papers">Working Papers</a></li>
+          <li><a href="#working-papers">Working Papers Under Review</a></li>
           <li><a href="#papers-in-progress">Papers in Progress</a></li>
           <li><a href="#journal-articles">Journal Articles</a></li>
           <li><a href="#books">Books</a></li>
@@ -38,7 +38,7 @@ permalink: /research/
 <h2 id="working-papers">Working Papers Under Review</h2>
 
 <p class="publication-item">
-Denney, S., Kelly, R., & Wolfe, D. (2026). Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. R&amp;R at <em>Canadian Public Policy</em>. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
+Denney, S., Kelly, R., & Wolfe, D. (2026). Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. Under review at <em>Canadian Public Policy</em>. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
 
 <p class="publication-item">
@@ -50,20 +50,16 @@ Denney, S., van Dam, I., & Green, C. (2026). Persuasion and prejudice: Are South
 </p>
 
 <p class="publication-item">
-Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. Under review at <em>World Politics</em>. <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
 <p class="publication-item">
-Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoint experiments using the case of Taiwan. <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7027118" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoint experiments using the case of Taiwan. Under review at <em>Political Behavior</em>. <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7027118" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 </div>
 
 <div class="research-section">
 <h2 id="papers-in-progress">Papers in Progress</h2>
-
-<p class="publication-item">
-Denney, S. (2026). "What Were They Thinking?" Using Open-Text Responses to Validate Constructs in Conjoint Survey Experiments. <a href="https://github.com/scdenney/what-were-they-thinking/tree/main" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6912419" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
-</p>
 
 <p class="publication-item">
 Denney, S. (2026). Democracy and nationalism, reconsidered. <a href="https://github.com/scdenney/democracy-nationalism-reconsidered" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904542" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
@@ -74,7 +70,7 @@ Denney, S., & Steinhardt, H. C. (n.d.). Political Regimes and the Shape of Natio
 </p>
 
 <p class="publication-item">
-Denney, S. (n.d.). Civic Fairness and the Evaluation of Individual Immigrants. <a href="/assets/preregistrations/civic-fairness/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a>
+Denney, S., & Trummel, T. (n.d.). Civic Fairness and the Evaluation of Individual Immigrants. <a href="/assets/preregistrations/civic-fairness/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a>
 </p>
 
 <p class="publication-item">
@@ -86,7 +82,23 @@ Denney, S. (n.d.). A Survey Experiment on Creedal Nationalist Persuasion. <a hre
 </p>
 
 <p class="publication-item">
+Steinhardt, H. C., & Denney, S. (n.d.). Rules, Not Race? What AfD Voters Want from Migration Policy.
+</p>
+
+<p class="publication-item">
+Denney, S., & Lee, B. (n.d.). Measuring Political Bias in South Korean History Textbooks.
+</p>
+
+<p class="publication-item">
+Denney, S., & Lee, M. (n.d.). Authoritarian Education and Post-Transition Citizens: Evidence from South Korea and Poland.
+</p>
+
+<p class="publication-item">
 Denney, S., & Ward, P. (n.d.). No Previews in Pyongyang: Reform Discourse and Policy Change in North Korea, 1987–2020.
+</p>
+
+<p class="publication-item">
+Denney, S., Breuker, R., & van de Pol, A. (n.d.). Sorting the Socialist Capital: A Residential Geography of Pyongyang from the Household Registry.
 </p>
 
 <p class="publication-item">
@@ -240,6 +252,14 @@ Hayes, P., Denney, S., et al. (2015). The implications of civic diplomacy for RO
 
 <div class="research-section">
 <h2 id="book-reviews">Book Reviews</h2>
+
+<p class="publication-item">
+Denney, S. (in preparation). [Review of the book <em>The promised republic: Developmental society and the making of modern Seoul, 1961–1971</em>, by R. Burge].
+</p>
+
+<p class="publication-item">
+Denney, S. (in preparation). [Review of the book <em>Cornerstone of the nation: The defense industry and the building of modern Korea under Park Chung Hee</em>, by P. B. Kwon].
+</p>
 
 <p class="publication-item">
 Denney, S. (2026). [Review of the book <em>Welfare nationalism in Europe and Russia: The politics of 21st century exclusionary and inclusionary migrations</em>, by L. J. Cook]. <em>Perspectives on Politics</em>. <a href="https://doi.org/10.1017/S1537592725104325" target="_blank" rel="noopener noreferrer" class="resource-link">Review</a>
@@ -515,7 +535,7 @@ Denney, S. (2015). Telling tales: North Korea's use of re-defectors. Korean Econ
 </p>
 </div>
 
-<p class="page-updated"><em>Last updated: August 2026</em></p>
+<p class="page-updated"><em>Last updated: September 2026</em></p>
 
   </div>
 </div>
