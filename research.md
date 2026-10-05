@@ -34,7 +34,7 @@ permalink: /research/
 
 <p class="page-intro">This page collects working papers, publications, and related scholarly output, with direct access to papers, replication materials, reports, and talks.</p>
 
-<div class="research-section">
+<div class="research-section" data-show-all>
 <h2 id="working-papers">Working Papers Under Review</h2>
 
 <p class="publication-item">
