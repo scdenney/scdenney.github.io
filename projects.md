@@ -28,11 +28,16 @@ permalink: /projects/
 <p class="project-detail__links"><a href="https://github.com/scdenney/immigration-backlash-study" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a></p>
 <p>Immigration is one of the most contentious political issues in contemporary democracies, generating public backlash and policy instability. Traditional explanations of immigration attitudes focus on group threat and economic competition. Group threat theory holds that dominant groups react defensively when immigration challenges cultural identity, national character, or established hierarchies. Economic competition theory links attitudes to perceived individual or national economic risks. Recent work adds civic fairness, which argues that citizens evaluate immigration through moral principles of legal compliance and equal opportunity. These principles may outweigh group-based concerns and economic calculations.</p>
 <p>This project tests whether civic fairness overrides, complements, or conflicts with perceptions of threat and competition across different democratic contexts. It uses survey experiments in the United States, Germany, South Korea, and Singapore.</p>
+<section class="project-outputs" data-type="review">
+<h3>Working Papers Under Review</h3>
+<ul>
+<li>Denney, S. Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. [Under review] — <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
+</ul>
+</section>
 <section class="project-outputs" data-type="progress">
 <h3>Papers in Progress</h3>
 <ul>
 <li>Denney, S., & Trummel, T. Civic Fairness and the Evaluation of Individual Immigrants. — <a href="/assets/preregistrations/civic-fairness/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
-<li>Denney, S. Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. — <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
 <li>Denney, S. A Survey Experiment on Creedal Nationalist Persuasion. — <a href="/assets/preregistrations/creedal-persuasion/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
 <li>Steinhardt, H. C., & Denney, S. Rules, Not Race? What AfD Voters Want from Migration Policy. [Germany-only companion study, outside the NWO grant]</li>
 </ul>

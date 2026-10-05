@@ -56,6 +56,10 @@ Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Histo
 <p class="publication-item">
 Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoint experiments using the case of Taiwan. Under review at <em>Political Behavior</em>. <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7027118" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
+
+<p class="publication-item">
+Denney, S. (2026). Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. Under review. <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+</p>
 </div>
 
 <div class="research-section">
@@ -71,10 +75,6 @@ Denney, S., & Steinhardt, H. C. (n.d.). Political Regimes and the Shape of Natio
 
 <p class="publication-item">
 Denney, S., & Trummel, T. (n.d.). Civic Fairness and the Evaluation of Individual Immigrants. <a href="/assets/preregistrations/civic-fairness/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a>
-</p>
-
-<p class="publication-item">
-Denney, S. (2026). Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
 <p class="publication-item">
