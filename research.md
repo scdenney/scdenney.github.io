@@ -10,7 +10,7 @@ permalink: /research/
       <p class="research-sidebar-title">On this page</p>
       <nav class="research-toc">
         <ul>
-          <li><a href="#working-papers">Working Papers Under Review</a></li>
+          <li><a href="#working-papers">Papers Under Review</a></li>
           <li><a href="#papers-in-progress">Papers in Progress</a></li>
           <li><a href="#journal-articles">Journal Articles</a></li>
           <li><a href="#books">Books</a></li>
@@ -35,7 +35,7 @@ permalink: /research/
 <p class="page-intro">This page collects working papers, publications, and related scholarly output, with direct access to papers, replication materials, reports, and talks.</p>
 
 <div class="research-section" data-show-all>
-<h2 id="working-papers">Working Papers Under Review</h2>
+<h2 id="working-papers">Papers Under Review</h2>
 
 <p class="publication-item">
 Denney, S., Kelly, R., & Wolfe, D. (2026). Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. Under review at <em>Canadian Public Policy</em>. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
