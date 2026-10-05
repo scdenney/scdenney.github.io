@@ -38,7 +38,7 @@ permalink: /research/
 <h2 id="working-papers">Papers Under Review</h2>
 
 <p class="publication-item">
-Denney, S., Kelly, R., & Wolfe, D. (2026). Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. Under review at <em>Canadian Public Policy</em>. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
+Denney, S., Kelly, R., & Wolfe, D. (2026). Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. R&amp;R at <em>Canadian Public Policy</em>. <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
 </p>
 
 <p class="publication-item">
