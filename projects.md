@@ -69,15 +69,10 @@ permalink: /projects/
 <p class="project-detail__links"><a href="https://github.com/scdenney/textbook-identity-aks" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a></p>
 <p>This project sits at the intersection of digital humanities and social science, using text analysis and survey methods to study how national identity is constructed and transmitted through education. Working with a corpus of South Korean national history textbooks spanning from 1948 through 2016, collected from the National Institute of Korean History and the Georg Eckert Institute, the project covers the post-liberation authoritarian regimes and the democratic era, each presenting different grand narratives of the Korean nation.</p>
 <p>The project proceeds in two stages. First, we use AI-assisted text analysis to identify how the nation is narrated across different periods and what type of national identity is articulated in each era's textbooks. Second, we design a survey experiment that draws directly from these textbook-derived narratives, asking South Koreans to evaluate competing versions of the nation rather than respond to abstract hypotheticals. This design allows us to test whether individuals favor the version of the nation that reflects what they learned during their school years, as theories of long-run political socialization would predict.</p>
-<section class="project-outputs" data-type="review">
-<h3>Papers Under Review</h3>
-<ul>
-<li>Denney, S., & van de Pol, A. Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. [Under review at <em>World Politics</em>] — <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
-</ul>
-</section>
 <section class="project-outputs" data-type="progress">
 <h3>Papers in Progress</h3>
 <ul>
+<li>Denney, S., & van de Pol, A. Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. — <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
 <li>Denney, S., & Lee, B. Measuring Political Bias in South Korean History Textbooks.</li>
 <li>Denney, S., & Lee, M. Authoritarian Education and Post-Transition Citizens: Evidence from South Korea and Poland.</li>
 </ul>

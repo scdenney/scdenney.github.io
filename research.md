@@ -50,15 +50,11 @@ Denney, S., van Dam, I., & Green, C. (2026). Persuasion and prejudice: Are South
 </p>
 
 <p class="publication-item">
-Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. Under review at <em>World Politics</em>. <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
-</p>
-
-<p class="publication-item">
 Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoint experiments using the case of Taiwan. Under review at <em>Political Behavior</em>. <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7027118" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2026). Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. Under review. <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+Denney, S. (2026). Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. Under review at <em>American Political Science Review</em>. <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 </div>
 
@@ -67,6 +63,10 @@ Denney, S. (2026). Governing Immigration by the Rules: Legal Procedure, Equal Tr
 
 <p class="publication-item">
 Denney, S. (2026). Democracy and nationalism, reconsidered. <a href="https://github.com/scdenney/democracy-nationalism-reconsidered" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904542" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+</p>
+
+<p class="publication-item">
+Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
 <p class="publication-item">
