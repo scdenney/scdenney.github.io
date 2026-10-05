@@ -32,7 +32,7 @@ permalink: /projects/
 <h3>Papers in Progress</h3>
 <ul>
 <li>Denney, S., & Trummel, T. Civic Fairness and the Evaluation of Individual Immigrants. — <a href="/assets/preregistrations/civic-fairness/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
-<li>Denney, S. Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. — <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
+<li>Denney, S. Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. — <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
 <li>Denney, S. A Survey Experiment on Creedal Nationalist Persuasion. — <a href="/assets/preregistrations/creedal-persuasion/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
 <li>Steinhardt, H. C., & Denney, S. Rules, Not Race? What AfD Voters Want from Migration Policy. [Germany-only companion study, outside the NWO grant]</li>
 </ul>

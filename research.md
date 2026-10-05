@@ -74,7 +74,7 @@ Denney, S., & Trummel, T. (n.d.). Civic Fairness and the Evaluation of Individua
 </p>
 
 <p class="publication-item">
-Denney, S. (2026). Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a>
+Denney, S. (2026). Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
 <p class="publication-item">
