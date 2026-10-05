@@ -31,7 +31,7 @@ permalink: /projects/
 <section class="project-outputs" data-type="review">
 <h3>Papers Under Review</h3>
 <ul>
-<li>Denney, S. Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. [Under review] — <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
+<li>Denney, S. Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. [Under review at <em>American Political Science Review</em>] — <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
 </ul>
 </section>
 <section class="project-outputs" data-type="progress">
