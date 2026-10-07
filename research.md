@@ -122,15 +122,15 @@ Denney, S., Steinhardt, H. C., & Bhowmick, L. (2026). Identity conformity in Tai
 </p>
 
 <p class="publication-item">
-Denney, S., Zhou, T., & Brehm, R. (2025). From division to democracy: Integration of post-communist citizens in Germany and South Korea. <em>Communist and Post-Communist Studies</em>. Advance online publication. <a href="https://doi.org/10.1525/cpcs.2025.2636997" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/cpcs-2025-replication" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
+Ward, P., & Denney, S. (2026). Partisan voters in party systems with ephemeral parties: Evidence from South Korea. <em>Party Politics, 32</em>(4), 611–625. <a href="https://doi.org/10.1177/13540688251339976" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/korean-election-conjoint" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
 </p>
 
 <p class="publication-item">
-Ward, P., & Denney, S. (2025). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. <em>Policy and Society</em>. Advance online publication. <a href="https://doi.org/10.1093/polsoc/puaf027" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/welfare-chauvinism-replication" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
+Ward, P., & Denney, S. (2026). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. <em>Policy and Society, 45</em>(3), 343–357. <a href="https://doi.org/10.1093/polsoc/puaf027" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/welfare-chauvinism-replication" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
 </p>
 
 <p class="publication-item">
-Ward, P., & Denney, S. (2025). Partisan voters in party systems with ephemeral parties: Evidence from South Korea. <em>Party Politics</em>. Advance online publication. <a href="https://doi.org/10.1177/13540688251339976" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/korean-election-conjoint" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
+Brehm, R., Zhou, T., & Denney, S. (2025). From division to democracy: Integration of post-communist citizens in Germany and South Korea. <em>Communist and Post-Communist Studies</em>. Advance online publication. <a href="https://doi.org/10.1525/cpcs.2025.2636997" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/cpcs-2025-replication" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
 </p>
 
 <p class="publication-item">

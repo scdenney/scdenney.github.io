@@ -226,8 +226,8 @@ permalink: /projects/
 <section class="project-outputs" data-type="article">
 <h3>Peer-Reviewed Articles</h3>
 <ul>
-<li>Ward, P., & Denney, S. (2025). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. <em>Policy and Society</em>. Advance online publication. <a href="https://doi.org/10.1093/polsoc/puaf027" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/welfare-chauvinism-replication" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
-<li>Denney, S., Zhou, T., & Brehm, R. (2025). From division to democracy: Integration of post-communist citizens in Germany and South Korea. <em>Communist and Post-Communist Studies</em>. Advance online publication. <a href="https://doi.org/10.1525/cpcs.2025.2636997" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/cpcs-2025-replication" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
+<li>Ward, P., & Denney, S. (2026). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. <em>Policy and Society, 45</em>(3), 343–357. <a href="https://doi.org/10.1093/polsoc/puaf027" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/welfare-chauvinism-replication" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
+<li>Brehm, R., Zhou, T., & Denney, S. (2025). From division to democracy: Integration of post-communist citizens in Germany and South Korea. <em>Communist and Post-Communist Studies</em>. Advance online publication. <a href="https://doi.org/10.1525/cpcs.2025.2636997" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/cpcs-2025-replication" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a></li>
 </ul>
 </section>
 <section class="project-outputs" data-type="monograph">
