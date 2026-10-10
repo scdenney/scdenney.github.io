@@ -17,7 +17,7 @@ permalink: /teaching/
 <div class="teaching-item__body">
 <p class="teaching-item__meta"><span class="level-badge">BA</span>Korean Studies</p>
 <h3>Introduction to Computational Text Analysis</h3>
-<p>Foundational text-as-data methods applied to Korean-language sources, from historical documents to political speeches and media content.</p>
+<p>An introduction to computational text analysis in R, covering preprocessing, TF-IDF, clustering, word embeddings, sentiment analysis, and topic modeling. No programming background is required. The course runs on Korean-language corpora, but the pipeline is language-agnostic and works the same on English-language sources.</p>
 </div>
 <div class="teaching-item__actions">
 <a href="https://scdenney.github.io/ba2_digital-korea/" class="resource-link">Course website</a>
@@ -28,7 +28,7 @@ permalink: /teaching/
 <div class="teaching-item__body">
 <p class="teaching-item__meta"><span class="level-badge">BA</span>Korean Studies</p>
 <h3>Text as Data</h3>
-<p>Computational text analysis for the humanities, working with corpora and methods from natural language processing.</p>
+<p>A six-class text-as-data strand using Orange Data Mining, R, and GitHub to organize and compare corpora, concluding with an in-class hackathon.</p>
 </div>
 <div class="teaching-item__actions">
 <a href="https://scdenney.github.io/ba3tad-26/" class="resource-link">Course website</a>
@@ -63,7 +63,8 @@ permalink: /teaching/
 <div class="teaching-list">
 <div class="teaching-item">
 <div class="teaching-item__body">
-<p>I supervise BA and MA theses across four programs in International Studies, Korean Studies, Asian Studies, and International Relations. I also supervise PhD research and accept new candidates on a rolling basis.</p>
+<p>I supervise BA and MA theses across four programs in International Studies, Korean Studies, Asian Studies, and International Relations. I also supervise PhD research and welcome enquiries on a rolling basis.</p>
+<p>My research interests include national identity, migration and belonging, political institutions, and computational approaches to Korean and East Asian studies. Prospective PhD applicants should briefly describe their research question, relevant training, and proposed methods, and include a CV when getting in touch.</p>
 </div>
 <div class="supervision-actions">
 <a href="https://scdenney.github.io/thesis-supervision/" class="supervision-action"><strong>Thesis supervision website</strong><span>Program requirements, assessment criteria, and student guidelines</span></a>
