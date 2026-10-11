@@ -8,7 +8,7 @@ permalink: /projects/
 <h1>Projects</h1>
 </header>
 
-<p class="page-intro">My current research and applied policy work is organized around five active projects. Three examine national identity, migration, and belonging in democratic and democratizing societies. A fourth studies policy discourse and urban society in North Korea, and a fifth focuses on AI, labour-market change, and workforce intelligence.</p>
+<p class="page-intro">My current research and applied policy work is organized around four active projects. Three examine how national identity, migration, and belonging are shaped in democratic and democratizing societies, while a fourth extends this agenda into applied research on AI, labour-market change, and workforce intelligence.</p>
 
 <div class="project-grid">
 <article class="project-tile" id="fairness-threat" data-status="active" data-topics="migration">

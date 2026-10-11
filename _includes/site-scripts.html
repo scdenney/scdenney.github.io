@@ -77,16 +77,12 @@ document.addEventListener('DOMContentLoaded', function () {
     navToggle.setAttribute('aria-expanded', 'false');
     navigation.classList.remove('active');
     document.body.classList.remove('nav-open');
-    if (wasOpen) setElementsInert([mainContent, siteFooter], false);
-    navigation.toggleAttribute('inert', window.matchMedia('(max-width: 860px)').matches);
+    setElementsInert([mainContent, siteFooter], false);
 
     if (restoreFocus && wasOpen) navToggle.focus();
   }
 
   if (navToggle && navigation) {
-    closeNavigation(false);
-    document.documentElement.classList.add('nav-ready');
-
     navToggle.addEventListener('click', function () {
       var isExpanded = navToggle.getAttribute('aria-expanded') === 'true';
 
@@ -96,7 +92,6 @@ document.addEventListener('DOMContentLoaded', function () {
       }
 
       navToggle.setAttribute('aria-expanded', 'true');
-      navigation.removeAttribute('inert');
       navigation.classList.add('active');
       document.body.classList.add('nav-open');
       setElementsInert([mainContent, siteFooter], true);
@@ -130,7 +125,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     window.addEventListener('resize', function () {
-      if (window.innerWidth > 860 || !document.body.classList.contains('nav-open')) {
+      if (window.innerWidth > 860) {
         closeNavigation(false);
       }
     });
@@ -284,17 +279,67 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 
+  document.querySelectorAll('.research-section').forEach(function (section) {
+    var items = section.querySelectorAll('.publication-item');
+
+    if (items.length <= 5 || section.hasAttribute('data-show-all')) return;
+
+    section.classList.add('is-collapsible', 'is-collapsed');
+
+    var heading = section.querySelector('h2');
+    var publicationList = document.createElement('div');
+    publicationList.className = 'publication-list';
+    publicationList.id = (heading && heading.id ? heading.id : 'research-section') + '-items';
+    items[0].insertAdjacentElement('beforebegin', publicationList);
+    items.forEach(function (item) {
+      publicationList.appendChild(item);
+    });
+
+    var button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'show-more-btn';
+    button.setAttribute('aria-expanded', 'false');
+    button.setAttribute('aria-controls', publicationList.id);
+    button.textContent = 'Show all ' + items.length + ' items';
+    section.appendChild(button);
+
+    button.addEventListener('click', function () {
+      var isCollapsed = section.classList.toggle('is-collapsed');
+
+      button.setAttribute('aria-expanded', String(!isCollapsed));
+      button.textContent = isCollapsed ? 'Show all ' + items.length + ' items' : 'Show fewer';
+    });
+  });
+
   var projectGrid = document.querySelector('.project-grid');
 
   if (projectGrid) {
+    var outputWords = {
+      book: ['book', 'books'],
+      article: ['article', 'articles'],
+      progress: ['in progress', 'in progress'],
+      monograph: ['monograph', 'monographs'],
+      report: ['report', 'reports'],
+      talk: ['talk', 'talks'],
+      app: ['app', 'apps'],
+      media: ['media', 'media']
+    };
     var projectTiles = Array.prototype.slice.call(projectGrid.querySelectorAll('.project-tile'));
     var topicLabels = {};
     var topicOrder = [];
     var projectFilter = { status: 'all', topic: null };
     var emptyMessage = document.createElement('p');
 
-    var resultStatus = document.createElement('p');
-    var activeProject = null;
+    function ledgerItem(count, label, className) {
+      var item = document.createElement('span');
+      var number = document.createElement('strong');
+
+      item.className = 'project-ledger__item' + (className ? ' ' + className : '');
+      number.textContent = count;
+      item.appendChild(number);
+      item.appendChild(document.createTextNode(label));
+      return item;
+    }
 
     function applyProjectFilter() {
       var shown = 0;
@@ -308,13 +353,9 @@ document.addEventListener('DOMContentLoaded', function () {
       });
 
       emptyMessage.hidden = shown > 0;
-      resultStatus.textContent = shown + (shown === 1 ? ' project' : ' projects') + ' shown';
     }
 
     function openProject(tile, opener) {
-      if (activeProject && activeProject.tile === tile) return;
-      if (activeProject) activeProject.close(false);
-
       var scrim = document.createElement('div');
       var drawer = document.createElement('div');
       var closeButton = document.createElement('button');
@@ -357,58 +398,44 @@ document.addEventListener('DOMContentLoaded', function () {
       setElementsInert([masthead, mainContent, siteFooter], true);
 
       window.requestAnimationFrame(function () {
-        if (!activeProject || activeProject.drawer !== drawer) return;
         scrim.classList.add('is-open');
         drawer.classList.add('is-open');
       });
       closeButton.focus();
 
-      function closeProject(restoreFocus) {
-        if (!activeProject || activeProject.drawer !== drawer) return;
-        activeProject = null;
+      function closeProject() {
         document.removeEventListener('keydown', onKeydown);
         document.body.classList.remove('project-drawer-open');
         setElementsInert([masthead, mainContent, siteFooter], false);
         scrim.classList.remove('is-open');
-        scrim.style.pointerEvents = 'none';
         drawer.classList.remove('is-open');
-        drawer.setAttribute('inert', '');
-        heading.removeAttribute('id');
         window.setTimeout(function () {
           scrim.remove();
           drawer.remove();
         }, 260);
-        if (restoreFocus !== false && opener && !opener.closest('[hidden]')) opener.focus();
-      }
-
-      activeProject = { tile: tile, drawer: drawer, close: closeProject };
-
-      function dismissProject() {
-        if (projectFromHash() === tile) {
-          window.history.replaceState(window.history.state, '', window.location.pathname + window.location.search);
-        }
-        closeProject(true);
+        opener.focus();
       }
 
       function onKeydown(event) {
         if (event.key === 'Escape') {
           event.preventDefault();
-          dismissProject();
+          closeProject();
           return;
         }
 
         trapFocus(event, [drawer]);
       }
 
-      closeButton.addEventListener('click', dismissProject);
-      scrim.addEventListener('click', dismissProject);
+      closeButton.addEventListener('click', closeProject);
+      scrim.addEventListener('click', closeProject);
       document.addEventListener('keydown', onKeydown);
     }
 
     projectTiles.forEach(function (tile) {
       var title = tile.querySelector('.project-tile__title');
-      var openLink = document.createElement('a');
+      var openButton = document.createElement('button');
       var cue = document.createElement('span');
+      var groups = tile.querySelectorAll('.project-outputs');
 
       tile.querySelectorAll('[data-topic]').forEach(function (topic) {
         if (topicLabels[topic.dataset.topic]) return;
@@ -416,18 +443,13 @@ document.addEventListener('DOMContentLoaded', function () {
         topicOrder.push(topic.dataset.topic);
       });
 
-      openLink.href = '#' + tile.id;
-      openLink.className = 'project-tile__open';
-      openLink.setAttribute('aria-haspopup', 'dialog');
-      while (title.firstChild) openLink.appendChild(title.firstChild);
-      title.appendChild(openLink);
-      openLink.addEventListener('click', function (event) {
-        if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
-        event.preventDefault();
-        if (projectFromHash() !== tile) {
-          window.history.pushState(window.history.state, '', '#' + tile.id);
-        }
-        openProject(tile, openLink);
+      openButton.type = 'button';
+      openButton.className = 'project-tile__open';
+      openButton.setAttribute('aria-haspopup', 'dialog');
+      while (title.firstChild) openButton.appendChild(title.firstChild);
+      title.appendChild(openButton);
+      openButton.addEventListener('click', function () {
+        openProject(tile, openButton);
       });
 
       cue.className = 'project-tile__cue';
@@ -435,54 +457,37 @@ document.addEventListener('DOMContentLoaded', function () {
       cue.textContent = 'View project';
       tile.querySelector('.project-tile__top').appendChild(cue);
 
-      var featured = tile.querySelector('.project-outputs[data-type="article"] a[href], .project-outputs[data-type="monograph"] a[href]');
-      var featuredLabel = 'Published research';
+      if (!groups.length) return;
 
-      if (!featured) {
-        featured = Array.prototype.slice.call(tile.querySelectorAll('.project-outputs[data-type="review"] a[href], .project-outputs[data-type="progress"] a[href]')).filter(function (link) {
-          return /working paper|ssrn/i.test(link.textContent);
-        })[0];
-        featuredLabel = 'Working paper';
-      }
-      if (!featured) {
-        featured = tile.querySelector('.project-detail__links a[href]');
-        featuredLabel = 'Project repository';
-      }
-      if (featured) {
-        var resource = document.createElement('p');
-        var label = document.createElement('span');
-        var resourceLink = featured.cloneNode(true);
+      var ledger = document.createElement('div');
+      var total = 0;
 
-        resource.className = 'project-featured';
-        label.className = 'project-featured__label';
-        label.textContent = featuredLabel;
-        resourceLink.className = 'project-featured__link';
-        resourceLink.removeAttribute('style');
-        resourceLink.textContent = featuredLabel === 'Published research' ? 'Read publication' : featuredLabel === 'Working paper' ? 'Read working paper' : 'View repository';
-        resource.appendChild(label);
-        resource.appendChild(resourceLink);
-        tile.appendChild(resource);
-      }
+      ledger.className = 'project-ledger';
+      var tally = [];
+
+      // The tile counts papers under review as in progress; the drawer keeps them apart.
+      groups.forEach(function (group) {
+        var type = group.dataset.type === 'review' ? 'progress' : group.dataset.type;
+        var count = group.querySelectorAll('li').length;
+        var entry = tally.filter(function (item) { return item.type === type; })[0];
+
+        if (!entry) {
+          entry = { type: type, count: 0, heading: group.querySelector('h3').textContent.toLowerCase() };
+          tally.push(entry);
+        }
+
+        entry.count += count;
+        total += count;
+      });
+
+      tally.forEach(function (entry) {
+        var words = outputWords[entry.type] || [entry.heading, entry.heading];
+
+        ledger.appendChild(ledgerItem(entry.count, words[entry.count === 1 ? 0 : 1]));
+      });
+      ledger.insertBefore(ledgerItem(total, total === 1 ? 'output' : 'outputs', 'project-ledger__total'), ledger.firstChild);
+      tile.appendChild(ledger);
     });
-
-    function projectFromHash() {
-      var id;
-      try { id = decodeURIComponent(window.location.hash.slice(1)); } catch (error) { return null; }
-      return projectTiles.filter(function (tile) { return tile.id === id; })[0] || null;
-    }
-
-    function syncProjectWithHash() {
-      var tile = projectFromHash();
-      if (tile) {
-        openProject(tile, tile.querySelector('.project-tile__open'));
-      } else if (activeProject) {
-        activeProject.close(true);
-      }
-    }
-
-    window.addEventListener('popstate', syncProjectWithHash);
-    window.addEventListener('hashchange', syncProjectWithHash);
-    syncProjectWithHash();
 
     var filterBar = document.createElement('div');
     var statusGroup = document.createElement('div');
@@ -534,20 +539,14 @@ document.addEventListener('DOMContentLoaded', function () {
       topicGroup.appendChild(button);
     });
 
-    resultStatus.className = 'project-filters__results';
-    resultStatus.setAttribute('role', 'status');
-    resultStatus.setAttribute('aria-live', 'polite');
-    resultStatus.setAttribute('aria-atomic', 'true');
     filterBar.appendChild(statusGroup);
     filterBar.appendChild(topicGroup);
-    filterBar.appendChild(resultStatus);
     projectGrid.parentNode.insertBefore(filterBar, projectGrid);
 
     emptyMessage.className = 'project-grid__empty';
     emptyMessage.textContent = 'No projects match these filters. Choose another status or topic.';
     emptyMessage.hidden = true;
     projectGrid.appendChild(emptyMessage);
-    applyProjectFilter();
   }
 });
 </script>
