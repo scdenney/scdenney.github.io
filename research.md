@@ -87,6 +87,13 @@ permalink: /research/
 <h2 id="working-papers">Papers Under Review</h2>
 
 <article class="publication-item">
+<h3 class="publication-title">JEV versus LLMs: Accuracy, Cost and Calibration on Seven Political Science Replications.</h3>
+<p class="publication-meta">DiGiuseppe, M., & Denney, S. (2026).</p>
+<p class="publication-meta">Under review at <em>Journal of Computational Social Science</em>.</p>
+<div class="publication-links"><a href="https://arxiv.org/abs/2610.06625" target="_blank" rel="noopener noreferrer" class="resource-link">arXiv</a></div>
+</article>
+
+<article class="publication-item">
 <h3 class="publication-title">Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support.</h3>
 <p class="publication-meta">Denney, S., Kelly, R., & Wolfe, D. (2026).</p>
 <p class="publication-meta">R&amp;R at <em>Canadian Public Policy</em>.</p>
@@ -124,12 +131,6 @@ permalink: /research/
 
 <div class="research-section">
 <h2 id="papers-in-progress">Papers in Progress</h2>
-
-<article class="publication-item">
-<h3 class="publication-title">JEV versus LLMs: Accuracy, Cost and Calibration on Seven Political Science Replications.</h3>
-<p class="publication-meta">DiGiuseppe, M., & Denney, S. (2026).</p>
-<div class="publication-links"><a href="https://arxiv.org/abs/2610.06625" target="_blank" rel="noopener noreferrer" class="resource-link">arXiv</a></div>
-</article>
 
 <article class="publication-item">
 <h3 class="publication-title">Democracy and nationalism, reconsidered.</h3>
