@@ -390,7 +390,11 @@ Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>
 <h2 id="talks">Selected Talks</h2>
 
 <p class="publication-item">
-Denney, S. (2026). Rethinking the research process: How AI is changing research for students and professors. AI Literacy for Social Scientists, Korea University, September 18. <a href="/assets/pdf/denney_2026_rethinking-research-process_korea-university-slides.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
+Denney, S. (2026). What are we thinking? AI in research and supervision. Public seminar, Leiden University, October 21. <a href="https://scdenney.github.io/ai-for-research/lectures/what-are-we-thinking/" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2026). Rethinking the research process: How AI is changing research for students and professors. AI Literacy for Social Scientists, Korea University, September 18. <a href="https://scdenney.github.io/ai-for-research/lectures/rethinking-the-research-process/" target="_blank" rel="noopener noreferrer" class="resource-link">Slides</a>
 </p>
 
 <p class="publication-item">
