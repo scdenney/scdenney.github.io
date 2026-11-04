@@ -134,6 +134,10 @@ Brehm, R., Zhou, T., & Denney, S. (2025). From division to democracy: Integratio
 </p>
 
 <p class="publication-item">
+Denney, S., Ward, P., & Green, C. (2025). Public support for migrant entrepreneurship: The case of North Koreans in the Republic of Korea. <em>International Migration Review, 59</em>(3), 1156–1180. <a href="https://doi.org/10.1177/01979183231203927" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/NK-migrant-entrepreneur-support" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
+</p>
+
+<p class="publication-item">
 Denney, S., Ward, P., & Green, C. (2024). 한국인의 남북통일방식에 대한 의식 결정요인 분석: 컨조인트 분석 조사를 중심으로 [Analyzing the determinants of South Korean attitudes toward Korean unification: A conjoint analysis]. <em>국가전략 [National Strategy], 30</em>(1), 137–163. <a href="https://sinonk.com/wp-content/uploads/2024/04/KCI_FI003053315.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">PDF</a>
 </p>
 
@@ -143,10 +147,6 @@ Green, C., & Denney, S. (2024). Why do democratic societies tolerate undemocrati
 
 <p class="publication-item">
 Denney, S., & Green, C. (2024). Public attitudes towards co-ethnic migrant integration: Evidence from South Korea. <em>Journal of Ethnic and Migration Studies, 50</em>(8), 1998–2022. <a href="https://doi.org/10.1080/1369183X.2023.2286207" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/north-korean-migrant-integration" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
-</p>
-
-<p class="publication-item">
-Denney, S., Ward, P., & Green, C. (2024). Public support for migrant entrepreneurship: The case of North Koreans in the Republic of Korea. <em>International Migration Review, 58</em>(2), 781–805. <a href="https://doi.org/10.1177/01979183231203927" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/NK-migrant-entrepreneur-support" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
 </p>
 
 <p class="publication-item">
@@ -170,15 +170,15 @@ Wolfe, D. A., DiFrancesco, R. J., & Denney, S. (2022). Localization of global ne
 </p>
 
 <p class="publication-item">
-Denney, S., & Green, C. (2021). Who should be admitted? Conjoint analysis of attitudes toward immigrants in South Korea. <em>Ethnicities, 21</em>(1), 120–145. <a href="https://doi.org/10.1177/1468796820916609" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/ROK_conjoint_immigrants" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
+Denney, S., Ward, P., & Green, C. (2022). The limits of ethnic capital: Impacts of social desirability on Korean views of co-ethnic immigration. <em>Journal of Ethnic and Migration Studies, 48</em>(7), 1669–1689. <a href="https://doi.org/10.1080/1369183X.2020.1797477" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/Korea_list_experiments" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
+</p>
+
+<p class="publication-item">
+Denney, S., & Green, C. (2021). Who should be admitted? Conjoint analysis of South Korean attitudes toward immigrants. <em>Ethnicities, 21</em>(1), 120–145. <a href="https://doi.org/10.1177/1468796820916609" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/ROK_conjoint_immigrants" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
 </p>
 
 <p class="publication-item">
 Denney, S., & Green, C. (2021). North Korean patriotism: Assessing the success and failures of a nation. <em>Korea Journal, 61</em>(1), 154–185. <a href="https://doi.org/10.25024/kj.2021.61.1.154" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/DPRK_national_identity" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
-</p>
-
-<p class="publication-item">
-Denney, S., Ward, P., & Green, C. (2020). The limits of ethnic capital: Impacts of social desirability on Korean views of co-ethnic immigration. <em>Journal of Ethnic and Migration Studies, 48</em>(7), 1669–1689. <a href="https://doi.org/10.1080/1369183X.2020.1797477" target="_blank" rel="noopener noreferrer" class="resource-link">DOI</a> <a href="https://github.com/scdenney/Korea_list_experiments" target="_blank" rel="noopener noreferrer" class="resource-link">Replication materials</a>
 </p>
 
 <p class="publication-item">
