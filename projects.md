@@ -147,7 +147,7 @@ permalink: /projects/
 <ul>
 <li>Denney, S., Fraser, N., & Steinhardt, H. C. Cues of commitment: Integration and naturalization support in Taiwan and South Korea. [R&amp;R at <em>British Journal of Political Science</em>] — <a href="https://github.com/scdenney/cues-east-asia" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
 <li>Denney, S., & Steinhardt, H. C. Measuring national identity with conjoint experiments using the case of Taiwan. [Under review at <em>Political Behavior</em>] — <a href="https://github.com/scdenney/natid-conjoint-taiwan" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
-<li>Denney, S., van Dam, I., & Green, C. Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? [R&amp;R at <em>International Migration</em>] — <a href="https://github.com/scdenney/persuasion-cues-kr-imm" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a></li>
+<li>Denney, S., van Dam, I., & Green, C. Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? [R&amp;R at <em>International Migration</em>]</li>
 </ul>
 </section>
 <section class="project-outputs" data-type="progress">
@@ -163,11 +163,11 @@ permalink: /projects/
 <li>2026. <a href="/assets/slides/political-regimes-nationalism/" target="_blank" rel="noopener noreferrer">"Political Regimes and the Shape of Nationalism,"</a> American Political Science Association (APSA) Annual Meeting, Boston, September 6.</li>
 <li>2026. <a href="/assets/slides/measuring-national-identity/" target="_blank" rel="noopener noreferrer">"Measuring National Identity with Conjoint Experiments Using the Case of Taiwan,"</a> Ostasienforum, Department of East Asian Studies, University of Vienna, June 30.</li>
 <li>2026. <a href="/assets/pdf/denney_2026_identity-conformity_korea-university-slides.pdf" target="_blank" rel="noopener noreferrer">"Identity Conformity in Taiwan and South Korea: Why Citizens in Divided Societies Are Pressured to Overstate National Pride,"</a> Korea University, May 13.</li>
-<li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/09/apsa_2024-denney_hcs_qi.pdf" target="_blank">"Democracy and Nationalism: The Case of Taiwan,"</a> American Political Science Association (APSA) Conference, September 4-8.</li>
+<li>2024. "Democracy and Nationalism: The Case of Taiwan," American Political Science Association (APSA) Conference, September 4-8.</li>
 <li>2024. "Who Are 'We' and How Do We Know It? New Experimental Designs for Measuring National Identity," Consequences of Identity Politics Workshop, University of Southampton, July 24-25.</li>
-<li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/07/denney_steinhardt_nus-final.pdf" target="_blank">"How Inclusive Are National Identities in East Asian Democracies? Exploring a New Conjoint Approach,"</a> East Asia Institute, National University of Singapore, July 19.</li>
-<li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/07/epsa24-citizenship-expansion-east-asia-denney.pdf" target="_blank">"Public Attitudes Towards Immigrant Incorporation in South Korea, Taiwan, and Japan,"</a> European Political Science Association (EPSA) Conference, July 4-6.</li>
-<li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/06/lias-citizenship-expansion-east-asia-denney2.pdf" target="_blank">"Public Support for Citizenship Expansion in East Asian Democracies,"</a> LIAS Talk Series, Leiden University Institute for Area Studies (LIAS), May 15.</li>
+<li>2024. "How Inclusive Are National Identities in East Asian Democracies? Exploring a New Conjoint Approach," East Asia Institute, National University of Singapore, July 19.</li>
+<li>2024. "Public Attitudes Towards Immigrant Incorporation in South Korea, Taiwan, and Japan," European Political Science Association (EPSA) Conference, July 4-6.</li>
+<li>2024. "Public Support for Citizenship Expansion in East Asian Democracies," LIAS Talk Series, Leiden University Institute for Area Studies (LIAS), May 15.</li>
 <li>2023. "Size or Speed? Public Attitudes toward Rising Immigration Levels in Historically Homogeneous Nations," American Political Science Association (APSA) Conference, August 31-September 3.</li>
 <li>2023. "Measuring National Identity: A Choice-Based Conjoint Approach," Midwest Political Science Association (MPSA) Conference, April 13-16.</li>
 <li>2023. <a href="https://docs.google.com/presentation/d/1fioI78LissBdRcxStNU9UO3Tt_BM1QniOutxw7Fl5nA/edit#slide=id.gf71da67333_1_0" target="_blank">"Why Do Democratic Societies Tolerate Undemocratic Laws? Sorting Public Support for the National Security Act in South Korea,"</a> International Studies Association (ISA) Conference, March 15-18.</li>
@@ -292,7 +292,7 @@ permalink: /projects/
 <section class="project-outputs" data-type="talk">
 <h3>Presentations</h3>
 <ul>
-<li>2023. <a href="https://scdenney.net/wp-content/uploads/2024/06/2023_09_20_scale-up_workshop-final.pdf" target="_blank">"Scale-ups and Canada's Innovation Policy Suite: Usage and Impacts,"</a> Seminar, Treasury Board of Canada Secretariat, September 20.</li>
+<li>2023. "Scale-ups and Canada's Innovation Policy Suite: Usage and Impacts," Seminar, Treasury Board of Canada Secretariat, September 20.</li>
 <li>2023. "Scale-ups and Canada's Innovation Policy Suite: Usage and Impacts," 57th Canadian Economics Association Conference, May 30-June 3.</li>
 <li>2020. <a href="https://scdenney.files.wordpress.com/2021/10/denney-vu_wekh_report_presentation.pdf" target="_blank">"Scale the Gap: Impact of Growth Barriers on Women Entrepreneurs in Canadian High-Growth Firms,"</a> Canadian Council for Small Business and Entrepreneurship (CCSBE) Annual Conference, October 16-17.</li>
 </ul>
@@ -345,7 +345,7 @@ permalink: /projects/
 <h3>Presentations</h3>
 <ul>
 <li>2024. <a href="https://www.youtube.com/watch?v=_Fms9wypMbE&t=3232s" target="_blank">"Quiet Changes in the Daily Life of North Koreans, Now in North Korea,"</a> Yonsei University, October 28.</li>
-<li>2024. <a href="https://scdenney.net/wp-content/uploads/2024/08/05082024-drpk_information-dissimination-denney_yonsei-presentation-1.pdf" target="_blank">"Determinants of Foreign Information Use in North Korea: Research Findings and Implications,"</a> International North Korean Studies Networking Forum, Yonsei University, August 5.</li>
+<li>2024. "Determinants of Foreign Information Use in North Korea: Research Findings and Implications," International North Korean Studies Networking Forum, Yonsei University, August 5.</li>
 <li>2022. <a href="https://www.stimson.org/event/hackers-and-social-networks-how-north-koreans-are-accessing-foreign-information/" target="_blank">"Hackers and Social Networks: How North Koreans Are Accessing Foreign Information,"</a> Stimson Center, April 27.</li>
 </ul>
 </section>

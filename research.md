@@ -46,7 +46,7 @@ Denney, S., Fraser, N., & Steinhardt, H. C. (2026). Cues of commitment: Integrat
 </p>
 
 <p class="publication-item">
-Denney, S., van Dam, I., & Green, C. (2026). Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? R&amp;R at <em>International Migration</em>. <a href="https://github.com/scdenney/persuasion-cues-kr-imm" target="_blank" rel="noopener noreferrer" class="resource-link">Working paper</a>
+Denney, S., van Dam, I., & Green, C. (2026). Persuasion and prejudice: Are South Korean attitudes toward immigration open to change? R&amp;R at <em>International Migration</em>.
 </p>
 
 <p class="publication-item">
