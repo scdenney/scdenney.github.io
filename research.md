@@ -58,7 +58,7 @@ Denney, S. (2026). Governing Immigration by the Rules: Legal Procedure, Equal Tr
 </p>
 
 <p class="publication-item">
-DiGiuseppe, M., & Denney, S. (2026). JEV versus LLMs: Accuracy, Cost and Calibration on Seven Political Science Replications. Under review at <em>Journal of Computational Social Science</em>. <a href="https://arxiv.org/abs/2610.06625" target="_blank" rel="noopener noreferrer" class="resource-link">arXiv</a>
+Denney, S., & DiGiuseppe, M. (2026). JEV versus LLMs: Accuracy, Cost and Calibration on Seven Political Science Replications. Under review at <em>Journal of Computational Social Science</em>. <a href="https://arxiv.org/abs/2610.06625" target="_blank" rel="noopener noreferrer" class="resource-link">arXiv</a>
 </p>
 </div>
 
