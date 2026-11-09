@@ -54,16 +54,16 @@ Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoin
 </p>
 
 <p class="publication-item">
-Denney, S. (2026). Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. Under review at <em>American Political Science Review</em>. <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
-</p>
-
-<p class="publication-item">
 Denney, S., & DiGiuseppe, M. (2026). JEV versus LLMs: Accuracy, Cost and Calibration on Seven Political Science Replications. Under review at <em>Journal of Computational Social Science</em>. <a href="https://arxiv.org/abs/2610.06625" target="_blank" rel="noopener noreferrer" class="resource-link">arXiv</a>
 </p>
 </div>
 
 <div class="research-section">
 <h2 id="papers-in-progress">Papers in Progress</h2>
+
+<p class="publication-item">
+Denney, S. (2026). Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+</p>
 
 <p class="publication-item">
 Denney, S. (2026). Democracy and nationalism, reconsidered. <a href="https://github.com/scdenney/democracy-nationalism-reconsidered" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904542" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
