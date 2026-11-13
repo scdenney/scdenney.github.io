@@ -1184,7 +1184,7 @@ details ul li {
 
 /* Research keeps the original heading hierarchy and reveals a plain bibliography. */
 .research-section {
-  margin: 0 0 2.1rem;
+  margin: 0 0 1.65rem;
   border: 0;
   border-radius: 0;
   background: transparent;
@@ -1197,14 +1197,17 @@ details ul li {
   align-items: center;
   gap: 0.7rem;
   max-width: 100%;
-  padding: 0;
+  padding: 0 0 0.5rem;
+  border-bottom: 2px solid var(--color-border-strong);
   background: transparent;
   box-shadow: none;
   transform: none;
+  transition: border-color 0.2s ease;
 }
 
 .research-section > summary:hover,
 .research-section > summary:focus-visible {
+  border-color: var(--color-accent-strong);
   background: transparent;
   box-shadow: none;
   transform: none;
@@ -1226,12 +1229,6 @@ details.research-section[open] > summary::after {
   text-transform: uppercase;
 }
 
-.research-section > summary:hover h2 {
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.22em;
-}
-
 .research-section__arrow {
   flex: 0 0 auto;
   width: 0.58rem;
@@ -1239,34 +1236,34 @@ details.research-section[open] > summary::after {
   margin-top: -0.25rem;
   border-right: 2px solid var(--color-accent-strong);
   border-bottom: 2px solid var(--color-accent-strong);
-  transform: rotate(45deg);
+  transform: rotate(225deg);
   transition: transform 0.2s ease;
 }
 
 .research-section[open] .research-section__arrow {
-  transform: rotate(225deg);
+  transform: rotate(45deg);
 }
 
 .research-section > .publication-list {
   max-width: var(--section-width);
-  padding: 1rem 0 0 0.2rem;
+  padding: 0.45rem 0 0 0.2rem;
   border: 0;
 }
 
 .research-section .publication-item {
-  margin: 0 0 1.05rem;
-  padding: 0;
+  margin: 0;
+  padding: 0.85rem 0.15rem;
   border: 0;
   border-radius: 0;
   background: transparent;
   box-shadow: none;
   font-size: 0.96rem;
-  line-height: 1.65;
+  line-height: 1.6;
   text-indent: 0;
 }
 
-.research-section .publication-item:last-child {
-  margin-bottom: 0;
+.research-section .publication-item + .publication-item {
+  border-top: 1px solid rgba(185, 148, 112, 0.48);
 }
 
 .research-section .resource-link {
@@ -1298,7 +1295,7 @@ details.research-section[open] > summary::after {
 }
 
 .research-section .show-more-btn {
-  margin: 0.25rem 0 0 0.2rem;
+  margin: 0.45rem 0 0 0.35rem;
   padding: 0 0 0.15rem;
   border: 0;
   border-bottom: 1px solid currentColor;
