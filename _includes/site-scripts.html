@@ -128,6 +128,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
   document.querySelectorAll('.research-section').forEach(function (section) {
     var items = section.querySelectorAll('.publication-item');
+    var heading = section.querySelector('summary h2');
+
+    if (heading) {
+      var count = document.createElement('span');
+      count.className = 'research-section__count';
+      count.textContent = '(' + items.length + ')';
+      heading.appendChild(count);
+    }
 
     if (items.length <= 5) return;
 
@@ -140,14 +148,14 @@ document.addEventListener('DOMContentLoaded', function () {
     button.className = 'show-more-btn';
     button.setAttribute('aria-expanded', 'false');
     button.setAttribute('aria-controls', publicationList.id);
-    button.textContent = 'Show all ' + items.length + ' items';
+    button.textContent = 'Show ' + (items.length - 5) + ' more';
     publicationList.insertAdjacentElement('afterend', button);
 
     button.addEventListener('click', function () {
       var isCollapsed = section.classList.toggle('is-collapsed');
 
       button.setAttribute('aria-expanded', String(!isCollapsed));
-      button.textContent = isCollapsed ? 'Show all ' + items.length + ' items' : 'Show fewer';
+      button.textContent = isCollapsed ? 'Show ' + (items.length - 5) + ' more' : 'Show fewer';
     });
   });
 
