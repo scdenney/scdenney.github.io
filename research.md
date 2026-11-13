@@ -357,11 +357,19 @@ Denney, S., Green, C., & Gleason, B. (2015). The whisper in the ear: Re-defector
 </details>
 
 <details class="research-section">
-<summary id="commentary"><h2>Selected Commentary</h2><span class="research-section__arrow" aria-hidden="true"></span></summary>
+<summary id="commentary"><h2>Commentary and Media</h2><span class="research-section__arrow" aria-hidden="true"></span></summary>
 <div class="publication-list" id="commentary-items">
 
 <p class="publication-item">
 Denney, S. (2025, March). Will Lee Jae-myung rise from South Korea's political chaos? <em>The Diplomat</em>. <a href="https://thediplomat.com/2025/03/will-lee-jae-myung-rise-from-south-koreas-political-chaos/" target="_blank" rel="noopener noreferrer" class="resource-link">Article</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2024, December 4). Guest on "K-Popped: How did South Korea descend into crisis?" <em>K-Popped</em> podcast, hosted by E. Tamkin and R. Venkat. <a href="https://rohanvenkat.substack.com/p/k-popped-how-did-south-korea-descend-999" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2023, October 4). Guest on "How outside information spreads in North Korea." <em>North Korea News Podcast</em> (NK News), Ep. 309, hosted by J. Zwetsloot.
 </p>
 
 <p class="publication-item">
@@ -379,6 +387,31 @@ Denney, S., & Green, C. (2022, May). Improving North Korean defector integration
 <p class="publication-item">
 Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>Italian Institute for International Political Studies (ISPI)</em>. <a href="https://www.ispionline.it/en/publication/south-koreans-support-immigration-conditions-apply-33979" target="_blank" rel="noopener noreferrer" class="resource-link">Article</a>
 </p>
+
+<p class="publication-item">
+Denney, S. (2021, December 10). Quoted in M. Hemmadi, "Scale-ups drive productivity growth and R&amp;D spending in Canada, study finds." <em>The Logic</em>. <a href="https://thelogic.co/news/scale-ups-drive-productivity-growth-and-rd-spending-in-canada-study-finds" target="_blank" rel="noopener noreferrer" class="resource-link">Interview</a>
+</p>
+
+<p class="publication-item">
+Denney, S., & Green, C. (2018, November 30). Guests on "How Koreans define Koreaness." <em>KEI Podcast</em>, Korea Economic Institute of America. <a href="https://keia.org/podcasts/how-koreans-define-koreaness-christopher-green-and-steven-denney/" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2018, April 1). Guest on "Korean nationalism." <em>The Korea Now Podcast</em>, Ep. 5, hosted by J. Lea-Henry. <a href="https://korea-now-podcast.libsyn.com/the-korea-now-podcast-5-steven-denney-korean-nationalism" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2018, March 13). Guest on "Human cost of war on Korean peninsula unthinkable." <em>Unpacking the News</em>, Ep. 46, Harbinger Media Network. <a href="https://www.spreaker.com/user/8993462/utn-ep46-steve-denney-final-mastere" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2016, August 19). Guest on South Korean democracy after the parliamentary elections. <em>Korea and the World</em>, Ep. 71. <a href="https://www.koreaandtheworld.org/steven-denney/" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+</p>
+
+<p class="publication-item">
+Denney, S., & Green, C. (2015, July 31). Guests on "Making sense of North Korea's re-defector press conferences." <em>KEI Podcast</em>, Korea Economic Institute of America. <a href="https://keia.org/podcasts/making-sense-of-north-koreas-re-defector-press-conferences/" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+</p>
+
 </div>
 </details>
 
