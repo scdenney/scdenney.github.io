@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var projectTiles = Array.prototype.slice.call(projectGrid.querySelectorAll('.project-tile'));
     var topicLabels = {};
     var topicOrder = [];
-    var projectFilter = { status: 'all', topic: null };
+    var projectFilter = { status: 'active', topic: null };
     var emptyMessage = document.createElement('p');
 
     function ledgerItem(count, label, className) {
@@ -388,6 +388,7 @@ document.addEventListener('DOMContentLoaded', function () {
     emptyMessage.textContent = 'No projects match these filters. Choose another status or topic.';
     emptyMessage.hidden = true;
     projectGrid.appendChild(emptyMessage);
+    applyProjectFilter();
   }
 });
 </script>
