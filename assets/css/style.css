@@ -1229,14 +1229,6 @@ details.research-section[open] > summary::after {
   text-transform: uppercase;
 }
 
-.research-section__count {
-  margin-left: 0.38rem;
-  color: var(--color-text-soft);
-  font-size: 0.84rem;
-  font-weight: 500;
-  letter-spacing: 0;
-}
-
 .research-section__arrow {
   flex: 0 0 auto;
   width: 0.58rem;

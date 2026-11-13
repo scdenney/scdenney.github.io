@@ -128,14 +128,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
   document.querySelectorAll('.research-section').forEach(function (section) {
     var items = section.querySelectorAll('.publication-item');
-    var heading = section.querySelector('summary h2');
-
-    if (heading) {
-      var count = document.createElement('span');
-      count.className = 'research-section__count';
-      count.textContent = '(' + items.length + ')';
-      heading.appendChild(count);
-    }
 
     if (items.length <= 5) return;
 
