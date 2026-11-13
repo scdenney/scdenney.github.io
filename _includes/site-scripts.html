@@ -13,11 +13,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
   var navToggle = document.querySelector('.nav-toggle');
   var navigation = document.getElementById('site-navigation');
-  var researchSidebar = document.querySelector('.research-sidebar');
-  var researchToc = researchSidebar ? researchSidebar.querySelector('.research-toc') : null;
-  var researchToggle = null;
-  var researchClose = null;
-  var researchBackgroundElements = [];
   var mainContent = document.getElementById('main-content');
   var siteFooter = document.querySelector('.site-footer');
   var masthead = document.querySelector('.masthead');
@@ -131,169 +126,14 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  function closeResearchToc(restoreFocus) {
-    if (!researchSidebar || !researchToggle) return;
-
-    var wasOpen = researchSidebar.classList.contains('is-open');
-    researchSidebar.classList.remove('is-open');
-    researchToggle.setAttribute('aria-expanded', 'false');
-    document.body.classList.remove('research-toc-open');
-    setElementsInert(researchBackgroundElements, false);
-
-    if (restoreFocus && wasOpen) researchToggle.focus();
-  }
-
-  if (researchSidebar && researchToc) {
-    var researchLayout = researchSidebar.closest('.research-layout');
-    var researchSidebarInner = researchSidebar.querySelector('.research-sidebar-inner');
-    researchSidebar.id = researchSidebar.id || 'research-section-navigation';
-
-    researchToggle = document.createElement('button');
-    researchToggle.type = 'button';
-    researchToggle.className = 'research-toc-toggle';
-    researchToggle.setAttribute('aria-expanded', 'false');
-    researchToggle.setAttribute('aria-controls', researchSidebar.id);
-    researchToggle.textContent = 'Browse sections';
-
-    if (researchLayout) {
-      researchLayout.insertAdjacentElement('beforebegin', researchToggle);
-    }
-
-    if (researchSidebarInner) {
-      researchClose = document.createElement('button');
-      researchClose.type = 'button';
-      researchClose.className = 'research-sidebar-close';
-      researchClose.setAttribute('aria-label', 'Close sections');
-      researchClose.textContent = '×';
-      researchSidebarInner.insertAdjacentElement('afterbegin', researchClose);
-
-      researchClose.addEventListener('click', function () {
-        closeResearchToc(true);
-      });
-    }
-
-    researchBackgroundElements = [masthead, siteFooter, researchToggle, document.querySelector('.research-content')];
-
-    researchToggle.addEventListener('click', function () {
-      var willOpen = !researchSidebar.classList.contains('is-open');
-
-      if (!willOpen) {
-        closeResearchToc(true);
-        return;
-      }
-
-      researchSidebar.classList.add('is-open');
-      researchToggle.setAttribute('aria-expanded', 'true');
-      document.body.classList.add('research-toc-open');
-      if (researchClose) researchClose.focus();
-      setElementsInert(researchBackgroundElements, true);
-    });
-
-    researchSidebar.addEventListener('click', function (event) {
-      if (event.target !== researchSidebar) return;
-      closeResearchToc(true);
-    });
-
-    researchToc.querySelectorAll('a').forEach(function (link) {
-      link.addEventListener('click', function () {
-        closeResearchToc(false);
-      });
-    });
-
-    window.addEventListener('resize', function () {
-      if (window.innerWidth > 860) {
-        closeResearchToc(false);
-      }
-    });
-
-    document.addEventListener('keydown', function (event) {
-      if (!researchSidebar.classList.contains('is-open')) return;
-
-      if (event.key === 'Escape') {
-        event.preventDefault();
-        closeResearchToc(true);
-        return;
-      }
-
-      trapFocus(event, [researchSidebar]);
-    });
-  }
-
-  if (researchToc) {
-    var tocLinks = Array.prototype.slice.call(researchToc.querySelectorAll('a[href^="#"]'));
-    var headings = [];
-    tocLinks.forEach(function (link) {
-      var id = link.getAttribute('href').slice(1);
-      var heading = document.getElementById(id);
-      if (heading) headings.push({ id: id, el: heading, link: link });
-    });
-
-    if (headings.length) {
-      var activeId = null;
-      var wideResearchToc = window.matchMedia('(min-width: 1025px)');
-      function setActive(id) {
-        if (id === activeId) return;
-        activeId = id;
-        headings.forEach(function (h) {
-          h.link.classList.toggle('is-active', h.id === id);
-        });
-      }
-
-      function updateActiveSection() {
-        if (!wideResearchToc.matches) {
-          setActive(null);
-          return;
-        }
-
-        var threshold = 120;
-        var scrollBottom = window.innerHeight + window.scrollY;
-        var pageHeight = document.documentElement.scrollHeight;
-        if (scrollBottom >= pageHeight - 4) {
-          setActive(headings[headings.length - 1].id);
-          return;
-        }
-        var current = headings[0];
-        for (var i = 0; i < headings.length; i++) {
-          if (headings[i].el.getBoundingClientRect().top <= threshold) {
-            current = headings[i];
-          } else {
-            break;
-          }
-        }
-        setActive(current.id);
-      }
-
-      var rafPending = false;
-      function scheduleUpdate() {
-        if (rafPending) return;
-        rafPending = true;
-        window.requestAnimationFrame(function () {
-          rafPending = false;
-          updateActiveSection();
-        });
-      }
-
-      window.addEventListener('scroll', scheduleUpdate, { passive: true });
-      window.addEventListener('resize', scheduleUpdate);
-      updateActiveSection();
-    }
-  }
-
   document.querySelectorAll('.research-section').forEach(function (section) {
     var items = section.querySelectorAll('.publication-item');
 
-    if (items.length <= 5 || section.hasAttribute('data-show-all')) return;
+    if (items.length <= 5) return;
 
     section.classList.add('is-collapsible', 'is-collapsed');
 
-    var heading = section.querySelector('h2');
-    var publicationList = document.createElement('div');
-    publicationList.className = 'publication-list';
-    publicationList.id = (heading && heading.id ? heading.id : 'research-section') + '-items';
-    items[0].insertAdjacentElement('beforebegin', publicationList);
-    items.forEach(function (item) {
-      publicationList.appendChild(item);
-    });
+    var publicationList = section.querySelector('.publication-list');
 
     var button = document.createElement('button');
     button.type = 'button';
@@ -301,7 +141,7 @@ document.addEventListener('DOMContentLoaded', function () {
     button.setAttribute('aria-expanded', 'false');
     button.setAttribute('aria-controls', publicationList.id);
     button.textContent = 'Show all ' + items.length + ' items';
-    section.appendChild(button);
+    publicationList.insertAdjacentElement('afterend', button);
 
     button.addEventListener('click', function () {
       var isCollapsed = section.classList.toggle('is-collapsed');
