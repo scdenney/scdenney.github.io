@@ -28,10 +28,15 @@ permalink: /projects/
 <p class="project-detail__links"><a href="https://github.com/scdenney/immigration-backlash-study" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a></p>
 <p>Immigration is one of the most contentious political issues in contemporary democracies, generating public backlash and policy instability. Traditional explanations of immigration attitudes focus on group threat and economic competition. Group threat theory holds that dominant groups react defensively when immigration challenges cultural identity, national character, or established hierarchies. Economic competition theory links attitudes to perceived individual or national economic risks. Recent work adds civic fairness, which argues that citizens evaluate immigration through moral principles of legal compliance and equal opportunity. These principles may outweigh group-based concerns and economic calculations.</p>
 <p>This project tests whether civic fairness overrides, complements, or conflicts with perceptions of threat and competition across different democratic contexts. It uses survey experiments in the United States, Germany, South Korea, and Singapore.</p>
+<section class="project-outputs" data-type="review">
+<h3>Papers Under Review</h3>
+<ul>
+<li>Denney, S. Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. [Under review at <em>Comparative Political Studies</em>] — <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
+</ul>
+</section>
 <section class="project-outputs" data-type="progress">
 <h3>Papers in Progress</h3>
 <ul>
-<li>Denney, S. Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. — <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
 <li>Denney, S., & Trummel, T. Civic Fairness and the Evaluation of Individual Immigrants. — <a href="/assets/preregistrations/civic-fairness/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
 <li>Denney, S. A Survey Experiment on Creedal Nationalist Persuasion. — <a href="/assets/preregistrations/creedal-persuasion/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
 <li>Steinhardt, H. C., & Denney, S. Rules, Not Race? What AfD Voters Want from Migration Policy. [Germany-only companion study, outside the NWO grant]</li>
@@ -64,10 +69,15 @@ permalink: /projects/
 <p class="project-detail__links"><a href="https://github.com/scdenney/textbook-identity-aks" target="_blank" rel="noopener noreferrer" class="resource-link">Repository</a></p>
 <p>This project sits at the intersection of digital humanities and social science, using text analysis and survey methods to study how national identity is constructed and transmitted through education. Working with a corpus of South Korean national history textbooks spanning from 1948 through 2016, collected from the National Institute of Korean History and the Georg Eckert Institute, the project covers the post-liberation authoritarian regimes and the democratic era, each presenting different grand narratives of the Korean nation.</p>
 <p>The project proceeds in two stages. First, we use AI-assisted text analysis to identify how the nation is narrated across different periods and what type of national identity is articulated in each era's textbooks. Second, we design a survey experiment that draws directly from these textbook-derived narratives, asking South Koreans to evaluate competing versions of the nation rather than respond to abstract hypotheticals. This design allows us to test whether individuals favor the version of the nation that reflects what they learned during their school years, as theories of long-run political socialization would predict.</p>
+<section class="project-outputs" data-type="review">
+<h3>Papers Under Review</h3>
+<ul>
+<li>Denney, S., & van de Pol, A. Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. [Under review at <em>Nations and Nationalism</em>] — <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
+</ul>
+</section>
 <section class="project-outputs" data-type="progress">
 <h3>Papers in Progress</h3>
 <ul>
-<li>Denney, S., & van de Pol, A. Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. — <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
 <li>Denney, S., & Lee, B. Measuring Political Bias in South Korean History Textbooks.</li>
 <li>Denney, S., & Lee, M. Authoritarian Education and Post-Transition Citizens: Evidence from South Korea and Poland.</li>
 </ul>

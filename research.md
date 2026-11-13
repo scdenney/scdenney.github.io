@@ -33,6 +33,14 @@ Denney, S., & Steinhardt, H. C. (2026). Measuring national identity with conjoin
 <p class="publication-item">
 Denney, S., & DiGiuseppe, M. (2026). JEV versus LLMs: Accuracy, Cost and Calibration on Seven Political Science Replications. Under review at <em>Journal of Computational Social Science</em>. <a href="https://arxiv.org/abs/2610.06625" target="_blank" rel="noopener noreferrer" class="resource-link">arXiv</a>
 </p>
+
+<p class="publication-item">
+Denney, S. (2026). Governing immigration by the rules: Legal procedure, equal treatment, and public support across four countries. Under review at <em>Comparative Political Studies</em>. <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+</p>
+
+<p class="publication-item">
+Denney, S., & van de Pol, A. (2026). Constructing the nation: Identity and historical narratives in South Korean history textbooks. Under review at <em>Nations and Nationalism</em>. <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+</p>
 </div>
 </details>
 
@@ -41,15 +49,7 @@ Denney, S., & DiGiuseppe, M. (2026). JEV versus LLMs: Accuracy, Cost and Calibra
 <div class="publication-list" id="papers-in-progress-items">
 
 <p class="publication-item">
-Denney, S. (2026). Governing Immigration by the Rules: Legal Procedure, Equal Treatment, and Public Support Across Four Countries. <a href="/assets/preregistrations/procedural-legitimacy/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Pre-registration</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7564458" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
-</p>
-
-<p class="publication-item">
 Denney, S. (2026). Democracy and nationalism, reconsidered. <a href="https://github.com/scdenney/democracy-nationalism-reconsidered" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904542" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
-</p>
-
-<p class="publication-item">
-Denney, S., & van de Pol, A. (2026). Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
 <p class="publication-item">
