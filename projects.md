@@ -88,7 +88,7 @@ permalink: /projects/
 <span class="project-tile__years">2026</span>
 </div>
 <h2 class="project-tile__title">AI Workforce Intelligence Initiative</h2>
-<p class="project-tile__summary">A measurement framework, a pilot study on young workers, and a public dashboard for tracking how AI is changing Canada's workforce.</p>
+<p class="project-tile__summary">A published measurement framework, a pilot study on young workers, and a public dashboard (AI Work Watch) for tracking how AI is changing Canada's workforce.</p>
 <div class="project-detail">
 <dl class="project-facts">
 <div><dt>Duration</dt><dd>8 months (2026)</dd></div>
@@ -97,11 +97,22 @@ permalink: /projects/
 <div><dt>Funding</dt><dd>Future Skills Centre</dd></div>
 </dl>
 <p>This project lays the groundwork for an ongoing initiative to track AI's impacts and trends on Canada's workforce and economy. It addresses three core questions: What data and measures allow ongoing analysis of how AI is penetrating the Canadian economy? What methodologies can identify AI's impact on the labour market? And how can this intelligence be mobilized to support policymakers, industry, and education systems?</p>
-<p>The project proceeds through three workstreams. The first develops an <em>AI Workforce Intelligence Measurement Framework</em> — an environmental scan identifying key measures of AI diffusion and impact, categorized by domain, frequency, and accessibility, with gap analysis aligned with Statistics Canada's TechStat initiatives. The second is a <em>pilot study on GenAI's impact on young workers and entry-level jobs</em>, combining GenAI usage indicators, occupational exposure measures, and comparative methodologies for isolating AI's labour market effects since ChatGPT's release. The third workstream develops an <em>AI Workforce Monitor</em>, a publicly accessible interactive data dashboard tracking key measures of AI adoption and disruption in Canada's workforce, modeled on the Dais Inclusive Innovation Monitor and Harvard's Generative AI Adoption Tracker.</p>
+<p>The project proceeds through three workstreams. The first develops an <em>AI Workforce Intelligence Measurement Framework</em> — an environmental scan identifying key measures of AI diffusion and impact, categorized by domain, frequency, and accessibility, with gap analysis aligned with Statistics Canada's TechStat initiatives. The second is a <em>pilot study on GenAI's impact on young workers and entry-level jobs</em>, combining GenAI usage indicators, occupational exposure measures, and comparative methodologies for isolating AI's labour market effects since ChatGPT's release. The third workstream develops a publicly accessible interactive data dashboard tracking key measures of AI adoption and disruption in Canada's workforce, modeled on the Dais Inclusive Innovation Monitor and Harvard's Generative AI Adoption Tracker. The framework report launched the <a href="https://dais.ca/aiobservatory/" target="_blank" rel="noopener noreferrer">Dais AI Observatory</a>, and the dashboard is live as <a href="https://aiworkwatch.dais.ca/" target="_blank" rel="noopener noreferrer">AI Work Watch</a>.</p>
+<section class="project-outputs" data-type="monograph">
+<h3>Research Monograph</h3>
+<ul>
+<li>Vu, V., & Denney, S. (2026). <em>The measures that matter: A measurement framework for how AI impacts work and the economy</em>. The Dais, Toronto Metropolitan University. <a href="https://dais.ca/reports/ai-measurement-framework/" target="_blank" rel="noopener noreferrer" class="resource-link">Report</a> <a href="https://dais.ca/wp-content/uploads/2026/11/AI-Measurement-Framework_V2.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">PDF</a></li>
+</ul>
+</section>
+<section class="project-outputs" data-type="tool">
+<h3>Tools</h3>
+<ul>
+<li><a href="https://aiworkwatch.dais.ca/" target="_blank" rel="noopener noreferrer">AI Work Watch: Monitoring AI's Impact on Canada's Economy.</a> Public dashboard tracking how AI is changing work and jobs in Canada, benchmarked against the PC and internet eras, with data by sector, employment, and age group. The Dais, with the Future Skills Centre.</li>
+</ul>
+</section>
 <section class="project-outputs" data-type="progress">
 <h3>Papers in Progress</h3>
 <ul>
-<li>Vu, V., & Denney, S. Are We There Yet? A Measurement Framework for How AI Impacts Work and the Economy.</li>
 <li>Vu, V., Denney, S., Shahidi, F. V., & Jain, S. Adoption Without Disruption? Generative AI and the Changing Canadian Labour Market.</li>
 </ul>
 </section>

@@ -85,10 +85,6 @@ Denney, S., Breuker, R., & van de Pol, A. (n.d.). Sorting the Socialist Capital:
 </p>
 
 <p class="publication-item">
-Vu, V., & Denney, S. (2026). Are We There Yet? A Measurement Framework for How AI Impacts Work and the Economy.
-</p>
-
-<p class="publication-item">
 Vu, V., Denney, S., Shahidi, F. V., & Jain, S. (2026). Adoption Without Disruption? Generative AI and the Changing Canadian Labour Market.
 </p>
 </div>
@@ -205,6 +201,10 @@ Cathcart, A., Denney, S., & Green, C. (Eds.). (2020). <em>Decoding the Sino-Nort
 <details class="research-section">
 <summary id="research-monographs"><h2>Research Monographs</h2><span class="research-section__arrow" aria-hidden="true"></span></summary>
 <div class="publication-list" id="research-monographs-items">
+
+<p class="publication-item">
+Vu, V., & Denney, S. (2026). <em>The measures that matter: A measurement framework for how AI impacts work and the economy</em>. The Dais, Toronto Metropolitan University. <a href="https://dais.ca/reports/ai-measurement-framework/" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">Report</a> <a href="https://dais.ca/wp-content/uploads/2026/11/AI-Measurement-Framework_V2.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">PDF</a>
+</p>
 
 <p class="publication-item">
 Denney, S., Frank, R., Brehm, R., Zhou, T., & Ward, P. (2023). <em>Integration challenges and opportunities in divided countries: A comparative analysis of Germany and South Korea</em>. European Centre for North Korean Studies, University of Vienna. <a href="/assets/pdf/denney-et-al-2023-ifes-research-report.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">PDF</a>
