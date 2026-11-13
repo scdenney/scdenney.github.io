@@ -149,7 +149,7 @@ document.addEventListener('DOMContentLoaded', function () {
     button.setAttribute('aria-expanded', 'false');
     button.setAttribute('aria-controls', publicationList.id);
     button.textContent = 'Show ' + (items.length - 5) + ' more';
-    publicationList.insertAdjacentElement('afterend', button);
+    publicationList.appendChild(button);
 
     button.addEventListener('click', function () {
       var isCollapsed = section.classList.toggle('is-collapsed');
