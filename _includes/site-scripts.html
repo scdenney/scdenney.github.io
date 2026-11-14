@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function () {
   document.querySelectorAll('.research-section').forEach(function (section) {
     var items = section.querySelectorAll('.publication-item');
 
-    if (items.length <= 5) return;
+    if (section.hasAttribute('open') || items.length <= 5) return;
 
     section.classList.add('is-collapsible', 'is-collapsed');
 

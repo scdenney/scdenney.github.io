@@ -369,11 +369,19 @@ Denney, S. (2024, December 4). Guest on "K-Popped: How did South Korea descend i
 </p>
 
 <p class="publication-item">
+Ward, P., & Denney, S. (2024, April 10). South Korean partisan voters prioritize foreign policy, new study reveals. <em>Korea Pro</em>. <a href="https://koreapro.org/2024/04/south-korean-partisan-voters-prioritize-foreign-policy-new-study-reveals/" target="_blank" rel="noopener noreferrer" class="resource-link">Analysis</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2023, October 4). Guest on "How outside information spreads in North Korea." <em>North Korea News Podcast</em> (NK News), Ep. 309, hosted by J. Zwetsloot.
 </p>
 
 <p class="publication-item">
 Denney, S., & Green, C. (2023, January). Because it is good for South Korea: Public support for defector entrepreneurship. <em>38 North</em>. <a href="https://www.38north.org/2023/01/because-it-is-good-for-south-korea-public-support-for-defector-entrepreneurship/" target="_blank" rel="noopener noreferrer" class="resource-link">Article</a>
+</p>
+
+<p class="publication-item">
+Frank, R., & Denney, S. (2022, September 22). The future of North Korean studies. <em>38 North</em>. <a href="https://www.38north.org/2022/09/the-future-of-north-korean-studies/" target="_blank" rel="noopener noreferrer" class="resource-link">Commentary</a>
 </p>
 
 <p class="publication-item">
@@ -397,6 +405,10 @@ Denney, S., & Green, C. (2018, November 30). Guests on "How Koreans define Korea
 </p>
 
 <p class="publication-item">
+Denney, S. (2018, May 19). Interviewed in C. Work, "What do North Korean defectors think of the recent peninsula diplomacy?" <em>The Diplomat</em>. <a href="https://thediplomat.com/2018/05/what-do-north-korean-defectors-think-of-the-recent-peninsula-diplomacy/" target="_blank" rel="noopener noreferrer" class="resource-link">Interview</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2018, April 1). Guest on "Korean nationalism." <em>The Korea Now Podcast</em>, Ep. 5, hosted by J. Lea-Henry. <a href="https://korea-now-podcast.libsyn.com/the-korea-now-podcast-5-steven-denney-korean-nationalism" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
 </p>
 
@@ -405,11 +417,39 @@ Denney, S. (2018, March 13). Guest on "Human cost of war on Korean peninsula unt
 </p>
 
 <p class="publication-item">
+Denney, S. (2018, January 3). Quoted in L. Young, "Why the North Korea telephone hotline matters for diplomacy." <em>Global News</em>. <a href="https://globalnews.ca/news/3944445/north-korea-telephone-hotline-diplomacy/" target="_blank" rel="noopener noreferrer" class="resource-link">Interview</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2017, March 14). Quoted in S. Borowiec, "After Park's ouster, what is next for South Korea?" <em>Al Jazeera</em>. <a href="https://www.aljazeera.com/amp/features/2017/3/14/after-parks-ouster-what-is-next-for-south-korea" target="_blank" rel="noopener noreferrer" class="resource-link">Interview</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2016, November 8). Guest on "Everything you wanted to know about South Korea's 'Choi-Gate'." <em>Asia Geopolitics</em>, The Diplomat, hosted by A. Panda. <a href="https://thediplomat.com/2016/11/everything-you-wanted-to-know-about-south-koreas-choi-gate/" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2016, October 25). Quoted in S. Borowiec, "Back story: A South Korean scandal with overtones of Clinton's emails." <em>Los Angeles Times</em>. <a href="https://www.latimes.com/world/asia/la-fg-korea-president-scandal-snap-story.html" target="_blank" rel="noopener noreferrer" class="resource-link">Interview</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2016, August 19). Guest on South Korean democracy after the parliamentary elections. <em>Korea and the World</em>, Ep. 71. <a href="https://www.koreaandtheworld.org/steven-denney/" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
 </p>
 
 <p class="publication-item">
+Denney, S. (2016, February 24). Quoted in S. Borowiec, "South Korean lawmakers try first filibuster since 1969 to block anti-terrorism bill." <em>Los Angeles Times</em>. <a href="https://www.latimes.com/world/la-fg-south-korea-parliament-filibuster-terror-bill-20160224-story.html" target="_blank" rel="noopener noreferrer" class="resource-link">Interview</a>
+</p>
+
+<p class="publication-item">
 Denney, S., & Green, C. (2015, July 31). Guests on "Making sense of North Korea's re-defector press conferences." <em>KEI Podcast</em>, Korea Economic Institute of America. <a href="https://keia.org/podcasts/making-sense-of-north-koreas-re-defector-press-conferences/" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2014, August 7). Guest on "Understanding North Korea's behavior." <em>Korea Talk</em>, The Diplomat, interviewed by Y. Kwon. <a href="https://thediplomat.com/2014/08/understanding-north-koreas-behavior/" target="_blank" rel="noopener noreferrer" class="resource-link">Interview</a>
+</p>
+
+<p class="publication-item">
+Green, C., & Denney, S. (2013, summer). Defector testimonies in a polarized society: From implausible story to political controversy. <em>Korean Quarterly</em>. <a href="https://www.koreanquarterly.org/wp-content/uploads/2023/12/Vol16_Summer_2013_essay7.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Column</a>
 </p>
 
 </div>
