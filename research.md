@@ -358,10 +358,19 @@ Denney, S., Green, C., & Gleason, B. (2015). The whisper in the ear: Re-defector
 
 <details class="research-section">
 <summary id="commentary"><h2>Commentary and Media</h2><span class="research-section__arrow" aria-hidden="true"></span></summary>
+<p><a href="/media/" class="resource-link">Browse the commentary and media archive</a>, including 82 articles in <em>The Diplomat</em> and 91 bylined Sino-NK posts.</p>
 <div class="publication-list" id="commentary-items">
 
 <p class="publication-item">
+Denney, S. (2026, October 8). How to do fact-checking right in the era of AI. <em>Popular by Design</em> (guest essay). <a href="https://www.popularbydesign.org/p/how-to-do-fact-checking-right-in" target="_blank" rel="noopener noreferrer" class="resource-link">Essay</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2025, March). Will Lee Jae-myung rise from South Korea's political chaos? <em>The Diplomat</em>. <a href="https://thediplomat.com/2025/03/will-lee-jae-myung-rise-from-south-koreas-political-chaos/" target="_blank" rel="noopener noreferrer" class="resource-link">Article</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2024, December 13). Quoted in S. Hauberg, "Südkoreas verzweifelter Versuch, seinen Präsidenten loszuwerden." <em>24hamburg / IPPEN.MEDIA</em>. <a href="https://www.24hamburg.de/politik/suedkorea-praesident-amtsenthebung-kriegsrecht-yoon-suk-yeol-abstimmung-parlament-zr-93467822.html" target="_blank" rel="noopener noreferrer" class="resource-link">Interview</a>
 </p>
 
 <p class="publication-item">
@@ -373,7 +382,11 @@ Ward, P., & Denney, S. (2024, April 10). South Korean partisan voters prioritize
 </p>
 
 <p class="publication-item">
-Denney, S. (2023, October 4). Guest on "How outside information spreads in North Korea." <em>North Korea News Podcast</em> (NK News), Ep. 309, hosted by J. Zwetsloot.
+Denney, S. (2023, October 4). Guest on "How outside information spreads in North Korea." <em>North Korea News Podcast</em> (NK News), Ep. 309, hosted by J. Zwetsloot. <a href="https://www.nknews.org/2023/10/how-outside-information-spreads-in-north-korea-ep-309/" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+</p>
+
+<p class="publication-item">
+Ward, P., & Denney, S. (2023, March 13). Friendship and family networks are key to getting outside info to North Koreans. <em>NK News</em>. <a href="https://www.nknews.org/2023/03/friendship-and-family-networks-are-key-to-getting-outside-info-to-north-koreans/" target="_blank" rel="noopener noreferrer" class="resource-link">Opinion</a>
 </p>
 
 <p class="publication-item">
@@ -381,11 +394,11 @@ Denney, S., & Green, C. (2023, January). Because it is good for South Korea: Pub
 </p>
 
 <p class="publication-item">
-Frank, R., & Denney, S. (2022, September 22). The future of North Korean studies. <em>38 North</em>. <a href="https://www.38north.org/2022/09/the-future-of-north-korean-studies/" target="_blank" rel="noopener noreferrer" class="resource-link">Commentary</a>
+Denney, S. (2022, November 1). Human rights and the future of the international order: Where does Seoul stand? <em>Korea On Point</em>. <a href="https://www.koreaonpoint.org/articles/article_detail.php?idx=156&amp;start=&amp;topic_idx=46" target="_blank" rel="noopener noreferrer" class="resource-link">Article</a>
 </p>
 
 <p class="publication-item">
-Denney, S. (2022). Human rights and the future of the international order: Where does Seoul stand? <em>Korea On Point</em>.
+Frank, R., & Denney, S. (2022, September 22). The future of North Korean studies. <em>38 North</em>. <a href="https://www.38north.org/2022/09/the-future-of-north-korean-studies/" target="_blank" rel="noopener noreferrer" class="resource-link">Commentary</a>
 </p>
 
 <p class="publication-item">
@@ -401,7 +414,27 @@ Denney, S. (2021, December 10). Quoted in M. Hemmadi, "Scale-ups drive productiv
 </p>
 
 <p class="publication-item">
+Froman, A., & Denney, S. (2021, April 28). What it takes for Canadian scale-ups to succeed in the knowledge economy. <em>The Globe and Mail</em>. <a href="https://www.theglobeandmail.com/business/commentary/article-what-it-takes-for-canadian-scale-ups-to-succeed-in-the-knowledge/" target="_blank" rel="noopener noreferrer" class="resource-link">Commentary</a>
+</p>
+
+<p class="publication-item">
+Denney, S., & Wolfe, D. (2021, March 24). The innovation imperative: Why Canada needs to prioritize scale-ups in the face of Big Tech's dominance. <em>Financial Post</em>. <a href="https://financialpost.com/technology/the-innovation-imperative-why-canada-needs-to-prioritize-scale-ups-in-the-face-of-big-techs-dominance" target="_blank" rel="noopener noreferrer" class="resource-link">Commentary</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2020, April 29). Panelist on "How is COVID-19 affecting global supply chains?" <em>Innovation Policy Lab</em>, Munk School of Global Affairs &amp; Public Policy. <a href="https://www.youtube.com/watch?v=0-0tCOu62AU" target="_blank" rel="noopener noreferrer" class="resource-link">Recording</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2019, January 3). Quoted in A. Blatchford, "Tech CEOs say Liberal innovation agenda does little to help firms scale up: Poll." <em>The Canadian Press</em> via CityNews. <a href="https://toronto.citynews.ca/2019/01/03/tech-ceos-say-liberal-innovation-agenda-does-little-to-help-firms-scale-up-poll/" target="_blank" rel="noopener noreferrer" class="resource-link">Interview</a>
+</p>
+
+<p class="publication-item">
 Denney, S., & Green, C. (2018, November 30). Guests on "How Koreans define Koreaness." <em>KEI Podcast</em>, Korea Economic Institute of America. <a href="https://keia.org/podcasts/how-koreans-define-koreaness-christopher-green-and-steven-denney/" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+</p>
+
+<p class="publication-item">
+Denney, S., &amp; Abrahamian, A. (2018, July 17). A Black Korean in Pyongyang. <em>Foreign Policy</em>. <a href="https://foreignpolicy.com/2018/07/17/a-black-korean-in-pyongyang/" target="_blank" rel="noopener noreferrer" class="resource-link">Article</a>
 </p>
 
 <p class="publication-item">
@@ -413,7 +446,7 @@ Denney, S. (2018, April 1). Guest on "Korean nationalism." <em>The Korea Now Pod
 </p>
 
 <p class="publication-item">
-Denney, S. (2018, March 13). Guest on "Human cost of war on Korean peninsula unthinkable." <em>Unpacking the News</em>, Ep. 46, Harbinger Media Network. <a href="https://www.spreaker.com/user/8993462/utn-ep46-steve-denney-final-mastere" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+Denney, S. (2018, March). Guest on "Human cost of war on Korean peninsula unthinkable." <em>Unpacking the News</em>, Ep. 46, Harbinger Media Network; also released as <em>The Korea File</em>, Ep. 72. <a href="https://www.spreaker.com/user/8993462/utn-ep46-steve-denney-final-mastere" target="_blank" rel="noopener noreferrer" class="resource-link">Unpacking the News</a> · <a href="https://www.spreaker.com/episode/peace-olympics-lead-to-shock-diplomatic-breakthrough--14237768" target="_blank" rel="noopener noreferrer" class="resource-link">The Korea File</a>
 </p>
 
 <p class="publication-item">
@@ -425,7 +458,15 @@ Denney, S. (2017, March 14). Quoted in S. Borowiec, "After Park's ouster, what i
 </p>
 
 <p class="publication-item">
+Denney, S. (2017, March 13). South Koreans can't agree what democracy is. <em>Foreign Policy</em>. <a href="https://foreignpolicy.com/2017/03/13/south-koreans-cant-agree-what-democracy-is/" target="_blank" rel="noopener noreferrer" class="resource-link">Article</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2016, November 8). Guest on "Everything you wanted to know about South Korea's 'Choi-Gate'." <em>Asia Geopolitics</em>, The Diplomat, hosted by A. Panda. <a href="https://thediplomat.com/2016/11/everything-you-wanted-to-know-about-south-koreas-choi-gate/" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2016, November 2). Koreans really hate their president's secret shamanistic-evangelical advisor. <em>Foreign Policy</em>. <a href="https://foreignpolicy.com/2016/11/02/koreans-really-hate-their-presidents-secret-shamanistic-evangelical-advisor/" target="_blank" rel="noopener noreferrer" class="resource-link">Article</a>
 </p>
 
 <p class="publication-item">
@@ -433,7 +474,15 @@ Denney, S. (2016, October 25). Quoted in S. Borowiec, "Back story: A South Korea
 </p>
 
 <p class="publication-item">
+Denney, S. (2016, October). Identité nationale et nationalisme nord-coréens [North Korean national identity and nationalism]. <em>Korea Analysis</em>, no. 11, 40–44. <a href="https://asiacentre.eu/wp-content/uploads/2021/12/Korea_Analysis_111.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Article</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2016, August 19). Guest on South Korean democracy after the parliamentary elections. <em>Korea and the World</em>, Ep. 71. <a href="https://www.koreaandtheworld.org/steven-denney/" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+</p>
+
+<p class="publication-item">
+Green, C., & Denney, S. (2016, June 14). From hero to zero: North Korea's failure in Yanbian. <em>NK Pro</em>. <a href="https://www.nknews.org/pro/from-hero-to-zero-north-koreas-failure-in-yanbian/" target="_blank" rel="noopener noreferrer" class="resource-link">Analysis</a>
 </p>
 
 <p class="publication-item">
@@ -441,7 +490,27 @@ Denney, S. (2016, February 24). Quoted in S. Borowiec, "South Korean lawmakers t
 </p>
 
 <p class="publication-item">
+Denney, S. (2016, February). «Hell Chosun», expression de l'insatisfaction de la jeunesse sud-coréenne ["Hell Chosun": Expression of dissatisfaction among South Korean youth]. <em>Korea Analysis</em>, no. 9, 42–45. <a href="https://www.academia.edu/22624150/_Hell_Chosun_expression_de_l_insatisfaction_de_la_jeunesse_sudcor%C3%A9enne_Korea_Analysis_no_9_2016_42_45_Translated_by_Antoine_Bondaz_" target="_blank" rel="noopener noreferrer" class="resource-link">Article</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2015, October 21). Quoted in J. Power, "Seoul's plan to control history textbooks sparks academic fury." <em>Asia Times</em>. <a href="https://asiatimes.com/2015/10/seouls-plan-to-control-history-textbooks-sparks-academic-fury/" target="_blank" rel="noopener noreferrer" class="resource-link">Interview</a>
+</p>
+
+<p class="publication-item">
 Denney, S., & Green, C. (2015, July 31). Guests on "Making sense of North Korea's re-defector press conferences." <em>KEI Podcast</em>, Korea Economic Institute of America. <a href="https://keia.org/podcasts/making-sense-of-north-koreas-re-defector-press-conferences/" target="_blank" rel="noopener noreferrer" class="resource-link">Podcast</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2015, June 17). Quoted in E. Shim, "Scripted 'apologies' allow North Korean defectors to return." <em>UPI</em>. <a href="https://www.upi.com/Top_News/World-News/2015/06/17/Scripted-apologies-allow-North-Korean-defectors-to-return/7341434479584/" target="_blank" rel="noopener noreferrer" class="resource-link">Interview</a>
+</p>
+
+<p class="publication-item">
+Denney, S., & Cathcart, A. (2014, October 10). Guests discussing North Korean politics and society. <em>Worldwise</em>, Bloggingheads.tv. <a href="https://bloggingheads.tv/videos/31216" target="_blank" rel="noopener noreferrer" class="resource-link">Video</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2014, August 29). Guest on "The uncertain future of liberalism in South Korea." <em>Korea Talk</em>, The Diplomat, interviewed by Y. Kwon. <a href="https://thediplomat.com/2014/08/the-uncertain-future-of-liberalism-in-south-korea/" target="_blank" rel="noopener noreferrer" class="resource-link">Interview</a>
 </p>
 
 <p class="publication-item">
@@ -449,7 +518,27 @@ Denney, S. (2014, August 7). Guest on "Understanding North Korea's behavior." <e
 </p>
 
 <p class="publication-item">
+Denney, S. (2014, July 21). Guest discussing South Korea's foreign relations. <em>Worldwise</em>, Bloggingheads.tv, with Y. Kwon. <a href="https://bloggingheads.tv/videos/30208" target="_blank" rel="noopener noreferrer" class="resource-link">Video</a>
+</p>
+
+<p class="publication-item">
+Denney, S., & Friedhoff, K. (2013, October 7). South Korea and a new nationalism in an era of strength and prosperity. <em>PacNet</em>, no. 75. <a href="https://www.files.ethz.ch/isn/172092/Pac1375_0.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Commentary</a>
+</p>
+
+<p class="publication-item">
 Green, C., & Denney, S. (2013, summer). Defector testimonies in a polarized society: From implausible story to political controversy. <em>Korean Quarterly</em>. <a href="https://www.koreanquarterly.org/wp-content/uploads/2023/12/Vol16_Summer_2013_essay7.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Column</a>
+</p>
+
+<p class="publication-item">
+Green, C., & Denney, S. (2013, February 13). North Korean nuclear test: South Korean media review. <em>NK News</em>. <a href="https://www.nknews.org/2013/02/north-korean-nuclear-test-south-korean-media-review/" target="_blank" rel="noopener noreferrer" class="resource-link">Analysis</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2012, December 11). Contributed translation to M. Fisher, "Controversy over Psy's anti-American lyrics might be based on shoddy translation." <em>The Washington Post</em>. <a href="https://www.washingtonpost.com/news/worldviews/wp/2012/12/11/controversy-over-psys-anti-american-lyrics-might-be-based-on-shoddy-translation/" target="_blank" rel="noopener noreferrer" class="resource-link">Contribution</a>
+</p>
+
+<p class="publication-item">
+Denney, S., & Gleason, B. (2012, May 31). The political economy of trade policy in the KORUS FTA. <em>LSE IDEAS</em>. <a href="https://eprints.lse.ac.uk/125212/2/14183320_The_Political_Economy_of_Trade_Policy_in_the_KORUS_FTA_International_Affairs_at_LSE.pdf" target="_blank" rel="noopener noreferrer" class="resource-link">Article</a>
 </p>
 
 </div>
