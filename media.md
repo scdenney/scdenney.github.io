@@ -17,6 +17,10 @@ Denney, S. (2026, October 8). How to do fact-checking right in the era of AI. <e
 </p>
 
 <p class="publication-item">
+Denney, S. (2025, June 18). Research cited in M. Lowey, "Business trying to scale up in Canada face multiple challenges with no 'silver bullet' solutions." <em>Research Money</em>. <a href="https://researchmoneyinc.com/article/business-trying-to-scale-up-in-canada-face-multiple-challenges-with-no-silver-bullet-solutions" target="_blank" rel="noopener noreferrer" class="resource-link">Research coverage</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2025, March). Will Lee Jae-myung rise from South Korea's political chaos? <em>The Diplomat</em>. <a href="https://thediplomat.com/2025/03/will-lee-jae-myung-rise-from-south-koreas-political-chaos/" target="_blank" rel="noopener noreferrer" class="resource-link">Article</a>
 </p>
 
@@ -30,6 +34,10 @@ Denney, S. (2024, December 4). Guest on "K-Popped: How did South Korea descend i
 
 <p class="publication-item">
 Ward, P., & Denney, S. (2024, April 10). South Korean partisan voters prioritize foreign policy, new study reveals. <em>Korea Pro</em>. <a href="https://koreapro.org/2024/04/south-korean-partisan-voters-prioritize-foreign-policy-new-study-reveals/" target="_blank" rel="noopener noreferrer" class="resource-link">Analysis</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2024, March 6). Study covered in M. Lowey, "Canada's innovation approach is failing to support scale-up tech firms: Study." <em>Research Money</em>. <a href="https://researchmoneyinc.com/article/canada-s-innovation-approach-is-failing-to-support-scale-up-tech-firms-study" target="_blank" rel="noopener noreferrer" class="resource-link">Research coverage</a>
 </p>
 
 <p class="publication-item">
@@ -61,6 +69,10 @@ Denney, S. (2022). South Koreans support immigration, but conditions apply. <em>
 </p>
 
 <p class="publication-item">
+Denney, S. (2021, December 22). Coauthored report covered in K. Rolfe, "Lack of understanding of scale-ups is hindering growth, says Brookfield and Munk School report." <em>Research Money</em>. <a href="https://researchmoneyinc.com/article/lack-of-understanding-of-scale-ups-is-hindering-growth-says-brookfield-report" target="_blank" rel="noopener noreferrer" class="resource-link">Research coverage</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2021, December 10). Quoted in M. Hemmadi, "Scale-ups drive productivity growth and R&amp;D spending in Canada, study finds." <em>The Logic</em>. <a href="https://thelogic.co/news/scale-ups-drive-productivity-growth-and-rd-spending-in-canada-study-finds" target="_blank" rel="noopener noreferrer" class="resource-link">Interview</a>
 </p>
 
@@ -73,7 +85,19 @@ Denney, S., & Wolfe, D. (2021, March 24). The innovation imperative: Why Canada 
 </p>
 
 <p class="publication-item">
+Denney, S. (2020, May 10). Interviewed on <em>CTV News Channel</em> and quoted in B. Neustaeter, "How long will job losses due to COVID-19 last?" <em>CTV News</em>. <a href="https://web.archive.org/web/20241206140818/https://www.ctvnews.ca/health/coronavirus/how-long-will-job-losses-due-to-covid-19-last-1.4933071" target="_blank" rel="noopener noreferrer" class="resource-link">Archived article</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2020, April 29). Panelist on "How is COVID-19 affecting global supply chains?" <em>Innovation Policy Lab</em>, Munk School of Global Affairs &amp; Public Policy. <a href="https://www.youtube.com/watch?v=0-0tCOu62AU" target="_blank" rel="noopener noreferrer" class="resource-link">Recording</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2019, April 24). Research partnership featured in M. Mann, "A novel research partnership at the Munk School seeks to decode Canada's scaleup shortage." <em>Research Money</em>. <a href="https://researchmoneyinc.com/article/a-novel-research-partnership-at-the-munk-school-seeks-to-decode-canadas-scaleup-shortage" target="_blank" rel="noopener noreferrer" class="resource-link">Research coverage</a>
+</p>
+
+<p class="publication-item">
+Denney, S. (2019, April 24). Cited in M. Mann, "A scaleup by any other name would grow as fast... or would it?" <em>Research Money</em>. <a href="https://researchmoneyinc.com/article/a-scaleup-by-any-other-name-would-grow-as-fast-or-would-it" target="_blank" rel="noopener noreferrer" class="resource-link">Commentary cited</a>
 </p>
 
 <p class="publication-item">
