@@ -10,7 +10,7 @@ permalink: /research/
 
 <p class="page-intro">This page collects working papers, publications, and related scholarly output, with direct access to papers, replication materials, reports, and talks.</p>
 
-<details class="research-section">
+<details class="research-section" data-show-all>
 <summary id="working-papers"><h2>Papers Under Review</h2><span class="research-section__arrow" aria-hidden="true"></span></summary>
 <div class="publication-list" id="working-papers-items">
 
@@ -62,18 +62,6 @@ Denney, S., & Trummel, T. (n.d.). Civic Fairness and the Evaluation of Individua
 
 <p class="publication-item">
 Denney, S. (n.d.). A Survey Experiment on Creedal Nationalist Persuasion. <a href="/assets/preregistrations/creedal-persuasion/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a>
-</p>
-
-<p class="publication-item">
-Steinhardt, H. C., & Denney, S. (n.d.). Rules, Not Race? What AfD Voters Want from Migration Policy.
-</p>
-
-<p class="publication-item">
-Denney, S., & Lee, B. (n.d.). Measuring Political Bias in South Korean History Textbooks.
-</p>
-
-<p class="publication-item">
-Denney, S., & Lee, M. (n.d.). Authoritarian Education and Post-Transition Citizens: Evidence from South Korea and Poland.
 </p>
 
 <p class="publication-item">

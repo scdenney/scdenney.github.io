@@ -39,7 +39,6 @@ permalink: /projects/
 <ul>
 <li>Denney, S., & Trummel, T. Civic Fairness and the Evaluation of Individual Immigrants. — <a href="/assets/preregistrations/civic-fairness/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
 <li>Denney, S. A Survey Experiment on Creedal Nationalist Persuasion. — <a href="/assets/preregistrations/creedal-persuasion/" target="_blank" rel="noopener noreferrer" class="resource-link">Pre-registration</a></li>
-<li>Steinhardt, H. C., & Denney, S. Rules, Not Race? What AfD Voters Want from Migration Policy. [Germany-only companion study, outside the NWO grant]</li>
 </ul>
 </section>
 <section class="project-outputs" data-type="talk">
@@ -73,13 +72,6 @@ permalink: /projects/
 <h3>Papers Under Review</h3>
 <ul>
 <li>Denney, S., & van de Pol, A. Constructing the Nation: Identity and Historical Narratives in South Korean History Textbooks. [Under review at <em>Nations and Nationalism</em>] — <a href="https://github.com/aronvandepol/constructing-the-nationx" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6966183" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a></li>
-</ul>
-</section>
-<section class="project-outputs" data-type="progress">
-<h3>Papers in Progress</h3>
-<ul>
-<li>Denney, S., & Lee, B. Measuring Political Bias in South Korean History Textbooks.</li>
-<li>Denney, S., & Lee, M. Authoritarian Education and Post-Transition Citizens: Evidence from South Korea and Poland.</li>
 </ul>
 </section>
 <section class="project-outputs" data-type="talk">
