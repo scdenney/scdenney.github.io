@@ -49,6 +49,10 @@ Denney, S., & van de Pol, A. (2026). Constructing the nation: Identity and histo
 <div class="publication-list" id="papers-in-progress-items">
 
 <p class="publication-item">
+Denney, S. (2026). What were they thinking? Open-text answers as a construct check in survey experiments. <a href="https://github.com/scdenney/opentext-construct-check-replication" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://github.com/scdenney/opentext-construct-check-replication/tree/main/opencheck" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">R package</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6912419" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
+</p>
+
+<p class="publication-item">
 Denney, S. (2026). Democracy and nationalism, reconsidered. <a href="https://github.com/scdenney/democracy-nationalism-reconsidered" target="_blank" rel="noopener noreferrer" class="resource-link" style="margin-right: 0;">GitHub</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904542" target="_blank" rel="noopener noreferrer" class="resource-link">SSRN</a>
 </p>
 
