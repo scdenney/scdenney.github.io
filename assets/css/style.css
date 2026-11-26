@@ -613,7 +613,7 @@ hr {
   border: 1px solid rgba(185, 148, 112, 0.55);
   border-radius: 999px;
   background: var(--color-surface-strong);
-  color: var(--color-text);
+  color: var(--topic-color);
   font-family: inherit;
   font-size: 0.86rem;
   font-weight: 600;
