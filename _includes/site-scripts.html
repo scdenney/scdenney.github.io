@@ -212,7 +212,6 @@ document.addEventListener('DOMContentLoaded', function () {
       drawer.setAttribute('role', 'dialog');
       drawer.setAttribute('aria-modal', 'true');
       drawer.setAttribute('aria-labelledby', 'project-drawer-title');
-      drawer.style.setProperty('--topic-color', window.getComputedStyle(tile).getPropertyValue('--topic-color'));
 
       closeButton.type = 'button';
       closeButton.className = 'project-drawer__close';

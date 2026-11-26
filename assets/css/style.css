@@ -559,36 +559,14 @@ hr {
   color: var(--color-text);
 }
 
-/* Projects: topic-coloured tiles, filters, and a detail drawer. */
-.project-tile,
-.project-filters [data-topic] {
-  --topic-color: var(--color-accent-strong);
-}
-
-.project-tile[data-topics^="migration"],
-.project-filters [data-topic="migration"] {
-  --topic-color: #2f5d62;
-}
-
-.project-tile[data-topics^="nationalism"],
-.project-filters [data-topic="nationalism"] {
-  --topic-color: #7a3847;
-}
-
-.project-tile[data-topics^="institutions"],
-.project-filters [data-topic="institutions"] {
-  --topic-color: #474a6b;
-}
-
-.project-tile[data-topics^="policy"],
-.project-filters [data-topic="policy"] {
-  --topic-color: #85591a;
-}
-
-.project-tile[data-topics^="text"],
-.project-filters [data-topic="text"] {
-  --topic-color: #56662f;
-}
+/* Projects: tiles, filters, and a detail drawer.
+   Topic color appears only on topic labels and the selected topic filter. */
+[data-topic] { --topic-color: var(--color-accent-strong); }
+[data-topic="migration"] { --topic-color: #2f5d62; }
+[data-topic="nationalism"] { --topic-color: #7a3847; }
+[data-topic="institutions"] { --topic-color: #474a6b; }
+[data-topic="policy"] { --topic-color: #85591a; }
+[data-topic="text"] { --topic-color: #56662f; }
 
 .project-filters {
   display: flex;
@@ -631,10 +609,7 @@ hr {
 }
 
 .project-filters__topics button {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  padding: 0.28rem 0.7rem;
+  padding: 0.28rem 0.75rem;
   border: 1px solid rgba(185, 148, 112, 0.55);
   border-radius: 999px;
   background: var(--color-surface-strong);
@@ -645,27 +620,17 @@ hr {
   cursor: pointer;
 }
 
-.project-filters__topics button::before {
-  content: "";
-  width: 0.6rem;
-  height: 0.6rem;
-  border-radius: 50%;
-  background: var(--topic-color);
-}
-
 .project-filters__topics button[aria-pressed="true"] {
   border-color: var(--topic-color);
   background: var(--topic-color);
   color: #fff;
 }
 
-.project-filters__topics button[aria-pressed="true"]::before {
-  background: #fff;
-}
-
+/* Every row takes the height of the tallest tile, so all tiles match. */
 .project-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-auto-rows: 1fr;
   gap: 0.85rem;
 }
 
@@ -683,7 +648,7 @@ hr {
   position: relative;
   display: flex;
   flex-direction: column;
-  padding: 0.95rem 1.15rem 0.9rem 1.4rem;
+  padding: 0.95rem 1.15rem 0.9rem;
   border: 1px solid rgba(216, 195, 180, 0.85);
   border-radius: 0.8rem;
   background: var(--color-surface-strong);
@@ -691,23 +656,12 @@ hr {
   transition: border-color 0.15s ease, box-shadow 0.15s ease;
 }
 
-.project-tile::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  width: 6px;
-  border-radius: 0.8rem 0 0 0.8rem;
-  background: var(--topic-color);
-}
-
 .project-tile[hidden] {
   display: none;
 }
 
 .has-js .project-tile:hover {
-  border-color: var(--topic-color);
+  border-color: var(--color-accent-strong);
   box-shadow: 0 10px 26px rgba(54, 31, 24, 0.09);
 }
 
@@ -722,8 +676,12 @@ hr {
 }
 
 .project-tile__topics {
-  color: var(--topic-color);
+  color: var(--color-text-soft);
   font-weight: 700;
+}
+
+.project-tile__topics [data-topic] {
+  color: var(--topic-color);
 }
 
 .project-tile__status {
@@ -830,10 +788,6 @@ hr {
   border-right: 1px solid rgba(185, 148, 112, 0.45);
 }
 
-.project-ledger__total strong {
-  color: var(--topic-color);
-}
-
 /* Without JavaScript the details stay inside the tile. */
 .project-detail {
   margin-top: 0.4rem;
@@ -922,7 +876,7 @@ hr {
   overflow-y: auto;
   overscroll-behavior: contain;
   padding: 1.4rem 1.8rem 2.5rem;
-  border-left: 6px solid var(--topic-color);
+  border-left: 1px solid var(--color-border);
   background: var(--color-surface-strong);
   box-shadow: -20px 0 50px rgba(54, 31, 24, 0.18);
   transform: translateX(100%);
@@ -1535,6 +1489,7 @@ details.research-section[open] > summary::after {
 @media (max-width: 900px) {
   .project-grid {
     grid-template-columns: 1fr;
+    grid-auto-rows: auto;
   }
 }
 
@@ -1646,7 +1601,7 @@ details.research-section[open] > summary::after {
   }
 
   .project-tile {
-    padding: 1rem 1rem 0.95rem 1.25rem;
+    padding: 1rem 1rem 0.95rem;
   }
 
   .project-tile__title {
@@ -1659,7 +1614,7 @@ details.research-section[open] > summary::after {
 
   .project-drawer {
     padding: 1.1rem 1.1rem 2rem;
-    border-top: 6px solid var(--topic-color);
+    border-top: 1px solid var(--color-border);
     border-left-width: 0;
   }
 
